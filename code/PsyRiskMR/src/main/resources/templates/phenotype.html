@@ -1,0 +1,149 @@
+<!--引入公共头部-->
+<th:block th:include="base::common"></th:block>
+
+<link th:href="@{/css/layui.css}" rel="stylesheet">
+<link th:href="@{/css/all.css}" rel="stylesheet">
+<link th:href="@{/static_new/jquery.dataTables.min.css}" rel="stylesheet">
+<script th:src="@{/static_new/jquery-1.12.4.js}"></script>
+<script th:src="@{/static_new/jquery.dataTables.min.js}"></script>
+<script th:src="@{/static_new/fnReloadAjax.js}"></script>
+<script th:src="@{/static_new/buttons.dataTables.min.css}"></script>
+<script th:src="@{/static_new/dataTables.buttons.min.js}"></script>
+<link th:href="@{/static_new/jquery.dataTables.css}" rel="stylesheet">
+<link th:href="@{/static_new/buttons.dataTables.css}" rel="stylesheet">
+<link th:href="@{/static_new/jszip.js}" rel="stylesheet">
+<link th:href="@{/static_new/vfs_fonts.js}" rel="stylesheet">
+<script th:src="@{/static_new/pdfmake.js}"></script>
+<script th:src="@{/static_new/jquery.dataTables.js}"></script>
+<script th:src="@{/static_new/dataTables.buttons.js}"></script>
+<script th:src="@{/static_new/buttons.flash.js}"></script>
+<script th:src="@{/static_new/buttons.html5.js}"></script>
+<script th:src="@{/static_new/buttons.print.js}"></script>
+<script type="text/javascript" th:src="@{/js/jquery.csv.min.js}"></script>
+<script type="text/javascript" th:src="@{/js/csv_to_html_table.js}"></script>
+<link th:href="@{/css/search.css}" rel="stylesheet">
+<link th:href="@{/css/head.css}" rel="stylesheet">
+
+<style>
+    #all_table1 tbody tr td {
+        /*text-align: left;*/
+        text-align: center;
+    }
+
+    .left_div_active, .left_div {
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        word-break: break-all;
+        overflow: hidden;
+    }
+
+/*    图片居中*/
+    .center-container {
+        display: flex;
+        justify-content: center; /* 水平居中 */
+    }
+    .center-container img {
+        max-width: 100%; /* 图片最大宽度为容器宽度 */
+        max-height: 100%; /* 图片最大高度为容器高度 */
+    }
+</style>
+<script type="text/javascript">
+    // 表格数据
+    $(document).ready(function() {
+        $('#table_id_example').DataTable({
+            "lengthChange": false,
+            "serverSide": true, // 如果后端不支持服务器端分页，设置为 false
+            "processing": true,  // 显示加载指示器
+            "ordering": false,   // 禁用排序功能
+            "responsive": true,  // 使表格响应式，适应不同屏幕尺寸。
+            "autoWidth": false,  // 禁用自动宽度调整，使用我们定义的列宽。
+            "ajax": {
+                "url": "/PsyRiskMR/phenotype/getListByPage",
+                "type": "GET",
+                "data": function(d) {
+                    d.start = d.start;   // 起始索引
+                    d.length = d.length; // 每页显示的记录数
+                    d.draw = d.draw;     // 请求计数器
+                    d.searchValue = d.search.value;  // 搜索框中的值（服务器端处理）
+                    // 添加排序参数
+                    // if (d.order && d.order.length > 0) {
+                    //     d.sortColumn = d.columns[d.order[0].column].data;
+                    //     d.sortDirection = d.order[0].dir;
+                    // }
+                },
+            },
+            "columns": [
+                { "data": "psychiatricDisorder" },
+                { "data": "riskPhenotype" },
+                { "data": "method" },
+                { "data": "pvalue",
+                    "render": function(data, type, row) {
+                        // 将数值格式化为科学计数法（如：9.99E-10）
+                        return Number(data).toExponential(2).replace('e', 'E');
+                    }
+                },
+                { "data": "orValue" },
+                { "data": "mregger" },
+                { "data": "ivw" },
+                { "data": "interceptValue" }
+            ],
+            // 设置列样式
+            "columnDefs": [
+                {
+                    "targets": "_all", // 适用于所有列
+                    "className": "dt-center" // 设置为居中对齐
+                },
+            ],
+        });
+    });
+</script>
+
+
+<div id="total">
+    <div style="height: 1rem"></div>
+    <div id="left" style="display:none;">
+        <div class="left_div_active over" id="by_all">By All</div>
+        <div class="left_div over" id="by_prediction">By Prediction</div>
+        <div class="left_div over" id="by_experiment">By Experiment</div>
+    </div>
+    <div style="text-align:center"><p style="font-size: 24px;"><strong>Sankey plot of significant Risk phenotype in MR
+        analysis</strong></p><br/></div>
+    <div  class="center-container">
+        <img th:src="@{/images/sankeyphenotype.jpg}" width="900" height="680">
+    </div>
+    <div style="text-align:center;"><p style="font-size: 24px;"><strong>Summary statistic of Risk
+        phenotype in MR analysis</strong></p><br/>
+    </div>
+
+    <div style="width: 100%;
+    height: 600px; 
+    border: 0px #ced8e4 solid;
+    vertical-align: top;
+    text-align: center;">
+        <div style="padding-botton:100px">
+            <table id="table_id_example" class="display" style="font-size: 16px">
+                <!--表头-->
+                <thead>
+                <tr>
+                    <th>Psychiatric disorder</th>
+                    <th>Risk phenotype</th>
+                    <th>Method</th>
+                    <th>P-value</th>
+                    <th>OR</th>
+                    <th>Q_P-value(MREgger)</th>
+                    <th>Q_P-value(IVW)</th>
+                    <th>Intercept P-value</th>
+                </tr>
+                </thead>
+                <!--表体-->
+                <tbody>
+                <!--数据由异步请求获取-->
+                </tbody>
+            </table>
+            <h3 style="text-align:right;margin-botton: 150px">
+                <strong>User can download All of MR results here:
+                    <a th:href="@{/data/mr_res_Phenotype_all.csv}">mr_res_Phenotype_all.csv</a>
+                </strong>
+            </h3>
+        </div>
+    </div>

@@ -1,0 +1,26 @@
+# 服务端口号，默认80  8066
+server:
+  port: 5140
+  servlet:
+    context-path: /PsyRiskMR
+spring:
+  thymeleaf:
+    cache: true
+    prefix: classpath:/templates/
+    encoding: UTF-8 #编码
+    suffix: .html #模板后缀
+    mode: HTML #模板
+
+
+  datasource:
+    url: jdbc:mysql://xxx:3306/psyriskmr?useSSL=false&autoReconnect=true&characterEncoding=utf8
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: xxx
+
+mybatis-plus:
+  configuration:
+#    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    log-impl: org.apache.ibatis.logging.nologging.NoLoggingImpl
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.ahu.domain

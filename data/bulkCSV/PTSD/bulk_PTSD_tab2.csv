@@ -1,0 +1,201 @@
+Gene,Tissue,Psychiatry,Method,Nsnp,OR,Pvalue,Q_Pvalue(MREgger),Q_Pvalue(IVW),Pvalue(Intercept),PPH4
+IL17RA,Brain Cortex,PTSD,Inverse variance weighted,2,0.901, NA,NA,1,NA,0.008522698
+LINC01422,Brain Cortex,PTSD,Inverse variance weighted,2,1.486, NA,NA,1,NA,0.031524686
+SGSM3,Brain Cortex,PTSD,Inverse variance weighted,2,1.038, NA,NA,1,NA,0.008052124
+TPTEP2,Brain Cortex,PTSD,Inverse variance weighted,2,1.008, NA,NA,1,NA,0.007451007
+P2RX6P,Brain Cortex,PTSD,Inverse variance weighted,2,0.979, NA,NA,1,NA,0.017339146
+HDHD5,Brain Cortex,PTSD,MR Egger,4,0.393, NA,1,0.641460831,NA,0.036285221
+TRABD,Brain Cortex,PTSD,Inverse variance weighted,2,1.069, NA,NA,1,NA,0.014671314
+TRMT2A,Brain Cortex,PTSD,Inverse variance weighted,2,0.723, NA,NA,1,NA,0.02209727
+AP000356.3,Brain Cortex,PTSD,MR Egger,4,0.743, NA,1,0.605841212,NA,0.012219182
+ADA2,Brain Cortex,PTSD,Inverse variance weighted,2,1.247, NA,NA,1,NA,0.013185226
+TUBGCP6,Brain Cortex,PTSD,Inverse variance weighted,2,1.061, NA,NA,1,NA,0.014671314
+EFCAB6,Brain Cortex,PTSD,Inverse variance weighted,2,0.974, NA,NA,1,NA,0.012060878
+PI4KA,Brain Cortex,PTSD,Inverse variance weighted,2,0.915, NA,NA,1,NA,0.011050832
+GAS2L1,Brain Cortex,PTSD,Inverse variance weighted,2,1.044, NA,NA,1,NA,0.009982512
+TBC1D22A,Brain Cortex,PTSD,MR Egger,4,0.978, NA,1,0.999858499,NA,0.009687091
+BCRP3,Brain Cortex,PTSD,Inverse variance weighted,2,1.003, NA,NA,1,NA,0.009263952
+WBP2NL,Brain Cortex,PTSD,Inverse variance weighted,2,0.758, NA,NA,1,NA,0.014203352
+LRP5L,Brain Cortex,PTSD,Inverse variance weighted,2,0.941, NA,NA,1,NA,0.010584297
+CYP2D7P1,Brain Cortex,PTSD,Inverse variance weighted,2,0.922, NA,NA,1,NA,0.014193765
+Z95115.1,Brain Cortex,PTSD,Inverse variance weighted,2,0.71, NA,NA,1,NA,0.027812539
+TFIP11,Brain Cortex,PTSD,Inverse variance weighted,2,0.795, NA,NA,1,NA,0.027812539
+APOL3,Brain Cortex,PTSD,Inverse variance weighted,2,0.929, NA,NA,1,NA,0.01115319
+NIPSNAP1,Brain Cortex,PTSD,MR Egger,4,0.448, NA,1,0.072363956,NA,0.019595447
+TANGO2,Brain Cortex,PTSD,Inverse variance weighted,2,0.76, NA,NA,1,NA,0.02209727
+TUBA8,Brain Cortex,PTSD,Inverse variance weighted,2,1.331, NA,NA,1,NA,0.095170106
+AP1B1,Brain Cortex,PTSD,Inverse variance weighted,2,0.949, NA,NA,1,NA,0.009937337
+RANBP1,Brain Cortex,PTSD,Inverse variance weighted,2,0.816, NA,NA,1,NA,0.02209727
+CRELD2,Brain Cortex,PTSD,Inverse variance weighted,2,0.957, NA,NA,1,NA,0.024518209
+MIRLET7BHG,Brain Cortex,PTSD,Inverse variance weighted,2,1.045, NA,NA,1,NA,0.016776981
+C22orf34,Brain Cortex,PTSD,Inverse variance weighted,2,0.963, NA,NA,1,NA,0.007853453
+TXN2,Brain Cortex,PTSD,Inverse variance weighted,2,0.895, NA,NA,1,NA,0.026932966
+RP1-293L6.1,Brain Cortex,PTSD,Inverse variance weighted,2,1.192, NA,NA,1,NA,0.032206994
+OSBP2,Brain Cortex,PTSD,Inverse variance weighted,2,1.034, NA,NA,1,NA,0.009300298
+GGT5,Brain Cortex,PTSD,Inverse variance weighted,2,0.975, NA,NA,1,NA,0.023549966
+CHKB,Brain Cortex,PTSD,Inverse variance weighted,2,0.923, NA,NA,1,NA,0.011751581
+AL078622.1,Brain Cortex,PTSD,Inverse variance weighted,2,1.131, NA,NA,1,NA,0.008680593
+IFT27,Brain Cortex,PTSD,Inverse variance weighted,2,0.64, NA,NA,1,NA,0.033048666
+ADRBK2,Brain Cortex,PTSD,Inverse variance weighted,2,1.068, NA,NA,1,NA,0.027942581
+BID,Brain Cortex,PTSD,Inverse variance weighted,2,1.476, NA,NA,1,NA,0.024854063
+FLJ27365,Brain Cortex,PTSD,Inverse variance weighted,2,1.006, NA,NA,1,NA,0.016805304
+SUN2,Brain Cortex,PTSD,Inverse variance weighted,2,1.068, NA,NA,1,NA,0.043469869
+MIAT,Brain Cortex,PTSD,MR Egger,4,1.031, NA,1,0.969027947,NA,0.033459909
+ATP6V1E1,Brain Cortex,PTSD,Inverse variance weighted,2,1.143, NA,NA,1,NA,0.024937191
+CPT1B,Brain Cortex,PTSD,Inverse variance weighted,2,0.984, NA,NA,1,NA,0.011941498
+IER3IP1,Brain Spinal cord cervical,PTSD,Wald ratio,1,1.129,1.36E-04,NA,NA,NA,0.004366849
+C16orf46,Brain Spinal cord cervical,PTSD,Wald ratio,1,0.909,1.63E-04,NA,NA,NA,0.030058334
+GCSH,Brain Spinal cord cervical,PTSD,Wald ratio,1,0.909,1.63E-04,NA,NA,NA,0.030058334
+ANO4,Brain Substantia nigra,PTSD,Wald ratio,1,0.944,2.29E-04,NA,NA,NA,0.002369095
+ZNF528-AS1,Brain Hippocampus,PTSD,Wald ratio,1,0.92,2.76E-04,NA,NA,NA,0.003543904
+ADAMTS9-AS2,Brain Spinal cord cervical,PTSD,Wald ratio,1,1.106,3.39E-04,NA,NA,NA,0.001532067
+KAT7,Brain Spinal cord cervical,PTSD,Wald ratio,1,0.951,3.78E-04,NA,NA,NA,0.852527116
+ENAH,Brain Substantia nigra,PTSD,Wald ratio,1,1.108,4.09E-04,NA,NA,NA,0.002397385
+PEX16,Brain Hippocampus,PTSD,Wald ratio,1,0.919,4.31E-04,NA,NA,NA,0.00091332
+CCDC66,Brain Spinal cord cervical,PTSD,Wald ratio,1,1.076,4.70E-04,NA,NA,NA,0.728521546
+ADCY5,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,0.922,5.06E-04,NA,NA,NA,0.002750888
+ERCC8,Brain Substantia nigra,PTSD,Wald ratio,1,1.091,5.20E-04,NA,NA,NA,0.002273721
+PHTF2,Brain Hypothalamus,PTSD,Wald ratio,1,0.908,5.29E-04,NA,NA,NA,0.007186971
+LRFN5,Brain Hippocampus,PTSD,Wald ratio,1,0.865,5.34E-04,NA,NA,NA,0.001545324
+KLF16,Brain Hypothalamus,PTSD,Wald ratio,1,1.187,5.49E-04,NA,NA,NA,0.001430231
+HDAC2,Brain Hypothalamus,PTSD,Wald ratio,1,0.875,5.59E-04,NA,NA,NA,0.00486751
+ATP10A,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,1.065,5.63E-04,NA,NA,NA,0.003671292
+ENOPH1,Brain Spinal cord cervical,PTSD,Wald ratio,1,1.143,5.99E-04,NA,NA,NA,0.000749731
+RFLNA,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,1.122,6.10E-04,NA,NA,NA,0.078401247
+ZNF664,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,1.122,6.10E-04,NA,NA,NA,0.078401247
+PBX3,Brain Substantia nigra,PTSD,Wald ratio,1,1.106,6.46E-04,NA,NA,NA,0.026453824
+YPEL5,Brain Hypothalamus,PTSD,Wald ratio,1,0.867,6.58E-04,NA,NA,NA,0.008843111
+SLC1A3,Brain Hippocampus,PTSD,Wald ratio,1,1.07,6.75E-04,NA,NA,NA,0.784599754
+SLC1A3,Brain Hypothalamus,PTSD,Wald ratio,1,1.071,6.75E-04,NA,NA,NA,0.783295011
+SLC1A3,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,1.053,6.75E-04,NA,NA,NA,0.784599755
+SLC1A3,Brain Putamen basal ganglia,PTSD,Wald ratio,1,1.069,6.75E-04,NA,NA,NA,0.784599731
+SLC1A3,Brain Spinal cord cervical,PTSD,Wald ratio,1,1.06,6.75E-04,NA,NA,NA,0.784599755
+SLC1A3,Brain Substantia nigra,PTSD,Wald ratio,1,1.078,6.75E-04,NA,NA,NA,0.765037252
+CFAP210,Brain Hypothalamus,PTSD,Wald ratio,1,1.207,7.12E-04,NA,NA,NA,0.002080836
+SEPTIN10,Brain Substantia nigra,PTSD,Wald ratio,1,0.923,7.93E-04,NA,NA,NA,0.001469058
+LINC00320,Brain Hippocampus,PTSD,Wald ratio,1,0.928,8.40E-04,NA,NA,NA,0.682015569
+PSMC5,Brain Hypothalamus,PTSD,Wald ratio,1,0.847,8.55E-04,NA,NA,NA,0.009737007
+OVGP1,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,0.895,8.65E-04,NA,NA,NA,0.01456996
+PPP4R3A,Brain Substantia nigra,PTSD,Wald ratio,1,0.926,8.84E-04,NA,NA,NA,0.001218501
+EIF4E3,Brain Hypothalamus,PTSD,Wald ratio,1,0.902,8.94E-04,NA,NA,NA,0.001323691
+L3MBTL4,Brain Hypothalamus,PTSD,Wald ratio,1,1.201,9.57E-04,NA,NA,NA,0.01106313
+POLR3F,Brain Putamen basal ganglia,PTSD,Wald ratio,1,0.901,9.61E-04,NA,NA,NA,0.004164138
+KAT7,Brain Hippocampus,PTSD,Wald ratio,1,1.052,1.00E-03,NA,NA,NA,0.70221332
+VIP,Brain Spinal cord cervical,PTSD,Wald ratio,1,1.094,1.05E-03,NA,NA,NA,0.000515446
+CYFIP2,Brain Substantia nigra,PTSD,Wald ratio,1,0.931,1.08E-03,NA,NA,NA,0.000978812
+ZBTB47-AS1,Brain Hippocampus,PTSD,Wald ratio,1,1.053,1.09E-03,NA,NA,NA,0.681513698
+SETMAR,Brain Hypothalamus,PTSD,Wald ratio,1,0.894,1.12E-03,NA,NA,NA,0.001167034
+SLC9B2,Brain Hippocampus,PTSD,Wald ratio,1,0.86,1.16E-03,NA,NA,NA,0.074800998
+EBF4,Brain Spinal cord cervical,PTSD,Wald ratio,1,1.226,1.19E-03,NA,NA,NA,0.002959665
+DPP9,Brain Spinal cord cervical,PTSD,Wald ratio,1,1.09,1.20E-03,NA,NA,NA,0.001110001
+DLGAP4,Brain Spinal cord cervical,PTSD,Wald ratio,1,0.88,1.33E-03,NA,NA,NA,0.000830622
+THAP9,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,0.881,1.39E-03,NA,NA,NA,0.001178862
+RGS22,Brain Putamen basal ganglia,PTSD,Wald ratio,1,1.104,1.39E-03,NA,NA,NA,0.003121479
+DMRT2,Brain Substantia nigra,PTSD,Wald ratio,1,1.097,1.40E-03,NA,NA,NA,0.000552345
+SYT14,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,0.911,1.41E-03,NA,NA,NA,0.001025031
+LZTS3,Brain Spinal cord cervical,PTSD,Wald ratio,1,1.09,1.42E-03,NA,NA,NA,0.001358449
+TRIP12,Brain Hippocampus,PTSD,Wald ratio,1,1.073,1.47E-03,NA,NA,NA,0.136374841
+PHF20L1,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,1.116,1.54E-03,NA,NA,NA,0.000979356
+PRKD3,Brain Hypothalamus,PTSD,Wald ratio,1,1.136,1.56E-03,NA,NA,NA,0.000547198
+KMT2E,Brain Substantia nigra,PTSD,Wald ratio,1,1.112,1.58E-03,NA,NA,NA,0.000522817
+TP73-AS1,Brain Hippocampus,PTSD,Wald ratio,1,0.864,1.65E-03,NA,NA,NA,0.000383943
+SMG1P3,Brain Hypothalamus,PTSD,Wald ratio,1,1.131,1.65E-03,NA,NA,NA,0.000761917
+UPK3BL3P,Brain Hypothalamus,PTSD,Wald ratio,1,0.946,1.71E-03,NA,NA,NA,0.62709047
+UPK3BL3P,Brain Putamen basal ganglia,PTSD,Wald ratio,1,1.057,1.71E-03,NA,NA,NA,0.619272006
+GALNT15,Brain Hippocampus,PTSD,Wald ratio,1,0.941,1.72E-03,NA,NA,NA,0.000638383
+MTSS2,Brain Hippocampus,PTSD,Wald ratio,1,0.952,1.73E-03,NA,NA,NA,0.496344008
+ERGIC2,Brain Spinal cord cervical,PTSD,Wald ratio,1,1.093,1.74E-03,NA,NA,NA,0.0031751
+TPD52,Brain Spinal cord cervical,PTSD,Wald ratio,1,1.315,1.75E-03,NA,NA,NA,0.039303353
+GRASLND,Brain Hippocampus,PTSD,Wald ratio,1,1.094,1.77E-03,NA,NA,NA,0.001790019
+TCEA1,Brain Spinal cord cervical,PTSD,Wald ratio,1,1.124,1.77E-03,NA,NA,NA,0.004123737
+OLR1,Brain Putamen basal ganglia,PTSD,Wald ratio,1,1.054,1.84E-03,NA,NA,NA,0.000381199
+TGFBR2,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,1.107,1.90E-03,NA,NA,NA,0.000942633
+OGFOD1,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,1.104,1.99E-03,NA,NA,NA,0.000606296
+RGS22,Brain Hippocampus,PTSD,Wald ratio,1,0.909,2.03E-03,NA,NA,NA,0.005618164
+ETV5,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,1.079,2.05E-03,NA,NA,NA,0.00056501
+MARCHF2,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,1.091,2.08E-03,NA,NA,NA,0.477687095
+MARCHF2,Brain Spinal cord cervical,PTSD,Wald ratio,1,1.113,2.08E-03,NA,NA,NA,0.224325628
+HNRNPM,Brain Spinal cord cervical,PTSD,Wald ratio,1,1.113,2.08E-03,NA,NA,NA,0.224325628
+AK8,Brain Hippocampus,PTSD,Wald ratio,1,0.91,2.19E-03,NA,NA,NA,0.005134979
+MYO19,Brain Putamen basal ganglia,PTSD,Wald ratio,1,1.15,2.19E-03,NA,NA,NA,0.009256921
+TGFBI,Brain Substantia nigra,PTSD,Wald ratio,1,1.14,2.20E-03,NA,NA,NA,0.000376019
+DIABLO,Brain Hippocampus,PTSD,Wald ratio,1,1.23,2.22E-03,NA,NA,NA,0.000886753
+TECPR2,Brain Hippocampus,PTSD,Wald ratio,1,1.063,2.25E-03,NA,NA,NA,0.000423091
+BDH2,Brain Hippocampus,PTSD,Wald ratio,1,0.845,2.25E-03,NA,NA,NA,0.007099229
+LINC00320,Brain Putamen basal ganglia,PTSD,Wald ratio,1,1.099,2.36E-03,NA,NA,NA,0.028317802
+USP47,Brain Substantia nigra,PTSD,Wald ratio,1,1.11,2.36E-03,NA,NA,NA,0.001250404
+ITFG1,Brain Putamen basal ganglia,PTSD,Wald ratio,1,1.088,2.57E-03,NA,NA,NA,0.000334159
+GPT2,Brain Substantia nigra,PTSD,Wald ratio,1,0.966,2.57E-03,NA,NA,NA,0.000245079
+TMEM50B,Brain Spinal cord cervical,PTSD,Wald ratio,1,1.059,2.58E-03,NA,NA,NA,0.402984249
+CCNH,Brain Hypothalamus,PTSD,Wald ratio,1,0.915,2.59E-03,NA,NA,NA,0.000394909
+BLOC1S5,Brain Substantia nigra,PTSD,Wald ratio,1,1.097,2.59E-03,NA,NA,NA,0.000736135
+KRIT1,Brain Hypothalamus,PTSD,Wald ratio,1,1.156,2.62E-03,NA,NA,NA,0.001301108
+MANEAL,Brain Spinal cord cervical,PTSD,Wald ratio,1,1.085,2.70E-03,NA,NA,NA,0.001581098
+TNKS,Brain Hippocampus,PTSD,Wald ratio,1,0.905,2.73E-03,NA,NA,NA,0.000339573
+VPS16,Brain Putamen basal ganglia,PTSD,Wald ratio,1,1.09,2.75E-03,NA,NA,NA,0.001448901
+TMEM151B,Brain Substantia nigra,PTSD,Wald ratio,1,0.83,2.82E-03,NA,NA,NA,0.000328458
+POGLUT1,Brain Putamen basal ganglia,PTSD,Wald ratio,1,1.091,2.92E-03,NA,NA,NA,0.004905727
+TPM3,Brain Putamen basal ganglia,PTSD,Wald ratio,1,1.101,2.93E-03,NA,NA,NA,0.060291005
+PMVK,Brain Putamen basal ganglia,PTSD,Wald ratio,1,0.843,2.93E-03,NA,NA,NA,0.053051062
+PBXIP1,Brain Putamen basal ganglia,PTSD,Wald ratio,1,0.843,2.93E-03,NA,NA,NA,0.053051062
+TMEM50B,Brain Putamen basal ganglia,PTSD,Wald ratio,1,0.923,2.95E-03,NA,NA,NA,0.023356249
+TSNAX,Brain Putamen basal ganglia,PTSD,Wald ratio,1,1.165,2.97E-03,NA,NA,NA,0.000765667
+ANKRD6,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,0.891,3.01E-03,NA,NA,NA,0.001069982
+ANXA3,Brain Spinal cord cervical,PTSD,Wald ratio,1,1.097,3.01E-03,NA,NA,NA,0.000564808
+LRRC58,Brain Spinal cord cervical,PTSD,Wald ratio,1,0.931,3.01E-03,NA,NA,NA,0.000277175
+SLC4A2,Brain Putamen basal ganglia,PTSD,Wald ratio,1,1.239,3.10E-03,NA,NA,NA,0.011573404
+ATP7B,Brain Putamen basal ganglia,PTSD,Wald ratio,1,0.903,3.13E-03,NA,NA,NA,0.001411061
+HNRNPM,Brain Hippocampus,PTSD,Wald ratio,1,1.073,3.15E-03,NA,NA,NA,0.389431426
+MARCHF2,Brain Hippocampus,PTSD,Wald ratio,1,1.073,3.15E-03,NA,NA,NA,0.389431426
+NKX6-2,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,1.14,3.15E-03,NA,NA,NA,0.000582873
+EXTL3,Brain Putamen basal ganglia,PTSD,Wald ratio,1,0.902,3.15E-03,NA,NA,NA,0.003318349
+SORT1,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,1.169,3.18E-03,NA,NA,NA,0.01427064
+NUDT2,Brain Putamen basal ganglia,PTSD,Wald ratio,1,1.066,3.20E-03,NA,NA,NA,0.42477139
+SNHG6,Brain Substantia nigra,PTSD,Wald ratio,1,0.874,3.21E-03,NA,NA,NA,0.000586834
+MIF-AS1,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,1.123,3.24E-03,NA,NA,NA,0.001222725
+DUSP10,Brain Putamen basal ganglia,PTSD,Wald ratio,1,1.108,3.24E-03,NA,NA,NA,0.001251043
+TRIM7-AS2,Brain Substantia nigra,PTSD,Wald ratio,1,1.091,3.25E-03,NA,NA,NA,0.02539618
+LARGE1,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,0.906,3.28E-03,NA,NA,NA,0.167727053
+RAD17,Brain Hypothalamus,PTSD,Wald ratio,1,0.909,3.30E-03,NA,NA,NA,0.000556336
+RGS12,Brain Putamen basal ganglia,PTSD,Wald ratio,1,0.924,3.35E-03,NA,NA,NA,0.000306025
+KRR1,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,1.139,3.36E-03,NA,NA,NA,0.000296082
+NCAM1,Brain Hippocampus,PTSD,Wald ratio,1,0.823,3.41E-03,NA,NA,NA,0.000224241
+KCNT1,Brain Hypothalamus,PTSD,Wald ratio,1,1.104,3.41E-03,NA,NA,NA,0.103603044
+SLCO1A2,Brain Putamen basal ganglia,PTSD,Wald ratio,1,1.07,3.41E-03,NA,NA,NA,0.00090258
+CYP2J2,Brain Hippocampus,PTSD,Wald ratio,1,0.946,3.44E-03,NA,NA,NA,0.000207344
+NFIA,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,1.063,3.44E-03,NA,NA,NA,0.000263214
+CLDN11,Brain Substantia nigra,PTSD,Wald ratio,1,0.925,3.47E-03,NA,NA,NA,0.179491539
+UBE3C,Brain Hypothalamus,PTSD,Wald ratio,1,1.16,3.51E-03,NA,NA,NA,0.000536082
+ATG7,Brain Hypothalamus,PTSD,Wald ratio,1,0.881,3.52E-03,NA,NA,NA,0.001389287
+MTSS2,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,0.957,3.66E-03,NA,NA,NA,0.331083386
+TMEM50B,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,0.943,3.67E-03,NA,NA,NA,0.329325985
+CAPN2,Brain Hippocampus,PTSD,Wald ratio,1,1.117,3.72E-03,NA,NA,NA,0.001503696
+DPY19L1P1,Brain Spinal cord cervical,PTSD,Wald ratio,1,1.103,3.72E-03,NA,NA,NA,0.000397505
+P2RX5,Brain Substantia nigra,PTSD,Wald ratio,1,0.86,3.74E-03,NA,NA,NA,0.090621804
+TAX1BP3,Brain Substantia nigra,PTSD,Wald ratio,1,0.86,3.74E-03,NA,NA,NA,0.090621804
+ADGRA3,Brain Substantia nigra,PTSD,Wald ratio,1,0.9,3.77E-03,NA,NA,NA,0.000312133
+AP3M1,Brain Spinal cord cervical,PTSD,Wald ratio,1,1.202,3.78E-03,NA,NA,NA,0.000139262
+CRLS1,Brain Hypothalamus,PTSD,Wald ratio,1,0.925,3.91E-03,NA,NA,NA,0.160653953
+YEATS2,Brain Substantia nigra,PTSD,Wald ratio,1,0.932,3.99E-03,NA,NA,NA,0.00034725
+TRAPPC10,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,1.1,4.00E-03,NA,NA,NA,0.00084358
+TSPAN18,Brain Substantia nigra,PTSD,Wald ratio,1,1.431,4.02E-03,NA,NA,NA,0.000182684
+PRRT4,Brain Putamen basal ganglia,PTSD,Wald ratio,1,0.859,4.03E-03,NA,NA,NA,0.000284762
+ACSL5,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,1.044,4.13E-03,NA,NA,NA,0.000535144
+GPLD1,Brain Hippocampus,PTSD,Wald ratio,1,1.119,4.16E-03,NA,NA,NA,0.000243762
+FREM1,Brain Hypothalamus,PTSD,Wald ratio,1,0.913,4.17E-03,NA,NA,NA,0.003675482
+RECQL,Brain Hypothalamus,PTSD,Wald ratio,1,0.924,4.17E-03,NA,NA,NA,0.019786739
+GHRHR,Brain Hypothalamus,PTSD,Wald ratio,1,0.884,4.24E-03,NA,NA,NA,0.000625197
+FAM151B-DT,Brain Spinal cord cervical,PTSD,Wald ratio,1,1.104,4.24E-03,NA,NA,NA,0.000212278
+STRADA,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,1.085,4.25E-03,NA,NA,NA,0.087934663
+ISCA1,Brain Hypothalamus,PTSD,Wald ratio,1,0.92,4.30E-03,NA,NA,NA,0.000288064
+CSE1L,Brain Hypothalamus,PTSD,Wald ratio,1,1.108,4.40E-03,NA,NA,NA,0.031551651
+CSE1L,Brain Spinal cord cervical,PTSD,Wald ratio,1,1.068,4.40E-03,NA,NA,NA,0.152105639
+MARCHF2,Brain Substantia nigra,PTSD,Wald ratio,1,1.064,4.42E-03,NA,NA,NA,0.103723628
+DUBR,Brain Spinal cord cervical,PTSD,Wald ratio,1,0.941,4.43E-03,NA,NA,NA,0.000427821
+MAP4K5,Brain Putamen basal ganglia,PTSD,Wald ratio,1,1.103,4.46E-03,NA,NA,NA,0.001524021
+RPL23AP97,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,1.174,4.48E-03,NA,NA,NA,0.000520223
+CHAMP1,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,1.174,4.48E-03,NA,NA,NA,0.000520223
+NOPCHAP1,Brain Substantia nigra,PTSD,Wald ratio,1,1.048,4.50E-03,NA,NA,NA,0.000218897
+SH3D21,Brain Nucleus accumbens basal ganglia,PTSD,Wald ratio,1,0.883,4.58E-03,NA,NA,NA,0.00197466
+ACAT1,Brain Hippocampus,PTSD,Wald ratio,1,1.105,4.64E-03,NA,NA,NA,0.010690928
+PLAC9P1,Brain Substantia nigra,PTSD,Wald ratio,1,1.08,4.66E-03,NA,NA,NA,0.00076318

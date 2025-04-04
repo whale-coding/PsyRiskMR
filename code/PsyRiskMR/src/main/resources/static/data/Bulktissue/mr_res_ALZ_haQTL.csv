@@ -1,0 +1,957 @@
+"Gene","Tissue","Psychiatric disorder","Method","Nsnp","Beta","SE","OR","P-value","Q_Pvalue(MREgger)","Q_Pvalue(IVW)","P-value(Intercept)","PPH4"
+"KLC3","Brain","ALZ","Wald ratio",1," 0.201","0.029","1.222","8.39e-12",NA,NA,NA,0.999999985
+"MAPT","Brain","ALZ","Wald ratio",1," 0.128","0.025","1.136","3.96e-07",NA,NA,NA,0.999566808
+"IQCK","Brain","ALZ","Wald ratio",1," 0.160","0.036","1.173","7.04e-06",NA,NA,NA,0.993558045
+"OTUB1","Brain","ALZ","Wald ratio",1," 0.066","0.017","1.068","1.45e-04",NA,NA,NA,0.870166217
+"GGA2","Brain","ALZ","Wald ratio",1,"-0.113","0.031","0.893","2.39e-04",NA,NA,NA,0.850462222
+"CHRNE","Brain","ALZ","Wald ratio",1," 0.098","0.029","1.103","6.27e-04",NA,NA,NA,0.729103754
+"ZFP69","Brain","ALZ","Wald ratio",1,"-0.096","0.028","0.909","7.62e-04",NA,NA,NA,0.648335008
+"LINC02210-CRHR1","Brain","ALZ","Wald ratio",1," 0.182","0.057","1.200","1.50e-03",NA,NA,NA,0.663994769
+"KNTC1","Brain","ALZ","Wald ratio",1," 0.057","0.018","1.059","1.95e-03",NA,NA,NA,0.402229602
+"TIMM50","Brain","ALZ","Wald ratio",1,"-0.091","0.030","0.913","2.53e-03",NA,NA,NA,0.320660542
+"TRMT61A","Brain","ALZ","Wald ratio",1," 0.127","0.042","1.136","2.78e-03",NA,NA,NA,0.333492178
+"LINC00672","Brain","ALZ","Wald ratio",1,"-0.109","0.037","0.897","3.39e-03",NA,NA,NA,0.336152818
+"CD2AP","Brain","ALZ","Wald ratio",1," 0.093","0.032","1.098","3.47e-03",NA,NA,NA,0.289946826
+"ENSG00000253917","Brain","ALZ","Wald ratio",1,"-0.197","0.068","0.821","3.91e-03",NA,NA,NA,0.381408436
+"ABLIM3","Brain","ALZ","Wald ratio",1," 0.098","0.036","1.103","5.88e-03",NA,NA,NA,0.194317138
+"ELL","Brain","ALZ","Wald ratio",1,"-0.109","0.040","0.897","6.33e-03",NA,NA,NA,0.204722386
+"ITGB3","Brain","ALZ","Wald ratio",1,"-0.045","0.016","0.956","6.39e-03",NA,NA,NA,0.168027282
+"ENSG00000223646","Brain","ALZ","Wald ratio",1,"-0.093","0.034","0.912","6.56e-03",NA,NA,NA,0.179255068
+"MNT","Brain","ALZ","Wald ratio",1," 0.070","0.026","1.073","6.59e-03",NA,NA,NA,0.173532354
+"ZNF775","Brain","ALZ","Wald ratio",1,"-0.134","0.050","0.874","6.80e-03",NA,NA,NA,0.214197355
+"ZNF584","Brain","ALZ","Wald ratio",1,"-0.091","0.035","0.913","8.43e-03",NA,NA,NA,0.162887344
+"CLK3P2","Brain","ALZ","Wald ratio",1," 0.063","0.024","1.065","1.05e-02",NA,NA,NA,0.156502642
+"GALNT6","Brain","ALZ","Wald ratio",1,"-0.060","0.024","0.942","1.18e-02",NA,NA,NA,0.118140286
+"NOL4L","Brain","ALZ","Wald ratio",1," 0.096","0.038","1.101","1.23e-02",NA,NA,NA,0.105147138
+"TAFA5","Brain","ALZ","Wald ratio",1," 0.092","0.037","1.096","1.23e-02",NA,NA,NA,0.143538148
+"QPCT","Brain","ALZ","Wald ratio",1,"-0.071","0.028","0.932","1.24e-02",NA,NA,NA,0.101345896
+"MDGA1","Brain","ALZ","Wald ratio",1,"-0.069","0.027","0.934","1.26e-02",NA,NA,NA,0.104672441
+"ENSG00000239381","Brain","ALZ","Wald ratio",1," 0.107","0.044","1.113","1.37e-02",NA,NA,NA,0.117125146
+"DGKI","Brain","ALZ","Wald ratio",1,"-0.091","0.037","0.913","1.40e-02",NA,NA,NA,0.097971723
+"EFNB2","Brain","ALZ","Wald ratio",1,"-0.093","0.039","0.911","1.58e-02",NA,NA,NA,0.091975453
+"TXNL4B","Brain","ALZ","Wald ratio",1,"-0.070","0.030","0.932","1.76e-02",NA,NA,NA,0.094087715
+"ENSG00000249451","Brain","ALZ","Wald ratio",1,"-0.042","0.018","0.959","1.78e-02",NA,NA,NA,0.075990121
+"HRNR","Brain","ALZ","Wald ratio",1,"-0.063","0.027","0.939","1.81e-02",NA,NA,NA,0.104759913
+"DENND6B","Brain","ALZ","Wald ratio",1," 0.117","0.050","1.124","1.83e-02",NA,NA,NA,0.135530698
+"ECE1","Brain","ALZ","Wald ratio",1,"-0.073","0.031","0.929","1.85e-02",NA,NA,NA,0.074446681
+"CERT1","Brain","ALZ","Wald ratio",1,"-0.113","0.048","0.893","1.85e-02",NA,NA,NA,0.108420482
+"SLC2A9","Brain","ALZ","Wald ratio",1,"-0.055","0.023","0.946","1.88e-02",NA,NA,NA,0.0727495
+"FOXO6","Brain","ALZ","Wald ratio",1," 0.051","0.022","1.053","1.89e-02",NA,NA,NA,0.070945529
+"CAMK1D","Brain","ALZ","Wald ratio",1," 0.077","0.033","1.080","1.96e-02",NA,NA,NA,0.0771559
+"OAS1","Brain","ALZ","Wald ratio",1," 0.068","0.030","1.071","2.05e-02",NA,NA,NA,0.070258199
+"CCDC13-AS1","Brain","ALZ","Wald ratio",1,"-0.055","0.024","0.946","2.13e-02",NA,NA,NA,0.065125315
+"PRDM7","Brain","ALZ","Inverse variance weighted",2,"-0.074","0.032","0.929","2.14e-02",NA,0.940263628,NA,0.040135346
+"TSPAN5","Brain","ALZ","Wald ratio",1,"-0.085","0.037","0.919","2.20e-02",NA,NA,NA,0.067978562
+"PSD4","Brain","ALZ","Wald ratio",1,"-0.081","0.036","0.922","2.34e-02",NA,NA,NA,0.061467993
+"PDE11A","Brain","ALZ","Wald ratio",1," 0.057","0.025","1.058","2.39e-02",NA,NA,NA,0.066412389
+"CDC25B","Brain","ALZ","Wald ratio",1," 0.072","0.032","1.075","2.40e-02",NA,NA,NA,0.060191978
+"MRPL15P1","Brain","ALZ","Wald ratio",1," 0.094","0.043","1.098","2.96e-02",NA,NA,NA,0.056763685
+"ENSG00000254363","Brain","ALZ","Wald ratio",1," 0.083","0.038","1.086","3.12e-02",NA,NA,NA,0.052625813
+"C2orf74","Brain","ALZ","Wald ratio",1," 0.054","0.025","1.056","3.22e-02",NA,NA,NA,0.046425515
+"STX6","Brain","ALZ","Wald ratio",1," 0.040","0.019","1.041","3.24e-02",NA,NA,NA,0.046731594
+"IPO9","Brain","ALZ","Wald ratio",1,"-0.078","0.037","0.925","3.63e-02",NA,NA,NA,0.04935763
+"KAT2B","Brain","ALZ","Wald ratio",1," 0.054","0.026","1.056","3.75e-02",NA,NA,NA,0.04109121
+"LAMC3","Brain","ALZ","Wald ratio",1,"-0.076","0.037","0.927","3.77e-02",NA,NA,NA,0.042393416
+"STX1B","Brain","ALZ","Wald ratio",1," 0.095","0.046","1.099","3.81e-02",NA,NA,NA,0.054512412
+"USP2-AS1","Brain","ALZ","Wald ratio",1,"-0.068","0.033","0.935","3.81e-02",NA,NA,NA,0.044340389
+"PROM2","Brain","ALZ","Wald ratio",1,"-0.087","0.042","0.917","3.86e-02",NA,NA,NA,0.04692066
+"DIS3L2","Brain","ALZ","Wald ratio",1,"-0.066","0.032","0.937","3.90e-02",NA,NA,NA,0.04354539
+"OBI1","Brain","ALZ","Wald ratio",1," 0.048","0.023","1.049","3.93e-02",NA,NA,NA,0.045170027
+"PGBD5","Brain","ALZ","Wald ratio",1,"-0.038","0.019","0.963","3.93e-02",NA,NA,NA,0.039478053
+"TANC2","Brain","ALZ","Wald ratio",1,"-0.028","0.014","0.972","4.02e-02",NA,NA,NA,0.038035101
+"ZNF500","Brain","ALZ","Wald ratio",1," 0.060","0.029","1.061","4.05e-02",NA,NA,NA,0.039695262
+"CUEDC1","Brain","ALZ","Wald ratio",1," 0.089","0.044","1.093","4.08e-02",NA,NA,NA,0.049891826
+"CD82","Brain","ALZ","Wald ratio",1,"-0.085","0.042","0.919","4.33e-02",NA,NA,NA,0.052547871
+"FAM174B","Brain","ALZ","Wald ratio",1,"-0.037","0.018","0.964","4.36e-02",NA,NA,NA,0.041476764
+"PLEKHH2","Brain","ALZ","Wald ratio",1," 0.042","0.021","1.043","4.44e-02",NA,NA,NA,0.036104919
+"PCSK6","Brain","ALZ","Wald ratio",1," 0.128","0.064","1.137","4.55e-02",NA,NA,NA,0.067831272
+"CRACD","Brain","ALZ","Wald ratio",1,"-0.076","0.038","0.927","4.65e-02",NA,NA,NA,0.037432862
+"HBZ","Brain","ALZ","Wald ratio",1,"-0.069","0.035","0.933","4.76e-02",NA,NA,NA,0.036442435
+"JMJD6","Brain","ALZ","Wald ratio",1," 0.072","0.036","1.074","4.77e-02",NA,NA,NA,0.033744466
+"SNX19","Brain","ALZ","Wald ratio",1," 0.078","0.039","1.081","4.87e-02",NA,NA,NA,0.034447921
+"LINC02268","Brain","ALZ","Wald ratio",1," 0.058","0.029","1.059","4.90e-02",NA,NA,NA,0.051865649
+"LINC00115","Brain","ALZ","Wald ratio",1," 0.439","0.223","1.552","4.93e-02",NA,NA,NA,0.174370494
+"ENSG00000289543","Brain","ALZ","Wald ratio",1,"-0.085","0.043","0.918","4.93e-02",NA,NA,NA,0.038514252
+"SNX4","Brain","ALZ","Wald ratio",1," 0.082","0.042","1.085","4.95e-02",NA,NA,NA,0.053163115
+"TMEM131L","Brain","ALZ","Wald ratio",1,"-0.043","0.022","0.958","5.02e-02",NA,NA,NA,0.039229364
+"HTT","Brain","ALZ","Wald ratio",1," 0.034","0.017","1.035","5.09e-02",NA,NA,NA,0.03355034
+"ENSG00000285579","Brain","ALZ","Wald ratio",1,"-0.041","0.021","0.960","5.25e-02",NA,NA,NA,0.030924446
+"SIRPA","Brain","ALZ","Wald ratio",1," 0.051","0.026","1.052","5.31e-02",NA,NA,NA,0.033035329
+"GREB1","Brain","ALZ","Wald ratio",1,"-0.071","0.037","0.931","5.36e-02",NA,NA,NA,0.039522132
+"NIPAL1","Brain","ALZ","Wald ratio",1,"-0.064","0.033","0.938","5.43e-02",NA,NA,NA,0.032460451
+"ZNF536","Brain","ALZ","Wald ratio",1," 0.092","0.048","1.097","5.45e-02",NA,NA,NA,0.042640529
+"KIRREL3","Brain","ALZ","Wald ratio",1," 0.032","0.017","1.033","5.49e-02",NA,NA,NA,0.030443616
+"ZNF100","Brain","ALZ","Wald ratio",1,"-0.037","0.019","0.964","5.63e-02",NA,NA,NA,0.029548413
+"FAM21EP","Brain","ALZ","Wald ratio",1,"-0.045","0.024","0.956","5.70e-02",NA,NA,NA,0.047316995
+"ING5","Brain","ALZ","Wald ratio",1," 0.074","0.039","1.077","5.78e-02",NA,NA,NA,0.033926938
+"HFM1","Brain","ALZ","Wald ratio",1,"-0.073","0.039","0.929","6.23e-02",NA,NA,NA,0.056002647
+"SEC14L5","Brain","ALZ","Wald ratio",1," 0.054","0.029","1.056","6.25e-02",NA,NA,NA,0.027938737
+"MAN2A1","Brain","ALZ","Wald ratio",1," 0.073","0.039","1.076","6.28e-02",NA,NA,NA,0.033030967
+"MED16","Brain","ALZ","Wald ratio",1,"-0.058","0.032","0.943","6.46e-02",NA,NA,NA,0.033047121
+"ASAP2","Brain","ALZ","Wald ratio",1,"-0.051","0.028","0.950","6.53e-02",NA,NA,NA,0.026971238
+"LRRC4B","Brain","ALZ","Wald ratio",1,"-0.057","0.031","0.945","6.58e-02",NA,NA,NA,0.027811907
+"PI4KA","Brain","ALZ","Wald ratio",1," 0.038","0.020","1.038","6.60e-02",NA,NA,NA,0.025985332
+"TRIM29","Brain","ALZ","Wald ratio",1," 0.050","0.028","1.052","6.90e-02",NA,NA,NA,0.025068898
+"NDRG4","Brain","ALZ","Wald ratio",1,"-0.070","0.038","0.933","6.94e-02",NA,NA,NA,0.025921338
+"MARVELD1","Brain","ALZ","Wald ratio",1," 0.054","0.030","1.056","7.02e-02",NA,NA,NA,0.027625229
+"CCDC7","Brain","ALZ","Wald ratio",1," 0.061","0.034","1.062","7.22e-02",NA,NA,NA,0.024193573
+"TNFRSF10B","Brain","ALZ","Wald ratio",1," 0.073","0.041","1.076","7.24e-02",NA,NA,NA,0.026229439
+"RAB7A","Brain","ALZ","Wald ratio",1,"-0.133","0.074","0.875","7.28e-02",NA,NA,NA,0.047529526
+"FARS2","Brain","ALZ","Wald ratio",1," 0.072","0.040","1.074","7.29e-02",NA,NA,NA,0.029106153
+"ANO5","Brain","ALZ","Wald ratio",1," 0.061","0.034","1.063","7.31e-02",NA,NA,NA,0.029952312
+"LIMS1","Brain","ALZ","Wald ratio",1,"-0.036","0.020","0.964","7.44e-02",NA,NA,NA,0.024314781
+"LINC02895","Brain","ALZ","Wald ratio",1," 0.117","0.066","1.124","7.48e-02",NA,NA,NA,0.042102849
+"STARD13","Brain","ALZ","Wald ratio",1,"-0.069","0.039","0.934","7.65e-02",NA,NA,NA,0.024452232
+"LPCAT2","Brain","ALZ","Wald ratio",1," 0.063","0.036","1.065","8.28e-02",NA,NA,NA,0.021482863
+"CIPC","Brain","ALZ","Wald ratio",1,"-0.065","0.037","0.938","8.29e-02",NA,NA,NA,0.023781167
+"ATP23","Brain","ALZ","Wald ratio",1,"-0.046","0.027","0.955","8.35e-02",NA,NA,NA,0.022605329
+"AGA","Brain","ALZ","Wald ratio",1," 0.046","0.027","1.047","8.35e-02",NA,NA,NA,0.022605329
+"KDM4B","Brain","ALZ","Wald ratio",1,"-0.068","0.040","0.934","8.45e-02",NA,NA,NA,0.038142354
+"SUZ12","Brain","ALZ","Wald ratio",1," 0.091","0.053","1.095","8.46e-02",NA,NA,NA,0.02935086
+"GGH","Brain","ALZ","Wald ratio",1," 0.070","0.041","1.072","8.65e-02",NA,NA,NA,0.023619439
+"NTM","Brain","ALZ","Wald ratio",1,"-0.062","0.037","0.940","8.83e-02",NA,NA,NA,0.023832331
+"GNG7","Brain","ALZ","Inverse variance weighted",2,"-0.041","0.024","0.960","8.89e-02",NA,0.930074223,NA,0.01238801
+"CROCC","Brain","ALZ","Wald ratio",1,"-0.086","0.051","0.918","9.04e-02",NA,NA,NA,0.030178333
+"NUP88","Brain","ALZ","Wald ratio",1," 0.065","0.039","1.068","9.12e-02",NA,NA,NA,0.02089656
+"ARID5B","Brain","ALZ","Wald ratio",1,"-0.050","0.030","0.951","9.38e-02",NA,NA,NA,0.021970013
+"HEXB","Brain","ALZ","Wald ratio",1," 0.060","0.036","1.062","9.43e-02",NA,NA,NA,0.019971107
+"KCNH3","Brain","ALZ","Wald ratio",1,"-0.090","0.054","0.914","9.52e-02",NA,NA,NA,0.031372897
+"ENSG00000254990","Brain","ALZ","Wald ratio",1,"-0.064","0.039","0.938","9.56e-02",NA,NA,NA,0.019944451
+"ENSG00000262039","Brain","ALZ","Wald ratio",1," 0.069","0.042","1.072","9.80e-02",NA,NA,NA,0.021040599
+"IRGM","Brain","ALZ","Wald ratio",1," 0.044","0.026","1.045","9.81e-02",NA,NA,NA,0.034521236
+"ZNF569","Brain","ALZ","Wald ratio",1,"-0.042","0.025","0.959","9.88e-02",NA,NA,NA,0.020184262
+"ENSG00000286780","Brain","ALZ","Wald ratio",1," 0.054","0.033","1.056","1.00e-01",NA,NA,NA,0.01903188
+"COPG2","Brain","ALZ","Wald ratio",1,"-0.069","0.042","0.933","1.02e-01",NA,NA,NA,0.023248597
+"ANKS1A","Brain","ALZ","Wald ratio",1," 0.027","0.016","1.027","1.02e-01",NA,NA,NA,0.018732098
+"MYT1L","Brain","ALZ","Wald ratio",1," 0.083","0.051","1.087","1.04e-01",NA,NA,NA,0.03361387
+"RPL3L","Brain","ALZ","Wald ratio",1,"-0.062","0.038","0.940","1.05e-01",NA,NA,NA,0.018720966
+"ENSG00000230333","Brain","ALZ","Wald ratio",1," 0.056","0.035","1.058","1.05e-01",NA,NA,NA,0.020986578
+"SYNDIG1","Brain","ALZ","Wald ratio",1," 0.062","0.038","1.064","1.06e-01",NA,NA,NA,0.021829082
+"ENSG00000288588","Brain","ALZ","Wald ratio",1,"-0.136","0.084","0.873","1.08e-01",NA,NA,NA,0.056132002
+"AHNAK2","Brain","ALZ","Wald ratio",1,"-0.053","0.033","0.948","1.10e-01",NA,NA,NA,0.022677435
+"PIP4K2A","Brain","ALZ","Wald ratio",1,"-0.097","0.061","0.908","1.11e-01",NA,NA,NA,0.027393044
+"HELB","Brain","ALZ","Wald ratio",1," 0.046","0.029","1.047","1.11e-01",NA,NA,NA,0.017026993
+"MKRN2OS","Brain","ALZ","Wald ratio",1,"-0.054","0.034","0.948","1.11e-01",NA,NA,NA,0.024363296
+"TRIB3","Brain","ALZ","Wald ratio",1," 0.037","0.023","1.038","1.13e-01",NA,NA,NA,0.01703688
+"ZNF396","Brain","ALZ","Wald ratio",1,"-0.045","0.029","0.956","1.13e-01",NA,NA,NA,0.017326267
+"CCDC117","Brain","ALZ","Wald ratio",1,"-0.056","0.036","0.945","1.15e-01",NA,NA,NA,0.017917943
+"OXR1","Brain","ALZ","Wald ratio",1,"-0.025","0.016","0.975","1.16e-01",NA,NA,NA,0.016787524
+"LINC01117","Brain","ALZ","Wald ratio",1," 0.032","0.020","1.032","1.16e-01",NA,NA,NA,0.016787524
+"CCDC85C","Brain","ALZ","Wald ratio",1," 0.058","0.037","1.060","1.17e-01",NA,NA,NA,0.017078058
+"SLC35A1","Brain","ALZ","Wald ratio",1,"-0.039","0.025","0.962","1.20e-01",NA,NA,NA,0.016259704
+"ENSG00000258603","Brain","ALZ","Wald ratio",1,"-0.171","0.110","0.843","1.20e-01",NA,NA,NA,0.049898271
+"ENSG00000225096","Brain","ALZ","Inverse variance weighted",2,"-0.058","0.037","0.944","1.20e-01",NA,0.388680496,NA,0.011674578
+"COL18A1","Brain","ALZ","Wald ratio",1,"-0.096","0.062","0.909","1.21e-01",NA,NA,NA,0.027553741
+"PEX14","Brain","ALZ","Wald ratio",1," 0.115","0.074","1.122","1.22e-01",NA,NA,NA,0.036721058
+"ENSG00000288583","Brain","ALZ","Wald ratio",1," 0.058","0.038","1.060","1.25e-01",NA,NA,NA,0.016942432
+"PER2","Brain","ALZ","Wald ratio",1," 0.055","0.036","1.057","1.27e-01",NA,NA,NA,0.019564627
+"RPN1","Brain","ALZ","Wald ratio",1,"-0.077","0.051","0.926","1.27e-01",NA,NA,NA,0.038724033
+"TRPS1","Brain","ALZ","Wald ratio",1," 0.038","0.025","1.038","1.27e-01",NA,NA,NA,0.015531421
+"INPP5A","Brain","ALZ","Wald ratio",1,"-0.255","0.167","0.775","1.27e-01",NA,NA,NA,0.061575105
+"FOXP1","Brain","ALZ","Wald ratio",1,"-0.045","0.029","0.956","1.29e-01",NA,NA,NA,0.015561882
+"SCARB2","Brain","ALZ","Wald ratio",1,"-0.077","0.051","0.926","1.33e-01",NA,NA,NA,0.021196523
+"PEX5L","Brain","ALZ","Wald ratio",1," 0.043","0.029","1.044","1.35e-01",NA,NA,NA,0.016615313
+"PTPRM","Brain","ALZ","Wald ratio",1,"-0.038","0.026","0.962","1.35e-01",NA,NA,NA,0.014553089
+"DPP6","Brain","ALZ","Wald ratio",1,"-0.054","0.036","0.947","1.35e-01",NA,NA,NA,0.023592441
+"ADARB2","Brain","ALZ","Inverse variance weighted",2,"-0.034","0.023","0.967","1.37e-01",NA,0.862057559,NA,0.006538371
+"TMOD1","Brain","ALZ","Wald ratio",1,"-0.061","0.041","0.941","1.38e-01",NA,NA,NA,0.018192179
+"GALNT2","Brain","ALZ","Wald ratio",1,"-0.061","0.041","0.941","1.39e-01",NA,NA,NA,0.018231856
+"DMAC1","Brain","ALZ","Wald ratio",1," 0.045","0.031","1.047","1.39e-01",NA,NA,NA,0.016771198
+"ENSG00000224746","Brain","ALZ","Wald ratio",1," 0.069","0.047","1.071","1.40e-01",NA,NA,NA,0.02583397
+"GLIPR2","Brain","ALZ","Wald ratio",1," 0.057","0.039","1.058","1.41e-01",NA,NA,NA,0.01504921
+"FKRP","Brain","ALZ","Wald ratio",1,"-0.057","0.039","0.945","1.42e-01",NA,NA,NA,0.016268725
+"ENSG00000286679","Brain","ALZ","Wald ratio",1," 0.028","0.019","1.028","1.42e-01",NA,NA,NA,0.015387532
+"CDC42BPA","Brain","ALZ","Wald ratio",1," 0.065","0.045","1.067","1.44e-01",NA,NA,NA,0.020221551
+"ADCY1","Brain","ALZ","Wald ratio",1,"-0.052","0.036","0.949","1.44e-01",NA,NA,NA,0.014252994
+"RLF","Brain","ALZ","Wald ratio",1,"-0.039","0.027","0.961","1.44e-01",NA,NA,NA,0.015769932
+"ATP8B4","Brain","ALZ","Wald ratio",1," 0.100","0.068","1.105","1.45e-01",NA,NA,NA,0.025513206
+"GSDME","Brain","ALZ","Wald ratio",1," 0.040","0.027","1.041","1.46e-01",NA,NA,NA,0.014298852
+"ENSG00000257943","Brain","ALZ","Wald ratio",1," 0.050","0.034","1.051","1.46e-01",NA,NA,NA,0.014298845
+"ST8SIA5-DT","Brain","ALZ","Wald ratio",1," 0.044","0.030","1.045","1.47e-01",NA,NA,NA,0.014050635
+"STMN4","Brain","ALZ","Wald ratio",1," 0.017","0.012","1.017","1.48e-01",NA,NA,NA,0.014098351
+"SCYL1","Brain","ALZ","Wald ratio",1,"-0.053","0.037","0.948","1.51e-01",NA,NA,NA,0.025911608
+"GRB10","Brain","ALZ","Wald ratio",1," 0.083","0.058","1.086","1.52e-01",NA,NA,NA,0.020968253
+"RASGRP3","Brain","ALZ","Wald ratio",1,"-0.053","0.037","0.948","1.54e-01",NA,NA,NA,0.014003186
+"ZNF598","Brain","ALZ","Wald ratio",1,"-0.055","0.039","0.947","1.54e-01",NA,NA,NA,0.017417329
+"EFEMP1","Brain","ALZ","Wald ratio",1," 0.076","0.053","1.078","1.54e-01",NA,NA,NA,0.022303113
+"CASP8","Brain","ALZ","Wald ratio",1,"-0.044","0.031","0.957","1.54e-01",NA,NA,NA,0.014348567
+"AGPAT3","Brain","ALZ","Wald ratio",1,"-0.145","0.102","0.865","1.55e-01",NA,NA,NA,0.042197741
+"FRK","Brain","ALZ","Wald ratio",1," 0.039","0.028","1.040","1.56e-01",NA,NA,NA,0.01346799
+"SV2B","Brain","ALZ","Wald ratio",1," 0.023","0.016","1.023","1.57e-01",NA,NA,NA,0.013521154
+"EVL","Brain","ALZ","Wald ratio",1," 0.231","0.164","1.260","1.58e-01",NA,NA,NA,0.057944086
+"ENSG00000286126","Brain","ALZ","Wald ratio",1,"-0.051","0.036","0.950","1.59e-01",NA,NA,NA,0.013922117
+"RUNX2","Brain","ALZ","Wald ratio",1," 0.024","0.017","1.024","1.59e-01",NA,NA,NA,0.013922136
+"RPL13","Brain","ALZ","Wald ratio",1,"-0.035","0.025","0.966","1.60e-01",NA,NA,NA,0.017153984
+"EPHA10","Brain","ALZ","Wald ratio",1," 0.026","0.018","1.026","1.63e-01",NA,NA,NA,0.014435451
+"ENSG00000274949","Brain","ALZ","Wald ratio",1," 0.052","0.037","1.053","1.64e-01",NA,NA,NA,0.013212395
+"LRRIQ4","Brain","ALZ","Wald ratio",1,"-0.037","0.026","0.964","1.64e-01",NA,NA,NA,0.013212685
+"ETHE1","Brain","ALZ","Wald ratio",1,"-0.062","0.044","0.940","1.66e-01",NA,NA,NA,0.016223879
+"CREB5","Brain","ALZ","Wald ratio",1," 0.044","0.032","1.045","1.68e-01",NA,NA,NA,0.013095927
+"MAGI2","Brain","ALZ","Wald ratio",1," 0.043","0.031","1.044","1.68e-01",NA,NA,NA,0.012454158
+"RARRES1","Brain","ALZ","Wald ratio",1," 0.055","0.040","1.057","1.69e-01",NA,NA,NA,0.013794808
+"SNHG28","Brain","ALZ","Wald ratio",1," 0.049","0.036","1.050","1.69e-01",NA,NA,NA,0.01547655
+"ANXA4","Brain","ALZ","Wald ratio",1,"-0.042","0.031","0.959","1.70e-01",NA,NA,NA,0.012513923
+"ENSG00000285492","Brain","ALZ","Wald ratio",1," 0.128","0.093","1.136","1.72e-01",NA,NA,NA,0.042516364
+"DNAJC18","Brain","ALZ","Wald ratio",1," 0.041","0.030","1.041","1.74e-01",NA,NA,NA,0.014097201
+"ZFP82","Brain","ALZ","Wald ratio",1," 0.047","0.035","1.048","1.74e-01",NA,NA,NA,0.01275767
+"TRIM65","Brain","ALZ","Wald ratio",1," 0.063","0.046","1.065","1.75e-01",NA,NA,NA,0.017848572
+"NT5C1A","Brain","ALZ","Wald ratio",1,"-0.063","0.046","0.939","1.76e-01",NA,NA,NA,0.016245569
+"CIAO3","Brain","ALZ","Wald ratio",1,"-0.062","0.046","0.940","1.77e-01",NA,NA,NA,0.014979307
+"BCL2L1","Brain","ALZ","Wald ratio",1,"-0.061","0.045","0.941","1.79e-01",NA,NA,NA,0.01440594
+"H4C2","Brain","ALZ","Wald ratio",1," 0.033","0.025","1.034","1.79e-01",NA,NA,NA,0.012016454
+"ENSG00000249335","Brain","ALZ","Wald ratio",1,"-0.029","0.022","0.971","1.80e-01",NA,NA,NA,0.013135469
+"BORCS7","Brain","ALZ","Wald ratio",1,"-0.029","0.022","0.971","1.81e-01",NA,NA,NA,0.013836319
+"ADAM17","Brain","ALZ","Wald ratio",1,"-0.035","0.026","0.965","1.81e-01",NA,NA,NA,0.011439521
+"KIF25","Brain","ALZ","Wald ratio",1," 0.036","0.027","1.037","1.82e-01",NA,NA,NA,0.016336566
+"TTN","Brain","ALZ","Wald ratio",1,"-0.066","0.050","0.936","1.82e-01",NA,NA,NA,0.016399898
+"TUBG2","Brain","ALZ","Wald ratio",1,"-0.049","0.037","0.952","1.86e-01",NA,NA,NA,0.013174669
+"SLC30A10","Brain","ALZ","Wald ratio",1,"-0.058","0.044","0.943","1.88e-01",NA,NA,NA,0.014704746
+"ENSG00000257239","Brain","ALZ","Wald ratio",1,"-0.038","0.029","0.963","1.90e-01",NA,NA,NA,0.01161637
+"HMSD","Brain","ALZ","Wald ratio",1,"-0.045","0.035","0.956","1.90e-01",NA,NA,NA,0.013090128
+"SNHG31","Brain","ALZ","Wald ratio",1,"-0.218","0.167","0.804","1.91e-01",NA,NA,NA,0.046113407
+"ARHGEF10","Brain","ALZ","Inverse variance weighted",2," 0.043","0.033","1.044","1.91e-01",NA,0.614772719,NA,0.008329233
+"XCR1","Brain","ALZ","Wald ratio",1,"-0.066","0.051","0.936","1.91e-01",NA,NA,NA,0.016768247
+"ECPAS","Brain","ALZ","Wald ratio",1,"-0.023","0.018","0.977","1.92e-01",NA,NA,NA,0.011331369
+"MBP","Brain","ALZ","Wald ratio",1," 0.042","0.032","1.043","1.92e-01",NA,NA,NA,0.013991647
+"CPEB4","Brain","ALZ","Wald ratio",1,"-0.048","0.037","0.953","1.93e-01",NA,NA,NA,0.011398942
+"PPFIA2","Brain","ALZ","Wald ratio",1,"-0.047","0.036","0.954","1.93e-01",NA,NA,NA,0.01364231
+"TFRC","Brain","ALZ","Wald ratio",1,"-0.041","0.031","0.960","1.94e-01",NA,NA,NA,0.013010287
+"GFOD1","Brain","ALZ","Wald ratio",1," 0.047","0.036","1.048","1.96e-01",NA,NA,NA,0.012377398
+"MYO9B","Brain","ALZ","Wald ratio",1," 0.052","0.040","1.053","1.99e-01",NA,NA,NA,0.012654116
+"IGKV2OR2-1","Brain","ALZ","Wald ratio",1," 0.031","0.024","1.031","2.01e-01",NA,NA,NA,0.013561955
+"KCNT1","Brain","ALZ","Wald ratio",1," 0.045","0.035","1.046","2.02e-01",NA,NA,NA,0.011250127
+"GRID2","Brain","ALZ","Wald ratio",1," 0.017","0.013","1.017","2.02e-01",NA,NA,NA,0.011250148
+"ENSG00000260288","Brain","ALZ","Wald ratio",1," 0.046","0.036","1.047","2.02e-01",NA,NA,NA,0.012093431
+"AGAP1","Brain","ALZ","Wald ratio",1," 0.037","0.029","1.038","2.05e-01",NA,NA,NA,0.011533644
+"ZBTB38","Brain","ALZ","Wald ratio",1,"-0.039","0.031","0.962","2.07e-01",NA,NA,NA,0.012097949
+"COL26A1","Brain","ALZ","Wald ratio",1," 0.046","0.037","1.047","2.09e-01",NA,NA,NA,0.010974843
+"ARID1B","Brain","ALZ","Wald ratio",1," 0.059","0.047","1.061","2.10e-01",NA,NA,NA,0.016895589
+"ATF7IP","Brain","ALZ","Wald ratio",1,"-0.039","0.031","0.961","2.10e-01",NA,NA,NA,0.011119528
+"RNF32-DT","Brain","ALZ","Wald ratio",1,"-0.160","0.129","0.852","2.12e-01",NA,NA,NA,0.045173363
+"GFPT2","Brain","ALZ","Wald ratio",1,"-0.016","0.013","0.984","2.12e-01",NA,NA,NA,0.011264552
+"PDCD6IPP2","Brain","ALZ","Wald ratio",1,"-0.123","0.099","0.884","2.14e-01",NA,NA,NA,0.031812833
+"TRHDE","Brain","ALZ","Wald ratio",1,"-0.050","0.040","0.951","2.16e-01",NA,NA,NA,0.021800509
+"ACLY","Brain","ALZ","Wald ratio",1,"-0.067","0.054","0.935","2.16e-01",NA,NA,NA,0.018083119
+"MAP3K13","Brain","ALZ","Wald ratio",1," 0.083","0.067","1.087","2.16e-01",NA,NA,NA,0.019377358
+"GNB1","Brain","ALZ","Wald ratio",1,"-0.026","0.021","0.974","2.17e-01",NA,NA,NA,0.010360806
+"TBC1D14","Brain","ALZ","Wald ratio",1,"-0.033","0.027","0.967","2.18e-01",NA,NA,NA,0.010434617
+"TYMSP2","Brain","ALZ","Wald ratio",1," 0.040","0.032","1.041","2.19e-01",NA,NA,NA,0.013183316
+"MED12L","Brain","ALZ","Wald ratio",1,"-0.048","0.039","0.953","2.20e-01",NA,NA,NA,0.011079049
+"S100A13","Brain","ALZ","Wald ratio",1,"-0.023","0.019","0.977","2.20e-01",NA,NA,NA,0.010656743
+"GET1-SH3BGR","Brain","ALZ","Wald ratio",1,"-0.037","0.030","0.964","2.22e-01",NA,NA,NA,0.013057805
+"MACF1","Brain","ALZ","Wald ratio",1," 0.052","0.042","1.053","2.22e-01",NA,NA,NA,0.011722684
+"TLR1","Brain","ALZ","Wald ratio",1,"-0.031","0.026","0.969","2.24e-01",NA,NA,NA,0.012860232
+"LDLRAD4","Brain","ALZ","Wald ratio",1," 0.059","0.049","1.061","2.25e-01",NA,NA,NA,0.013917871
+"LTBP4","Brain","ALZ","Wald ratio",1," 0.051","0.042","1.052","2.25e-01",NA,NA,NA,0.016284868
+"ENSG00000228852","Brain","ALZ","Wald ratio",1,"-0.060","0.049","0.942","2.26e-01",NA,NA,NA,0.01448185
+"ATXN2","Brain","ALZ","Wald ratio",1," 0.052","0.043","1.053","2.26e-01",NA,NA,NA,0.012169565
+"C20orf96","Brain","ALZ","Wald ratio",1,"-0.046","0.038","0.955","2.26e-01",NA,NA,NA,0.010756119
+"CTBS","Brain","ALZ","Wald ratio",1,"-0.034","0.028","0.967","2.26e-01",NA,NA,NA,0.010756396
+"TARS1","Brain","ALZ","Wald ratio",1,"-0.043","0.035","0.958","2.27e-01",NA,NA,NA,0.011749327
+"UNG","Brain","ALZ","Wald ratio",1,"-0.093","0.077","0.912","2.27e-01",NA,NA,NA,0.025339711
+"ETV6","Brain","ALZ","Wald ratio",1," 0.047","0.039","1.048","2.28e-01",NA,NA,NA,0.011898986
+"C5orf64","Brain","ALZ","Wald ratio",1," 0.055","0.046","1.056","2.30e-01",NA,NA,NA,0.01982141
+"ENSG00000259433","Brain","ALZ","Wald ratio",1,"-0.030","0.025","0.970","2.31e-01",NA,NA,NA,0.010212879
+"ENSG00000230960","Brain","ALZ","Wald ratio",1," 0.040","0.034","1.041","2.33e-01",NA,NA,NA,0.012005588
+"RGS9","Brain","ALZ","Wald ratio",1," 0.025","0.021","1.025","2.34e-01",NA,NA,NA,0.01151024
+"ENSG00000287146","Brain","ALZ","Wald ratio",1,"-0.047","0.039","0.954","2.35e-01",NA,NA,NA,0.012156664
+"FYCO1","Brain","ALZ","Wald ratio",1," 0.043","0.037","1.044","2.39e-01",NA,NA,NA,0.011698457
+"ENSG00000285847","Brain","ALZ","Wald ratio",1," 0.034","0.029","1.034","2.40e-01",NA,NA,NA,0.01013192
+"ENSG00000288549","Brain","ALZ","Wald ratio",1," 0.043","0.036","1.044","2.40e-01",NA,NA,NA,0.010131871
+"CCDC158","Brain","ALZ","Wald ratio",1,"-0.020","0.017","0.980","2.41e-01",NA,NA,NA,0.009710316
+"PFN4","Brain","ALZ","Wald ratio",1," 0.061","0.053","1.063","2.43e-01",NA,NA,NA,0.01336774
+"C1orf174","Brain","ALZ","Wald ratio",1,"-0.041","0.035","0.960","2.46e-01",NA,NA,NA,0.010250766
+"TC2N","Brain","ALZ","Wald ratio",1," 0.016","0.014","1.017","2.46e-01",NA,NA,NA,0.009675425
+"RBM38","Brain","ALZ","Wald ratio",1,"-0.047","0.041","0.954","2.47e-01",NA,NA,NA,0.012122297
+"STEAP1B","Brain","ALZ","Wald ratio",1,"-0.031","0.027","0.969","2.47e-01",NA,NA,NA,0.014619165
+"PDCD6IP","Brain","ALZ","Wald ratio",1," 0.035","0.030","1.036","2.48e-01",NA,NA,NA,0.010560272
+"PICK1","Brain","ALZ","Wald ratio",1,"-0.016","0.014","0.984","2.49e-01",NA,NA,NA,0.010063382
+"SYNJ2","Brain","ALZ","Inverse variance weighted",2,"-0.027","0.023","0.974","2.51e-01",NA,0.424741087,NA,0.012745616
+"ICE2","Brain","ALZ","Wald ratio",1,"-0.044","0.039","0.957","2.51e-01",NA,NA,NA,0.010374116
+"MYO3B","Brain","ALZ","Wald ratio",1," 0.025","0.022","1.025","2.53e-01",NA,NA,NA,0.009877393
+"TERF2IP","Brain","ALZ","Wald ratio",1,"-0.096","0.084","0.908","2.53e-01",NA,NA,NA,0.022076323
+"PIK3CD","Brain","ALZ","Wald ratio",1," 0.040","0.035","1.041","2.54e-01",NA,NA,NA,0.010033374
+"ZNF761","Brain","ALZ","Wald ratio",1," 0.057","0.050","1.058","2.55e-01",NA,NA,NA,0.016770167
+"DDX11-AS1","Brain","ALZ","Wald ratio",1," 0.016","0.014","1.016","2.57e-01",NA,NA,NA,0.009771105
+"GRIN2A","Brain","ALZ","Inverse variance weighted",2," 0.027","0.024","1.028","2.57e-01",NA,0.36102693,NA,0.014003771
+"RPS9","Brain","ALZ","Wald ratio",1," 0.059","0.052","1.060","2.58e-01",NA,NA,NA,0.012755581
+"LRP11","Brain","ALZ","Wald ratio",1,"-0.043","0.038","0.958","2.60e-01",NA,NA,NA,0.009587918
+"AGMO","Brain","ALZ","Wald ratio",1,"-0.042","0.037","0.959","2.62e-01",NA,NA,NA,0.009169307
+"ENSG00000289108","Brain","ALZ","Wald ratio",1,"-0.050","0.045","0.951","2.62e-01",NA,NA,NA,0.014402876
+"PRRX1","Brain","ALZ","Wald ratio",1,"-0.033","0.029","0.968","2.63e-01",NA,NA,NA,0.011516814
+"COL16A1","Brain","ALZ","Wald ratio",1," 0.038","0.034","1.039","2.63e-01",NA,NA,NA,0.009328
+"RCCD1","Brain","ALZ","Wald ratio",1,"-0.022","0.020","0.978","2.65e-01",NA,NA,NA,0.009564534
+"ERC1","Brain","ALZ","Wald ratio",1," 0.025","0.023","1.026","2.69e-01",NA,NA,NA,0.010352859
+"TMEM171","Brain","ALZ","Wald ratio",1," 0.027","0.024","1.027","2.71e-01",NA,NA,NA,0.009780477
+"GRID1","Brain","ALZ","Wald ratio",1,"-0.136","0.123","0.873","2.71e-01",NA,NA,NA,0.029219807
+"FYN","Brain","ALZ","Wald ratio",1," 0.041","0.038","1.042","2.75e-01",NA,NA,NA,0.008869681
+"SLC7A7","Brain","ALZ","Wald ratio",1," 0.046","0.042","1.047","2.76e-01",NA,NA,NA,0.010078072
+"SECISBP2","Brain","ALZ","Wald ratio",1,"-0.058","0.054","0.943","2.77e-01",NA,NA,NA,0.016037024
+"ENSG00000289592","Brain","ALZ","Wald ratio",1," 0.041","0.038","1.042","2.77e-01",NA,NA,NA,0.00926887
+"EIF3D","Brain","ALZ","Wald ratio",1," 0.038","0.035","1.039","2.79e-01",NA,NA,NA,0.010712207
+"SERINC5","Brain","ALZ","Wald ratio",1,"-0.037","0.034","0.964","2.79e-01",NA,NA,NA,0.01286784
+"ADAR","Brain","ALZ","Wald ratio",1,"-0.021","0.019","0.979","2.79e-01",NA,NA,NA,0.008696021
+"CKMT2-AS1","Brain","ALZ","Wald ratio",1,"-0.054","0.050","0.948","2.80e-01",NA,NA,NA,0.015388461
+"CAMKK1","Brain","ALZ","Wald ratio",1," 0.032","0.030","1.033","2.82e-01",NA,NA,NA,0.009254001
+"IDE","Brain","ALZ","Wald ratio",1," 0.031","0.029","1.031","2.86e-01",NA,NA,NA,0.010367544
+"FNTA","Brain","ALZ","Wald ratio",1," 0.076","0.071","1.078","2.88e-01",NA,NA,NA,0.016442148
+"ZNF75A","Brain","ALZ","Wald ratio",1,"-0.028","0.027","0.972","2.88e-01",NA,NA,NA,0.009799055
+"LINC00467","Brain","ALZ","Wald ratio",1,"-0.055","0.052","0.947","2.89e-01",NA,NA,NA,0.023654111
+"ZNF600","Brain","ALZ","Wald ratio",1,"-0.043","0.040","0.958","2.91e-01",NA,NA,NA,0.01059454
+"TMIGD3","Brain","ALZ","Wald ratio",1," 0.050","0.047","1.051","2.93e-01",NA,NA,NA,0.017661447
+"NUTM2E","Brain","ALZ","Wald ratio",1,"-0.062","0.059","0.940","2.93e-01",NA,NA,NA,0.014628474
+"CYBRD1","Brain","ALZ","Wald ratio",1,"-0.023","0.022","0.977","2.93e-01",NA,NA,NA,0.008499943
+"RMI2","Brain","ALZ","Wald ratio",1,"-0.023","0.022","0.978","2.93e-01",NA,NA,NA,0.008499943
+"RRM1","Brain","ALZ","Wald ratio",1,"-0.028","0.027","0.973","2.98e-01",NA,NA,NA,0.008411621
+"NARF","Brain","ALZ","Wald ratio",1," 0.040","0.038","1.041","3.00e-01",NA,NA,NA,0.009293392
+"PADI2","Brain","ALZ","Inverse variance weighted",2,"-0.037","0.036","0.964","3.03e-01",NA,0.844278608,NA,0.008960117
+"RCBTB1","Brain","ALZ","Wald ratio",1," 0.031","0.030","1.031","3.03e-01",NA,NA,NA,0.008405411
+"TECPR2","Brain","ALZ","Wald ratio",1," 0.025","0.024","1.025","3.04e-01",NA,NA,NA,0.008887083
+"FAM107B","Brain","ALZ","Wald ratio",1," 0.042","0.041","1.043","3.04e-01",NA,NA,NA,0.007311743
+"LMF1","Brain","ALZ","Inverse variance weighted",2,"-0.020","0.019","0.981","3.05e-01",NA,0.43563254,NA,0.007297618
+"SLC35F3","Brain","ALZ","Wald ratio",1,"-0.031","0.030","0.970","3.06e-01",NA,NA,NA,0.010246902
+"AFF3","Brain","ALZ","Wald ratio",1,"-0.048","0.047","0.953","3.06e-01",NA,NA,NA,0.010565168
+"GSTP1","Brain","ALZ","Wald ratio",1,"-0.022","0.022","0.978","3.12e-01",NA,NA,NA,0.008237492
+"YTHDF2","Brain","ALZ","Wald ratio",1," 0.037","0.036","1.037","3.13e-01",NA,NA,NA,0.009841586
+"IFFO2","Brain","ALZ","Wald ratio",1,"-0.035","0.035","0.966","3.13e-01",NA,NA,NA,0.010320731
+"GRIK4","Brain","ALZ","Wald ratio",1," 0.034","0.034","1.034","3.17e-01",NA,NA,NA,0.00815599
+"ADARB2","Brain","ALZ","Wald ratio",1," 0.038","0.038","1.038","3.17e-01",NA,NA,NA,0.009600674
+"ENSG00000285771","Brain","ALZ","Wald ratio",1," 0.031","0.031","1.031","3.17e-01",NA,NA,NA,0.008236473
+"GSTO2","Brain","ALZ","Wald ratio",1," 0.016","0.016","1.016","3.17e-01",NA,NA,NA,0.008397356
+"PLCH2","Brain","ALZ","Wald ratio",1," 0.045","0.045","1.046","3.20e-01",NA,NA,NA,0.013408615
+"ENSG00000242880","Brain","ALZ","Wald ratio",1,"-0.038","0.038","0.963","3.20e-01",NA,NA,NA,0.012857666
+"SRD5A3","Brain","ALZ","Wald ratio",1," 0.049","0.049","1.050","3.21e-01",NA,NA,NA,0.011513327
+"SMAD9","Brain","ALZ","Wald ratio",1," 0.035","0.036","1.036","3.21e-01",NA,NA,NA,0.009521043
+"SMYD4","Brain","ALZ","Wald ratio",1,"-0.023","0.023","0.978","3.22e-01",NA,NA,NA,0.008879881
+"TSPYL5","Brain","ALZ","Wald ratio",1,"-0.033","0.033","0.968","3.22e-01",NA,NA,NA,0.008558672
+"PKD1L2","Brain","ALZ","Wald ratio",1," 0.022","0.022","1.022","3.22e-01",NA,NA,NA,0.008478306
+"STAP2","Brain","ALZ","Wald ratio",1," 0.023","0.023","1.023","3.22e-01",NA,NA,NA,0.008478306
+"FAM193A","Brain","ALZ","Wald ratio",1," 0.040","0.041","1.041","3.26e-01",NA,NA,NA,0.009442713
+"PNPLA7","Brain","ALZ","Wald ratio",1," 0.040","0.041","1.041","3.27e-01",NA,NA,NA,0.012545171
+"PPM1F","Brain","ALZ","Wald ratio",1,"-0.024","0.024","0.976","3.27e-01",NA,NA,NA,0.008078254
+"SBNO2","Brain","ALZ","Wald ratio",1,"-0.080","0.082","0.923","3.31e-01",NA,NA,NA,0.016917867
+"THEGL","Brain","ALZ","Wald ratio",1,"-0.047","0.049","0.954","3.31e-01",NA,NA,NA,0.013652736
+"NOS1","Brain","ALZ","Wald ratio",1," 0.032","0.033","1.033","3.32e-01",NA,NA,NA,0.008162315
+"ABCC4","Brain","ALZ","Wald ratio",1," 0.045","0.047","1.047","3.32e-01",NA,NA,NA,0.015451085
+"MORF4L1","Brain","ALZ","Wald ratio",1,"-0.029","0.030","0.971","3.32e-01",NA,NA,NA,0.007840476
+"GOLGA8A","Brain","ALZ","Wald ratio",1," 0.089","0.092","1.093","3.33e-01",NA,NA,NA,0.023405526
+"GPR179","Brain","ALZ","Wald ratio",1,"-0.049","0.050","0.953","3.34e-01",NA,NA,NA,0.011682859
+"PHACTR2","Brain","ALZ","Wald ratio",1,"-0.041","0.042","0.960","3.34e-01",NA,NA,NA,0.009129636
+"ENSG00000288162","Brain","ALZ","Wald ratio",1," 0.022","0.023","1.022","3.36e-01",NA,NA,NA,0.008488557
+"ANXA6","Brain","ALZ","Wald ratio",1,"-0.032","0.033","0.968","3.37e-01",NA,NA,NA,0.007684733
+"ENSG00000286296","Brain","ALZ","Wald ratio",1," 0.040","0.042","1.041","3.40e-01",NA,NA,NA,0.008653699
+"ENSG00000289207","Brain","ALZ","Wald ratio",1,"-0.033","0.034","0.968","3.41e-01",NA,NA,NA,0.008173627
+"PHGDH","Brain","ALZ","Wald ratio",1,"-0.016","0.017","0.984","3.42e-01",NA,NA,NA,0.007932643
+"FOXO3B","Brain","ALZ","Wald ratio",1,"-0.015","0.016","0.985","3.43e-01",NA,NA,NA,0.009142311
+"SYTL2","Brain","ALZ","Wald ratio",1," 0.024","0.026","1.025","3.45e-01",NA,NA,NA,0.008421788
+"ADAM23","Brain","ALZ","Wald ratio",1,"-0.104","0.110","0.901","3.45e-01",NA,NA,NA,0.035963657
+"CRADD","Brain","ALZ","Wald ratio",1," 0.033","0.035","1.034","3.47e-01",NA,NA,NA,0.00769948
+"BORCS8-MEF2B","Brain","ALZ","Wald ratio",1," 0.036","0.038","1.036","3.47e-01",NA,NA,NA,0.007698526
+"ZNF577","Brain","ALZ","Wald ratio",1," 0.050","0.053","1.051","3.47e-01",NA,NA,NA,0.011392606
+"ENSG00000230863","Brain","ALZ","Wald ratio",1," 0.034","0.036","1.034","3.48e-01",NA,NA,NA,0.007619061
+"AHNAK","Brain","ALZ","Wald ratio",1," 0.030","0.032","1.031","3.48e-01",NA,NA,NA,0.010035723
+"ARHGEF3","Brain","ALZ","Wald ratio",1," 0.033","0.035","1.034","3.48e-01",NA,NA,NA,0.007538691
+"ENSG00000285743","Brain","ALZ","Wald ratio",1," 0.034","0.036","1.034","3.49e-01",NA,NA,NA,0.008430347
+"THEM7P","Brain","ALZ","Wald ratio",1,"-0.050","0.053","0.952","3.50e-01",NA,NA,NA,0.011796274
+"PCDH9","Brain","ALZ","Wald ratio",1,"-0.029","0.031","0.971","3.50e-01",NA,NA,NA,0.008109875
+"FAM185A","Brain","ALZ","Wald ratio",1," 0.036","0.039","1.037","3.51e-01",NA,NA,NA,0.010283217
+"RMDN3","Brain","ALZ","Wald ratio",1," 0.014","0.015","1.014","3.51e-01",NA,NA,NA,0.007949521
+"FMN2","Brain","ALZ","Wald ratio",1," 0.031","0.033","1.031","3.52e-01",NA,NA,NA,0.00770885
+"GSE1","Brain","ALZ","Wald ratio",1," 0.039","0.042","1.040","3.56e-01",NA,NA,NA,0.008929764
+"MICAL3","Brain","ALZ","Wald ratio",1,"-0.043","0.047","0.958","3.57e-01",NA,NA,NA,0.00965733
+"ENSG00000250195","Brain","ALZ","Wald ratio",1," 0.013","0.014","1.013","3.60e-01",NA,NA,NA,0.007971138
+"DYNC2I1","Brain","ALZ","Wald ratio",1,"-0.088","0.097","0.916","3.61e-01",NA,NA,NA,0.018561099
+"ENSG00000287516","Brain","ALZ","Wald ratio",1,"-0.028","0.031","0.972","3.61e-01",NA,NA,NA,0.00773108
+"PDE1B","Brain","ALZ","Wald ratio",1,"-0.021","0.023","0.979","3.61e-01",NA,NA,NA,0.00773108
+"PARP16","Brain","ALZ","Wald ratio",1," 0.040","0.044","1.041","3.62e-01",NA,NA,NA,0.011916738
+"CASP7","Brain","ALZ","Wald ratio",1," 0.029","0.032","1.029","3.62e-01",NA,NA,NA,0.008462643
+"ENSG00000268081","Brain","ALZ","Wald ratio",1,"-0.032","0.036","0.968","3.63e-01",NA,NA,NA,0.00741071
+"MAPK15","Brain","ALZ","Wald ratio",1," 0.045","0.049","1.046","3.65e-01",NA,NA,NA,0.010248434
+"TM2D3","Brain","ALZ","Wald ratio",1,"-0.026","0.029","0.974","3.66e-01",NA,NA,NA,0.007743872
+"ALS2","Brain","ALZ","Wald ratio",1," 0.043","0.048","1.044","3.66e-01",NA,NA,NA,0.010011039
+"LMTK2","Brain","ALZ","Wald ratio",1,"-0.029","0.032","0.971","3.68e-01",NA,NA,NA,0.007424072
+"ENSG00000285575","Brain","ALZ","Wald ratio",1,"-0.032","0.036","0.969","3.70e-01",NA,NA,NA,0.009297874
+"ENSG00000260698","Brain","ALZ","Wald ratio",1,"-0.033","0.037","0.968","3.72e-01",NA,NA,NA,0.009549893
+"IKZF4","Brain","ALZ","Wald ratio",1,"-0.033","0.037","0.968","3.72e-01",NA,NA,NA,0.007518165
+"VLDLR","Brain","ALZ","Wald ratio",1,"-0.018","0.020","0.982","3.72e-01",NA,NA,NA,0.007518259
+"PTCH1","Brain","ALZ","Wald ratio",1,"-0.041","0.046","0.960","3.73e-01",NA,NA,NA,0.011327993
+"ANKUB1","Brain","ALZ","Wald ratio",1,"-0.033","0.038","0.967","3.75e-01",NA,NA,NA,0.007197406
+"SUGT1P4-STRA6LP","Brain","ALZ","Wald ratio",1,"-0.054","0.061","0.947","3.75e-01",NA,NA,NA,0.011654327
+"TNFAIP2","Brain","ALZ","Wald ratio",1," 0.027","0.030","1.027","3.76e-01",NA,NA,NA,0.008916052
+"HDAC4","Brain","ALZ","Weighted mode",3,"-0.020","0.018","0.980","3.76e-01",0.386082264,0.3661599,0.463534458,0.00868807
+"SLC25A10","Brain","ALZ","Wald ratio",1," 0.027","0.031","1.028","3.77e-01",NA,NA,NA,0.009406648
+"SHB","Brain","ALZ","Wald ratio",1,"-0.018","0.020","0.983","3.77e-01",NA,NA,NA,0.006879339
+"IFITM3","Brain","ALZ","Wald ratio",1," 0.026","0.030","1.026","3.78e-01",NA,NA,NA,0.009248435
+"NPHP3-AS1","Brain","ALZ","Wald ratio",1," 0.024","0.028","1.025","3.78e-01",NA,NA,NA,0.007374086
+"DNAH1","Brain","ALZ","Wald ratio",1,"-0.022","0.024","0.979","3.79e-01",NA,NA,NA,0.00973838
+"ENSG00000235140","Brain","ALZ","Wald ratio",1,"-0.026","0.030","0.974","3.79e-01",NA,NA,NA,0.009090172
+"PTPRD","Brain","ALZ","Wald ratio",1,"-0.035","0.039","0.966","3.79e-01",NA,NA,NA,0.007867743
+"DSCAS","Brain","ALZ","Wald ratio",1,"-0.044","0.050","0.957","3.80e-01",NA,NA,NA,0.009579058
+"SYT3","Brain","ALZ","Wald ratio",1,"-0.066","0.076","0.936","3.80e-01",NA,NA,NA,0.024125194
+"TOLLIP","Brain","ALZ","Wald ratio",1,"-0.062","0.071","0.940","3.80e-01",NA,NA,NA,0.016988957
+"ZFYVE28","Brain","ALZ","Wald ratio",1," 0.027","0.031","1.028","3.80e-01",NA,NA,NA,0.00950153
+"XRRA1","Brain","ALZ","Wald ratio",1,"-0.021","0.024","0.979","3.82e-01",NA,NA,NA,0.007549718
+"KANK1","Brain","ALZ","Wald ratio",1,"-0.036","0.041","0.965","3.82e-01",NA,NA,NA,0.008694306
+"APOL2","Brain","ALZ","Wald ratio",1,"-0.032","0.037","0.968","3.82e-01",NA,NA,NA,0.010966613
+"KLHDC1","Brain","ALZ","Wald ratio",1," 0.036","0.042","1.037","3.82e-01",NA,NA,NA,0.008042634
+"VSTM2B-DT","Brain","ALZ","Wald ratio",1,"-0.019","0.022","0.981","3.85e-01",NA,NA,NA,0.008298233
+"RCAN2","Brain","ALZ","Inverse variance weighted",2," 0.021","0.024","1.021","3.85e-01",NA,0.448404859,NA,0.012641684
+"ENSG00000258760","Brain","ALZ","Wald ratio",1," 0.024","0.027","1.024","3.88e-01",NA,NA,NA,0.007408029
+"KIF6","Brain","ALZ","Wald ratio",1," 0.066","0.076","1.068","3.88e-01",NA,NA,NA,0.01595733
+"ENSG00000225359","Brain","ALZ","Wald ratio",1," 0.020","0.023","1.020","3.88e-01",NA,NA,NA,0.007328605
+"PSD3","Brain","ALZ","Wald ratio",1,"-0.021","0.025","0.979","3.89e-01",NA,NA,NA,0.007743453
+"COX7A2","Brain","ALZ","Wald ratio",1,"-0.038","0.044","0.963","3.90e-01",NA,NA,NA,0.009220288
+"ENSG00000286353","Brain","ALZ","Wald ratio",1," 0.027","0.032","1.028","3.92e-01",NA,NA,NA,0.007426372
+"RNF157","Brain","ALZ","Wald ratio",1,"-0.040","0.047","0.961","3.96e-01",NA,NA,NA,0.008923603
+"LSS","Brain","ALZ","Wald ratio",1,"-0.032","0.037","0.969","3.97e-01",NA,NA,NA,0.008353435
+"HTRA1","Brain","ALZ","Wald ratio",1,"-0.038","0.045","0.963","3.98e-01",NA,NA,NA,0.008687905
+"ZNF28","Brain","ALZ","Wald ratio",1," 0.029","0.034","1.029","3.99e-01",NA,NA,NA,0.00902227
+"H3P4","Brain","ALZ","Wald ratio",1,"-0.046","0.055","0.955","4.00e-01",NA,NA,NA,0.015743569
+"RUFY1","Brain","ALZ","Wald ratio",1," 0.031","0.037","1.032","4.01e-01",NA,NA,NA,0.007049465
+"GNA12","Brain","ALZ","Wald ratio",1," 0.035","0.042","1.036","4.02e-01",NA,NA,NA,0.007800648
+"RNU1-47P","Brain","ALZ","Wald ratio",1,"-0.029","0.035","0.971","4.05e-01",NA,NA,NA,0.007565222
+"DNAH17","Brain","ALZ","Inverse variance weighted",2,"-0.015","0.019","0.985","4.05e-01",NA,0.40313133,NA,0.005396158
+"ENSG00000266202","Brain","ALZ","Wald ratio",1,"-0.032","0.038","0.969","4.06e-01",NA,NA,NA,0.007070107
+"ENSG00000285829","Brain","ALZ","Wald ratio",1," 0.024","0.029","1.024","4.06e-01",NA,NA,NA,0.007070897
+"CALCB","Brain","ALZ","Wald ratio",1,"-0.030","0.036","0.971","4.06e-01",NA,NA,NA,0.007070858
+"SLC22A15","Brain","ALZ","Wald ratio",1," 0.028","0.034","1.028","4.07e-01",NA,NA,NA,0.006991978
+"GPSM1","Brain","ALZ","Wald ratio",1,"-0.035","0.042","0.966","4.07e-01",NA,NA,NA,0.009808628
+"ITGA2","Brain","ALZ","Wald ratio",1,"-0.034","0.042","0.966","4.08e-01",NA,NA,NA,0.007664425
+"AP2A1","Brain","ALZ","Wald ratio",1,"-0.026","0.031","0.975","4.09e-01",NA,NA,NA,0.006834182
+"EXOC6","Brain","ALZ","Wald ratio",1,"-0.021","0.025","0.979","4.12e-01",NA,NA,NA,0.006935075
+"ENSG00000260850","Brain","ALZ","Wald ratio",1," 0.031","0.037","1.031","4.13e-01",NA,NA,NA,0.008772151
+"ZNF639","Brain","ALZ","Wald ratio",1,"-0.038","0.047","0.962","4.14e-01",NA,NA,NA,0.009362819
+"F13B","Brain","ALZ","Wald ratio",1," 0.029","0.036","1.029","4.15e-01",NA,NA,NA,0.006698741
+"ENSG00000275674","Brain","ALZ","Wald ratio",1,"-0.021","0.026","0.979","4.17e-01",NA,NA,NA,0.009129257
+"CANX","Brain","ALZ","Wald ratio",1,"-0.067","0.083","0.935","4.17e-01",NA,NA,NA,0.017901754
+"TMOD3","Brain","ALZ","Wald ratio",1,"-0.031","0.038","0.969","4.18e-01",NA,NA,NA,0.006877925
+"ABTB2","Brain","ALZ","Wald ratio",1," 0.029","0.036","1.030","4.19e-01",NA,NA,NA,0.006800554
+"TIAM1","Brain","ALZ","Wald ratio",1,"-0.029","0.036","0.971","4.20e-01",NA,NA,NA,0.007059702
+"BSPRY","Brain","ALZ","Wald ratio",1," 0.029","0.036","1.029","4.23e-01",NA,NA,NA,0.00690296
+"PKDCC","Brain","ALZ","Wald ratio",1," 0.027","0.033","1.027","4.23e-01",NA,NA,NA,0.00791324
+"EPB41L3","Brain","ALZ","Wald ratio",1," 0.033","0.041","1.033","4.23e-01",NA,NA,NA,0.008249062
+"ESRRG","Brain","ALZ","Wald ratio",1,"-0.025","0.032","0.975","4.25e-01",NA,NA,NA,0.006746355
+"CPB2","Brain","ALZ","Wald ratio",1," 0.030","0.038","1.031","4.29e-01",NA,NA,NA,0.007445333
+"MTUS1","Brain","ALZ","Wald ratio",1," 0.069","0.088","1.072","4.31e-01",NA,NA,NA,0.017444806
+"ADIRF","Brain","ALZ","Wald ratio",1,"-0.027","0.035","0.973","4.31e-01",NA,NA,NA,0.006693007
+"WDR27","Brain","ALZ","Wald ratio",1," 0.043","0.055","1.044","4.31e-01",NA,NA,NA,0.009814006
+"SLC41A3","Brain","ALZ","Wald ratio",1," 0.027","0.034","1.027","4.31e-01",NA,NA,NA,0.007289537
+"ENSG00000234698","Brain","ALZ","Wald ratio",1," 0.029","0.037","1.030","4.32e-01",NA,NA,NA,0.007211646
+"PPP5D1P","Brain","ALZ","Wald ratio",1,"-0.032","0.041","0.968","4.33e-01",NA,NA,NA,0.012082691
+"TMTC4","Brain","ALZ","Wald ratio",1,"-0.021","0.027","0.979","4.33e-01",NA,NA,NA,0.008400809
+"ACYP2","Brain","ALZ","Wald ratio",1,"-0.021","0.027","0.979","4.34e-01",NA,NA,NA,0.00713381
+"NFIA","Brain","ALZ","Wald ratio",1,"-0.044","0.056","0.957","4.34e-01",NA,NA,NA,0.010428558
+"CSDC2","Brain","ALZ","Wald ratio",1," 0.033","0.042","1.033","4.35e-01",NA,NA,NA,0.00858114
+"ANK2","Brain","ALZ","Wald ratio",1," 0.025","0.032","1.025","4.35e-01",NA,NA,NA,0.006718665
+"COL6A6","Brain","ALZ","Wald ratio",1,"-0.024","0.031","0.976","4.36e-01",NA,NA,NA,0.008503807
+"NGRN","Brain","ALZ","Wald ratio",1," 0.024","0.031","1.024","4.39e-01",NA,NA,NA,0.006822666
+"RIN2","Brain","ALZ","Wald ratio",1,"-0.056","0.072","0.946","4.39e-01",NA,NA,NA,0.013394981
+"POMGNT1","Brain","ALZ","Wald ratio",1," 0.020","0.026","1.021","4.40e-01",NA,NA,NA,0.006744952
+"ENSG00000254409","Brain","ALZ","Wald ratio",1," 0.018","0.024","1.019","4.42e-01",NA,NA,NA,0.008040175
+"MRPL14","Brain","ALZ","Wald ratio",1," 0.017","0.022","1.017","4.43e-01",NA,NA,NA,0.006589623
+"ZHX2","Brain","ALZ","Wald ratio",1,"-0.029","0.038","0.971","4.43e-01",NA,NA,NA,0.007108795
+"KEAP1","Brain","ALZ","Wald ratio",1," 0.016","0.022","1.017","4.45e-01",NA,NA,NA,0.008402364
+"GCH1","Brain","ALZ","Wald ratio",1," 0.020","0.027","1.021","4.46e-01",NA,NA,NA,0.010788352
+"B3GAT1-DT","Brain","ALZ","Wald ratio",1,"-0.013","0.017","0.987","4.47e-01",NA,NA,NA,0.006616922
+"ZIM2-AS1","Brain","ALZ","Wald ratio",1," 0.026","0.034","1.026","4.48e-01",NA,NA,NA,0.007395444
+"B3GNTL1","Brain","ALZ","Inverse variance weighted",2," 0.014","0.018","1.014","4.49e-01",NA,0.463162721,NA,0.006052036
+"FMN1","Brain","ALZ","Wald ratio",1,"-0.085","0.112","0.918","4.49e-01",NA,NA,NA,0.021310952
+"GALM","Brain","ALZ","Wald ratio",1,"-0.028","0.038","0.972","4.49e-01",NA,NA,NA,0.007318281
+"HDAC4","Brain","ALZ","MR Egger",3,"-0.071","0.060","0.932","4.51e-01",0.386082264,0.3661599,0.463534458,0.00868807
+"LINC01356","Brain","ALZ","Wald ratio",1,"-0.042","0.056","0.959","4.53e-01",NA,NA,NA,0.010435565
+"ZNF205","Brain","ALZ","Wald ratio",1,"-0.024","0.032","0.976","4.55e-01",NA,NA,NA,0.006750338
+"BAIAP3","Brain","ALZ","Wald ratio",1," 0.021","0.028","1.021","4.56e-01",NA,NA,NA,0.00667328
+"ZNF415","Brain","ALZ","Wald ratio",1," 0.014","0.018","1.014","4.56e-01",NA,NA,NA,0.006413301
+"LINC02930","Brain","ALZ","Wald ratio",1," 0.026","0.035","1.026","4.57e-01",NA,NA,NA,0.00789255
+"CFAP251","Brain","ALZ","Wald ratio",1,"-0.020","0.026","0.981","4.58e-01",NA,NA,NA,0.006856055
+"CASQ1","Brain","ALZ","Wald ratio",1,"-0.027","0.036","0.973","4.59e-01",NA,NA,NA,0.006519125
+"BTRC","Brain","ALZ","Wald ratio",1," 0.028","0.038","1.028","4.59e-01",NA,NA,NA,0.006518565
+"PTCSC2","Brain","ALZ","Wald ratio",1,"-0.030","0.041","0.970","4.61e-01",NA,NA,NA,0.009391377
+"TRPM1","Brain","ALZ","Wald ratio",1," 0.017","0.023","1.017","4.61e-01",NA,NA,NA,0.006442369
+"ANKRD28","Brain","ALZ","Wald ratio",1," 0.032","0.043","1.032","4.61e-01",NA,NA,NA,0.007662596
+"SOX30","Brain","ALZ","Wald ratio",1," 0.014","0.019","1.014","4.62e-01",NA,NA,NA,0.006625472
+"SMARCB1","Brain","ALZ","Wald ratio",1," 0.014","0.019","1.014","4.63e-01",NA,NA,NA,0.006365491
+"CNTNAP2","Brain","ALZ","Inverse variance weighted",2," 0.013","0.018","1.013","4.64e-01",NA,0.955798283,NA,0.006631344
+"RUBCN","Brain","ALZ","Wald ratio",1,"-0.034","0.047","0.966","4.64e-01",NA,NA,NA,0.011059694
+"PGM2","Brain","ALZ","Wald ratio",1," 0.013","0.018","1.013","4.65e-01",NA,NA,NA,0.006471979
+"ENSG00000237356","Brain","ALZ","Wald ratio",1," 0.019","0.026","1.019","4.66e-01",NA,NA,NA,0.007174228
+"ITGAD","Brain","ALZ","Wald ratio",1," 0.045","0.061","1.046","4.66e-01",NA,NA,NA,0.01271407
+"CFAP61","Brain","ALZ","Wald ratio",1,"-0.025","0.034","0.976","4.67e-01",NA,NA,NA,0.006655201
+"DYNC2LI1","Brain","ALZ","Wald ratio",1,"-0.099","0.136","0.906","4.67e-01",NA,NA,NA,0.02450765
+"RNF213","Brain","ALZ","Wald ratio",1,"-0.009","0.012","0.991","4.67e-01",NA,NA,NA,0.006395307
+"USP40","Brain","ALZ","Wald ratio",1,"-0.029","0.040","0.971","4.67e-01",NA,NA,NA,0.007798261
+"STK32C","Brain","ALZ","Wald ratio",1,"-0.027","0.037","0.973","4.68e-01",NA,NA,NA,0.008678445
+"MED13L","Brain","ALZ","Wald ratio",1,"-0.030","0.041","0.971","4.70e-01",NA,NA,NA,0.007204044
+"FAM167A","Brain","ALZ","Wald ratio",1," 0.011","0.015","1.011","4.70e-01",NA,NA,NA,0.006502111
+"ZSCAN16-AS1","Brain","ALZ","Wald ratio",1,"-0.025","0.034","0.976","4.70e-01",NA,NA,NA,0.012846778
+"CCDC77","Brain","ALZ","Wald ratio",1,"-0.023","0.032","0.977","4.70e-01",NA,NA,NA,0.007387064
+"ZNF79","Brain","ALZ","Wald ratio",1,"-0.015","0.021","0.985","4.71e-01",NA,NA,NA,0.010097457
+"NOTCH1","Brain","ALZ","Wald ratio",1," 0.017","0.024","1.017","4.71e-01",NA,NA,NA,0.006685432
+"CDH13","Brain","ALZ","Wald ratio",1,"-0.018","0.025","0.983","4.72e-01",NA,NA,NA,0.005447416
+"OFCC1","Brain","ALZ","Wald ratio",1," 0.010","0.015","1.011","4.72e-01",NA,NA,NA,0.006868646
+"ENSG00000125695","Brain","ALZ","Wald ratio",1,"-0.015","0.021","0.985","4.73e-01",NA,NA,NA,0.006792369
+"NGEF","Brain","ALZ","Wald ratio",1,"-0.013","0.018","0.987","4.74e-01",NA,NA,NA,0.006532741
+"C1orf112","Brain","ALZ","Wald ratio",1," 0.035","0.048","1.035","4.75e-01",NA,NA,NA,0.0104884
+"AXDND1","Brain","ALZ","Wald ratio",1,"-0.018","0.025","0.982","4.75e-01",NA,NA,NA,0.006272873
+"FRMD3-AS1","Brain","ALZ","Wald ratio",1," 0.015","0.021","1.015","4.77e-01",NA,NA,NA,0.007082602
+"YEATS2","Brain","ALZ","Wald ratio",1,"-0.025","0.035","0.976","4.77e-01",NA,NA,NA,0.006639966
+"SUCLG2","Brain","ALZ","Wald ratio",1,"-0.022","0.031","0.978","4.77e-01",NA,NA,NA,0.006639968
+"JAML","Brain","ALZ","Wald ratio",1,"-0.019","0.027","0.981","4.78e-01",NA,NA,NA,0.006380269
+"DPY19L4","Brain","ALZ","Wald ratio",1,"-0.020","0.029","0.980","4.79e-01",NA,NA,NA,0.006747314
+"CHRDL2","Brain","ALZ","Wald ratio",1," 0.037","0.052","1.037","4.82e-01",NA,NA,NA,0.015088201
+"ARHGAP28","Brain","ALZ","Wald ratio",1,"-0.016","0.023","0.984","4.83e-01",NA,NA,NA,0.006595416
+"ENSG00000251357","Brain","ALZ","Wald ratio",1," 0.017","0.024","1.017","4.83e-01",NA,NA,NA,0.007221257
+"PIDD1","Brain","ALZ","Wald ratio",1,"-0.021","0.031","0.979","4.87e-01",NA,NA,NA,0.007253169
+"ENSG00000272305","Brain","ALZ","Wald ratio",1," 0.018","0.026","1.018","4.89e-01",NA,NA,NA,0.006551761
+"ENSG00000260086","Brain","ALZ","Wald ratio",1,"-0.013","0.019","0.987","4.89e-01",NA,NA,NA,0.006551761
+"FRAS1","Brain","ALZ","Wald ratio",1,"-0.031","0.044","0.970","4.90e-01",NA,NA,NA,0.007726651
+"R3HCC1","Brain","ALZ","Wald ratio",1,"-0.026","0.037","0.975","4.90e-01",NA,NA,NA,0.00691887
+"DNAJC15","Brain","ALZ","Wald ratio",1,"-0.013","0.019","0.987","4.90e-01",NA,NA,NA,0.007285466
+"MOV10L1","Brain","ALZ","Wald ratio",1," 0.023","0.033","1.023","4.91e-01",NA,NA,NA,0.007468564
+"XYLT1","Brain","ALZ","Wald ratio",1,"-0.031","0.045","0.969","4.91e-01",NA,NA,NA,0.007651162
+"ENSG00000176593","Brain","ALZ","Wald ratio",1," 0.018","0.026","1.018","4.92e-01",NA,NA,NA,0.006216739
+"ZNF429","Brain","ALZ","Wald ratio",1," 0.010","0.015","1.010","4.94e-01",NA,NA,NA,0.006951526
+"PLB1","Brain","ALZ","Wald ratio",1,"-0.016","0.023","0.984","4.95e-01",NA,NA,NA,0.00632516
+"MAML3","Brain","ALZ","Wald ratio",1," 0.020","0.030","1.021","4.95e-01",NA,NA,NA,0.010378503
+"ARMH1","Brain","ALZ","Wald ratio",1," 0.032","0.047","1.033","4.95e-01",NA,NA,NA,0.00786627
+"ZFAND2A-DT","Brain","ALZ","Wald ratio",1,"-0.019","0.027","0.982","4.95e-01",NA,NA,NA,0.00669269
+"LINC02558","Brain","ALZ","Wald ratio",1," 0.031","0.046","1.032","4.97e-01",NA,NA,NA,0.011385701
+"COL27A1","Brain","ALZ","Wald ratio",1," 0.012","0.018","1.012","4.97e-01",NA,NA,NA,0.006801056
+"SLC25A24","Brain","ALZ","Wald ratio",1,"-0.015","0.023","0.985","4.98e-01",NA,NA,NA,0.007351162
+"SCPEP1","Brain","ALZ","Wald ratio",1," 0.028","0.042","1.029","4.99e-01",NA,NA,NA,0.010156301
+"KY","Brain","ALZ","Wald ratio",1,"-0.015","0.021","0.986","4.99e-01",NA,NA,NA,0.006358393
+"IQSEC1","Brain","ALZ","Wald ratio",1," 0.026","0.038","1.026","4.99e-01",NA,NA,NA,0.00690947
+"PPM1H","Brain","ALZ","Wald ratio",1,"-0.037","0.055","0.964","5.01e-01",NA,NA,NA,0.010730988
+"ABCA5","Brain","ALZ","Wald ratio",1,"-0.029","0.043","0.972","5.06e-01",NA,NA,NA,0.008804542
+"STRA8","Brain","ALZ","Wald ratio",1," 0.015","0.022","1.015","5.07e-01",NA,NA,NA,0.006609828
+"COLEC11","Brain","ALZ","Wald ratio",1,"-0.017","0.025","0.984","5.09e-01",NA,NA,NA,0.00653509
+"GSTM5","Brain","ALZ","Wald ratio",1,"-0.022","0.033","0.979","5.09e-01",NA,NA,NA,0.006167292
+"ZNF117","Brain","ALZ","Wald ratio",1," 0.013","0.020","1.013","5.11e-01",NA,NA,NA,0.006092541
+"PSMF1","Brain","ALZ","Wald ratio",1," 0.026","0.040","1.027","5.12e-01",NA,NA,NA,0.009417789
+"MGLL","Brain","ALZ","Wald ratio",1,"-0.045","0.068","0.956","5.13e-01",NA,NA,NA,0.014145758
+"ENSG00000241345","Brain","ALZ","Wald ratio",1," 0.022","0.033","1.022","5.13e-01",NA,NA,NA,0.007778284
+"EXOC2","Brain","ALZ","Wald ratio",1," 0.015","0.023","1.015","5.13e-01",NA,NA,NA,0.00620192
+"PDE2A","Brain","ALZ","Wald ratio",1,"-0.010","0.016","0.990","5.13e-01",NA,NA,NA,0.00620192
+"LARS2","Brain","ALZ","Wald ratio",1,"-0.039","0.061","0.961","5.15e-01",NA,NA,NA,0.014179149
+"HMGA1P7","Brain","ALZ","Wald ratio",1,"-0.030","0.046","0.970","5.16e-01",NA,NA,NA,0.010752433
+"SZT2","Brain","ALZ","Wald ratio",1," 0.018","0.028","1.018","5.18e-01",NA,NA,NA,0.006052916
+"HDAC4","Brain","ALZ","Simple mode",3," 0.023","0.030","1.024","5.18e-01",0.386082264,0.3661599,0.463534458,0.00868807
+"EEF1D","Brain","ALZ","Wald ratio",1,"-0.033","0.051","0.968","5.19e-01",NA,NA,NA,0.012542231
+"ANKEF1","Brain","ALZ","Wald ratio",1,"-0.027","0.042","0.974","5.24e-01",NA,NA,NA,0.006858424
+"FOXN2","Brain","ALZ","Wald ratio",1," 0.015","0.024","1.015","5.25e-01",NA,NA,NA,0.006014156
+"CALN1","Brain","ALZ","Wald ratio",1," 0.021","0.034","1.022","5.26e-01",NA,NA,NA,0.006968272
+"PDXK","Brain","ALZ","Wald ratio",1,"-0.053","0.084","0.948","5.26e-01",NA,NA,NA,0.019575886
+"ADGRE5","Brain","ALZ","Wald ratio",1,"-0.073","0.115","0.930","5.26e-01",NA,NA,NA,0.021228327
+"LINC01076","Brain","ALZ","Wald ratio",1,"-0.016","0.025","0.985","5.26e-01",NA,NA,NA,0.007918751
+"TRIM5","Brain","ALZ","Wald ratio",1," 0.022","0.035","1.022","5.27e-01",NA,NA,NA,0.00594006
+"ENSG00000228793","Brain","ALZ","Inverse variance weighted",2," 0.010","0.015","1.010","5.28e-01",NA,0.343744748,NA,0.005534611
+"HLA-C","Brain","ALZ","Wald ratio",1," 0.031","0.049","1.031","5.28e-01",NA,NA,NA,0.008319226
+"CDH23","Brain","ALZ","Wald ratio",1," 0.026","0.041","1.026","5.29e-01",NA,NA,NA,0.007479799
+"PRPH2","Brain","ALZ","Wald ratio",1," 0.009","0.015","1.009","5.30e-01",NA,NA,NA,0.006637402
+"C14orf132","Brain","ALZ","Wald ratio",1,"-0.084","0.133","0.920","5.31e-01",NA,NA,NA,0.022489714
+"HS6ST1","Brain","ALZ","Wald ratio",1," 0.028","0.044","1.028","5.31e-01",NA,NA,NA,0.00692917
+"TYW3","Brain","ALZ","Wald ratio",1,"-0.014","0.022","0.986","5.33e-01",NA,NA,NA,0.006086387
+"PFKL","Brain","ALZ","Wald ratio",1,"-0.017","0.027","0.983","5.34e-01",NA,NA,NA,0.00619653
+"GRM3","Brain","ALZ","Wald ratio",1,"-0.022","0.035","0.978","5.35e-01",NA,NA,NA,0.006012699
+"CFAP221","Brain","ALZ","Wald ratio",1," 0.031","0.050","1.031","5.37e-01",NA,NA,NA,0.008609435
+"STN1","Brain","ALZ","Wald ratio",1,"-0.018","0.029","0.982","5.40e-01",NA,NA,NA,0.005865725
+"GMDS-DT","Brain","ALZ","Wald ratio",1," 0.015","0.024","1.015","5.44e-01",NA,NA,NA,0.005902933
+"BTBD7","Brain","ALZ","Wald ratio",1,"-0.023","0.038","0.977","5.45e-01",NA,NA,NA,0.007370223
+"SHANK2","Brain","ALZ","Wald ratio",1,"-0.020","0.034","0.980","5.46e-01",NA,NA,NA,0.006601166
+"WLS","Brain","ALZ","Wald ratio",1,"-0.017","0.028","0.983","5.47e-01",NA,NA,NA,0.006417899
+"PLPP2","Brain","ALZ","Wald ratio",1," 0.025","0.041","1.025","5.47e-01",NA,NA,NA,0.007297524
+"CACNA1C","Brain","ALZ","Wald ratio",1," 0.015","0.024","1.015","5.49e-01",NA,NA,NA,0.005940435
+"KCNQ3","Brain","ALZ","Wald ratio",1," 0.021","0.035","1.021","5.49e-01",NA,NA,NA,0.006821717
+"CLYBL","Brain","ALZ","Wald ratio",1," 0.026","0.044","1.026","5.53e-01",NA,NA,NA,0.009701326
+"RORB","Brain","ALZ","Wald ratio",1," 0.017","0.029","1.017","5.53e-01",NA,NA,NA,0.006969654
+"ENSG00000290548","Brain","ALZ","Wald ratio",1," 0.012","0.019","1.012","5.53e-01",NA,NA,NA,0.006676415
+"H2AC25","Brain","ALZ","Wald ratio",1," 0.018","0.030","1.018","5.54e-01",NA,NA,NA,0.006088921
+"CEP104","Brain","ALZ","Wald ratio",1," 0.016","0.027","1.016","5.55e-01",NA,NA,NA,0.006493382
+"ERGIC1","Brain","ALZ","Wald ratio",1,"-0.008","0.013","0.992","5.55e-01",NA,NA,NA,0.00590549
+"CYP27C1","Brain","ALZ","Wald ratio",1,"-0.023","0.038","0.978","5.57e-01",NA,NA,NA,0.008396209
+"JRK","Brain","ALZ","Wald ratio",1," 0.016","0.028","1.016","5.57e-01",NA,NA,NA,0.007410594
+"CASC23","Brain","ALZ","Wald ratio",1," 0.020","0.034","1.020","5.58e-01",NA,NA,NA,0.005832866
+"AMPD3","Brain","ALZ","Wald ratio",1,"-0.009","0.015","0.991","5.59e-01",NA,NA,NA,0.005943747
+"SNX25","Brain","ALZ","Wald ratio",1,"-0.019","0.032","0.981","5.62e-01",NA,NA,NA,0.005871331
+"LYPD5","Brain","ALZ","Wald ratio",1," 0.017","0.030","1.017","5.62e-01",NA,NA,NA,0.008472238
+"FAM171B","Brain","ALZ","Wald ratio",1,"-0.019","0.033","0.981","5.65e-01",NA,NA,NA,0.005799033
+"ZNF316","Brain","ALZ","Wald ratio",1," 0.017","0.029","1.017","5.69e-01",NA,NA,NA,0.006647219
+"SLC19A1","Brain","ALZ","Wald ratio",1," 0.014","0.025","1.015","5.69e-01",NA,NA,NA,0.006647219
+"TTC7B","Brain","ALZ","Inverse variance weighted",3," 0.011","0.019","1.011","5.69e-01",0.222463763,0.382414413,0.684765645,0.005096889
+"MSRA","Brain","ALZ","Wald ratio",1," 0.069","0.122","1.072","5.71e-01",NA,NA,NA,0.022846718
+"ENSG00000241449","Brain","ALZ","Wald ratio",1," 0.027","0.047","1.027","5.72e-01",NA,NA,NA,0.00931652
+"CPMER","Brain","ALZ","Wald ratio",1,"-0.019","0.034","0.981","5.75e-01",NA,NA,NA,0.005805319
+"LINC01915","Brain","ALZ","Inverse variance weighted",2," 0.016","0.028","1.016","5.76e-01",NA,0.074360038,NA,0.01065572
+"SLC28A1","Brain","ALZ","Wald ratio",1,"-0.028","0.051","0.972","5.79e-01",NA,NA,NA,0.007791022
+"GALNT17","Brain","ALZ","Wald ratio",1,"-0.020","0.036","0.980","5.79e-01",NA,NA,NA,0.00584483
+"IFT140","Brain","ALZ","Wald ratio",1,"-0.018","0.033","0.982","5.81e-01",NA,NA,NA,0.006582708
+"TUBB8","Brain","ALZ","Wald ratio",1,"-0.045","0.081","0.956","5.81e-01",NA,NA,NA,0.018527977
+"ENSG00000226824","Brain","ALZ","Wald ratio",1," 0.018","0.032","1.018","5.81e-01",NA,NA,NA,0.006178392
+"ENPP6","Brain","ALZ","Wald ratio",1,"-0.016","0.029","0.984","5.82e-01",NA,NA,NA,0.005773463
+"ZNF236-DT","Brain","ALZ","Wald ratio",1,"-0.014","0.026","0.986","5.84e-01",NA,NA,NA,0.006733373
+"DYRK4","Brain","ALZ","Wald ratio",1,"-0.014","0.025","0.986","5.85e-01",NA,NA,NA,0.006218268
+"LINC01841","Brain","ALZ","Wald ratio",1,"-0.019","0.035","0.981","5.87e-01",NA,NA,NA,0.005924744
+"ENSG00000241525","Brain","ALZ","Wald ratio",1," 0.011","0.020","1.011","5.87e-01",NA,NA,NA,0.006662403
+"ENSG00000285535","Brain","ALZ","Wald ratio",1," 0.017","0.032","1.017","5.88e-01",NA,NA,NA,0.006258342
+"KIF5C","Brain","ALZ","Wald ratio",1,"-0.035","0.064","0.966","5.89e-01",NA,NA,NA,0.00980842
+"CCDC88C","Brain","ALZ","Inverse variance weighted",2,"-0.022","0.042","0.978","5.92e-01",NA,0.104907735,NA,0.023034032
+"CNMD","Brain","ALZ","Wald ratio",1," 0.033","0.061","1.033","5.93e-01",NA,NA,NA,0.013911717
+"LINC02457","Brain","ALZ","Wald ratio",1,"-0.010","0.019","0.990","5.94e-01",NA,NA,NA,0.006116666
+"HLA-DRB6","Brain","ALZ","Wald ratio",1,"-0.066","0.125","0.936","5.96e-01",NA,NA,NA,0.032336631
+"PDE1C","Brain","ALZ","Inverse variance weighted",2,"-0.024","0.045","0.976","5.97e-01",NA,0.062096015,NA,0.006564276
+"ITPR2","Brain","ALZ","Wald ratio",1," 0.020","0.037","1.020","5.99e-01",NA,NA,NA,0.006601896
+"SLC39A10","Brain","ALZ","Wald ratio",1," 0.015","0.029","1.016","6.00e-01",NA,NA,NA,0.005864152
+"PFKP","Brain","ALZ","Wald ratio",1,"-0.021","0.039","0.980","6.00e-01",NA,NA,NA,0.005975125
+"CCDC163","Brain","ALZ","Wald ratio",1,"-0.013","0.025","0.987","6.03e-01",NA,NA,NA,0.005793735
+"ADGRG7","Brain","ALZ","Wald ratio",1," 0.054","0.104","1.055","6.05e-01",NA,NA,NA,0.033031762
+"ANKRD18B","Brain","ALZ","Wald ratio",1," 0.010","0.019","1.010","6.07e-01",NA,NA,NA,0.0059463
+"LRRC8A","Brain","ALZ","Wald ratio",1," 0.021","0.042","1.022","6.08e-01",NA,NA,NA,0.006502455
+"NTNG2","Brain","ALZ","Wald ratio",1,"-0.017","0.032","0.984","6.10e-01",NA,NA,NA,0.005653336
+"AATK","Brain","ALZ","Wald ratio",1,"-0.019","0.038","0.981","6.12e-01",NA,NA,NA,0.007431259
+"ANAPC5","Brain","ALZ","Wald ratio",1,"-0.032","0.063","0.968","6.12e-01",NA,NA,NA,0.012207175
+"MYOM2","Brain","ALZ","Wald ratio",1," 0.013","0.025","1.013","6.14e-01",NA,NA,NA,0.005694876
+"SFTPD","Brain","ALZ","Wald ratio",1,"-0.012","0.024","0.988","6.14e-01",NA,NA,NA,0.005694876
+"MYOCOS","Brain","ALZ","Wald ratio",1," 0.019","0.037","1.019","6.14e-01",NA,NA,NA,0.006029126
+"SLC45A4","Brain","ALZ","Wald ratio",1,"-0.015","0.031","0.985","6.17e-01",NA,NA,NA,0.005625089
+"CACUL1","Brain","ALZ","Wald ratio",1,"-0.019","0.038","0.981","6.17e-01",NA,NA,NA,0.005847927
+"SLC27A1","Brain","ALZ","Wald ratio",1," 0.013","0.027","1.013","6.17e-01",NA,NA,NA,0.005848038
+"ZNF302","Brain","ALZ","Wald ratio",1," 0.013","0.026","1.013","6.20e-01",NA,NA,NA,0.006223906
+"LBHD1","Brain","ALZ","Wald ratio",1,"-0.017","0.035","0.983","6.20e-01",NA,NA,NA,0.006001277
+"TMC2","Brain","ALZ","Wald ratio",1," 0.007","0.014","1.007","6.21e-01",NA,NA,NA,0.005666983
+"LINC00390","Brain","ALZ","Wald ratio",1,"-0.021","0.043","0.979","6.22e-01",NA,NA,NA,0.0079289
+"SPATC1L","Brain","ALZ","Wald ratio",1," 0.018","0.036","1.018","6.24e-01",NA,NA,NA,0.008632372
+"ADARB2","Brain","ALZ","Wald ratio",1," 0.013","0.027","1.014","6.24e-01",NA,NA,NA,0.005597538
+"ENSG00000289299","Brain","ALZ","Wald ratio",1,"-0.117","0.240","0.889","6.24e-01",NA,NA,NA,0.037172861
+"RPH3AL","Brain","ALZ","Wald ratio",1," 0.022","0.046","1.023","6.25e-01",NA,NA,NA,0.007860126
+"TOGARAM2","Brain","ALZ","Wald ratio",1," 0.007","0.015","1.007","6.26e-01",NA,NA,NA,0.006863421
+"POLE2","Brain","ALZ","Wald ratio",1," 0.018","0.037","1.018","6.26e-01",NA,NA,NA,0.006641372
+"CNPPD1","Brain","ALZ","Wald ratio",1,"-0.014","0.028","0.987","6.31e-01",NA,NA,NA,0.005570673
+"SMG1P2","Brain","ALZ","Wald ratio",1,"-0.009","0.020","0.991","6.33e-01",NA,NA,NA,0.006281321
+"ENSG00000286760","Brain","ALZ","Wald ratio",1,"-0.017","0.036","0.983","6.35e-01",NA,NA,NA,0.006657148
+"CNTN3","Brain","ALZ","Wald ratio",1," 0.038","0.081","1.039","6.36e-01",NA,NA,NA,0.015185259
+"TRIM2","Brain","ALZ","Wald ratio",1," 0.012","0.025","1.012","6.38e-01",NA,NA,NA,0.005767381
+"LCLAT1","Brain","ALZ","Wald ratio",1," 0.009","0.020","1.009","6.38e-01",NA,NA,NA,0.006588659
+"HSD17B4","Brain","ALZ","Wald ratio",1,"-0.013","0.027","0.987","6.38e-01",NA,NA,NA,0.005544487
+"MADCAM1","Brain","ALZ","Wald ratio",1,"-0.022","0.047","0.978","6.40e-01",NA,NA,NA,0.006963835
+"LINC01166","Brain","ALZ","Wald ratio",1," 0.015","0.033","1.016","6.42e-01",NA,NA,NA,0.005475902
+"NECTIN3-AS1","Brain","ALZ","Wald ratio",1," 0.036","0.078","1.037","6.43e-01",NA,NA,NA,0.012121064
+"SNF8","Brain","ALZ","Wald ratio",1," 0.012","0.026","1.012","6.43e-01",NA,NA,NA,0.00607571
+"ALG1L9P","Brain","ALZ","Wald ratio",1,"-0.007","0.016","0.993","6.43e-01",NA,NA,NA,0.00607571
+"ALDH3A1","Brain","ALZ","Wald ratio",1,"-0.011","0.023","0.989","6.44e-01",NA,NA,NA,0.006674144
+"CCDC149","Brain","ALZ","Wald ratio",1," 0.015","0.032","1.015","6.45e-01",NA,NA,NA,0.005630403
+"MGMT","Brain","ALZ","Wald ratio",1," 0.018","0.039","1.018","6.45e-01",NA,NA,NA,0.006229875
+"SERPINB1","Brain","ALZ","Wald ratio",1," 0.017","0.037","1.017","6.46e-01",NA,NA,NA,0.005407047
+"RAD21L1","Brain","ALZ","Wald ratio",1," 0.017","0.038","1.017","6.47e-01",NA,NA,NA,0.005896188
+"AK8","Brain","ALZ","Wald ratio",1,"-0.007","0.016","0.993","6.48e-01",NA,NA,NA,0.005673561
+"NAV2","Brain","ALZ","Inverse variance weighted",2,"-0.011","0.024","0.989","6.48e-01",NA,0.18180698,NA,0.016018855
+"TMEM70","Brain","ALZ","Wald ratio",1,"-0.015","0.032","0.986","6.50e-01",NA,NA,NA,0.007731405
+"PRKN","Brain","ALZ","Wald ratio",1,"-0.014","0.030","0.987","6.52e-01",NA,NA,NA,0.00836858
+"C8orf34","Brain","ALZ","Wald ratio",1,"-0.017","0.037","0.984","6.53e-01",NA,NA,NA,0.005493891
+"CHD9","Brain","ALZ","Wald ratio",1,"-0.012","0.026","0.988","6.56e-01",NA,NA,NA,0.005537617
+"SORBS2","Brain","ALZ","Wald ratio",1,"-0.021","0.048","0.979","6.56e-01",NA,NA,NA,0.008454518
+"RTP4","Brain","ALZ","Wald ratio",1,"-0.013","0.028","0.988","6.57e-01",NA,NA,NA,0.005803774
+"LINC00910","Brain","ALZ","Wald ratio",1,"-0.017","0.038","0.983","6.58e-01",NA,NA,NA,0.006668105
+"LINC01181","Brain","ALZ","Wald ratio",1," 0.013","0.030","1.013","6.60e-01",NA,NA,NA,0.005469915
+"TTC7B","Brain","ALZ","MR Egger",3," 0.118","0.199","1.125","6.60e-01",0.222463763,0.382414413,0.684765645,0.005096889
+"RNASEH2B","Brain","ALZ","Wald ratio",1," 0.045","0.104","1.046","6.62e-01",NA,NA,NA,0.017194007
+"MIR3667HG","Brain","ALZ","Inverse variance weighted",2," 0.016","0.036","1.016","6.67e-01",NA,0.172019904,NA,0.0141061
+"ADA2","Brain","ALZ","Wald ratio",1," 0.022","0.051","1.022","6.68e-01",NA,NA,NA,0.007967321
+"CCDC188BP","Brain","ALZ","Wald ratio",1,"-0.025","0.058","0.975","6.68e-01",NA,NA,NA,0.008340077
+"CTSB","Brain","ALZ","Wald ratio",1,"-0.011","0.026","0.989","6.69e-01",NA,NA,NA,0.006355752
+"VSTM2B-DT","Brain","ALZ","Wald ratio",1," 0.017","0.039","1.017","6.70e-01",NA,NA,NA,0.005867792
+"COL23A1","Brain","ALZ","Inverse variance weighted",2,"-0.013","0.030","0.987","6.71e-01",NA,0.010516161,NA,0.03220006
+"ENSG00000258982","Brain","ALZ","Wald ratio",1,"-0.013","0.031","0.987","6.71e-01",NA,NA,NA,0.005379208
+"ROBO2","Brain","ALZ","Wald ratio",1,"-0.020","0.047","0.980","6.74e-01",NA,NA,NA,0.006819321
+"KCNK1","Brain","ALZ","Wald ratio",1," 0.018","0.044","1.018","6.75e-01",NA,NA,NA,0.007988457
+"PFKFB3","Brain","ALZ","Wald ratio",1," 0.019","0.046","1.019","6.76e-01",NA,NA,NA,0.007614225
+"SORBS3","Brain","ALZ","Wald ratio",1,"-0.009","0.022","0.991","6.76e-01",NA,NA,NA,0.005578893
+"MET","Brain","ALZ","Wald ratio",1,"-0.010","0.024","0.990","6.78e-01",NA,NA,NA,0.005089782
+"DNAJB13","Brain","ALZ","Wald ratio",1,"-0.037","0.091","0.963","6.81e-01",NA,NA,NA,0.012832869
+"ENSG00000258702","Brain","ALZ","Wald ratio",1,"-0.023","0.057","0.977","6.82e-01",NA,NA,NA,0.008008815
+"ENSG00000269504","Brain","ALZ","Wald ratio",1," 0.012","0.029","1.012","6.83e-01",NA,NA,NA,0.007371792
+"ACOX3","Brain","ALZ","Wald ratio",1,"-0.010","0.024","0.990","6.83e-01",NA,NA,NA,0.005556771
+"PMS1","Brain","ALZ","Wald ratio",1,"-0.009","0.023","0.991","6.85e-01",NA,NA,NA,0.00597861
+"MOXD1","Brain","ALZ","Wald ratio",1,"-0.016","0.039","0.984","6.86e-01",NA,NA,NA,0.006510372
+"ASCL5","Brain","ALZ","Wald ratio",1,"-0.013","0.033","0.987","6.86e-01",NA,NA,NA,0.005334737
+"KCNJ12","Brain","ALZ","Wald ratio",1," 0.015","0.037","1.015","6.87e-01",NA,NA,NA,0.006399802
+"MOBP","Brain","ALZ","Wald ratio",1," 0.014","0.035","1.014","6.88e-01",NA,NA,NA,0.00682032
+"ARHGEF7","Brain","ALZ","Wald ratio",1,"-0.007","0.016","0.993","6.89e-01",NA,NA,NA,0.005379503
+"CHD1L","Brain","ALZ","Wald ratio",1,"-0.015","0.038","0.985","6.89e-01",NA,NA,NA,0.005378694
+"MCF2L","Brain","ALZ","Wald ratio",1,"-0.007","0.017","0.993","6.89e-01",NA,NA,NA,0.006709929
+"CAPZB","Brain","ALZ","Wald ratio",1," 0.011","0.028","1.011","6.91e-01",NA,NA,NA,0.005535253
+"ENSG00000288571","Brain","ALZ","Wald ratio",1," 0.006","0.014","1.006","6.91e-01",NA,NA,NA,0.005001533
+"TMCO3","Brain","ALZ","Wald ratio",1," 0.011","0.029","1.012","6.92e-01",NA,NA,NA,0.00595725
+"MAPK13","Brain","ALZ","Wald ratio",1," 0.007","0.019","1.008","6.93e-01",NA,NA,NA,0.006378583
+"TCF20","Brain","ALZ","Wald ratio",1,"-0.048","0.123","0.953","6.96e-01",NA,NA,NA,0.017483649
+"ST6GAL1","Brain","ALZ","Wald ratio",1," 0.010","0.025","1.010","6.97e-01",NA,NA,NA,0.005358462
+"PDCD6","Brain","ALZ","Wald ratio",1,"-0.016","0.042","0.984","6.97e-01",NA,NA,NA,0.008210965
+"ATP12A","Brain","ALZ","Wald ratio",1,"-0.025","0.065","0.975","7.01e-01",NA,NA,NA,0.011418559
+"C1orf159","Brain","ALZ","Wald ratio",1,"-0.019","0.050","0.981","7.04e-01",NA,NA,NA,0.008652774
+"ENSG00000269758","Brain","ALZ","Wald ratio",1," 0.010","0.026","1.010","7.04e-01",NA,NA,NA,0.006447948
+"CDKL1","Brain","ALZ","Wald ratio",1,"-0.015","0.040","0.985","7.04e-01",NA,NA,NA,0.005760277
+"FEZ2","Brain","ALZ","Wald ratio",1,"-0.010","0.026","0.990","7.04e-01",NA,NA,NA,0.005760451
+"CD6","Brain","ALZ","Wald ratio",1,"-0.011","0.028","0.989","7.05e-01",NA,NA,NA,0.005494008
+"LINC02579","Brain","ALZ","Wald ratio",1," 0.013","0.036","1.014","7.05e-01",NA,NA,NA,0.005493997
+"CALHM4","Brain","ALZ","Wald ratio",1,"-0.015","0.040","0.985","7.06e-01",NA,NA,NA,0.005649055
+"TMED4","Brain","ALZ","Wald ratio",1,"-0.007","0.020","0.993","7.07e-01",NA,NA,NA,0.005383368
+"ARSI","Brain","ALZ","Wald ratio",1,"-0.015","0.039","0.985","7.08e-01",NA,NA,NA,0.007223611
+"AK6","Brain","ALZ","Wald ratio",1,"-0.012","0.032","0.988","7.08e-01",NA,NA,NA,0.005116579
+"PCAT1","Brain","ALZ","Wald ratio",1,"-0.013","0.034","0.987","7.09e-01",NA,NA,NA,0.006272666
+"TTYH2","Brain","ALZ","Wald ratio",1,"-0.015","0.039","0.986","7.09e-01",NA,NA,NA,0.005427686
+"PLD5","Brain","ALZ","Wald ratio",1," 0.011","0.030","1.011","7.12e-01",NA,NA,NA,0.005474267
+"LIPA","Brain","ALZ","Wald ratio",1,"-0.013","0.035","0.987","7.13e-01",NA,NA,NA,0.007623429
+"LGI4","Brain","ALZ","Wald ratio",1,"-0.011","0.029","0.989","7.13e-01",NA,NA,NA,0.005630244
+"FGFR2","Brain","ALZ","Wald ratio",1,"-0.010","0.026","0.990","7.13e-01",NA,NA,NA,0.005630244
+"TIAM1","Brain","ALZ","Wald ratio",1,"-0.020","0.054","0.980","7.14e-01",NA,NA,NA,0.007932446
+"PCMTD2","Brain","ALZ","Wald ratio",1,"-0.015","0.042","0.985","7.16e-01",NA,NA,NA,0.006253224
+"CTBP2","Brain","ALZ","Wald ratio",1,"-0.010","0.028","0.990","7.16e-01",NA,NA,NA,0.005253271
+"LTBR","Brain","ALZ","Wald ratio",1,"-0.012","0.033","0.988","7.17e-01",NA,NA,NA,0.005565453
+"ATAD3A","Brain","ALZ","Wald ratio",1," 0.032","0.088","1.032","7.18e-01",NA,NA,NA,0.024722151
+"ESF1","Brain","ALZ","Wald ratio",1,"-0.011","0.031","0.989","7.19e-01",NA,NA,NA,0.007913663
+"ENSG00000291212","Brain","ALZ","Wald ratio",1,"-0.010","0.028","0.990","7.20e-01",NA,NA,NA,0.006188774
+"PDXDC1","Brain","ALZ","Wald ratio",1," 0.016","0.045","1.016","7.20e-01",NA,NA,NA,0.009670338
+"DNAJB11","Brain","ALZ","Wald ratio",1," 0.015","0.041","1.015","7.24e-01",NA,NA,NA,0.007895121
+"CIT","Brain","ALZ","Wald ratio",1,"-0.012","0.035","0.988","7.25e-01",NA,NA,NA,0.00554671
+"DRAXIN","Brain","ALZ","Inverse variance weighted",2," 0.009","0.026","1.009","7.26e-01",NA,0.712111538,NA,0.006321495
+"ZBTB46","Brain","ALZ","Wald ratio",1," 0.011","0.032","1.011","7.26e-01",NA,NA,NA,0.00528035
+"LANCL2","Brain","ALZ","Wald ratio",1," 0.012","0.033","1.012","7.27e-01",NA,NA,NA,0.005436522
+"ENSG00000283914","Brain","ALZ","Wald ratio",1,"-0.007","0.019","0.993","7.29e-01",NA,NA,NA,0.006527202
+"TCF20","Brain","ALZ","Wald ratio",1," 0.018","0.052","1.018","7.30e-01",NA,NA,NA,0.013383553
+"FBXO32","Brain","ALZ","Wald ratio",1,"-0.013","0.039","0.987","7.32e-01",NA,NA,NA,0.005840498
+"ADGRB3","Brain","ALZ","Inverse variance weighted",2,"-0.013","0.038","0.987","7.33e-01",NA,0.240291642,NA,0.028302666
+"USP16","Brain","ALZ","Wald ratio",1," 0.008","0.023","1.008","7.37e-01",NA,NA,NA,0.005932673
+"TRAPPC9","Brain","ALZ","Inverse variance weighted",2," 0.015","0.046","1.015","7.37e-01",NA,0.044538132,NA,0.029769183
+"PRODH","Brain","ALZ","Wald ratio",1,"-0.016","0.048","0.984","7.37e-01",NA,NA,NA,0.006710363
+"ENSG00000291222","Brain","ALZ","Wald ratio",1," 0.017","0.052","1.017","7.37e-01",NA,NA,NA,0.016219583
+"LINC01992","Brain","ALZ","Wald ratio",1," 0.009","0.026","1.009","7.39e-01",NA,NA,NA,0.005198508
+"RFX8","Brain","ALZ","Wald ratio",1," 0.020","0.059","1.020","7.39e-01",NA,NA,NA,0.009536223
+"DHRS4-AS1","Brain","ALZ","Wald ratio",1," 0.024","0.072","1.024","7.40e-01",NA,NA,NA,0.021157404
+"ENSG00000273077","Brain","ALZ","Wald ratio",1,"-0.013","0.039","0.987","7.43e-01",NA,NA,NA,0.007004185
+"POLR2J","Brain","ALZ","Wald ratio",1,"-0.014","0.043","0.986","7.43e-01",NA,NA,NA,0.006693596
+"CENPX","Brain","ALZ","Wald ratio",1," 0.010","0.031","1.010","7.43e-01",NA,NA,NA,0.005915433
+"SPOCK1","Brain","ALZ","Wald ratio",1,"-0.038","0.115","0.963","7.44e-01",NA,NA,NA,0.019415339
+"ENSG00000231769","Brain","ALZ","Wald ratio",1," 0.012","0.036","1.012","7.46e-01",NA,NA,NA,0.005337642
+"RIBC2","Brain","ALZ","Wald ratio",1,"-0.006","0.019","0.994","7.46e-01",NA,NA,NA,0.005337672
+"TRMT9B","Brain","ALZ","Inverse variance weighted",2," 0.014","0.043","1.014","7.47e-01",NA,0.892197937,NA,0.009756585
+"HDAC4","Brain","ALZ","Inverse variance weighted",3,"-0.005","0.015","0.995","7.47e-01",0.386082264,0.3661599,0.463534458,0.00868807
+"CDH4","Brain","ALZ","Inverse variance weighted",2,"-0.007","0.023","0.993","7.47e-01",NA,0.18183951,NA,0.011820151
+"ENSG00000233754","Brain","ALZ","Wald ratio",1,"-0.009","0.027","0.991","7.48e-01",NA,NA,NA,0.005852262
+"MSC-AS1","Brain","ALZ","Wald ratio",1," 0.010","0.031","1.010","7.49e-01",NA,NA,NA,0.005227955
+"ZNF502","Brain","ALZ","Wald ratio",1,"-0.008","0.024","0.992","7.49e-01",NA,NA,NA,0.006365872
+"CAMK4","Brain","ALZ","Wald ratio",1," 0.008","0.024","1.008","7.50e-01",NA,NA,NA,0.005898701
+"PRKCZ","Brain","ALZ","Wald ratio",1,"-0.010","0.033","0.990","7.50e-01",NA,NA,NA,0.005742793
+"TMEM220","Brain","ALZ","Wald ratio",1," 0.008","0.026","1.008","7.51e-01",NA,NA,NA,0.005274531
+"DHRS4-AS1","Brain","ALZ","Inverse variance weighted",2,"-0.013","0.041","0.987","7.52e-01",NA,0.5128698,NA,0.027738021
+"PDZRN4","Brain","ALZ","Wald ratio",1," 0.009","0.028","1.009","7.52e-01",NA,NA,NA,0.005118268
+"EIF2AK4","Brain","ALZ","Wald ratio",1,"-0.011","0.037","0.989","7.55e-01",NA,NA,NA,0.011241697
+"SEPTIN9","Brain","ALZ","Wald ratio",1,"-0.010","0.034","0.990","7.58e-01",NA,NA,NA,0.005570609
+"ROR1","Brain","ALZ","Wald ratio",1," 0.007","0.022","1.007","7.58e-01",NA,NA,NA,0.006084873
+"LNX2","Brain","ALZ","Wald ratio",1," 0.010","0.033","1.010","7.60e-01",NA,NA,NA,0.005102159
+"KIAA0753","Brain","ALZ","Wald ratio",1,"-0.010","0.033","0.990","7.62e-01",NA,NA,NA,0.005149002
+"VPS41","Brain","ALZ","Wald ratio",1,"-0.010","0.032","0.990","7.62e-01",NA,NA,NA,0.005149003
+"MVK","Brain","ALZ","Wald ratio",1,"-0.006","0.020","0.994","7.62e-01",NA,NA,NA,0.006691256
+"FOLH1B","Brain","ALZ","Wald ratio",1,"-0.010","0.034","0.990","7.63e-01",NA,NA,NA,0.005352039
+"PLSCR2","Brain","ALZ","Wald ratio",1,"-0.009","0.031","0.991","7.64e-01",NA,NA,NA,0.005195889
+"ATP9B","Brain","ALZ","Wald ratio",1," 0.010","0.033","1.010","7.64e-01",NA,NA,NA,0.00571089
+"XXYLT1","Brain","ALZ","Wald ratio",1," 0.006","0.020","1.006","7.65e-01",NA,NA,NA,0.006582554
+"ENSG00000268870","Brain","ALZ","Wald ratio",1,"-0.008","0.026","0.992","7.65e-01",NA,NA,NA,0.006427143
+"PYROXD2","Brain","ALZ","Wald ratio",1," 0.008","0.028","1.008","7.68e-01",NA,NA,NA,0.005804602
+"MCOLN3","Brain","ALZ","Wald ratio",1," 0.012","0.041","1.012","7.69e-01",NA,NA,NA,0.006007186
+"INSR","Brain","ALZ","Wald ratio",1," 0.010","0.034","1.010","7.70e-01",NA,NA,NA,0.005133639
+"NAXD","Brain","ALZ","Wald ratio",1," 0.011","0.039","1.012","7.70e-01",NA,NA,NA,0.007590822
+"SIRT5","Brain","ALZ","Wald ratio",1,"-0.008","0.027","0.992","7.70e-01",NA,NA,NA,0.005492815
+"LINC00595","Brain","ALZ","Wald ratio",1,"-0.007","0.023","0.993","7.73e-01",NA,NA,NA,0.005742694
+"ENSG00000260071","Brain","ALZ","Wald ratio",1,"-0.010","0.035","0.990","7.76e-01",NA,NA,NA,0.005633922
+"PRKACB","Brain","ALZ","Wald ratio",1,"-0.014","0.051","0.986","7.77e-01",NA,NA,NA,0.012590863
+"AKAP12","Brain","ALZ","Wald ratio",1," 0.010","0.036","1.010","7.79e-01",NA,NA,NA,0.005165972
+"ENSG00000286565","Brain","ALZ","Wald ratio",1," 0.009","0.031","1.009","7.80e-01",NA,NA,NA,0.005369299
+"RSPO2","Brain","ALZ","Wald ratio",1,"-0.007","0.025","0.993","7.81e-01",NA,NA,NA,0.00593097
+"C1QTNF6","Brain","ALZ","Wald ratio",1," 0.009","0.034","1.009","7.82e-01",NA,NA,NA,0.005213323
+"SMG5","Brain","ALZ","Wald ratio",1,"-0.009","0.032","0.991","7.83e-01",NA,NA,NA,0.005057276
+"ENSG00000287402","Brain","ALZ","Wald ratio",1,"-0.012","0.044","0.988","7.84e-01",NA,NA,NA,0.007500872
+"SORCS2","Brain","ALZ","Inverse variance weighted",2," 0.005","0.019","1.005","7.87e-01",NA,0.519423914,NA,0.005337038
+"KDM4C","Brain","ALZ","Wald ratio",1," 0.008","0.031","1.008","7.88e-01",NA,NA,NA,0.005355283
+"IP6K3","Brain","ALZ","Wald ratio",1," 0.013","0.049","1.013","7.91e-01",NA,NA,NA,0.006570525
+"MYO15A","Brain","ALZ","Wald ratio",1,"-0.009","0.035","0.991","7.91e-01",NA,NA,NA,0.005043406
+"ATP2B2","Brain","ALZ","Wald ratio",1," 0.010","0.037","1.010","7.91e-01",NA,NA,NA,0.006976091
+"JAKMIP3","Brain","ALZ","Inverse variance weighted",2,"-0.006","0.023","0.994","7.92e-01",NA,0.746438211,NA,0.005823212
+"DNAAF5","Brain","ALZ","Wald ratio",1," 0.007","0.028","1.007","7.93e-01",NA,NA,NA,0.0052943
+"ENSG00000285726","Brain","ALZ","Wald ratio",1," 0.010","0.040","1.011","7.95e-01",NA,NA,NA,0.006308831
+"ENSG00000262633","Brain","ALZ","Wald ratio",1," 0.005","0.021","1.005","7.97e-01",NA,NA,NA,0.005592468
+"APBA2","Brain","ALZ","Wald ratio",1,"-0.029","0.114","0.971","7.98e-01",NA,NA,NA,0.018333939
+"COBL","Brain","ALZ","Wald ratio",1," 0.016","0.062","1.016","7.99e-01",NA,NA,NA,0.009020674
+"GPLD1","Brain","ALZ","Wald ratio",1,"-0.008","0.033","0.992","8.00e-01",NA,NA,NA,0.007057382
+"NOL10","Brain","ALZ","Wald ratio",1,"-0.008","0.032","0.992","8.01e-01",NA,NA,NA,0.00568752
+"ENSG00000276791","Brain","ALZ","Wald ratio",1,"-0.011","0.044","0.989","8.01e-01",NA,NA,NA,0.00649828
+"SGPL1","Brain","ALZ","Wald ratio",1," 0.008","0.031","1.008","8.04e-01",NA,NA,NA,0.005376482
+"MYO18A","Brain","ALZ","Wald ratio",1," 0.023","0.093","1.023","8.05e-01",NA,NA,NA,0.013693263
+"ENSG00000253853","Brain","ALZ","Wald ratio",1,"-0.006","0.023","0.994","8.06e-01",NA,NA,NA,0.006438246
+"ZNF827","Brain","ALZ","Wald ratio",1,"-0.009","0.038","0.991","8.06e-01",NA,NA,NA,0.005627272
+"ENOX1","Brain","ALZ","Wald ratio",1," 0.010","0.039","1.010","8.06e-01",NA,NA,NA,0.005627229
+"APOB","Brain","ALZ","Wald ratio",1,"-0.008","0.033","0.992","8.06e-01",NA,NA,NA,0.00542416
+"YEATS4","Brain","ALZ","Wald ratio",1," 0.006","0.024","1.006","8.07e-01",NA,NA,NA,0.00501745
+"NAV3","Brain","ALZ","Wald ratio",1,"-0.009","0.039","0.991","8.09e-01",NA,NA,NA,0.006128268
+"LINC02306","Brain","ALZ","Wald ratio",1,"-0.009","0.036","0.991","8.09e-01",NA,NA,NA,0.005722632
+"FAM135B","Brain","ALZ","Wald ratio",1," 0.012","0.049","1.012","8.11e-01",NA,NA,NA,0.007436011
+"ENSG00000290890","Brain","ALZ","Wald ratio",1,"-0.027","0.115","0.973","8.14e-01",NA,NA,NA,0.023353956
+"RABL2A","Brain","ALZ","Wald ratio",1,"-0.011","0.045","0.989","8.14e-01",NA,NA,NA,0.006067647
+"IGDCC3","Brain","ALZ","Wald ratio",1," 0.008","0.034","1.008","8.14e-01",NA,NA,NA,0.005208693
+"LURAP1L-AS1","Brain","ALZ","Wald ratio",1,"-0.004","0.017","0.996","8.15e-01",NA,NA,NA,0.005662864
+"KAT2A","Brain","ALZ","Wald ratio",1," 0.010","0.043","1.010","8.15e-01",NA,NA,NA,0.006973115
+"LY75","Brain","ALZ","Wald ratio",1,"-0.005","0.021","0.995","8.16e-01",NA,NA,NA,0.005053186
+"SH3PXD2B","Brain","ALZ","Wald ratio",1,"-0.009","0.040","0.991","8.17e-01",NA,NA,NA,0.005507463
+"ZFP2","Brain","ALZ","Wald ratio",1,"-0.009","0.038","0.991","8.17e-01",NA,NA,NA,0.007471615
+"THADA","Brain","ALZ","Wald ratio",1,"-0.012","0.054","0.988","8.19e-01",NA,NA,NA,0.008618721
+"ATP2B4","Brain","ALZ","Wald ratio",1,"-0.008","0.037","0.992","8.20e-01",NA,NA,NA,0.007163404
+"THBS2","Brain","ALZ","Wald ratio",1,"-0.011","0.048","0.989","8.24e-01",NA,NA,NA,0.007056851
+"EFHD1","Brain","ALZ","Wald ratio",1,"-0.006","0.025","0.994","8.24e-01",NA,NA,NA,0.005041686
+"PRKCA","Brain","ALZ","Wald ratio",1," 0.008","0.037","1.008","8.26e-01",NA,NA,NA,0.00508941
+"ENSG00000287578","Brain","ALZ","Wald ratio",1,"-0.015","0.070","0.985","8.28e-01",NA,NA,NA,0.010182868
+"SLC8A3","Brain","ALZ","Wald ratio",1,"-0.008","0.035","0.992","8.28e-01",NA,NA,NA,0.007698093
+"LINC01500","Brain","ALZ","Wald ratio",1,"-0.004","0.020","0.996","8.30e-01",NA,NA,NA,0.004982567
+"GRHL3","Brain","ALZ","Wald ratio",1," 0.007","0.031","1.007","8.32e-01",NA,NA,NA,0.005282113
+"FAM131C","Brain","ALZ","Wald ratio",1,"-0.007","0.033","0.993","8.33e-01",NA,NA,NA,0.005533279
+"ENSG00000268981","Brain","ALZ","Wald ratio",1,"-0.006","0.027","0.994","8.34e-01",NA,NA,NA,0.007936155
+"MIR100HG","Brain","ALZ","Wald ratio",1,"-0.008","0.036","0.992","8.34e-01",NA,NA,NA,0.005078777
+"CAPN14","Brain","ALZ","Wald ratio",1,"-0.011","0.052","0.989","8.34e-01",NA,NA,NA,0.007236687
+"ENSG00000230490","Brain","ALZ","Wald ratio",1," 0.009","0.042","1.009","8.38e-01",NA,NA,NA,0.006429292
+"PLEKHN1","Brain","ALZ","Wald ratio",1," 0.007","0.033","1.007","8.39e-01",NA,NA,NA,0.007724832
+"CYP4V2","Brain","ALZ","Wald ratio",1,"-0.008","0.038","0.992","8.41e-01",NA,NA,NA,0.005571079
+"AFG3L1P","Brain","ALZ","Wald ratio",1,"-0.014","0.068","0.987","8.43e-01",NA,NA,NA,0.009402278
+"DUSP14","Brain","ALZ","Wald ratio",1,"-0.009","0.043","0.991","8.44e-01",NA,NA,NA,0.007667091
+"CCDC66","Brain","ALZ","Wald ratio",1,"-0.008","0.040","0.992","8.46e-01",NA,NA,NA,0.005715707
+"TMEM266","Brain","ALZ","Wald ratio",1,"-0.007","0.034","0.993","8.46e-01",NA,NA,NA,0.005213477
+"RGR","Brain","ALZ","Wald ratio",1," 0.006","0.030","1.006","8.46e-01",NA,NA,NA,0.004962011
+"PCBP1-AS1","Brain","ALZ","Wald ratio",1,"-0.013","0.072","0.987","8.53e-01",NA,NA,NA,0.011292654
+"DPP10","Brain","ALZ","Wald ratio",1," 0.007","0.039","1.007","8.54e-01",NA,NA,NA,0.005203197
+"IQCJ-SCHIP1","Brain","ALZ","Wald ratio",1,"-0.005","0.026","0.995","8.55e-01",NA,NA,NA,0.005252402
+"STOX1","Brain","ALZ","Wald ratio",1," 0.007","0.041","1.007","8.55e-01",NA,NA,NA,0.006352136
+"CHMP1A","Brain","ALZ","Wald ratio",1," 0.005","0.027","1.005","8.60e-01",NA,NA,NA,0.007983798
+"TBCA","Brain","ALZ","Wald ratio",1," 0.007","0.040","1.007","8.60e-01",NA,NA,NA,0.005445975
+"PROSER3","Brain","ALZ","Wald ratio",1,"-0.012","0.067","0.988","8.60e-01",NA,NA,NA,0.012726819
+"FARP2","Brain","ALZ","Wald ratio",1," 0.009","0.050","1.009","8.61e-01",NA,NA,NA,0.008031752
+"ARFIP1","Brain","ALZ","Wald ratio",1,"-0.009","0.052","0.991","8.61e-01",NA,NA,NA,0.007188877
+"CDC20B","Brain","ALZ","Wald ratio",1,"-0.010","0.054","0.991","8.61e-01",NA,NA,NA,0.008327934
+"CACNA1E","Brain","ALZ","Inverse variance weighted",2," 0.003","0.016","1.003","8.62e-01",NA,0.387770245,NA,0.005068567
+"COLGALT2","Brain","ALZ","Wald ratio",1,"-0.006","0.033","0.994","8.63e-01",NA,NA,NA,0.005543088
+"TTC7B","Brain","ALZ","Weighted median",3,"-0.004","0.024","0.996","8.65e-01",0.222463763,0.382414413,0.684765645,0.005096889
+"MIR99AHG","Brain","ALZ","Wald ratio",1,"-0.011","0.065","0.989","8.65e-01",NA,NA,NA,0.009699064
+"TMEM132C","Brain","ALZ","Wald ratio",1," 0.006","0.035","1.006","8.65e-01",NA,NA,NA,0.005340541
+"PIEZO2","Brain","ALZ","Wald ratio",1,"-0.006","0.035","0.994","8.65e-01",NA,NA,NA,0.00564003
+"LINC03007","Brain","ALZ","Wald ratio",1," 0.019","0.115","1.019","8.70e-01",NA,NA,NA,0.016271586
+"ESPN","Brain","ALZ","Wald ratio",1," 0.012","0.073","1.012","8.71e-01",NA,NA,NA,0.014852559
+"KANK1","Brain","ALZ","Wald ratio",1,"-0.006","0.036","0.994","8.73e-01",NA,NA,NA,0.007814718
+"GCK","Brain","ALZ","Wald ratio",1," 0.011","0.068","1.011","8.74e-01",NA,NA,NA,0.010705512
+"SLC16A12","Brain","ALZ","Wald ratio",1,"-0.006","0.042","0.994","8.77e-01",NA,NA,NA,0.00552593
+"ENSG00000233569","Brain","ALZ","Wald ratio",1," 0.004","0.024","1.004","8.78e-01",NA,NA,NA,0.006866886
+"ETFB","Brain","ALZ","Wald ratio",1," 0.012","0.076","1.012","8.79e-01",NA,NA,NA,0.012099978
+"PKD2L2","Brain","ALZ","Wald ratio",1,"-0.004","0.026","0.996","8.80e-01",NA,NA,NA,0.005971715
+"RADIL","Brain","ALZ","Wald ratio",1," 0.010","0.070","1.010","8.87e-01",NA,NA,NA,0.011551808
+"NHIP","Brain","ALZ","Wald ratio",1,"-0.003","0.018","0.997","8.87e-01",NA,NA,NA,0.005317255
+"PPFIBP1","Brain","ALZ","Wald ratio",1,"-0.004","0.027","0.996","8.87e-01",NA,NA,NA,0.005317255
+"RANBP17","Brain","ALZ","Wald ratio",1,"-0.005","0.035","0.995","8.89e-01",NA,NA,NA,0.005366012
+"CRISPLD1","Brain","ALZ","Wald ratio",1,"-0.005","0.033","0.995","8.89e-01",NA,NA,NA,0.005762761
+"RIMKLA","Brain","ALZ","Wald ratio",1,"-0.004","0.027","0.996","8.90e-01",NA,NA,NA,0.005066337
+"CDHR4","Brain","ALZ","Wald ratio",1,"-0.004","0.029","0.996","8.92e-01",NA,NA,NA,0.006651582
+"CNIH3","Brain","ALZ","Wald ratio",1,"-0.004","0.029","0.996","8.93e-01",NA,NA,NA,0.00595753
+"ART5","Brain","ALZ","Wald ratio",1," 0.005","0.039","1.005","8.94e-01",NA,NA,NA,0.006006218
+"BOC","Brain","ALZ","Wald ratio",1,"-0.005","0.037","0.995","8.94e-01",NA,NA,NA,0.005261616
+"PALD1","Brain","ALZ","Wald ratio",1,"-0.002","0.017","0.998","8.94e-01",NA,NA,NA,0.004913018
+"TTC7B","Brain","ALZ","Weighted mode",3,"-0.004","0.029","0.996","8.95e-01",0.222463763,0.382414413,0.684765645,0.005096889
+"PIP4P2","Brain","ALZ","Wald ratio",1,"-0.005","0.039","0.995","8.95e-01",NA,NA,NA,0.006845761
+"SPOCD1","Brain","ALZ","Wald ratio",1," 0.004","0.034","1.004","8.98e-01",NA,NA,NA,0.005059684
+"SLC29A3","Brain","ALZ","Wald ratio",1," 0.002","0.018","1.002","8.98e-01",NA,NA,NA,0.005059687
+"VAX2","Brain","ALZ","Wald ratio",1,"-0.004","0.032","0.996","8.99e-01",NA,NA,NA,0.005505743
+"TRPV3","Brain","ALZ","Wald ratio",1,"-0.004","0.035","0.996","9.00e-01",NA,NA,NA,0.005554562
+"TTC7B","Brain","ALZ","Simple mode",3,"-0.004","0.029","0.996","9.00e-01",0.222463763,0.382414413,0.684765645,0.005096889
+"RALGPS1","Brain","ALZ","Wald ratio",1,"-0.002","0.018","0.998","9.03e-01",NA,NA,NA,0.004906674
+"ENSG00000259420","Brain","ALZ","Wald ratio",1,"-0.003","0.026","0.997","9.06e-01",NA,NA,NA,0.00510249
+"ALG6","Brain","ALZ","Wald ratio",1,"-0.006","0.050","0.994","9.06e-01",NA,NA,NA,0.007621834
+"PLPPR1","Brain","ALZ","Wald ratio",1,"-0.007","0.059","0.993","9.10e-01",NA,NA,NA,0.010108163
+"TACC2","Brain","ALZ","Wald ratio",1,"-0.006","0.053","0.994","9.12e-01",NA,NA,NA,0.028283849
+"NMNAT2","Brain","ALZ","Wald ratio",1,"-0.004","0.038","0.996","9.14e-01",NA,NA,NA,0.005096717
+"PTPRO","Brain","ALZ","Wald ratio",1," 0.003","0.026","1.003","9.16e-01",NA,NA,NA,0.006134785
+"CRPPA","Brain","ALZ","Wald ratio",1,"-0.003","0.033","0.997","9.17e-01",NA,NA,NA,0.005292902
+"FAT1","Brain","ALZ","Wald ratio",1,"-0.003","0.028","0.997","9.18e-01",NA,NA,NA,0.005341895
+"APOBEC3A","Brain","ALZ","Wald ratio",1," 0.004","0.037","1.004","9.20e-01",NA,NA,NA,0.011255543
+"MCM9","Brain","ALZ","Wald ratio",1," 0.003","0.034","1.003","9.20e-01",NA,NA,NA,0.004993666
+"P4HA2","Brain","ALZ","Wald ratio",1,"-0.003","0.027","0.997","9.21e-01",NA,NA,NA,0.005042733
+"SEMA3C","Brain","ALZ","Wald ratio",1,"-0.002","0.025","0.998","9.22e-01",NA,NA,NA,0.005091794
+"SPATA20","Brain","ALZ","Wald ratio",1," 0.002","0.025","1.002","9.22e-01",NA,NA,NA,0.005091794
+"TMEM258","Brain","ALZ","Wald ratio",1," 0.005","0.047","1.005","9.22e-01",NA,NA,NA,0.006622779
+"TMEM235","Brain","ALZ","Wald ratio",1," 0.009","0.090","1.009","9.24e-01",NA,NA,NA,0.0157627
+"XPNPEP1","Brain","ALZ","Wald ratio",1,"-0.003","0.032","0.997","9.24e-01",NA,NA,NA,0.005733687
+"PRIMA1","Brain","ALZ","Wald ratio",1," 0.003","0.033","1.003","9.25e-01",NA,NA,NA,0.008386614
+"CYB5B","Brain","ALZ","Wald ratio",1," 0.002","0.026","1.002","9.26e-01",NA,NA,NA,0.005386074
+"CLEC18A","Brain","ALZ","Wald ratio",1," 0.004","0.042","1.004","9.28e-01",NA,NA,NA,0.006027312
+"ENSG00000286619","Brain","ALZ","Wald ratio",1,"-0.001","0.012","0.999","9.28e-01",NA,NA,NA,0.004939845
+"ACCS","Brain","ALZ","Wald ratio",1,"-0.003","0.029","0.997","9.30e-01",NA,NA,NA,0.007941344
+"DLGAP1","Brain","ALZ","Wald ratio",1,"-0.003","0.038","0.997","9.31e-01",NA,NA,NA,0.005185228
+"LDHC","Brain","ALZ","Wald ratio",1,"-0.002","0.020","0.998","9.32e-01",NA,NA,NA,0.00759698
+"HDAC4","Brain","ALZ","Weighted median",3,"-0.001","0.015","0.999","9.33e-01",0.386082264,0.3661599,0.463534458,0.00868807
+"CTIF","Brain","ALZ","Wald ratio",1,"-0.003","0.036","0.997","9.34e-01",NA,NA,NA,0.005381723
+"ANK3","Brain","ALZ","Wald ratio",1,"-0.003","0.040","0.997","9.34e-01",NA,NA,NA,0.009497925
+"ATP5IF1","Brain","ALZ","Wald ratio",1," 0.002","0.025","1.002","9.34e-01",NA,NA,NA,0.005430796
+"SMAP1","Brain","ALZ","Wald ratio",1,"-0.002","0.028","0.998","9.34e-01",NA,NA,NA,0.004837258
+"FAM221A","Brain","ALZ","Wald ratio",1," 0.002","0.019","1.002","9.35e-01",NA,NA,NA,0.004886429
+"SETD4","Brain","ALZ","Wald ratio",1," 0.003","0.032","1.003","9.36e-01",NA,NA,NA,0.004984755
+"LIG1","Brain","ALZ","Wald ratio",1,"-0.002","0.031","0.998","9.37e-01",NA,NA,NA,0.00503391
+"GNA13","Brain","ALZ","Wald ratio",1," 0.009","0.110","1.009","9.37e-01",NA,NA,NA,0.015505899
+"NWD1","Brain","ALZ","Wald ratio",1," 0.003","0.035","1.003","9.37e-01",NA,NA,NA,0.006955675
+"DOCK2","Brain","ALZ","Wald ratio",1," 0.003","0.038","1.003","9.38e-01",NA,NA,NA,0.0057251
+"SLC13A3","Brain","ALZ","Wald ratio",1," 0.003","0.042","1.003","9.40e-01",NA,NA,NA,0.006561182
+"SEMA5A","Brain","ALZ","Wald ratio",1," 0.002","0.029","1.002","9.41e-01",NA,NA,NA,0.005377837
+"HIP1","Brain","ALZ","Wald ratio",1," 0.004","0.051","1.004","9.43e-01",NA,NA,NA,0.015029224
+"UMODL1","Brain","ALZ","Wald ratio",1,"-0.002","0.033","0.998","9.44e-01",NA,NA,NA,0.005672387
+"VINAC1P","Brain","ALZ","Wald ratio",1," 0.001","0.017","1.001","9.44e-01",NA,NA,NA,0.004981046
+"CNDP2","Brain","ALZ","Wald ratio",1," 0.003","0.037","1.003","9.45e-01",NA,NA,NA,0.005030143
+"TSPAN14","Brain","ALZ","Wald ratio",1,"-0.010","0.141","0.990","9.45e-01",NA,NA,NA,0.01891321
+"LINC03009","Brain","ALZ","Wald ratio",1,"-0.001","0.022","0.999","9.45e-01",NA,NA,NA,0.00650873
+"CASC16","Brain","ALZ","Wald ratio",1," 0.002","0.030","1.002","9.45e-01",NA,NA,NA,0.005079425
+"C1GALT1","Brain","ALZ","Wald ratio",1,"-0.001","0.019","0.999","9.46e-01",NA,NA,NA,0.005177779
+"SLC9A3","Brain","ALZ","Wald ratio",1,"-0.002","0.026","0.998","9.50e-01",NA,NA,NA,0.005521808
+"CCDC175","Brain","ALZ","Wald ratio",1,"-0.001","0.022","0.999","9.50e-01",NA,NA,NA,0.005570928
+"PATJ","Brain","ALZ","Wald ratio",1,"-0.004","0.061","0.996","9.51e-01",NA,NA,NA,0.009676843
+"LINC02406","Brain","ALZ","Wald ratio",1,"-0.001","0.015","0.999","9.53e-01",NA,NA,NA,0.005027059
+"DLGAP2","Brain","ALZ","Wald ratio",1," 0.002","0.041","1.002","9.53e-01",NA,NA,NA,0.00753417
+"ELAPOR2","Brain","ALZ","Wald ratio",1,"-0.001","0.026","0.999","9.56e-01",NA,NA,NA,0.005371439
+"LINC01725","Brain","ALZ","Wald ratio",1,"-0.005","0.100","0.995","9.56e-01",NA,NA,NA,0.015107854
+"OBSL1","Brain","ALZ","Wald ratio",1," 0.002","0.043","1.002","9.59e-01",NA,NA,NA,0.005862624
+"PRDM16","Brain","ALZ","Wald ratio",1," 0.003","0.066","1.003","9.60e-01",NA,NA,NA,0.008894696
+"GLIPR1","Brain","ALZ","Wald ratio",1,"-0.001","0.030","0.999","9.60e-01",NA,NA,NA,0.004975117
+"SEPTIN9","Brain","ALZ","Wald ratio",1,"-0.001","0.022","0.999","9.61e-01",NA,NA,NA,0.005122853
+"ANO8","Brain","ALZ","Wald ratio",1,"-0.002","0.048","0.998","9.62e-01",NA,NA,NA,0.016129982
+"LINC02453","Brain","ALZ","Wald ratio",1," 0.002","0.035","1.002","9.63e-01",NA,NA,NA,0.006500294
+"RNF25","Brain","ALZ","Wald ratio",1,"-0.001","0.024","0.999","9.68e-01",NA,NA,NA,0.004972895
+"MATN3","Brain","ALZ","Wald ratio",1," 0.002","0.038","1.002","9.68e-01",NA,NA,NA,0.005021608
+"HDDC2","Brain","ALZ","Wald ratio",1,"-0.001","0.029","0.999","9.70e-01",NA,NA,NA,0.006498233
+"ENSG00000253235","Brain","ALZ","Wald ratio",1," 0.001","0.024","1.001","9.70e-01",NA,NA,NA,0.006596216
+"KHDC1","Brain","ALZ","Wald ratio",1," 0.001","0.032","1.001","9.71e-01",NA,NA,NA,0.00688994
+"MSH3","Brain","ALZ","Wald ratio",1,"-0.001","0.037","0.999","9.72e-01",NA,NA,NA,0.005612845
+"RASA3","Brain","ALZ","Inverse variance weighted",2,"-0.001","0.020","0.999","9.72e-01",NA,0.423265942,NA,0.006466625
+"DMBT1L1","Brain","ALZ","Wald ratio",1,"-0.003","0.107","0.997","9.76e-01",NA,NA,NA,0.019378454
+"GUSBP1","Brain","ALZ","Wald ratio",1,"-0.001","0.020","0.999","9.77e-01",NA,NA,NA,0.0052668
+"SEPTIN7P14","Brain","ALZ","Wald ratio",1," 0.000","0.013","1.000","9.78e-01",NA,NA,NA,0.005414503
+"PACRG","Brain","ALZ","Inverse variance weighted",2," 0.000","0.015","1.000","9.78e-01",NA,0.671418389,NA,0.004913018
+"ENSG00000286016","Brain","ALZ","Wald ratio",1," 0.001","0.025","1.001","9.80e-01",NA,NA,NA,0.005807999
+"DNAJA3","Brain","ALZ","Wald ratio",1,"-0.001","0.038","0.999","9.80e-01",NA,NA,NA,0.005906285
+"ENSG00000257398","Brain","ALZ","Wald ratio",1," 0.001","0.047","1.001","9.81e-01",NA,NA,NA,0.00629881
+"SCG5","Brain","ALZ","Wald ratio",1,"-0.001","0.027","0.999","9.84e-01",NA,NA,NA,0.004969934
+"TNFRSF10B","Brain","ALZ","Wald ratio",1," 0.001","0.027","1.001","9.85e-01",NA,NA,NA,0.005216375
+"RNF212","Brain","ALZ","Wald ratio",1,"-0.001","0.028","0.999","9.85e-01",NA,NA,NA,0.005265638
+"CRELD2","Brain","ALZ","Wald ratio",1," 0.001","0.061","1.001","9.85e-01",NA,NA,NA,0.008107078
+"EPHB4","Brain","ALZ","Wald ratio",1,"-0.001","0.041","0.999","9.86e-01",NA,NA,NA,0.005560907
+"PI4K2B","Brain","ALZ","Wald ratio",1,"-0.001","0.052","0.999","9.86e-01",NA,NA,NA,0.00864262
+"KBTBD11-OT1","Brain","ALZ","Wald ratio",1,"-0.001","0.034","0.999","9.87e-01",NA,NA,NA,0.005905252
+"ASAP3","Brain","ALZ","Wald ratio",1,"-0.001","0.031","0.999","9.87e-01",NA,NA,NA,0.005954391
+"ZC3H3","Brain","ALZ","Wald ratio",1," 0.000","0.016","1.000","9.88e-01",NA,NA,NA,0.006739336
+"ENSG00000286369","Brain","ALZ","Wald ratio",1," 0.000","0.035","1.000","9.92e-01",NA,NA,NA,0.004969182
+"KCNS3","Brain","ALZ","Wald ratio",1," 0.000","0.017","1.000","9.92e-01",NA,NA,NA,0.005166393
+"CAPRIN2","Brain","ALZ","Wald ratio",1," 0.000","0.036","1.000","9.92e-01",NA,NA,NA,0.005166377
+"SSC5D","Brain","ALZ","Wald ratio",1," 0.000","0.037","1.000","9.92e-01",NA,NA,NA,0.005264924
+"YJU2","Brain","ALZ","Wald ratio",1," 0.000","0.018","1.000","9.93e-01",NA,NA,NA,0.005412696
+"ARHGEF19","Brain","ALZ","Wald ratio",1," 0.000","0.025","1.000","9.93e-01",NA,NA,NA,0.005609579
+"BBS9","Brain","ALZ","Wald ratio",1," 0.000","0.044","1.000","9.94e-01",NA,NA,NA,0.006150218
+"PKP3","Brain","ALZ","Wald ratio",1," 0.000","0.037","1.000","9.94e-01",NA,NA,NA,0.00639565
+"CHN2","Brain","ALZ","Inverse variance weighted",2," 0.000","0.025","1.000","9.98e-01",NA,0.374564155,NA,0.006127043
+"SNX9","Brain","ALZ","Wald ratio",1," 0.000","0.035","1.000","1.00e+00",NA,NA,NA,0.005707753

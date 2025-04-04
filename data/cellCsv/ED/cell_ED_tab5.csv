@@ -1,0 +1,20 @@
+Gene,Cell,Psychiatry,Method,Nsnp,OR,Pvalue,Q_Pvalue(MREgger),Q_Pvalue(IVW),Pvalue(Intercept),PPH4
+CTTNBP2NL,Lymphocyte,ED,Wald ratio,1,0.975,3.22E-02,NA,NA,NA,0.007822268
+TSPAN1,Lymphocyte,ED,Wald ratio,1,1.027,1.88E-01,NA,NA,NA,0.000255477
+C1orf228,Lymphocyte,ED,Wald ratio,1,1.021,2.36E-01,NA,NA,NA,0.007183646
+RP11-157N3.1,Lymphocyte,ED,Wald ratio,1,0.988,2.51E-01,NA,NA,NA,0.000144636
+MCOLN2,Lymphocyte,ED,Wald ratio,1,0.981,2.66E-01,NA,NA,NA,0.012757719
+DENND4B,Lymphocyte,ED,Wald ratio,1,0.994,2.96E-01,NA,NA,NA,0.011458284
+CHI3L2,Lymphocyte,ED,Wald ratio,1,0.99,4.68E-01,NA,NA,NA,1.00E-06
+INPP5B,Lymphocyte,ED,Wald ratio,1,1.009,5.48E-01,NA,NA,NA,0.010491302
+BMP8B,Lymphocyte,ED,Wald ratio,1,0.995,6.22E-01,NA,NA,NA,1.25E-06
+H6PD,Lymphocyte,ED,Wald ratio,1,0.994,6.90E-01,NA,NA,NA,0.003832661
+RP5-1198O20.4,Lymphocyte,ED,Wald ratio,1,1.007,7.15E-01,NA,NA,NA,0.009348292
+NDUFS5,Lymphocyte,ED,Wald ratio,1,0.988,7.31E-01,NA,NA,NA,0.007736441
+ZNHIT6,Lymphocyte,ED,Wald ratio,1,0.992,7.43E-01,NA,NA,NA,0.002597108
+SLAMF8,Lymphocyte,ED,Wald ratio,1,0.991,7.57E-01,NA,NA,NA,0.005376784
+BCL2L15,Lymphocyte,ED,Wald ratio,1,1.004,8.21E-01,NA,NA,NA,0.003542042
+STIL,Lymphocyte,ED,Wald ratio,1,1.005,8.27E-01,NA,NA,NA,0.000542186
+EFCAB7,Lymphocyte,ED,Wald ratio,1,1.002,8.28E-01,NA,NA,NA,0.000362111
+KCNN3,Lymphocyte,ED,Wald ratio,1,1.003,8.53E-01,NA,NA,NA,0.007327578
+CTNNBIP1,Lymphocyte,ED,Wald ratio,1,1.001,9.65E-01,NA,NA,NA,4.25E-05

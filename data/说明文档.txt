@@ -1,0 +1,4 @@
+mr_res_Brain_all.csv为网站Risk brain imaging页面所展示的数据
+mr_res_Phenotype_all.csv为网站Risk phenotype页面所展示的数据
+mr_results.csv为网站Search页面所展示的数据
+buklJson和cellJson为Bulk-tissue biomaker和Cell-specific biomaker的子页面所展示的数据。

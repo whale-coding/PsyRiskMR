@@ -1,0 +1,14 @@
+"Gene","Tissue","Psychiatric disorder","Method","Nsnp","Beta","SE","OR","P-value","Q_Pvalue(MREgger)","Q_Pvalue(IVW)","P-value(Intercept)","PPH4"
+"CRABP2","Stem-cell-iPSC","ED","Wald ratio",1,"-0.146","0.050","0.864","3.78e-03",NA,NA,NA,0.115454399
+"SELENBP1","Stem-cell-iPSC","ED","Wald ratio",1,"-0.110","0.041","0.896","7.58e-03",NA,NA,NA,0.153043129
+"MCOLN2","Stem-cell-iPSC","ED","Wald ratio",1," 0.046","0.019","1.047","1.70e-02",NA,NA,NA,0.00035091
+"CCBL2","Stem-cell-iPSC","ED","Wald ratio",1,"-0.038","0.016","0.963","1.80e-02",NA,NA,NA,0.097730192
+"IQGAP3","Stem-cell-iPSC","ED","Wald ratio",1,"-0.030","0.019","0.970","1.17e-01",NA,NA,NA,0.023219962
+"GSTM4","Stem-cell-iPSC","ED","Wald ratio",1,"-0.058","0.038","0.944","1.27e-01",NA,NA,NA,0.000521293
+"ATAD3A","Stem-cell-iPSC","ED","Wald ratio",1,"-0.104","0.095","0.902","2.75e-01",NA,NA,NA,0.002113454
+"SLC25A24","Stem-cell-iPSC","ED","Wald ratio",1,"-0.011","0.015","0.989","4.58e-01",NA,NA,NA,0.010311718
+"S100A13","Stem-cell-iPSC","ED","Wald ratio",1,"-0.018","0.030","0.982","5.31e-01",NA,NA,NA,0.008355492
+"FDPS","Stem-cell-iPSC","ED","Wald ratio",1," 0.014","0.026","1.014","6.06e-01",NA,NA,NA,0.008113529
+"PPIE","Stem-cell-iPSC","ED","Wald ratio",1," 0.015","0.036","1.015","6.72e-01",NA,NA,NA,0.008116202
+"ACP6","Stem-cell-iPSC","ED","Wald ratio",1," 0.006","0.029","1.006","8.45e-01",NA,NA,NA,0.000717768
+"LRRC40","Stem-cell-iPSC","ED","Wald ratio",1,"-0.006","0.056","0.994","9.12e-01",NA,NA,NA,0.000469573

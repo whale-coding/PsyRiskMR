@@ -1,0 +1,20 @@
+Gene,Cell,Psychiatry,Method,Nsnp,OR,Pvalue,Q_Pvalue(MREgger),Q_Pvalue(IVW),Pvalue(Intercept),PPH4
+RERE,Lymphocyte,OCD,Wald ratio,1,0.915,1.03E-02,NA,NA,NA,0.022396908
+CTTNBP2NL,Lymphocyte,OCD,Wald ratio,1,1.046,4.51E-02,NA,NA,NA,0.010903193
+RP11-157N3.1,Lymphocyte,OCD,Wald ratio,1,0.964,7.55E-02,NA,NA,NA,0.000673967
+CAPZB,Lymphocyte,OCD,Wald ratio,1,0.943,7.65E-02,NA,NA,NA,7.68E-06
+TGFBR3,Lymphocyte,OCD,Wald ratio,1,1.053,1.49E-01,NA,NA,NA,0.03350276
+BMP8B,Lymphocyte,OCD,Wald ratio,1,1.033,1.75E-01,NA,NA,NA,0.036042082
+CNR2,Lymphocyte,OCD,Wald ratio,1,0.97,2.70E-01,NA,NA,NA,0.001411978
+CHI3L2,Lymphocyte,OCD,Wald ratio,1,0.975,3.24E-01,NA,NA,NA,2.29E-06
+INPP5B,Lymphocyte,OCD,Wald ratio,1,0.983,4.81E-01,NA,NA,NA,0.018612711
+RP11-329N22.1,Lymphocyte,OCD,Wald ratio,1,0.971,5.37E-01,NA,NA,NA,0.004609399
+AGMAT,Lymphocyte,OCD,Wald ratio,1,1.021,6.81E-01,NA,NA,NA,0.01381503
+TSPAN1,Lymphocyte,OCD,Wald ratio,1,0.985,6.91E-01,NA,NA,NA,0.000215314
+SLAMF8,Lymphocyte,OCD,Wald ratio,1,0.987,8.09E-01,NA,NA,NA,0.009431895
+RP4-794H19.4,Lymphocyte,OCD,Wald ratio,1,0.991,8.80E-01,NA,NA,NA,0.003689276
+EFCAB7,Lymphocyte,OCD,Wald ratio,1,1.002,8.84E-01,NA,NA,NA,0.000669129
+KCNN3,Lymphocyte,OCD,Wald ratio,1,0.996,8.96E-01,NA,NA,NA,0.012454067
+NDUFS5,Lymphocyte,OCD,Wald ratio,1,0.993,9.22E-01,NA,NA,NA,0.013874033
+STIL,Lymphocyte,OCD,Wald ratio,1,1.004,9.29E-01,NA,NA,NA,0.001001516
+BMP8A,Lymphocyte,OCD,Wald ratio,1,1,9.91E-01,NA,NA,NA,3.28E-06

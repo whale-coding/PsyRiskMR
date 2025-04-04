@@ -1,0 +1,93 @@
+[
+    {
+        "Gene": "S100A13",
+        "Cell": "Stem-cell-iPSC",
+        "Psychiatry": "OCD",
+        "Method": "Wald ratio",
+        "Nsnp": "1",
+        "OR": "1.126",
+        "Pvalue": "3.70E-02",
+        "Q_Pvalue(MREgger)": "NA",
+        "Q_Pvalue(IVW)": "NA",
+        "Pvalue(Intercept)": "NA",
+        "PPH4": "0.101149483"
+    },
+    {
+        "Gene": "CRYZ",
+        "Cell": "Stem-cell-iPSC",
+        "Psychiatry": "OCD",
+        "Method": "Wald ratio",
+        "Nsnp": "1",
+        "OR": "0.961",
+        "Pvalue": "1.07E-01",
+        "Q_Pvalue(MREgger)": "NA",
+        "Q_Pvalue(IVW)": "NA",
+        "Pvalue(Intercept)": "NA",
+        "PPH4": "0.044438391"
+    },
+    {
+        "Gene": "TTF2",
+        "Cell": "Stem-cell-iPSC",
+        "Psychiatry": "OCD",
+        "Method": "Wald ratio",
+        "Nsnp": "1",
+        "OR": "1.051",
+        "Pvalue": "2.78E-01",
+        "Q_Pvalue(MREgger)": "NA",
+        "Q_Pvalue(IVW)": "NA",
+        "Pvalue(Intercept)": "NA",
+        "PPH4": "0.021784312"
+    },
+    {
+        "Gene": "CRABP2",
+        "Cell": "Stem-cell-iPSC",
+        "Psychiatry": "OCD",
+        "Method": "Wald ratio",
+        "Nsnp": "1",
+        "OR": "0.955",
+        "Pvalue": "6.46E-01",
+        "Q_Pvalue(MREgger)": "NA",
+        "Q_Pvalue(IVW)": "NA",
+        "Pvalue(Intercept)": "NA",
+        "PPH4": "0.004342702"
+    },
+    {
+        "Gene": "SYF2",
+        "Cell": "Stem-cell-iPSC",
+        "Psychiatry": "OCD",
+        "Method": "Wald ratio",
+        "Nsnp": "1",
+        "OR": "1.028",
+        "Pvalue": "6.90E-01",
+        "Q_Pvalue(MREgger)": "NA",
+        "Q_Pvalue(IVW)": "NA",
+        "Pvalue(Intercept)": "NA",
+        "PPH4": "0.000428586"
+    },
+    {
+        "Gene": "COA7",
+        "Cell": "Stem-cell-iPSC",
+        "Psychiatry": "OCD",
+        "Method": "Wald ratio",
+        "Nsnp": "1",
+        "OR": "0.981",
+        "Pvalue": "7.07E-01",
+        "Q_Pvalue(MREgger)": "NA",
+        "Q_Pvalue(IVW)": "NA",
+        "Pvalue(Intercept)": "NA",
+        "PPH4": "0.012037333"
+    },
+    {
+        "Gene": "GSTM4",
+        "Cell": "Stem-cell-iPSC",
+        "Psychiatry": "OCD",
+        "Method": "Wald ratio",
+        "Nsnp": "1",
+        "OR": "0.965",
+        "Pvalue": "7.70E-01",
+        "Q_Pvalue(MREgger)": "NA",
+        "Q_Pvalue(IVW)": "NA",
+        "Pvalue(Intercept)": "NA",
+        "PPH4": "0.000528114"
+    }
+]

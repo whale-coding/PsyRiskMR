@@ -1,0 +1,374 @@
+<!--引入公共头部-->
+<th:block th:include="base::common"></th:block>
+
+<link th:href="@{/static_new/jquery.dataTables.min.css}" rel="stylesheet">
+<link th:href="@{/css/layui.css}" rel="stylesheet">
+<link th:href="@{/css/all.css}" rel="stylesheet">
+<script th:src="@{/static_new/jquery-1.12.4.js}"></script>
+<script th:src="@{/static_new/jquery.dataTables.min.js}"></script>
+<script th:src="@{/static_new/fnReloadAjax.js}"></script>
+<script th:src="@{/static_new/buttons.dataTables.min.css}"></script>
+<script th:src="@{/static_new/dataTables.buttons.min.js}"></script>
+<link th:href="@{/static_new/jquery.dataTables.css}" rel="stylesheet">
+<link th:href="@{/static_new/buttons.dataTables.css}" rel="stylesheet">
+<link th:href="@{/static_new/jszip.js}" rel="stylesheet">
+<link th:href="@{/static_new/vfs_fonts.js}" rel="stylesheet">
+<script th:src="@{/static_new/pdfmake.js}"></script>
+<script th:src="@{/static_new/jquery.dataTables.js}"></script>
+<script th:src="@{/static_new/dataTables.buttons.js}"></script>
+<script th:src="@{/static_new/buttons.flash.js}"></script>
+<script th:src="@{/static_new/buttons.html5.js}"></script>
+<script th:src="@{/static_new/buttons.print.js}"></script>
+<script type="text/javascript" th:src="@{/js/jquery.csv.min.js}"></script>
+<script type="text/javascript" th:src="@{/js/csv_to_html_table.js}"></script>
+<!--<link rel="stylesheet" href="https://www.layuicdn.com/layui-v2.5.6/css/layui.css">-->
+<link th:href="@{/static_new/layui.css}" rel="stylesheet">
+
+<div class="card">
+  <!-- 疾病选择区域 -->
+  <div class="disease">
+    <strong>Psychiatric disorder:</strong>
+    <span class="keyword" data-query-type="disease" data-query-value="">All</span>
+    <span class="keyword" data-query-type="disease" data-query-value="Alzheimer's disease">Alzheimer’s disease</span>
+    <span class="keyword" data-query-type="disease" data-query-value="Anxiety Disorder">Anxiety Disorder</span>
+    <span class="keyword" data-query-type="disease" data-query-value="Attention deficit and hyperactivity disorder">Attention deficit and hyperactivity disorder</span>
+    <span class="keyword" data-query-type="disease" data-query-value="Autism disorder">Autism disorder</span>
+    <span class="keyword" data-query-type="disease" data-query-value="Bipolar disorder">Bipolar disorder</span>
+
+    <span class="keyword" data-query-type="disease" data-query-value="Depression">Depression</span>
+    <span class="keyword" data-query-type="disease" data-query-value="Eating Disorder">Eating Disorder</span>
+    <span class="keyword" data-query-type="disease" data-query-value="Obsessive-compulsive disorder">Obsessive-compulsive disorder</span>
+
+    <span class="keyword" data-query-type="disease" data-query-value="Post Traumatic Stress Disorder" style="margin-top: 10px; margin-left: 160px">Post Traumatic Stress Disorder</span>
+    <span class="keyword" data-query-type="disease" data-query-value="Schizophrenia">Schizophrenia</span>
+  </div>
+  <!-- 分类选择区域 -->
+  <div class="category">
+    <strong>Category:</strong>
+    <span class="keyword" data-query-type="category" data-query-value="">All</span>
+    <span class="keyword" data-query-type="category" data-query-value="Risk phenotype">Risk phenotype</span>
+    <span class="keyword" data-query-type="category" data-query-value="Risk brain imaging">Risk brain imaging</span>
+    <span class="keyword" data-query-type="category" data-query-value="Bulk-tissue biomarker">Bulk-tissue biomarker</span>
+    <span class="keyword" data-query-type="category" data-query-value="Cell-specific biomarker">Cell-specific biomarker</span>
+  </div>
+
+  <!--风险因素搜索-->
+  <div class="search-container">
+    <strong style="margin-right: 10px; font-size: 15px;">Risk factor:</strong>
+    <input type="text" id="searchInput" placeholder="Please enter a risk factor, for example gene name" />
+    <button id="searchButton">Search</button>
+    <button id="resetButton">Reset</button>
+  </div>
+
+  <!--数据表格-->
+  <table id="table_id_example" class="layui-table">
+    <thead>
+    <tr>
+      <th>Psychiatric disorder</th>
+      <th>Category</th>
+      <th>Risk factor</th>
+      <th>Source</th>
+      <th>Method</th>
+      <th>P-value</th>
+      <th>OR</th>
+    </tr>
+    </thead>
+    <tbody>
+    <!-- 数据将通过 DataTables 填充 -->
+    </tbody>
+  </table>
+
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+    <!-- 添加的 Note -->
+    <p style="margin: 0;">
+      <em>Note: Only results with P-value < 1E-03 are displayed. For the full dataset, please contact the author.</em>
+    </p>
+
+    <h3 style="margin: 0;">
+      <strong>User can download All of results here:
+        <a th:href="@{/data/res_all.csv}">res_all.csv</a>
+      </strong>
+    </h3>
+  </div>
+
+</div>
+
+<style>
+  .card {
+    padding: 20px;
+    margin: 20px auto;
+    border: 1px solid #e2e2e2;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    width: 1800px;
+    max-width: 100%; /* 防止超出 */
+    overflow-x: auto; /* 启用水平滚动 */
+  }
+
+  /* 基本样式 */
+  .disease {
+    font-size: 15px;
+    margin-bottom: 20px; /* 下边距 */
+  }
+  .category {
+    font-size: 15px;
+    margin-bottom: 20px; /* 下边距 */
+  }
+
+  .keyword {
+    cursor: pointer;
+    padding: 5px 10px;
+    margin: 0 5px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+    transition: background-color 0.3s, color 0.3s;
+  }
+
+  /* 高亮的关键词 */
+  .keyword.highlight {
+    background-color: #171717;
+    color: #fff; /* 修改为可见的文字颜色 */
+    border-color: #171717;
+  }
+
+  /*.keyword-container {*/
+  /*  display: flex;*/
+  /*  flex-direction: column;*/
+  /*  align-items: flex-start;*/
+  /*  margin-top: 5px;*/
+  /*}*/
+
+  /*.keyword-row {*/
+  /*  display: flex;*/
+  /*  flex-wrap: wrap;*/
+  /*  align-items: flex-start;*/
+  /*  margin-bottom: 5px;*/
+  /*}*/
+
+
+  /* 悬停效果 */
+  .keyword:hover {
+    /*background-color: #e0e0e0;*/
+  }
+
+  /*搜索按钮*/
+  .search-container {
+    margin: 20px 0;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+  }
+
+  #searchInput {
+    padding: 10px;
+    width: 500px;
+    height: 30px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 10px;
+  }
+
+  #searchButton {
+    padding: 10px 15px;
+    font-size: 15px;
+    height: 30px;
+    justify-content: center;
+    line-height: 15px; /* 垂直居中，假设高度为30px */
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  #searchButton:hover {
+    background-color: #0056b3;
+  }
+  #resetButton {
+    padding: 10px 15px;
+    font-size: 15px;
+    height: 30px;
+    margin-left: 10px;
+    justify-content: center;
+    line-height: 15px; /* 垂直居中，假设高度为30px */
+    background-color: #6c757d;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  #resetButton:hover {
+    background-color: #5a6268;
+  }
+  /*搜索按钮*/
+
+
+/*  表格箭头问题*/
+  table.dataTable thead .sorting::after {
+    content: "↑↓";
+    font-size: 0.75em;
+    padding-left: 5px;
+  }
+
+  table.dataTable thead .sorting_asc::after {
+    content: "↑";
+  }
+
+  table.dataTable thead .sorting_desc::after {
+    content: "↓";
+  }
+</style>
+
+<script>
+  // 获取 URL 中的查询参数
+  const urlParams = new URLSearchParams(window.location.search);
+  const selectedDiseaseValue = urlParams.get('disease') || ''; // 获取疾病参数
+
+  const selectedDisease = { value: selectedDiseaseValue }; // 初始化疾病值
+  const selectedCategory = { value: null };
+
+  const keywords = document.querySelectorAll('.keyword');
+
+  // 将 dataTable 定义为全局变量
+  let dataTable = null;
+
+  // 初始化 DataTable表格数据
+  $(document).ready(function() {
+    dataTable = $('#table_id_example').DataTable({
+      "lengthChange": false,
+      "serverSide": true, // 如果后端不支持服务器端分页，设置为 false
+      "processing": true,  // 显示加载指示器
+      "ordering": false,   // 禁用排序功能
+      "searching": false,  // 禁用搜索
+      "responsive": true,  // 使表格响应式，适应不同屏幕尺寸。
+      "autoWidth": false,  // 禁用自动宽度调整，使用我们定义的列宽。
+      "ajax": {
+        "url": "/PsyRiskMR/disorder_risk_category/search",
+        "type": "GET",
+        "data": function(d) {
+          // 向后端传递分页参数
+          d.start = d.start;   // 起始索引
+          d.length = d.length; // 每页显示的记录数
+          d.draw = d.draw;     // 请求计数器
+          // 向后端传递疾病和分类
+          d.disease = selectedDisease.value || ''; // 用户选择的疾病
+          d.category = selectedCategory.value || ''; // 用户选择的分类
+          d.riskFactor = $('#searchInput').val() || ''; // 添加用户输入的风险因素
+          // 添加排序参数
+          // if (d.order && d.order.length > 0) {
+          //   d.sortColumn = d.columns[d.order[0].column].data;
+          //   d.sortDirection = d.order[0].dir;
+          // }
+
+        },
+        // "dataSrc": ""
+        "dataSrc": function(json) {
+          // 确保返回的是正确的数据数组
+          return json.data;
+        }
+      },
+      "columns": [
+        { "data": "psychiatricDisorder" },
+        { "data": "category" },
+        { "data": "riskFactor" },
+        { "data": "source" },
+        { "data": "method" },
+        { "data": "pvalue",
+          "render": function(data, type, row) {
+            // 将数值格式化为科学计数法（如：9.99E-10）
+            return Number(data).toExponential(2).replace('e', 'E');
+          }
+          // render: function(data, type, row) {
+          //   if (type === 'display') {
+          //     // 显示原始的科学计数法格式
+          //     return data;
+          //   }
+          //   // 为排序转换为数值
+          //   return data ? parseFloat(data) : Number.MAX_VALUE;
+          // }
+        },
+        { "data": "orValue" }
+      ],
+      // 设置列样式
+      "columnDefs": [
+        {
+          "targets": "_all", // 适用于所有列
+          "className": "dt-center" // 设置为居中对齐
+        },
+        { "targets": 0, "width": "15%" }, // 第一 列
+        { "targets": 1, "width": "15%" }, // 第二 列
+        { "targets": 2, "width": "20%" }, // 第三 列
+        { "targets": 3, "width": "20%" }, // 第四 列
+        { "targets": 4, "width": "10%" },
+        { "targets": 5, "width": "10%" },
+        { "targets": 6, "width": "10%" }
+      ],
+      // 添加其他 DataTables 的配置
+    });
+
+    // 默认高亮“所有”关键词
+    const allDiseaseKeyword = document.querySelector('.disease .keyword[data-query-value=""]');
+    const allCategoryKeyword = document.querySelector('.category .keyword[data-query-value=""]');
+    if (allDiseaseKeyword) {
+      allDiseaseKeyword.classList.add('highlight'); // 添加高亮
+    }
+    if (allCategoryKeyword) {
+      allCategoryKeyword.classList.add('highlight'); // 添加高亮
+    }
+
+    // 自动高亮对应的疾病
+    if (selectedDiseaseValue) {
+      document.querySelectorAll('.disease .keyword').forEach(k => {
+        if (k.getAttribute('data-query-value') === selectedDiseaseValue) {
+          k.classList.add('highlight'); // 添加高亮
+          selectedDisease.value = selectedDiseaseValue; // 更新选中的疾病值
+        }
+      });
+    }
+  });
+
+  // 监听关键词点击事件，确保只选一个疾病和一个分类
+  keywords.forEach(keyword => {
+    keyword.addEventListener('click', function() {
+      const queryType = this.getAttribute('data-query-type');
+      const queryValue = this.getAttribute('data-query-value');
+
+      if (queryType === 'disease') {
+        // 先移除其他疾病的高亮
+        document.querySelectorAll('.disease .keyword').forEach(k => {
+          k.classList.remove('highlight');
+        });
+        selectedDisease.value = queryValue;  // 直接更新值
+        this.classList.add('highlight'); // 添加高亮
+
+      } else if (queryType === 'category') {
+        // 先移除其他分类的高亮
+        document.querySelectorAll('.category .keyword').forEach(k => {
+          k.classList.remove('highlight');
+        });
+        selectedCategory.value = queryValue;  // 直接更新值
+        this.classList.add('highlight'); // 添加高亮
+
+      }
+
+      // 重新加载 DataTable 的数据
+      dataTable.ajax.reload();
+    });
+  });
+
+  // 添加搜索按钮的点击事件
+  $('#searchButton').on('click', function() {
+    // 重新加载 DataTable 的数据，新的风险因素将自动发送给后端
+    dataTable.ajax.reload();
+  });
+
+  // 添加重置按钮的点击事件
+  $('#resetButton').on('click', function() {
+    $('#searchInput').val(''); // 清空输入框
+    dataTable.ajax.reload(); // 重新加载 DataTable 的数据，发送空的风险因素
+  });
+</script>

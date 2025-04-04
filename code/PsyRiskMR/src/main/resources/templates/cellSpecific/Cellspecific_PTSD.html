@@ -1,0 +1,1007 @@
+<!--引入公共头部-->
+<th:block th:include="base::common"></th:block>
+
+<link th:href="@{/css/layui.css}" rel="stylesheet">
+<script type="text/javascript" th:src="@{/js/position.js}"></script>
+<style>
+    * {
+        margin: 0 auto
+    }
+
+    html {
+        font-size: 62.5%;
+    !important;
+        /* font-size: 62.5%; */
+    }
+
+    img {
+        max-width: 100%;
+        -ms-interpolation-mode: bicubic;
+    }
+
+    .nav_a {
+        text-decoration: none;
+        font-size: 1.8rem;
+        padding-left: 2%;
+        color: white;
+        line-height: 100%;
+        float: left;
+        margin: 0 auto;
+        display: block;
+        margin-top: 4rem;
+    }
+
+    .nav_a:hover {
+        color: rgb(156, 217, 185);
+    }
+
+    .nav_b {
+        text-decoration: none;
+        font-size: 1.8rem;
+        padding-left: 2%;
+        color: Blue;
+        line-height: 100%;
+        float: left;
+        margin: 0 auto;
+        display: block;
+        margin-top: 4rem;
+    }
+
+
+    .total_div {
+        width: 100%;
+        height: 12rem;
+        line-height: 12rem;
+        /*background: url("{{url_for('static',filename='images/RadiationDB_header_2.png')}}");*/
+        background-repeat: no-repeat;
+        -webkit-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+
+    .total_div_1 {
+        float: left;
+        width: 40%;
+        height: 100%;
+        line-height: 40%;
+        margin: 0 auto
+    }
+
+    #container {
+        width: 100%;
+        margin: 0 auto;
+        font-size: 1.6rem;
+    }
+
+    #container .article {
+        margin: 0 auto;
+        overflow: hidden;
+    }
+
+    #container .article .articlebox {
+        overflow: hidden;
+        position: relative;
+    }
+
+    #container .article .articlebox .articlelist {
+        width: 25%;
+    / / background: #8A2BE2;
+        border: none;
+        float: left;
+        padding-bottom: 2rem;
+    }
+
+    #container .article .articlebox .articledetail {
+        width: 70%;
+    / / background: #FFB6C1;
+        float: right;
+    }
+
+</style>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.min.css">
+<script type="text/javascript" th:src="@{/static_new/jquery-2.1.4.min.js}"></script>
+<script type="text/javascript" th:src="@{/static_new/plotly-2.20.0.min.js}"></script>
+<link th:href="@{/css/layui.css}" rel="stylesheet">
+<link th:href="@{/css/all.css}" rel="stylesheet">
+<link th:href="@{/static_new/jquery.dataTables.min.css}" rel="stylesheet">
+<script th:src="@{/static_new/jquery-1.12.4.js}"></script>
+<script th:src="@{/static_new/jquery.dataTables.min.js}"></script>
+<script th:src="@{/static_new/fnReloadAjax.js}"></script>
+<script th:src="@{/static_new/buttons.dataTables.min.css}"></script>
+<script th:src="@{/static_new/dataTables.buttons.min.js}"></script>
+<link th:href="@{/static_new/jquery.dataTables.css}" rel="stylesheet">
+<link th:href="@{/static_new/buttons.dataTables.css}" rel="stylesheet">
+<link th:href="@{/static_new/jszip.js}" rel="stylesheet">
+<link th:href="@{/static_new/vfs_fonts.js}" rel="stylesheet">
+<script th:src="@{/static_new/pdfmake.js}"></script>
+<script th:src="@{/static_new/jquery.dataTables.js}"></script>
+<script th:src="@{/static_new/dataTables.buttons.js}"></script>
+<script th:src="@{/static_new/buttons.flash.js}"></script>
+<script th:src="@{/static_new/buttons.html5.js}"></script>
+<script th:src="@{/static_new/buttons.print.js}"></script>
+<script th:src="@{/js/jquery.csv.min.js}"></script>
+<script th:src="@{/js/csv_to_html_table.js}"></script>
+
+<link th:href="@{/css/search.css}" rel="stylesheet">
+<link th:href="@{/css/head.css}" rel="stylesheet">
+
+<style>
+    #all_table1 tbody tr td {
+        text-align: left;
+    }
+
+    .left_div_active, .left_div {
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        word-break: break-all;
+        overflow: hidden;
+    }
+
+    .divcss5 {
+        border-top: 2px solid #f0f0f0;
+        border-bottom: 2px solid #f0f0f0
+    }
+
+    .a1 {
+        position: relative;
+        top: 13px;
+        font-size: 30px;
+        left: -200px;
+        color: #3C5A9E
+    }
+
+    .a2 {
+        position: relative;
+        top: 13px;
+        font-size: 30px;
+        left: -100px;
+        color: #3C5A9E
+    }
+
+    .a3 {
+        position: relative;
+        top: 13px;
+        font-size: 30px;
+        left: 0px;
+        color: #3C5A9E
+    }
+
+    .a4 {
+        position: relative;
+        top: 13px;
+        font-size: 30px;
+        left: 100px;
+        color: #3C5A9E
+    }
+
+    .a6 {
+        position: relative;
+        top: 13px;
+        font-size: 30px;
+        left: 200px;
+        color: #3C5A9E
+    }
+
+    .div1 {
+        border: width: 100%;
+        height: 630px;
+        margin-left: 0px;
+        border: 1px #ced8e4 solid;
+        vertical-align: top;
+    }
+
+    @media (-webkit-min-device-pixel-ratio: 1.25) {
+        .div1 {
+            border: width: 100%;
+            height: 530px;
+            margin-left: 0px;
+            border: 1px #ced8e4 solid;
+            vertical-align: top;
+        }
+    }
+
+
+    .iframe1 {
+        border: 0px;
+        width: 1620px;
+        height: 600px;
+        display: block
+    }
+
+    @media (-webkit-min-device-pixel-ratio: 1.25) {
+        .iframe1 {
+            border: 0px;
+            width: 1900px;
+            height: 630px;
+            transform: scale(0.7, 0.7);
+            transform-origin: top;
+            margin-right: 300px;
+        }
+    }
+
+</style>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#table_id_example1').DataTable({
+            "lengthChange": false,
+            "ajax": {
+                "url": "json/cell/PTSD/cell_PTSD_tab1.json", // 指向 JSON 文件的路径
+                "dataSrc": "" // 指定数据的路径，空字符串表示根数据数组
+            },
+            "columns": [
+                { "data": "Gene" },
+                { "data": "Cell" },
+                { "data": "Psychiatry" },
+                { "data": "Method" },
+                { "data": "Nsnp" },
+                { "data": "OR" },
+                { "data": "Pvalue" },
+                { "data": "Q_Pvalue(MREgger)" },
+                { "data": "Q_Pvalue(IVW)" },
+                { "data": "Pvalue(Intercept)" },
+                { "data": "PPH4" }
+            ],
+            "columnDefs": [
+                { "className": "text-center", "targets": "_all" },  // 使所有列的文字居中
+                { "width": "8%", "targets": 0 },  // 设置第一列的宽度为20%
+                { "width": "15%", "targets": 1 },  // 设置第二列的宽度为30%
+                { "width": "8%", "targets": 2 },  // 设置第三列的宽度为25%
+                { "width": "10%", "targets": 3 },  // 设置第四列的宽度为25%
+                { "width": "8%", "targets": 4 },  // 设置第四列的宽度为25%
+                { "width": "10%", "targets": 5 },   // 设置第四列的宽度为25%
+                { "width": "10%", "targets": 6 },   // 设置第四列的宽度为25%
+                { "width": "8%", "targets": 7 },   // 设置第四列的宽度为25%
+                { "width": "8%", "targets": 8 },   // 设置第四列的宽度为25%
+                { "width": "7%", "targets": 9 },   // 设置第四列的宽度为25%
+                { "width": "8%", "targets": 10 },   // 设置第四列的宽度为25%
+            ],
+            "autoWidth": false  // 关闭自动调整宽度功能
+        });
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#table_id_example2').DataTable({
+            "lengthChange": false,
+            "ajax": {
+                "url": "json/cell/PTSD/cell_PTSD_tab2.json", // 指向 JSON 文件的路径
+                "dataSrc": "" // 指定数据的路径，空字符串表示根数据数组
+            },
+            "columns": [
+                { "data": "Gene" },
+                { "data": "Cell" },
+                { "data": "Psychiatry" },
+                { "data": "Method" },
+                { "data": "Nsnp" },
+                { "data": "OR" },
+                { "data": "Pvalue" },
+                { "data": "Q_Pvalue(MREgger)" },
+                { "data": "Q_Pvalue(IVW)" },
+                { "data": "Pvalue(Intercept)" },
+                { "data": "PPH4" }
+            ],
+            "columnDefs": [
+                { "className": "text-center", "targets": "_all" },  // 使所有列的文字居中
+                { "width": "8%", "targets": 0 },  // 设置第一列的宽度为20%
+                { "width": "15%", "targets": 1 },  // 设置第二列的宽度为30%
+                { "width": "8%", "targets": 2 },  // 设置第三列的宽度为25%
+                { "width": "10%", "targets": 3 },  // 设置第四列的宽度为25%
+                { "width": "8%", "targets": 4 },  // 设置第四列的宽度为25%
+                { "width": "10%", "targets": 5 },   // 设置第四列的宽度为25%
+                { "width": "10%", "targets": 6 },   // 设置第四列的宽度为25%
+                { "width": "8%", "targets": 7 },   // 设置第四列的宽度为25%
+                { "width": "8%", "targets": 8 },   // 设置第四列的宽度为25%
+                { "width": "7%", "targets": 9 },   // 设置第四列的宽度为25%
+                { "width": "8%", "targets": 10 },   // 设置第四列的宽度为25%
+            ],
+            "autoWidth": false  // 关闭自动调整宽度功能
+        });
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#table_id_example3').DataTable({
+            "lengthChange": false,
+            "ajax": {
+                "url": "json/cell/PTSD/cell_PTSD_tab3.json", // 指向 JSON 文件的路径
+                "dataSrc": "" // 指定数据的路径，空字符串表示根数据数组
+            },
+            "columns": [
+                { "data": "Gene" },
+                { "data": "Cell" },
+                { "data": "Psychiatry" },
+                { "data": "Method" },
+                { "data": "Nsnp" },
+                { "data": "OR" },
+                { "data": "Pvalue" },
+                { "data": "Q_Pvalue(MREgger)" },
+                { "data": "Q_Pvalue(IVW)" },
+                { "data": "Pvalue(Intercept)" },
+                { "data": "PPH4" }
+            ],
+            "columnDefs": [
+                { "className": "text-center", "targets": "_all" },  // 使所有列的文字居中
+                { "width": "8%", "targets": 0 },  // 设置第一列的宽度为20%
+                { "width": "15%", "targets": 1 },  // 设置第二列的宽度为30%
+                { "width": "8%", "targets": 2 },  // 设置第三列的宽度为25%
+                { "width": "10%", "targets": 3 },  // 设置第四列的宽度为25%
+                { "width": "8%", "targets": 4 },  // 设置第四列的宽度为25%
+                { "width": "10%", "targets": 5 },   // 设置第四列的宽度为25%
+                { "width": "10%", "targets": 6 },   // 设置第四列的宽度为25%
+                { "width": "8%", "targets": 7 },   // 设置第四列的宽度为25%
+                { "width": "8%", "targets": 8 },   // 设置第四列的宽度为25%
+                { "width": "7%", "targets": 9 },   // 设置第四列的宽度为25%
+                { "width": "8%", "targets": 10 },   // 设置第四列的宽度为25%
+            ],
+            "autoWidth": false  // 关闭自动调整宽度功能
+        });
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#table_id_example4').DataTable({
+            "lengthChange": false,
+            "ajax": {
+                "url": "json/cell/PTSD/cell_PTSD_tab4.json", // 指向 JSON 文件的路径
+                "dataSrc": "" // 指定数据的路径，空字符串表示根数据数组
+            },
+            "columns": [
+                { "data": "Gene" },
+                { "data": "Cell" },
+                { "data": "Psychiatry" },
+                { "data": "Method" },
+                { "data": "Nsnp" },
+                { "data": "OR" },
+                { "data": "Pvalue" },
+                { "data": "Q_Pvalue(MREgger)" },
+                { "data": "Q_Pvalue(IVW)" },
+                { "data": "Pvalue(Intercept)" },
+                { "data": "PPH4" }
+            ],
+            "columnDefs": [
+                { "className": "text-center", "targets": "_all" },  // 使所有列的文字居中
+                { "width": "8%", "targets": 0 },  // 设置第一列的宽度为20%
+                { "width": "15%", "targets": 1 },  // 设置第二列的宽度为30%
+                { "width": "8%", "targets": 2 },  // 设置第三列的宽度为25%
+                { "width": "10%", "targets": 3 },  // 设置第四列的宽度为25%
+                { "width": "8%", "targets": 4 },  // 设置第四列的宽度为25%
+                { "width": "10%", "targets": 5 },   // 设置第四列的宽度为25%
+                { "width": "10%", "targets": 6 },   // 设置第四列的宽度为25%
+                { "width": "8%", "targets": 7 },   // 设置第四列的宽度为25%
+                { "width": "8%", "targets": 8 },   // 设置第四列的宽度为25%
+                { "width": "7%", "targets": 9 },   // 设置第四列的宽度为25%
+                { "width": "8%", "targets": 10 },   // 设置第四列的宽度为25%
+            ],
+            "autoWidth": false  // 关闭自动调整宽度功能
+        });
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#table_id_example5').DataTable({
+            "lengthChange": false,
+            "ajax": {
+                "url": "json/cell/PTSD/cell_PTSD_tab5.json", // 指向 JSON 文件的路径
+                "dataSrc": "" // 指定数据的路径，空字符串表示根数据数组
+            },
+            "columns": [
+                { "data": "Gene" },
+                { "data": "Cell" },
+                { "data": "Psychiatry" },
+                { "data": "Method" },
+                { "data": "Nsnp" },
+                { "data": "OR" },
+                { "data": "Pvalue" },
+                { "data": "Q_Pvalue(MREgger)" },
+                { "data": "Q_Pvalue(IVW)" },
+                { "data": "Pvalue(Intercept)" },
+                { "data": "PPH4" }
+            ],
+            "columnDefs": [
+                { "className": "text-center", "targets": "_all" },  // 使所有列的文字居中
+                { "width": "8%", "targets": 0 },  // 设置第一列的宽度为20%
+                { "width": "15%", "targets": 1 },  // 设置第二列的宽度为30%
+                { "width": "8%", "targets": 2 },  // 设置第三列的宽度为25%
+                { "width": "10%", "targets": 3 },  // 设置第四列的宽度为25%
+                { "width": "8%", "targets": 4 },  // 设置第四列的宽度为25%
+                { "width": "10%", "targets": 5 },   // 设置第四列的宽度为25%
+                { "width": "10%", "targets": 6 },   // 设置第四列的宽度为25%
+                { "width": "8%", "targets": 7 },   // 设置第四列的宽度为25%
+                { "width": "8%", "targets": 8 },   // 设置第四列的宽度为25%
+                { "width": "7%", "targets": 9 },   // 设置第四列的宽度为25%
+                { "width": "8%", "targets": 10 },   // 设置第四列的宽度为25%
+            ],
+            "autoWidth": false  // 关闭自动调整宽度功能
+        });
+    });
+</script>
+
+
+<div id="container">
+    <div class="article">
+        <div class="articledetail">
+            <div style="border:none;margin-top:6rem">
+                <div class="divcss5" ;
+                     style="margin-bottom:5rem; margin-left:20rem; width:80%; height: 60px; text-align: center;">
+                    <a href="#eQTL" class="a1"><strong>eQTL</strong></a>
+                    <a href="#sQTL" class="a2"><strong>sQTL</strong></a>
+                    <a href="#mQTL" class="a3"><strong>mQTL</strong></a>
+                    <a href="#pQTL" class="a4"><strong>pQTL</strong></a>
+                    <a href="#haQTL" class="a6"><strong>haQTL</strong></a>
+                </div>
+            </div>
+
+            <div style="text-align:center;margin-top:3rem" id="eQTL"><p style="font-size: 24px;"><strong>MR results of
+                Cell-specific eQTL and PTSD</strong></p><br/></div>
+            <table id="table_id_example1" class="display" style=" font-size: 16px">
+                <thead>
+                <tr>
+                    <th>Gene</th>
+                    <th>Cell</th>
+                    <th>Psychiatry</th>
+                    <th>Method</th>
+                    <th>Nsnp</th>
+                    <th>OR</th>
+                    <th>P-value</th>
+                    <th>Q_P-value<br>(MREgger)</th>
+                    <th>Q_P-value<br>(IVW)</th>
+                    <th>P-value<br>(Intercept)</th>
+                    <th>PPH4</th>
+                </tr>
+                </thead>
+                <tbody>
+                <!--加载JSON获得数据-->
+                </tbody>
+            </table>
+            <h3 style="text-align:right; margin-right:5rem"><strong>User can download All of MR results here:
+                <a th:href="@{/data/Cellspecific/mr_res_eQTL_PTSD.csv}">mr_res_eQTL_PTSD.csv</a>
+            </strong></h3><br/>
+
+            <div style="text-align:center;margin-top:3rem" id="sQTL"><p style="font-size: 24px;"><strong>MR results of
+                Cell-specific sQTL and PTSD</strong></p><br/></div>
+            <table id="table_id_example2" class="display" style=" font-size: 16px">
+                <thead>
+                <tr>
+                    <th>Gene</th>
+                    <th>Cell</th>
+                    <th>Psychiatry</th>
+                    <th>Method</th>
+                    <th>Nsnp</th>
+                    <th>OR</th>
+                    <th>P-value</th>
+                    <th>Q_P-value<br>(MREgger)</th>
+                    <th>Q_P-value<br>(IVW)</th>
+                    <th>P-value<br>(Intercept)</th>
+                    <th>PPH4</th>
+                </tr>
+                </thead>
+                <tbody>
+                <!--加载JSON获得数据-->
+                </tbody>
+            </table>
+            <h3 style="text-align:right; margin-right:5rem"><strong>User can download All of MR results here:
+                <a th:href="@{/data/Cellspecific/mr_res_sQTL_PTSD.csv}">mr_res_sQTL_PTSD.csv</a>
+            </strong></h3><br/>
+
+            <div style="text-align:center;margin-top:3rem" id="mQTL"><p style="font-size: 24px;"><strong>MR results of
+                Cell-specific mQTL and PTSD</strong></p><br/></div>
+            <table id="table_id_example3" class="display" style=" font-size: 16px">
+                <thead>
+                <tr>
+                    <th>Gene</th>
+                    <th>Cell</th>
+                    <th>Psychiatry</th>
+                    <th>Method</th>
+                    <th>Nsnp</th>
+                    <th>OR</th>
+                    <th>P-value</th>
+                    <th>Q_P-value<br>(MREgger)</th>
+                    <th>Q_P-value<br>(IVW)</th>
+                    <th>P-value<br>(Intercept)</th>
+                    <th>PPH4</th>
+                </tr>
+                </thead>
+                <tbody>
+                <!--加载JSON获得数据-->
+                </tbody>
+            </table>
+            <h3 style="text-align:right; margin-right:5rem"><strong>User can download All of MR results here:
+                <a th:href="@{/data/Cellspecific/mr_res_mQTL_PTSD.csv}">mr_res_mQTL_PTSD.csv</a>
+            </strong></h3><br/>
+
+            <div style="text-align:center;margin-top:3rem" id="pQTL"><p style="font-size: 24px;"><strong>MR results of
+                Cell-specific pQTL and PTSD</strong></p><br/></div>
+            <table id="table_id_example4" class="display" style=" font-size: 16px">
+                <thead>
+                <tr>
+                    <th>Gene</th>
+                    <th>Cell</th>
+                    <th>Psychiatry</th>
+                    <th>Method</th>
+                    <th>Nsnp</th>
+                    <th>OR</th>
+                    <th>P-value</th>
+                    <th>Q_P-value<br>(MREgger)</th>
+                    <th>Q_P-value<br>(IVW)</th>
+                    <th>P-value<br>(Intercept)</th>
+                    <th>PPH4</th>
+                </tr>
+                </thead>
+                <tbody>
+                <!--加载JSON获得数据-->
+                </tbody>
+            </table>
+            <h3 style="text-align:right; margin-right:5rem"><strong>User can download All of MR results here:
+                <a th:href="@{/data/Cellspecific/mr_res_pQTL_PTSD.csv}">mr_res_pQTL_PTSD.csv</a>
+            </strong></h3><br/>
+
+            <div style="text-align:center;margin-top:3rem" id="haQTL"><p style="font-size: 24px;"><strong>MR results of
+                Cell-specific haQTL and PTSD</strong></p><br/></div>
+            <table id="table_id_example5" class="display" style=" font-size: 16px">
+                <thead>
+                <tr>
+                    <th>Gene</th>
+                    <th>Cell</th>
+                    <th>Psychiatry</th>
+                    <th>Method</th>
+                    <th>Nsnp</th>
+                    <th>OR</th>
+                    <th>P-value</th>
+                    <th>Q_P-value<br>(MREgger)</th>
+                    <th>Q_P-value<br>(IVW)</th>
+                    <th>P-value<br>(Intercept)</th>
+                    <th>PPH4</th>
+                </tr>
+                </thead>
+                <tbody>
+                <!--加载JSON获得数据-->
+                </tbody>
+            </table>
+            <h3 style="text-align:right; margin-right:5rem"><strong>User can download All of MR results here:
+                <a th:href="@{/data/Cellspecific/mr_res_haQTL_PTSD.csv}">mr_res_haQTL_PTSD.csv</a>
+            </strong></h3><br/>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<!--data table-->
+<script type="text/javascript">
+
+    var left_fiv = document.getElementById("left").getElementsByTagName("div");
+    var right_div = document.getElementById("right").getElementsByClassName("sw");
+
+    for (var i = 0; i < left_fiv.length; i++) {
+        left_fiv[i].index = i;
+        left_fiv[i].onclick = function () {
+            for (var j = 0; j < left_fiv.length; j++) {
+                left_fiv[j].className = "left_div";
+                right_div[j].style.display = "none";
+            }
+            this.className = "left_div_active";
+            right_div[this.index].style.display = "block";
+            if (this.index == 0) {
+                $("ul li").removeClass("active");
+                var send_data = {'A1': ["All"], 'type': ["All"],};
+                $("#categories .all_li").siblings().css("color", 'black');
+                $("#type .all_li").siblings().css("color", 'black');
+                $(".all_li").addClass("active");
+                $("#all_table2").dataTable().fnDestroy();
+                $("#all_table2").DataTable(getCharData(send_data, "#all_table2", '/analysis1', all_ct));
+            } else if (this.index == 1) {
+                $("ul li").removeClass("active");
+                var send_data = {'A1': ["All"], 'type': ["All"],};
+                $("#categories .all_li").siblings().css("color", 'black');
+                $("#type .all_li").siblings().css("color", 'black');
+                $(".all_li").addClass("active");
+                $("#second_table").dataTable().fnDestroy();
+                $("#second_table").DataTable(getCharData(send_data, "#second_table", '/analysis2', ct));
+            } else {
+                $("ul li").removeClass("active");
+                $(".all_li").addClass("active");
+                var send_data = {'A1': ["All"], 'type': ["All"],};
+                $("#categories .all_li").siblings().css("color", 'black');
+                $("#type .all_li").siblings().css("color", 'black');
+                $("#four_table").dataTable().fnDestroy();
+                $("#four_table").DataTable(getCharData(send_data, "#four_table", '/analysis3', ct1));
+            }
+
+        }
+    }
+</script>
+
+<!--left botton-->
+<script>
+    var isloaded = false;
+
+    function getUrlParam(name) {
+        var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");
+        var r = window.location.search.substr(1).match(reg);
+        if (r != null) {
+            return unescape(r[2]);
+        } else {
+            return null;
+        }
+    }
+
+    var all_ct = [
+        {
+            "data": "rsid", defaultContent: "-", render: function (data,) {
+                <!--const link = "/order_search/" + data;-->
+                return "<p style='text-align: center; height:30px; line-height:30px'>" + data + "</p>"
+            }
+        },
+        {
+            "data": "chr", defaultContent: "-", render: function (data,) {
+                return "<p style='text-align: center;'>" + data + "</p>"
+            }
+        },
+        {
+            "data": "bp", defaultContent: "-", render: function (data,) {
+                return "<p style='text-align: center;'>" + data + "</p>"
+            }
+        },
+        {
+            "data": "A1", defaultContent: "-", render: function (data,) {
+                return "<p style='text-align: center;'>" + data + "</p>"
+            }
+        },
+        {
+            "data": "A2", defaultContent: "-", render: function (data,) {
+                return "<p style='text-align: center;'>" + data + "</p>"
+            }
+        },
+        {
+            "data": "eaf", defaultContent: "-", render: function (data,) {
+                return "<p style='text-align: center;'>" + data + "</p>"
+            }
+        },
+        {
+            "data": "trait", defaultContent: "-", render: function (data,) {
+                return "<p style='text-align: center;'>" + data + "</p>"
+            }
+        },
+        {
+            "data": "beta", defaultContent: "-", render: function (data,) {
+                return "<p style='text-align: center;'>" + data + "</p>"
+            }
+        },
+        {
+            "data": "se", defaultContent: "-", render: function (data,) {
+                return "<p style='text-align: center;'>" + data + "</p>"
+            }
+        },
+        {
+            "data": "pval", defaultContent: "-", render: function (data,) {
+                const link = 'https://pubmed.ncbi.nlm.nih.gov/' + data + '/';
+                return "<p style='text-align: center;'>" + data + "</p>"
+            }
+        },
+    ];
+    var ct = [
+        {
+            "data": "Order", defaultContent: "-", render: function (data,) {
+                <!--const link = "/order_search/" + data;-->
+                return "<a style='color:blue' target='_blank' href=" + link + ">" + data + "</a>"
+            }
+        },
+        {"data": "Factor", defaultContent: "-"},
+        {"data": "Factor_type", defaultContent: "-"},
+        {"data": "Cancer_type", defaultContent: "-"},
+        {"data": "Radiation_type", defaultContent: "-"},
+        {"data": "Potential_type", defaultContent: "-"},
+        {
+            "data": "PMID", defaultContent: "-", render: function (data,) {
+                const link = 'https://pubmed.ncbi.nlm.nih.gov/' + data + '/';
+                return "<a style='color:blue' target='_blank' href=" + link + ">" + data + "</a>"
+            }
+        },
+    ];
+    var ct1 = [
+        {
+            "data": "Order", defaultContent: "-", render: function (data,) {
+                const link = "/order_search/" + data;
+                return "<a style='color:blue' target='_blank' href=" + link + ">" + data + "</a>"
+            }
+        },
+        {"data": "Factor", defaultContent: "-"},
+        {"data": "Factor_type", defaultContent: "-"},
+        {"data": "Sensitivity", defaultContent: "-"},
+        {"data": "Resistance", defaultContent: "-"},
+        {"data": "Cancer_type", defaultContent: "-"},
+        {"data": "Radiation_type", defaultContent: "-"},
+        {
+            "data": "PMID", defaultContent: "-", render: function (data,) {
+                const link = 'https://pubmed.ncbi.nlm.nih.gov/' + data + '/';
+                return "<a style='color:blue' target='_blank' href=" + link + ">" + data + "</a>"
+            }
+        },
+    ];
+
+    function getCharData(send_data, table_id, url_view, columns) {
+        $(table_id).DataTable({
+            "scrollY": "50vh",
+            "scrollCollapse": true,
+            "aLengthMenu": [5, 10, 15, 20],
+            "iDisplayLength": 10,
+            "aoColumnDefs": [{
+                "bSortable": false,
+            }],
+            ajax: {
+                type: "POST",
+                url: url_view,
+                async: false,
+                data: send_data,
+                error: function (error) {
+                    alert("error");
+                },
+                dataSrc: function (json) {
+                    json.draw = json.data.draw;
+                    json.recordsTotal = json.data.recordsTotal;
+                    json.recordsFiltered = json.data.recordsFiltered;
+                    return json.data;
+                }
+            },
+            "columns": columns,
+            dom: 'lfBrtip',
+            buttons: [
+                'copyHtml5',
+                'excelHtml5',
+                'csvHtml5',
+            ],
+        })
+    }
+
+    $("#all_table1 ul li").click(function () {
+        $("ul li").css("color", "black");
+        if ($(this).hasClass("active")) {
+            if ($(this).attr("title") != "All") {
+                $(this).removeClass("active");
+            }
+        } else {
+            if ($(this).attr("title") == "All") {
+                $(this).addClass("active").siblings().removeClass("active");
+            } else {
+                if ($(this).attr("name") == "categories") {
+                    $("#categories .all_li").removeClass("active");
+                } else {
+                    $("#type .all_li").removeClass("active");
+                }
+                $(this).addClass("active");
+            }
+        }
+        var categories = new Array();
+        var categories1 = $("#categories .active").toArray();
+        for (i = 0; i < categories1.length; i++) {
+            categories.push(categories1[i].getAttribute("title"));
+        }
+        categories = $.unique(categories);
+        if (categories.length == 0) {
+            $("#categories .all_li").addClass("active");
+        }
+        var type = new Array();
+        var type1 = $("#type .active").toArray();
+        for (i = 0; i < type1.length; i++) {
+            type.push(type1[i].getAttribute("title"));
+        }
+        if (type.length == 0) {
+            $("#type .all_li").addClass("active");
+        }
+        var send_data = {'categories': categories, 'type': type,}
+        $("#all_table2").dataTable().fnDestroy();
+        getCharData(send_data, "#all_table2", '/analysis1', all_ct);
+    });
+    $("#first_table ul li").click(function () {
+        $("ul li").css("color", "black");
+        if ($(this).hasClass("active")) {
+            if ($(this).attr("title") != "All") {
+                $(this).removeClass("active");
+            }
+        } else {
+            if ($(this).attr("title") == "All") {
+                $(this).addClass("active").siblings().removeClass("active");
+            } else {
+                if ($(this).attr("name") == "categories") {
+                    $("#categories .all_li").removeClass("active");
+                } else {
+                    $("#type .all_li").removeClass("active");
+                }
+                $(this).addClass("active");
+            }
+        }
+        var categories = new Array();
+        var categories1 = $("#categories .active").toArray();
+        for (i = 0; i < categories1.length; i++) {
+            categories.push(categories1[i].getAttribute("title"));
+        }
+        if (categories.length == 0) {
+            $("#categories .all_li").addClass("active");
+        }
+        var type = new Array();
+        var type1 = $("#type .active").toArray();
+        for (i = 0; i < type1.length; i++) {
+            type.push(type1[i].getAttribute("title"));
+        }
+        if (type.length == 0) {
+            $("#type .all_li").addClass("active");
+        }
+        var send_data = {'categories': categories, 'type': type,}
+        $("#second_table").dataTable().fnDestroy();
+        getCharData(send_data, "#second_table", '/analysis2', ct);
+    });
+    $("#three_table ul li").click(function () {
+        $("ul li").css("color", "black");
+        if ($(this).hasClass("active")) {
+            if ($(this).attr("title") != "All") {
+                $(this).removeClass("active");
+            }
+        } else {
+            if ($(this).attr("title") == "All") {
+                $(this).addClass("active").siblings().removeClass("active");
+            } else {
+                if ($(this).attr("name") == "categories") {
+                    $("#categories .all_li").removeClass("active");
+                } else {
+                    $("#type .all_li").removeClass("active");
+                }
+                $(this).addClass("active");
+            }
+        }
+        var categories = [];
+        var categories1 = $("#categories .active").toArray();
+        for (i = 0; i < categories1.length; i++) {
+            categories.push(categories1[i].getAttribute("title"));
+        }
+        if (categories.length == 0) {
+            $("#categories .all_li").addClass("active");
+        }
+        var type = [];
+        var type1 = $("#type .active").toArray();
+        for (i = 0; i < type1.length; i++) {
+            type.push(type1[i].getAttribute("title"));
+        }
+        if (type.length == 0) {
+            $("#type .all_li").addClass("active");
+        }
+        var send_data = {'categories': categories, 'type': type,}
+        $("#four_table").dataTable().fnDestroy();
+        $("#four_table").DataTable(getCharData(send_data, "#four_table", '/analysis3', ct1));
+    });
+    $(document).ready(function () {
+        $("ul li").addClass("over");
+        $(".left_div").addClass("over");
+        $(".left_div_active").addClass("over");
+        var url = window.location.href;
+        index = url.indexOf("flag");
+        if (index != -1) {
+            var page = "";
+            var type_new = "";
+            var dm = 0;
+            page = getUrlParam("page").toString();
+            type_new = getUrlParam("type").toString();
+            if (page == "All") {
+                if (type_new.indexOf("*") >= 0) {
+                    $("ul li").removeClass("active");
+                    type_new = type_new.split("*");
+                    var cncn = type_new[0];
+                    $("." + cncn).css("color", "rgb(6, 160, 79)");
+                    cncn = cncn.replaceAll("_", " ");
+                    var fnfn = type_new[1];
+                    $("." + fnfn).css("color", "rgb(6, 160, 79)");
+                    fnfn = fnfn.replaceAll("_", " ");
+                    dm = 1;
+                    var send_data = {'categories': [cncn], 'type': [fnfn]};
+                } else if (type_new != 'All') {
+                    if ($("ul li").hasClass(type_new)) {
+                        var nn = type_new;
+                        type_new = $("." + type_new).attr("title");
+                    } else {
+                        var not_exist = 1;
+                        type_new = "All";
+                    }
+                } else {
+                    var send_data = {'categories': ["All"], 'type': ["All"],};
+                }
+                if (dm == 0) {
+                    $("ul li").removeClass("active");
+                    if (type_new == 'Protein-coding gene' || type_new == 'miRNA' || type_new == 'LncRNA' || type_new == 'CircRNA' || type_new == 'Pseudogene' || type_new == 'Protein' || type_new == 'Radiosensitizer') {
+                        var send_data = {'categories': ["All"], 'type': [type_new],};
+                        $("#type ." + nn).css("color", "rgb(6, 160, 79)");
+                        $("#categories .all_li").css("color", "rgb(6, 160, 79)");
+                    } else {
+                        var send_data = {'categories': [type_new], 'type': ["All"],};
+                        $("#categories ." + nn).css("color", "rgb(6, 160, 79)");
+                        $("#type .all_li").css("color", "rgb(6, 160, 79)");
+
+                    }
+                }
+                left_fiv[0].className = "left_div_active";
+                left_fiv[1].className = "left_div";
+                left_fiv[2].className = "left_div";
+                right_div[0].style.display = "block";
+                right_div[1].style.display = "none";
+                right_div[2].style.display = "none";
+                $("#all_table2").DataTable(getCharData(send_data, "#all_table2", '/analysis1', all_ct));
+                if (not_exist == 1) {
+                    alert("No such Cancer type or Factor!");
+                }
+            } else if (page == "signature") {
+                left_fiv[0].className = "left_div";
+                left_fiv[1].className = "left_div_active";
+                left_fiv[2].className = "left_div";
+                right_div[0].style.display = "none";
+                right_div[1].style.display = "block";
+                right_div[2].style.display = "none";
+                if (index != -1) {
+                    $("ul li").removeClass("active");
+                    type_new = type_new.split("*");
+                    var cncn = type_new[0];
+
+                    $("." + cncn).css("color", "rgb(6, 160, 79)");
+                    if (cncn == "all_li") {
+                        cncn = "All";
+                    }
+                    cncn = cncn.replaceAll("_", " ");
+
+                    var fnfn = type_new[1];
+
+                    $("." + fnfn).css("color", "rgb(6, 160, 79)");
+                    if (fnfn == "all_li") {
+                        fnfn = "All";
+                    }
+                    fnfn = fnfn.replaceAll("_", " ");
+
+                    dm = 1;
+                    var send_data = {'categories': [cncn], 'type': [fnfn]};
+                } else {
+                    var send_data = {'categories': ["All"], 'type': ["All"],};
+                }
+                $("#second_table").dataTable().fnDestroy();
+                $("#second_table").DataTable(getCharData(send_data, "#second_table", '/analysis2', ct));
+            } else {
+                var send_data = {'categories': ["All"], 'type': ["All"],};
+                left_fiv[0].className = "left_div";
+                left_fiv[1].className = "left_div";
+                left_fiv[2].className = "left_div_active";
+                right_div[0].style.display = "none";
+                right_div[1].style.display = "none";
+                right_div[2].style.display = "block";
+                if (index != -1) {
+                    $("ul li").removeClass("active");
+                    type_new = type_new.split("*");
+                    var cncn = type_new[0];
+                    $("." + cncn).css("color", "rgb(6, 160, 79)");
+                    if (cncn == "all_li") {
+                        cncn = "All";
+                    }
+                    cncn = cncn.replaceAll("_", " ");
+                    var fnfn = type_new[1];
+                    $("." + fnfn).css("color", "rgb(6, 160, 79)");
+                    if (fnfn == "all_li") {
+                        fnfn = "All";
+                    }
+                    fnfn = fnfn.replaceAll("_", " ");
+                    dm = 1;
+                    var send_data = {'categories': [cncn], 'type': [fnfn]};
+                } else {
+                    var send_data = {'categories': ["All"], 'type': ["All"],};
+                }
+                $("#four_table").dataTable().fnDestroy();
+                $("#four_table").DataTable(getCharData(send_data, "#four_table", '/analysis3', ct1));
+            }
+            //
+        } else {
+            var send_data = {'categories': ["All"], 'type': ["All"],};
+            left_fiv[0].className = "left_div_active";
+            left_fiv[1].className = "left_div";
+            left_fiv[2].className = "left_div";
+            right_div[0].style.display = "block";
+            right_div[1].style.display = "none";
+            right_div[2].style.display = "none";
+            $("#all_table2").dataTable().fnDestroy();
+            $("#all_table2").DataTable(getCharData(send_data, "#all_table2", '/analysis1', all_ct));
+        }
+    })
+
+</script>

@@ -1,0 +1,94 @@
+"Gene","Tissue","Psychiatric.disorder","Method","Nsnp","Beta","SE","OR","P.value","Q_Pvalue.MREgger.","Q_Pvalue.IVW.","P.value.Intercept.","PPH4"
+"ARHGEF16","Lymphocyte","OCD","Wald ratio",1,0.211,0.066,1.236,0.00132,NA,NA,NA,0.736871257
+"SPATA6","Lymphocyte","OCD","Wald ratio",1,-0.304,0.098,0.738,0.00201,NA,NA,NA,0.63814798
+"PCSK9","Lymphocyte","OCD","Wald ratio",1,-0.096,0.036,0.908,0.0078,NA,NA,NA,0.304539613
+"CTTNBP2NL","Lymphocyte","OCD","Wald ratio",1,-0.083,0.04,0.92,0.0354,NA,NA,NA,0.104925694
+"ASAP3","Lymphocyte","OCD","Wald ratio",1,0.081,0.04,1.084,0.043,NA,NA,NA,0.109428891
+"FCER1A","Lymphocyte","OCD","Wald ratio",1,0.066,0.032,1.068,0.043,NA,NA,NA,0.09869865
+"DNTTIP2","Lymphocyte","OCD","Wald ratio",1,-0.103,0.052,0.902,0.0492,NA,NA,NA,0.131833588
+"LPAR3","Lymphocyte","OCD","Wald ratio",1,0.293,0.16,1.34,0.0678,NA,NA,NA,0.091137546
+"COPA","Lymphocyte","OCD","Wald ratio",1,-0.092,0.056,0.912,0.0987,NA,NA,NA,0.046621587
+"VSIG8","Lymphocyte","OCD","Wald ratio",1,-0.143,0.091,0.867,0.118,NA,NA,NA,0.044263813
+"TSPAN2","Lymphocyte","OCD","Wald ratio",1,0.139,0.09,1.149,0.121,NA,NA,NA,0.044105941
+"LOC100130557","Lymphocyte","OCD","Wald ratio",1,-0.679,0.454,0.507,0.135,NA,NA,NA,0.043503197
+"AJAP1","Lymphocyte","OCD","Inverse variance weighted",2,0.056,0.038,1.058,0.137,NA,0.28726358,NA,0.012682192
+"CLCC1","Lymphocyte","OCD","Wald ratio",1,0.041,0.028,1.042,0.141,NA,NA,NA,0.035886189
+"GLIS1","Lymphocyte","OCD","Wald ratio",1,0.045,0.032,1.046,0.163,NA,NA,NA,0.037729735
+"CYP2J2","Lymphocyte","OCD","Wald ratio",1,0.919,0.663,2.507,0.166,NA,NA,NA,0.058576995
+"CD160","Lymphocyte","OCD","Wald ratio",1,-0.535,0.388,0.586,0.168,NA,NA,NA,0.03223442
+"NUDT17","Lymphocyte","OCD","Wald ratio",1,-0.827,0.6,0.437,0.168,NA,NA,NA,0.03223442
+"DPYD","Lymphocyte","OCD","Inverse variance weighted",2,0.044,0.032,1.045,0.17,NA,0.641686033,NA,0.041921628
+"RERE","Lymphocyte","OCD","Wald ratio",1,-0.063,0.047,0.939,0.176,NA,NA,NA,0.030450115
+"ENO1","Lymphocyte","OCD","Wald ratio",1,-0.036,0.026,0.965,0.176,NA,NA,NA,0.030450115
+"COL9A2","Lymphocyte","OCD","Wald ratio",1,-0.112,0.086,0.894,0.197,NA,NA,NA,0.030953893
+"ACADM","Lymphocyte","OCD","Wald ratio",1,0.035,0.028,1.036,0.204,NA,NA,NA,0.028639986
+"RUNX3","Lymphocyte","OCD","Wald ratio",1,0.055,0.044,1.057,0.206,NA,NA,NA,0.030226935
+"OR10X1","Lymphocyte","OCD","Wald ratio",1,-0.036,0.028,0.965,0.207,NA,NA,NA,0.027415513
+"DAB1","Lymphocyte","OCD","Wald ratio",1,-0.092,0.073,0.912,0.21,NA,NA,NA,0.030163547
+"CDA","Lymphocyte","OCD","Wald ratio",1,-0.076,0.062,0.926,0.217,NA,NA,NA,0.028100593
+"PPAP2B","Lymphocyte","OCD","Wald ratio",1,-0.045,0.037,0.956,0.219,NA,NA,NA,0.028245871
+"C1orf187","Lymphocyte","OCD","Wald ratio",1,-0.053,0.044,0.948,0.225,NA,NA,NA,0.029508247
+"C1orf200","Lymphocyte","OCD","Wald ratio",1,-0.266,0.221,0.767,0.23,NA,NA,NA,0.025817437
+"PIK3CD","Lymphocyte","OCD","Wald ratio",1,-0.171,0.142,0.843,0.23,NA,NA,NA,0.025817437
+"CHI3L2","Lymphocyte","OCD","Wald ratio",1,-0.069,0.06,0.933,0.25,NA,NA,NA,0.036327
+"IGSF21","Lymphocyte","OCD","Wald ratio",1,-0.092,0.093,0.912,0.319,NA,NA,NA,0.022732499
+"LOC100133612","Lymphocyte","OCD","Wald ratio",1,-0.038,0.039,0.962,0.324,NA,NA,NA,0.022213056
+"VANGL1","Lymphocyte","OCD","Wald ratio",1,-0.038,0.047,0.963,0.419,NA,NA,NA,0.028606194
+"C1orf177","Lymphocyte","OCD","Wald ratio",1,-0.023,0.029,0.977,0.436,NA,NA,NA,0.018394695
+"ST6GALNAC3","Lymphocyte","OCD","Inverse variance weighted",2,0.025,0.033,1.025,0.453,NA,0.241165282,NA,0.018589205
+"BRDT","Lymphocyte","OCD","Wald ratio",1,0.06,0.081,1.062,0.455,NA,NA,NA,0.033316414
+"FAM176B","Lymphocyte","OCD","Wald ratio",1,0.181,0.243,1.198,0.457,NA,NA,NA,0.019307371
+"C1orf113","Lymphocyte","OCD","Wald ratio",1,0.036,0.049,1.037,0.457,NA,NA,NA,0.019307376
+"PEX14","Lymphocyte","OCD","Wald ratio",1,0.076,0.104,1.079,0.465,NA,NA,NA,0.021313834
+"TRIM33","Lymphocyte","OCD","Wald ratio",1,-0.021,0.03,0.979,0.481,NA,NA,NA,0.018271999
+"FAM46C","Lymphocyte","OCD","Wald ratio",1,-0.045,0.069,0.956,0.517,NA,NA,NA,0.030426871
+"PADI1","Lymphocyte","OCD","Wald ratio",1,0.204,0.328,1.227,0.533,NA,NA,NA,0.021324402
+"KCNA10","Lymphocyte","OCD","Wald ratio",1,-0.018,0.031,0.982,0.559,NA,NA,NA,0.015127968
+"RAP1GAP","Lymphocyte","OCD","Wald ratio",1,-0.024,0.042,0.976,0.564,NA,NA,NA,0.017808803
+"SLC35D1","Lymphocyte","OCD","Wald ratio",1,0.336,0.583,1.399,0.565,NA,NA,NA,0.017638375
+"SKI","Lymphocyte","OCD","Wald ratio",1,0.029,0.052,1.03,0.568,NA,NA,NA,0.020001154
+"HOOK1","Lymphocyte","OCD","Wald ratio",1,-0.498,0.944,0.608,0.598,NA,NA,NA,0.025535304
+"PRDM16","Lymphocyte","OCD","Inverse variance weighted",2,0.016,0.031,1.016,0.6,NA,0.227961673,NA,0.014678548
+"KANK4","Lymphocyte","OCD","Wald ratio",1,0.069,0.137,1.071,0.615,NA,NA,NA,0.015458006
+"GJA5","Lymphocyte","OCD","Wald ratio",1,-0.035,0.071,0.965,0.617,NA,NA,NA,0.016906758
+"MORN1","Lymphocyte","OCD","Wald ratio",1,-0.015,0.031,0.985,0.632,NA,NA,NA,0.014597345
+"TGFBR3","Lymphocyte","OCD","Wald ratio",1,-0.379,0.804,0.685,0.637,NA,NA,NA,0.02420832
+"CCDC163P","Lymphocyte","OCD","Wald ratio",1,0.183,0.397,1.2,0.646,NA,NA,NA,0.014834249
+"FCRL3","Lymphocyte","OCD","Wald ratio",1,-0.016,0.036,0.984,0.649,NA,NA,NA,0.013916941
+"C1orf175","Lymphocyte","OCD","Wald ratio",1,-0.038,0.087,0.962,0.661,NA,NA,NA,0.025916407
+"SLC1A7","Lymphocyte","OCD","Wald ratio",1,-0.018,0.042,0.982,0.662,NA,NA,NA,0.015875073
+"SH2D5","Lymphocyte","OCD","Wald ratio",1,0.015,0.037,1.015,0.691,NA,NA,NA,0.013840783
+"DDX20","Lymphocyte","OCD","Wald ratio",1,-0.05,0.125,0.952,0.693,NA,NA,NA,0.020558664
+"NOL9","Lymphocyte","OCD","Wald ratio",1,0.019,0.049,1.02,0.696,NA,NA,NA,0.020237192
+"PLEKHG5","Lymphocyte","OCD","Wald ratio",1,0.069,0.175,1.071,0.696,NA,NA,NA,0.020237192
+"CDK11B","Lymphocyte","OCD","Wald ratio",1,0.014,0.038,1.014,0.704,NA,NA,NA,0.013547838
+"SLC35E2","Lymphocyte","OCD","Wald ratio",1,0.01,0.027,1.01,0.704,NA,NA,NA,0.013549098
+"NADK","Lymphocyte","OCD","Wald ratio",1,0.012,0.03,1.012,0.704,NA,NA,NA,0.013549097
+"CALML6","Lymphocyte","OCD","Wald ratio",1,0.011,0.028,1.011,0.704,NA,NA,NA,0.013549058
+"KIAA1751","Lymphocyte","OCD","Wald ratio",1,0.01,0.026,1.01,0.704,NA,NA,NA,0.012873596
+"CAMTA1","Lymphocyte","OCD","Inverse variance weighted",2,-0.014,0.039,0.986,0.71,NA,0.146535304,NA,0.05616307
+"CA6","Lymphocyte","OCD","Wald ratio",1,-0.028,0.09,0.972,0.753,NA,NA,NA,0.013550981
+"GPR88","Lymphocyte","OCD","Wald ratio",1,-0.009,0.03,0.991,0.76,NA,NA,NA,0.01440319
+"MIR200A","Lymphocyte","OCD","Wald ratio",1,0.015,0.052,1.015,0.771,NA,NA,NA,0.02148162
+"C1orf127","Lymphocyte","OCD","Wald ratio",1,-0.016,0.059,0.984,0.79,NA,NA,NA,0.015659306
+"AIM2","Lymphocyte","OCD","Wald ratio",1,0.02,0.078,1.02,0.798,NA,NA,NA,0.030647691
+"ABCA4","Lymphocyte","OCD","Wald ratio",1,0.009,0.038,1.009,0.807,NA,NA,NA,0.015573503
+"ARHGEF19","Lymphocyte","OCD","Wald ratio",1,-0.006,0.031,0.994,0.849,NA,NA,NA,0.01458868
+"LRIG2","Lymphocyte","OCD","Wald ratio",1,0.005,0.027,1.005,0.853,NA,NA,NA,0.013135092
+"HSPG2","Lymphocyte","OCD","Wald ratio",1,0.009,0.048,1.009,0.855,NA,NA,NA,0.015470996
+"GNG12","Lymphocyte","OCD","Inverse variance weighted",2,0.011,0.075,1.011,0.879,NA,0.793488129,NA,0.022412614
+"GPR177","Lymphocyte","OCD","Inverse variance weighted",2,-0.007,0.049,0.994,0.895,NA,0.230464193,NA,0.040210108
+"IFI44","Lymphocyte","OCD","Wald ratio",1,-0.006,0.054,0.994,0.91,NA,NA,NA,0.013521443
+"TMEM51","Lymphocyte","OCD","Wald ratio",1,0.004,0.048,1.004,0.931,NA,NA,NA,0.013106842
+"SETDB1","Lymphocyte","OCD","Wald ratio",1,0.003,0.034,1.003,0.935,NA,NA,NA,0.013150111
+"LASS2","Lymphocyte","OCD","Wald ratio",1,0.005,0.061,1.005,0.935,NA,NA,NA,0.013150111
+"BEST4","Lymphocyte","OCD","Wald ratio",1,0.002,0.029,1.002,0.941,NA,NA,NA,0.012754358
+"SNORD38A","Lymphocyte","OCD","Wald ratio",1,0.005,0.062,1.005,0.941,NA,NA,NA,0.01323689
+"KIF2C","Lymphocyte","OCD","Wald ratio",1,0.024,0.325,1.024,0.941,NA,NA,NA,0.01323716
+"PTCH2","Lymphocyte","OCD","Wald ratio",1,0.002,0.033,1.002,0.941,NA,NA,NA,0.01323716
+"GJB3","Lymphocyte","OCD","Wald ratio",1,-0.004,0.063,0.996,0.951,NA,NA,NA,0.018677291
+"BCL9","Lymphocyte","OCD","Wald ratio",1,0.005,0.084,1.005,0.953,NA,NA,NA,0.013224504
+"LOC388588","Lymphocyte","OCD","Wald ratio",1,-0.003,0.074,0.997,0.973,NA,NA,NA,0.012782333
+"KIAA0562","Lymphocyte","OCD","Wald ratio",1,-0.001,0.027,0.999,0.973,NA,NA,NA,0.012782333
+"C1orf94","Lymphocyte","OCD","Wald ratio",1,-0.004,0.16,0.996,0.982,NA,NA,NA,0.015183274
+"PDE4B","Lymphocyte","OCD","Wald ratio",1,0.007,0.339,1.007,0.983,NA,NA,NA,0.013583724

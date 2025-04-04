@@ -1,0 +1,862 @@
+
+<!--引入公共头部-->
+<th:block th:include="base::common"></th:block>
+
+<script th:src="@{/js/position.js}"></script>
+<style>
+    * {
+        margin: 0 auto
+    }
+
+    html {
+
+        font-size: 62.5%;
+    }
+
+    img {
+        max-width: 100%;
+        -ms-interpolation-mode: bicubic;
+    }
+
+    .nav_a {
+        text-decoration: none;
+        font-size: 2.1rem;
+        padding-left: 2%;
+        color: white;
+        line-height: 100%;
+        float: left;
+        margin: 0 auto;
+        display: block;
+        margin-top: 4rem;
+    }
+
+    .nav_a:hover {
+        color: rgb(156, 217, 185);
+    }
+
+    .total_div {
+        width: 100%;
+        height: 12rem;
+        line-height: 12rem;
+        /*background: url("{{url_for('static',filename='images/RadiationDB_header_2.png')}}");*/
+        background-repeat: no-repeat;
+        -webkit-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+
+    .total_div_1 {
+        float: left;
+        width: 40%;
+        height: 100%;
+        line-height: 40%;
+        margin: 0 auto
+    }
+
+    #container {
+        width: 90%;
+        margin: 0 auto;
+        font-size: 1.6rem;
+    }
+
+    #container .article {
+        margin: 0 auto;
+        overflow: hidden;
+    }
+
+    #container .article .articlebox {
+        overflow: hidden;
+        position: relative;
+
+    }
+
+    #container .article .articlebox .articlelist {
+        width: 25%;
+    / / height: 56 rem;
+    / / background: #8A2BE2;
+        border: none;
+        float: left;
+        padding-bottom: 2rem;
+    }
+
+    #container .article .articlebox .articledetail {
+        width: 70%;
+    / / height: 400 rem;
+    / / background: #FFB6C1;
+        float: right;
+    }
+
+</style>
+
+<script type="text/javascript" th:src="@{/static_new/jquery-2.1.4.min.js}"></script>
+<link th:href="@{/css/layui.css}" rel="stylesheet">
+<style>
+    /* 这里写新加的样式 */
+</style>
+
+<div id="container">
+    <div class="article">
+        <div class="articlebox">
+            <div class="articlelist" style="top: 0;">
+                <div class="top_next"></div>
+                <ul class="nav1">
+                    <li class="border1 active">
+                        <a href="#a" class="over">1. Overview</a>
+                    </li>
+                </ul>
+                <ul class="nav1">
+                    <li class="border1 active">
+                        <a href="#b" class="over">2. Homepage</a>
+                    </li>
+                </ul>
+                <ul class="nav1">
+                    <li class="border1">
+                        <a href="#c" class="over">3. Data resources</a>
+                        <ul class="nav2">
+                            <li><a href="#c1" class="active"> 3.1 The Psychiatric disorder GWASs selection</a></li>
+                            <li><a href="#c2" class="active"> 3.2 Risk phenotype GWAS datasets</a></li>
+                            <li><a href="#c3" class="active"> 3.3 Risk brain image GWAS datasets</a></li>
+                            <li><a href="#c4" class="active"> 3.4 Bulk-tissue xQTL datasets</a></li>
+                            <li><a href="#c5" class="active"> 3.5 Cell-specific xQTL datasets</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <ul class="nav1">
+                    <li class="border1">
+                        <a href="#d" class="over">4. Database usage</a>
+                        <ul class="nav2">
+                            <li><a href="#d1" class="active"> 4.1 Risk phenotype and brain imaging</a></li>
+                            <li><a href="#d2" class="active"> 4.2 Bulk-tissue and cell-specific biomarker</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <ul class="nav1">
+                    <li class="border1 active">
+                        <a href="#e" class="over">5. Web Browser Requirements</a>
+                    </li>
+                </ul>
+                <ul class="nav1">
+                    <li class="border1">
+                        <a href="#f" class="over">6. Contact us</a>
+                    </li>
+                </ul>
+                <ul class="nav1">
+                    <li class="border1 active">
+                        <a href="#g" class="over">7. Cite us</a>
+                    </li>
+                </ul>
+                <ul class="nav1">
+                    <li class="border1 active">
+                        <a href="#h" class="over">8. Version</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="articledetail">
+                <div style="border: none;margin-top:2rem;">
+                    <div id="a">
+                        <h2>1. Overview</h2><br/>
+                        <p class="layui-textarea" style="line-height:2em;text-indent:2em;text-align:justify;">
+                            Psychiatric disorders represent an increasingly important global health problem that impose
+                            enormous clinical and economic burden on modern society. However, the etiology of
+                            psychiatric disorders is largely unknown, and no effective therapies are currently
+                            available. Therefore, it is crucial to identify the risk factors for psychiatric disorders,
+                            which promises to shed new light on the potential pathogenesis and therapeutic strategies of
+                            psychiatric disorders. Mendelian randomization (MR) has developed into an effective and
+                            powerful statistical method to investigate the potential causal risk factors of diseases.
+                        </p>
+                        <p class="layui-textarea" style="line-height:2em ;text-indent:2em;text-align:justify;">
+                            Here, we developed an online comprehensive MR database, PsyRiskMR, to integrate and share
+                            risk factors for psychiatric disorders identified from our systematic and exhaustive
+                            two-sample MR analysis. PsyRiskMR contains various layers of risk factors for psychiatric
+                            disorders, including psychiatric disorders-specific risk phenotype, risk brain image, and
+                            bulk-tissue/cell-specific biomarker. Overall, the PsyRiskMR not only offered a user-friendly
+                            web interface for the research community to browse, search, and download all MR results for
+                            psychiatric disorders, but also provided new insights for better prevention and treatment of
+                            psychiatric disorders.
+                        </p>
+                        <br/>
+                        <div align="center"><img style="width: 80% ; height: 80%"
+                                                 th:src="@{/images/Document1.jpg}"
+                                                 class="img-responsive"/></div>
+                        <div style="text-align: center"><h4><strong>Overview diagram of PsyRiskMR</strong></h4></div>
+                        <div id="b">
+                            <h2>2. Homepage</h2><br/>
+                            <p class="layui-textarea" style="line-height:2em;text-indent:2em;text-align:justify;">
+                                Users can access the Homepage of PsyRiskMR through <strong>http://bioinfo.ahu.edu.cn/PsyRiskMR/</strong>
+                                for any research purpose. The Homepage includes a brief introduction to the database and
+                                statistical information of the PsyRiskMR with hyperlinks to various sub-module pages.
+                            </p>
+<!--                            <div align="center"><img style="width: 80% ; height: 90%"-->
+<!--                                                     th:src="@{/images/Document6.png}"-->
+<!--                                                     class="img-responsive"/></div>-->
+                            <div align="center"><img style="width: 80% ; height: 80%"
+                                                     th:src="@{/images/PsyRiskMR_Home.jpg}"
+                                                     class="img-responsive"/></div>
+                            <div style="text-align: center"><h4><strong>Homepage of PsyRiskMR</strong></h4></div>
+                        </div>
+                    </div>
+                </div>
+                <div style="border: none;margin-top:2rem;">
+                    <div id="c">
+                        <h2>3. Data resources</h2><br/>
+                        <h3 id="c1">3.1 The outcome GWASs selection for 10 psychiatric disorders</h3>
+                        <p class="layui-textarea" style="line-height:2em;text-indent:2em ;text-align:justify;">
+                            The GWAS summary data was used for constructing IVs in MR analysis. We downloaded the
+                            largest available GWAS summary statistics for MR analysis of ten common psychiatric
+                            disorders that were publicly available from Psychiatric Genomics Consortium (PGC,
+                            https://www.med.unc.edu/pgc), including attention deficit hyperactivity disorder (ADHD),
+                            Alzheimer’s disease (ALZ), anxiety disorder (ANX), autism spectrum disorder (ASD), bipolar
+                            disorder (BP), eating disorders (ED), major depressive disorder (DEP), obsessive-compulsive
+                            disorder (OCD), posttraumatic stress disorder (PTSD), schizophrenia (SCZ). In addition, all
+                            of the GWASs incorporated in this study were based on individuals of European ancestry.
+                            Detailed information regarding the summary statistics can be accessed from the supplementary
+                            materials and the primary research publications.
+                        </p><br/>
+                        <table class="myble1" ;align="center" ; width="90%">
+                            <tr>
+                                <th style="text-align:center">Psychiatric disorder</th>
+                                <th style="text-align:center">Sample size</th>
+                            </tr>
+                            <tr>
+                                <td width="35%" style="text-align:center">ADHD</td>
+                                <td style="text-align:center">
+                                    38,691 Cases
+                                    186,843 Controls
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">ALZ</td>
+                                <td style="text-align:center">
+                                    90,338 Cases
+                                    1,036,225 Controls
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">ANX</td>
+                                <td style="text-align:center">
+                                    7,016 Cases
+                                    14,745 Controls
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">ASD</td>
+                                <td style="text-align:center">
+                                    18,381 Cases
+                                    27,969 Controls
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">BP</td>
+                                <td style="text-align:center">
+                                    41,917 Cases
+                                    371,549 Controls
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">DEP</td>
+                                <td style="text-align:center">
+                                    246,363 Cases
+                                    561,190 Controls
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">ED</td>
+                                <td style="text-align:center">
+                                    16,992 Cases
+                                    55,525 Controls
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">OCD</td>
+                                <td style="text-align:center">
+                                    4,819 Cases
+                                    9,488 Controls
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">PTSD</td>
+                                <td style="text-align:center">
+                                    30,000 Cases
+                                    170,000 Controls
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">SCZ</td>
+                                <td style="text-align:center">
+                                    53,386 Cases
+                                    77,258 Controls
+                                </td>
+                            </tr>
+                        </table>
+                        <br/><br/>
+                        <h3 id="c2">3.2 Risk phenotype datasets</h3>
+                        <p class="layui-textarea" style="line-height:2em;text-indent:2em ;text-align:justify;">
+                            The specific risk phenotype traits related to psychiatric disorders were manually curated by
+                            referencing available literature from PubMed. A total of 71 relevant risk phenotype traits
+                            associated with 10 psychiatric disorders were included in this study. These risk factors
+                            were categorized and detailed information about the dataset can be found in the
+                            supplementary materials.
+                        </p><br/>
+                        <table class="myble1" ;align="center" ; width="30%">
+                            <tr>
+                                <th style="text-align:center">Category of Risk factor</th>
+                            </tr>
+                            <tr>
+                                <td width="35%" style="text-align:center">Behavioural</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Autoimmune/inflammatory</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Anthropometric</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Miscellaneous</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Non-psychiatric disorders illness</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">ICD10 codes</td>
+                            </tr>
+                        </table>
+                        <br/><br/>
+                        <h3 id="c3">3.3 Risk brain imaging datasets</h3>
+                        <p class="layui-textarea" style="line-height:2em;text-indent:2em ;text-align:justify;">
+                            We acquired the processed Genome-Wide Association Study (GWAS) summary statistics comprising
+                            3,935 brain imaging traits as reported by Smith et al. in this study. The heritable
+                            imaging-derived phenotype (IDP) generated from UK Biobank were grouped into 17 categories
+                            and all of these categories have been included in our study. The full GWAS summary
+                            statistics were downloaded from BIG40 (Oxford Brain Imaging Genetics Server, available at
+                            https://open.win.ox.ac.uk/ukbiobank/big40/). The category of IDPs were shown in the table.
+                            However, the complete dataset was not convenient to display directly. The remaining
+                            information can be found in the supplementary materials.
+                        </p><br/>
+                        <table class="myble1" ;align="center" ; width="30%">
+                            <tr>
+                                <th style="text-align:center">Category of Risk brain imaging</th>
+                            </tr>
+                            <tr>
+                                <td width="35%" style="text-align:center">regional and tissue volume</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">cortical area</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">cortical thickness</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">regional and tissue intensity</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">cortical grey-white contrast</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">white matter hyperintensity volume</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">regional T2*</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">WM tract FA</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">WM tract MO</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">WM tract diffusivity</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">WM tract ICVF</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">WM tract ISOVF</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">tfMRI activation</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">rfMRI node amplitude</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">rfMRI connectivity</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Other</td>
+                            </tr>
+                        </table>
+                        <br/><br/>
+                        <h3 id="c4">3.4 Bulk-tissue biomarker datasets</h3>
+                        <p class="layui-textarea" style="line-height:2em;text-indent:2em ;text-align:justify;">
+                            This study only included the xQTL datasets from various brain tissues in the current version
+                            of PsyRiskMR database. Thus, the present database included a total of 30 xQTL datasets
+                            comprising six different QTL trait types, including 16 expression QTL (eQTL) datasets, three
+                            methylation QTL (mQTL) datasets, seven splicing QTL (sQTL) datasets, one histone acetylation
+                            QTL (haQTL) dataset, one chromatin accessibility (caQTL) dataset, and two protein QTL (pQTL)
+                            datasets.
+                        </p><br/>
+                        <table class="myble1" ;align="center" ; width="100%">
+                            <tr>
+                                <td style="text-align:center"><strong>Tissue</strong></td>
+                                <td style="text-align:center"><strong>Type of QTL dataset</strong></td>
+                                <td style="text-align:center"><strong>Sample size</strong></td>
+                                <td style="text-align:center"><strong>Source</strong></td>
+                                <td style="text-align:center"><strong>Hyperlink</strong></td>
+                                <td style="text-align:center"><strong>PMID</strong></td>
+                                <td style="text-align:center"><strong>Significant threshold</strong></td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Amygdala</td>
+                                <td style="text-align:center">eQTL</td>
+                                <td style="text-align:center">129</td>
+                                <td style="text-align:center">GTEx</td>
+                                <td style="text-align:center">https://www.gtexportal.org/home/index.html</td>
+                                <td style="text-align:center">32913098</td>
+                                <td style="text-align:center">Storey Q &lt; 0.05</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Anterior cingulate cortex BA24</td>
+                                <td style="text-align:center">eQTL</td>
+                                <td style="text-align:center">147</td>
+                                <td style="text-align:center">GTEx</td>
+                                <td style="text-align:center">https://www.gtexportal.org/home/index.html</td>
+                                <td style="text-align:center">32913098</td>
+                                <td style="text-align:center">Storey Q &lt; 0.05</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Caudate basal ganglia</td>
+                                <td style="text-align:center">eQTL</td>
+                                <td style="text-align:center">194</td>
+                                <td style="text-align:center">GTEx</td>
+                                <td style="text-align:center">https://www.gtexportal.org/home/index.html</td>
+                                <td style="text-align:center">32913098</td>
+                                <td style="text-align:center">Storey Q &lt; 0.05</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Cerebellar Hemisphere</td>
+                                <td style="text-align:center">eQTL</td>
+                                <td style="text-align:center">175</td>
+                                <td style="text-align:center">GTEx</td>
+                                <td style="text-align:center"><a href="https://www.gtexportal.org/home/index.html">https://www.gtexportal.org/home/index.html</a></td>
+                                <td style="text-align:center">32913098</td>
+                                <td style="text-align:center">Storey Q &lt; 0.05</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Cerebellum</td>
+                                <td style="text-align:center">eQTL</td>
+                                <td style="text-align:center">209</td>
+                                <td style="text-align:center">GTEx</td>
+                                <td style="text-align:center"><a href="https://www.gtexportal.org/home/index.html">https://www.gtexportal.org/home/index.html</a></td>
+                                <td style="text-align:center">32913098</td>
+                                <td style="text-align:center">Storey Q &lt; 0.05</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Cortex</td>
+                                <td style="text-align:center">eQTL</td>
+                                <td style="text-align:center">205</td>
+                                <td style="text-align:center">GTEx</td>
+                                <td style="text-align:center"><a href="https://www.gtexportal.org/home/index.html">https://www.gtexportal.org/home/index.html</a></td>
+                                <td style="text-align:center">32913098</td>
+                                <td style="text-align:center">Storey Q &lt; 0.05</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Frontal Cortex BA9</td>
+                                <td style="text-align:center">eQTL</td>
+                                <td style="text-align:center">175</td>
+                                <td style="text-align:center">GTEx</td>
+                                <td style="text-align:center"><a href="https://www.gtexportal.org/home/index.html">https://www.gtexportal.org/home/index.html</a></td>
+                                <td style="text-align:center">32913098</td>
+                                <td style="text-align:center">Storey Q &lt; 0.05</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Hippocampus</td>
+                                <td style="text-align:center">eQTL</td>
+                                <td style="text-align:center">165</td>
+                                <td style="text-align:center">GTEx</td>
+                                <td style="text-align:center"><a href="https://www.gtexportal.org/home/index.html">https://www.gtexportal.org/home/index.html</a></td>
+                                <td style="text-align:center">32913098</td>
+                                <td style="text-align:center">Storey Q &lt; 0.05</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Hypothalamus</td>
+                                <td style="text-align:center">eQTL</td>
+                                <td style="text-align:center">170</td>
+                                <td style="text-align:center">GTEx</td>
+                                <td style="text-align:center"><a href="https://www.gtexportal.org/home/index.html">https://www.gtexportal.org/home/index.html</a></td>
+                                <td style="text-align:center">32913098</td>
+                                <td style="text-align:center">Storey Q &lt; 0.05</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Nucleus accumbens basal ganglia</td>
+                                <td style="text-align:center">eQTL</td>
+                                <td style="text-align:center">202</td>
+                                <td style="text-align:center">GTEx</td>
+                                <td style="text-align:center"><a href="https://www.gtexportal.org/home/index.html">https://www.gtexportal.org/home/index.html</a></td>
+                                <td style="text-align:center">32913098</td>
+                                <td style="text-align:center">Storey Q &lt; 0.05</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Putamen basal ganglia</td>
+                                <td style="text-align:center">eQTL</td>
+                                <td style="text-align:center">170</td>
+                                <td style="text-align:center">GTEx</td>
+                                <td style="text-align:center"><a href="https://www.gtexportal.org/home/index.html">https://www.gtexportal.org/home/index.html</a></td>
+                                <td style="text-align:center">32913098</td>
+                                <td style="text-align:center">Storey Q &lt; 0.05</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Spinal cord cervical c-1</td>
+                                <td style="text-align:center">eQTL</td>
+                                <td style="text-align:center">126</td>
+                                <td style="text-align:center">GTEx</td>
+                                <td style="text-align:center"><a href="https://www.gtexportal.org/home/index.html">https://www.gtexportal.org/home/index.html</a></td>
+                                <td style="text-align:center">32913098</td>
+                                <td style="text-align:center">Storey Q &lt; 0.05</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Substantia nigra</td>
+                                <td style="text-align:center">eQTL</td>
+                                <td style="text-align:center">114</td>
+                                <td style="text-align:center">GTEx</td>
+                                <td style="text-align:center"><a href="https://www.gtexportal.org/home/index.html">https://www.gtexportal.org/home/index.html</a></td>
+                                <td style="text-align:center">32913098</td>
+                                <td style="text-align:center">Storey Q &lt; 0.05</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Meta-analysis of 10 Brain Regions</td>
+                                <td style="text-align:center">eQTL</td>
+                                <td style="text-align:center">233</td>
+                                <td style="text-align:center">SMR</td>
+                                <td style="text-align:center"><a href="https://yanglab.westlake.edu.cn/software/smr/#DataResource"> https://yanglab.westlake.edu.cn/software/smr/#DataResource</a></td>
+                                <td style="text-align:center">27019110</td>
+                                <td style="text-align:center">NA</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Prefrontal cortex</td>
+                                <td style="text-align:center">eQTL</td>
+                                <td style="text-align:center">1387</td>
+                                <td style="text-align:center">PsychENCODE</td>
+                                <td style="text-align:center"><a href="http://development.psychencode.org/#">http://development.psychencode.org/#</a></td>
+                                <td style="text-align:center">30545857</td>
+                                <td style="text-align:center">FDR < 0.05</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Cortex</td>
+                                <td style="text-align:center">eQTL</td>
+                                <td style="text-align:center">2865</td>
+                                <td style="text-align:center">SMR</td>
+                                <td style="text-align:center"><a href="https://yanglab.westlake.edu.cn/software/smr/#DataResource"> https://yanglab.westlake.edu.cn/software/smr/#DataResource</a></td>
+                                <td style="text-align:center">27019110</td>
+                                <td style="text-align:center">P < 5.00E-8</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Hippocampus</td>
+                                <td style="text-align:center">sQTL</td>
+                                <td style="text-align:center">165</td>
+                                <td style="text-align:center">GTEx</td>
+                                <td style="text-align:center"><a href="https://www.gtexportal.org/home/index.html">https://www.gtexportal.org/home/index.html</a></td>
+                                <td style="text-align:center">32913098</td>
+                                <td style="text-align:center">Storey Q < 0.05</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Hypothalamus</td>
+                                <td style="text-align:center">sQTL</td>
+                                <td style="text-align:center">170</td>
+                                <td style="text-align:center">GTEx</td>
+                                <td style="text-align:center"><a href="https://www.gtexportal.org/home/index.html">https://www.gtexportal.org/home/index.html</a></td>
+                                <td style="text-align:center">32913098</td>
+                                <td style="text-align:center">Storey Q < 0.05</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Nucleus accumbens basal ganglia</td>
+                                <td style="text-align:center">sQTL</td>
+                                <td style="text-align:center">202</td>
+                                <td style="text-align:center">GTEx</td>
+                                <td style="text-align:center"><a href="https://www.gtexportal.org/home/index.html">https://www.gtexportal.org/home/index.html</a></td>
+                                <td style="text-align:center">32913098</td>
+                                <td style="text-align:center">Storey Q < 0.05</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Putamen basal ganglia</td>
+                                <td style="text-align:center">sQTL</td>
+                                <td style="text-align:center">170</td>
+                                <td style="text-align:center">GTEx</td>
+                                <td style="text-align:center"><a href="https://www.gtexportal.org/home/index.html">https://www.gtexportal.org/home/index.html</a></td>
+                                <td style="text-align:center">32913098</td>
+                                <td style="text-align:center">Storey Q < 0.05</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Spinal cord cervical c-1</td>
+                                <td style="text-align:center">sQTL</td>
+                                <td style="text-align:center">126</td>
+                                <td style="text-align:center">GTEx</td>
+                                <td style="text-align:center"><a href="https://www.gtexportal.org/home/index.html">https://www.gtexportal.org/home/index.html</a></td>
+                                <td style="text-align:center">32913098</td>
+                                <td style="text-align:center">Storey Q < 0.05</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Substantia nigra</td>
+                                <td style="text-align:center">sQTL</td>
+                                <td style="text-align:center">114</td>
+                                <td style="text-align:center">GTEx</td>
+                                <td style="text-align:center"><a href="https://www.gtexportal.org/home/index.html">https://www.gtexportal.org/home/index.html</a></td>
+                                <td style="text-align:center">32913098</td>
+                                <td style="text-align:center">Storey Q < 0.05</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Cortex</td>
+                                <td style="text-align:center">sQTL</td>
+                                <td style="text-align:center">2865</td>
+                                <td style="text-align:center">SMR</td>
+                                <td style="text-align:center"><a href="https://yanglab.westlake.edu.cn/software/smr/#DataResource">https://yanglab.westlake.edu.cn/software/smr/#DataResource</a></td>
+                                <td style="text-align:center">27019110</td>
+                                <td style="text-align:center">P < 5.00E-8</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Meta-analysis of ROSMAP, Hannon et al. and Jaffe et al.</td>
+                                <td style="text-align:center">mQTL</td>
+                                <td style="text-align:center">1160</td>
+                                <td style="text-align:center">SMR</td>
+                                <td style="text-align:center"><a href="https://yanglab.westlake.edu.cn/software/smr/#DataResource">https://yanglab.westlake.edu.cn/software/smr/#DataResource</a></td>
+                                <td style="text-align:center">27019110</td>
+                                <td style="text-align:center">P < 5.00E-8</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Fetal Brain</td>
+                                <td style="text-align:center">mQTL</td>
+                                <td style="text-align:center">166</td>
+                                <td style="text-align:center">SMR</td>
+                                <td style="text-align:center"><a href="https://yanglab.westlake.edu.cn/software/smr/#DataResource">https://yanglab.westlake.edu.cn/software/smr/#DataResource</a></td>
+                                <td style="text-align:center">27019110</td>
+                                <td style="text-align:center">P < 1.00E-10</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Cortex</td>
+                                <td style="text-align:center">mQTL</td>
+                                <td style="text-align:center">543</td>
+                                <td style="text-align:center">Brain xQTLServe</td>
+                                <td style="text-align:center"><a href="https://mostafavilab.stat.ubc.ca/xqtl/">https://mostafavilab.stat.ubc.ca/xqtl/</a></td>
+                                <td style="text-align:center">28869584</td>
+                                <td style="text-align:center">P < 5.00E-9</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Dorsolateral prefrontal cortex</td>
+                                <td style="text-align:center">pQTL</td>
+                                <td style="text-align:center">376</td>
+                                <td style="text-align:center">ROSMAP</td>
+                                <td style="text-align:center"><a href="https://www.synapse.org/">https://www.synapse.org/</a></td>
+                                <td style="text-align:center">33510477</td>
+                                <td style="text-align:center">NA</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Dorsolateral prefrontal cortex</td>
+                                <td style="text-align:center">pQTL</td>
+                                <td style="text-align:center">152</td>
+                                <td style="text-align:center">Banner Sun Health Research Institute</td>
+                                <td style="text-align:center"><a href="https://www.synapse.org/">https://www.synapse.org/</a></td>
+                                <td style="text-align:center">33510477</td>
+                                <td style="text-align:center">NA</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Prefrontal cortex</td>
+                                <td style="text-align:center">caQTL</td>
+                                <td style="text-align:center">272</td>
+                                <td style="text-align:center">SMR</td>
+                                <td style="text-align:center"><a href="https://yanglab.westlake.edu.cn/software/smr/#DataResource">https://yanglab.westlake.edu.cn/software/smr/#DataResource</a></td>
+                                <td style="text-align:center">27019110</td>
+                                <td style="text-align:center">NA</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">Brain Cortex</td>
+                                <td style="text-align:center">haQTL</td>
+                                <td style="text-align:center">561</td>
+                                <td style="text-align:center">Brain xQTLServe</td>
+                                <td style="text-align:center"><a href="https://mostafavilab.stat.ubc.ca/xqtl/">https://mostafavilab.stat.ubc.ca/xqtl/</a></td>
+                                <td style="text-align:center">28869584</td>
+                                <td style="text-align:center">P < 4.00E-10</td>
+                            </tr>
+                        </table>
+                        <br/><br/>
+                        <h3 id="c5">3.5 Cell-specific biomarker datasets</h3>
+                        <p class="layui-textarea" style="line-height:2em;text-indent:2em ;text-align:justify;">
+                            We included and leveraged multiple cell-specific xQTL for MR analysis, including neuron,
+                            microglia, and immune cell types, providing important biological insights into the
+                            cell-type-specific genetic effects. Through further search and collection, involved 6
+                            cell-specific xQTL datasets comprising six different QTL trait types in the present databse
+                            in total, including 2 eQTL datasets, 1 sQTL datasets, 1 mQTL datasets, 1 haQTL dataset, and
+                            1 pQTL datasets.
+                        </p><br/>
+                        <table class="myble1" ;align="center" ; width="100%">
+                            <tr style="text-align:center">
+                                <td><strong>Cell</strong></td>
+                                <td><strong>Type of QTL dataset</strong></td>
+                                <td><strong>Sample size</strong></td>
+                                <td><strong>PMID</strong></td>
+                                <td><strong>Significant threshold</strong></td>
+                            </tr>
+                            <tr style="text-align:center">
+                                <td>Neuron</td>
+                                <td>eQTL</td>
+                                <td>215</td>
+                                <td>33664506</td>
+                                <td>FDR &lt; 0.05</td>
+                            </tr>
+                            <tr style="text-align:center">
+                                <td>Microglia</td>
+                                <td>eQTL</td>
+                                <td>192</td>
+                                <td>35915177</td>
+                                <td>FDR &lt; 0.05</td>
+                            </tr>
+                            <tr style="text-align:center">
+                                <td>Stem cell-iPSC</td>
+                                <td>sQTL</td>
+                                <td>716</td>
+                                <td>33664507</td>
+                                <td>FDR &lt; 0.05</td>
+                            </tr>
+                            <tr style="text-align:center">
+                                <td>Lymphocyte</td>
+                                <td>mQTL</td>
+                                <td>1748</td>
+                                <td>25716334</td>
+                                <td>FDR &lt; 0.05</td>
+                            </tr>
+                            <tr style="text-align:center">
+                                <td>Stem cell-iPSC</td>
+                                <td>pQTL</td>
+                                <td>151</td>
+                                <td>32773033</td>
+                                <td>FDR &lt; 0.1</td>
+                            </tr>
+                            <tr style="text-align:center">
+                                <td>Lymphocyte</td>
+                                <td>haQTL</td>
+                                <td>358</td>
+                                <td>30046115</td>
+                                <td>P &lt; 0.05</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+                <div style="margin-top:2.3rem;">
+                    <div id="d">
+                        <h2>4. Database usage</h2><br/>
+                        <p class="layui-textarea" style="line-height:2em;text-indent:2em;text-align:justify;">
+                            PsyRiskMR provides users with a quick overview of the significant MR summary statistics and
+                            detailed MR results for each risk factors and diseases.
+                            Considering the speed and the burden of web server, PsyRiskMR does not directly display all
+                            of the MR statistics online, users can conveniently get all the of the detailed results
+                            through the download interface instead.
+                        </p>
+
+                        <h3 id="d3">4.1 Search all MR results by psychiatric disorders</h3>
+                        <br/>
+                        <p class="layui-textarea" style="line-height:2em;text-indent:2em ;text-align:justify;">
+                            The search interface allows users to visually search by ten psychiatric disorder categories.
+                            At the same time, Risk categories of interest can also be searched, including Risk phenotype,
+                            Risk brain imaging, Bulk-tissue biomarker, and Cell-specific biomarker.
+                            Of course, you can also enter Risk factors, such as gene names,
+                            directly into the Risk factor box for search.
+                            This search page can be visually and systematically displayed to researchers,
+                            and users can download all the MR Analysis results within the threshold.
+                        </p><br/>
+                        <div align="center">
+                            <img style="width: 90% ; height: 60%" th:src="@{/images/Search.jpg}" class="img-responsive"/>
+                        </div>
+
+                        <div style="text-align: center"><h4><strong>Search all MR results module</strong></h4>
+                        </div>
+
+
+
+
+
+                        <h3 id="d1">4.2 Risk phenotype and brain imaging</h3>
+                        <br/>
+                        <p class="layui-textarea" style="line-height:2em;text-indent:2em ;text-align:justify;">
+                            The construction of Risk phenotype and brain imaging modules are quite similar. These module
+                            included Sankey diagrams of significant results and partial MR results for online display.
+                            These modules have facilitated researchers in gaining a deeper comprehension and in the
+                            identification of risk factors linked to specific psychiatric disorders. In addition, users
+                            could retrieve interested information through the "Search" interface, sort the results, and
+                            download complete dataset of MR analysis.
+                        </p><br/>
+<!--                        <div align="center"><img style="width: 80% ; height: 90%"-->
+<!--                                                 th:src="@{/images/Document3.png}"-->
+<!--                                                 class="img-responsive"/></div>-->
+                        <div align="center"><img style="width: 80% ; height: 90%"
+                                                 th:src="@{/images/phenotype_introduction.jpg}"
+                                                 class="img-responsive"/></div>
+                        <div style="text-align: center"><h4><strong>Risk phenotype and brain imaging module</strong>
+                        </h4></div>
+                        <h3 id="d2">4.3 Bulk-tissue biomarker and cell-specific biomarker</h3>
+                        <br/>
+                        <p class="layui-textarea" style="line-height:2em;text-indent:2em ;text-align:justify;">
+                            The modules for Bulk-tissue biomarker and Cell-specific biomarker were similar. It contained
+                            a navigation page with hyperlinks to the subpage of different psychiatric disorders. These
+                            modules provided researchers a better understanding of and identifying biomarkers associated
+                            with specific psychiatric disorders. Moreover, users could access their required genes with
+                            the "Search" interface, sort the information they wanted, and download the entire dataset of
+                            MR analysis.
+                        </p>
+                        <div align="center"><img style="width: 80% ; height: 90%"
+                                                 th:src="@{/images/Document4.png}"
+                                                 class="img-responsive"/></div>
+                        <div style="text-align: center"><h4><strong>The navigation page of bulk-tissue/cell-specific
+                            biomarker module</strong></h4></div>
+                        <div align="center"><img style="width: 80% ; height: 90%"
+                                                 th:src="@{/images/Document5.png}"
+                                                 class="img-responsive"/></div>
+                        <div style="text-align: center"><h4><strong>The subpage of bulk-tissue/cell-specific biomarker
+                            module</strong></h4></div>
+                    </div>
+                </div>
+                </br>
+                <div id="e">
+                    <h2>5. Web Browser Requirements</h2><br/>
+                    <p class="layui-textarea" style="line-height:2em;text-indent:2em ;text-align:justify;">
+                        The PsyRiskMR requires a modern web browser with JavaScript and cookies enabled. To view the
+                        complex details, pop-ups must not be blocked. The following browsers have been thoroughly tested
+                        with PsyRiskMR:<br/>
+                        • Mozilla Firefox, version 4 or above<br/>
+                        • Internet Explorer, versions 9 or above<br/>
+                        • Chrome, version 5 or above<br/>
+                        • The latest version of Firefox and Chrome is recommended for visualization.</p><br/>
+                </div>
+                <div style="border:none">
+                    <div id="f">
+                        <h2>6. Contact us</h2>
+                        <br/>
+                        <p class="layui-textarea" style="line-height:2em;text-indent:2em ;text-align:justify;">
+                            We are welcoming any comments to improve the database performance or to revise wrong
+                            information in current PsyRiskMR, the e-mail and address is as follows:<br/>
+                            E-mail: jfxia@ahu.edu.cn<br/>
+                            Address: Institutes of Physical Science and Information Technology, School of Computer
+                            Science and Technology, Anhui University, Hefei, Anhui 230601, China.
+                        </p>
+                    </div>
+                </div>
+                <div style="border:none;margin-top:2rem;">
+                    <div id="g">
+                        <h2>7. Cite us</h2><br/>
+                        <p class="layui-textarea" style="line-height:2em">
+                            PsyRiskMR: a comprehensive resource of candidate risk factors for psychiatric disorders
+                            identified via Mendelian randomization (2024)
+                        </p><br/>
+                    </div>
+                </div>
+                <div style="border:none">
+                    <div id="h">
+                        <h2>8. Version</h2><br/>
+                        <p class="layui-textarea" style="line-height:2em">
+                            February 1, 2024: PsyRiskMR was publicly accessible.
+                            <br>
+                            October 25, 2024 update: Refactoring PsyRiskMR in the Java language to improve the stability and robustness of the site, add search modules and optimize page display.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

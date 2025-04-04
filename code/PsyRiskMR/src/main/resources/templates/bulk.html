@@ -1,0 +1,253 @@
+
+<!--引入公共头部-->
+<th:block th:include="base::common"></th:block>
+<link th:href="@{/css/layui.css}" rel="stylesheet">
+<script type="text/javascript" th:src="@{/js/position.js}"></script>
+<style>
+    * {
+        margin: 0 auto
+    }
+
+    html {
+        font-size: 62.5%;
+    !important;
+        /* font-size: 62.5%; */
+    }
+
+    img {
+        max-width: 100%;
+        -ms-interpolation-mode: bicubic;
+    }
+
+    .nav_a {
+        text-decoration: none;
+        font-size: 1.8rem;
+        padding-left: 2%;
+        color: white;
+        line-height: 100%;
+        float: left;
+        margin: 0 auto;
+        display: block;
+        margin-top: 4rem;
+    }
+
+    .nav_a:hover {
+        color: rgb(156, 217, 185);
+    }
+
+
+    .total_div {
+        width: 100%;
+        height: 12rem;
+        line-height: 12rem;
+        background-repeat: no-repeat;
+        -webkit-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+
+    .total_div_1 {
+        float: left;
+        width: 40%;
+        height: 100%;
+        line-height: 40%;
+        margin: 0 auto
+    }
+
+    #container {
+        width: 90%;
+        margin: 0 auto;
+        font-size: 1.6rem;
+    }
+
+    #container .article {
+        margin: 0 auto;
+        overflow: hidden;
+    }
+
+    #container .article .articlebox {
+        overflow: hidden;
+        position: relative;
+    }
+
+    #container .article .articlebox .articlelist {
+        width: 25%;
+    / / background: #8A2BE2;
+        border: none;
+        float: left;
+        padding-bottom: 2rem;
+    }
+
+    #container .article .articlebox .articledetail {
+        width: 70%;
+    / / background: #FFB6C1;
+        float: right;
+    }
+
+</style>
+
+<!-- 将JavaScript文件链接移到这里 -->
+<script  th:src="@{/static_new/bulktissue-script2.js}" defer></script>
+<script  th:src="@{/static_new/bulktissue-script.js}" defer></script>
+
+<script type="text/javascript" th:src="@{/static_new/jquery-2.1.4.min.js}"></script>
+<script type="text/javascript" th:src="@{/static_new/plotly-2.20.0.min.js}"></script>
+<!--<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>-->
+<!--<script src="https://cdn.plot.ly/plotly-2.20.0.min.js" charset="utf-8"></script>-->
+
+<div id="container">
+    <div class="article">
+        <div class="articledetail">
+            <div style="border:none;margin-top:6rem">
+            </div>
+        </div>
+        <div style="border:none">
+            <div id="a" ; style="width:60%; text-align:center; margin:0 auto;">
+                <p style="font-size: 24px; text-align:center"><strong>Corresponding upsetplot of significant Bulk-tissue
+                    biomarkers in MR analysis</strong></p><br/>
+<!--                <iframe id="my-frame"-->
+<!--                        loading="lazy"-->
+<!--                        th:src="@{/images/bulkheatmap/bulktissue.html}"-->
+<!--                        style="width:1000px; height:500px; display:block; margin:0 auto;"-->
+<!--                        onload="setIframeHeight(this.id)">-->
+<!--                </iframe>-->
+
+                <!-- 将iframe内容放到主HTML中 -->
+                <div id="htmlwidget_container">
+                    <div id="htmlwidget-be339001faa9894e76e5" style="width:100%;height:400px;" class="upsetjs html-widget"></div>
+                </div>
+                <!-- JSON数据 -->
+                <script type="application/json" data-for="htmlwidget-be339001faa9894e76e5">{"x":{"sets":[{"name":"SCZ","type":"set","elems":["NT5C2","ZSCAN23","ARL3","ZSCAN26","ZSCAN16-AS1","RP1-313I6.12","NT5DC2","GNL3","SPCS1","PBRM1","NEK4","DPYD","PSMA4","FTSJ2","MAD1L1","FES","KLC1","COA8","PPP1R13B","MARK3","ZFYVE21","TDRD9","XRCC3","OGFOD2","PITPNM2","KMT5A","MPHOSPH9","ABCB9","C12orf65","ARL6IP4","HSPA9","SLCO4C1","RFTN2","HSPE1","HSPD1","SUGP1","NDUFA13","MAU2","HAPLN4","MRM2","PLCL1","CCDC92","LINC00240","SNORC","BTN3A1","CRELD2","UNC45A","BAG6","EIF4E3","TSNARE1","FLOT1","NDUA6","NAGAB","ZNF389","ZSCAN16","DGKZ","MICB","ITIH4","BAT2","NRGN","TM6SF2","ENSG00000267284","CACNB2","AL022393.7","ZNF192P1","THOC7","RP11-806K15.1","CRHR1-IT1","RP11-259G18.3","RP11-259G18.1","RP11-259G18.2","LRRC37A2","LRRC37A4P","KANSL1-AS1","PLEKHM1","LRRC37A","MAPT","RP11-798G7.5","RP11-707O23.5","DND1P1","ALMS1P","ZSCAN31","ZNF603P","PPM1M","GPM6A-DT","VRK2","ALMS1P1","SNX19","BORCS7","AS3MT","MAPT-AS1","MAPK8IP1P2","LINC02210","MAPK8IP1P1","STAG1-DT","SPA17","EIF5-DT","ARL17A","MAPK3","CYP2D6","VSIG2","ZNF602P","LINC01556","ZKSCAN8","LINC01415","NAGA","OLA1P1","NDUFA6-DT","WBP2NL","GOLGA2P7","WDR73","SCAND2P","PCCB","CRHR1","ARHGAP27","DNAH10OS","GLYCTK","DNAH1","LINC02224","VPS29","HLA-C","RERE","FURIN","ANAPC7","ZNF192P2","AL022393.1","OR2B8P","ZKSCAN3","OR2B7P","GPR89P","IQCB2P","OR1F12","CACNA1I","GLT8D1","STIMATE","AC006252.1","LINC00862","AC093297.2","CEBPZOS","WBP1L","ZKSCAN8P1","ZKSCAN8P2","PHETA2","SMG1P5","TBX6","SMG1P6","SLX1B","BOLA2","CNNM2","PACSIN3","ATG13","RPL22P17","NUDT1","Y_RNA","YJEFN3","CYP21A2","CYP21A1P","C4A","PALS2","MAPT-IT1","KANSL1","SPPL2C","FAM215B","FMNL1","FMNL1-DT","SEMA3G","GALNT2","ACTR5","BUB1B","ANKRD63","PAK6","ADSS2","LINC01470","FOXN2","SLC66A2","MYT1L","MUCL3","LINC02210-CRHR1","S1","S2","S3","S4","S5","S6","S7","S8","S9","S10","S11","S12","S13","S14","S15","S16","S17","S18","S19","S20","S21","S22","S23","S24","S25"],"cardinality":203,"color":"#3c5a9e"},{"name":"BP","type":"set","elems":["FADS2","FADS1","ADD3","LMAN2L","PPM1M","ITIH4","GNL3","LINC01748","ASB16-AS1","NEK4","STK4","SCAND2P","WDR73","GOLGA2P7","PLEC","DNAH1","GLYCTK","PROZ","FURIN","TMEM258","GLT8D1","SPCS1","STIMATE","AC006252.1","PARP10","KIAA1109","FADS3","ASB16","RPS6KA2","ANK3","PBRM1","NT5DC2","CUL4A","PCID2","SCN2A","FLOT1","ADDG","GSDME","B1","B2","B3","B4","B5","B6","B7","B8","B9","B10","B11","B12","B13","B14","B15","B16","B17"],"cardinality":55,"color":"#3c5a9e"},{"name":"ALZ","type":"set","elems":["BCL3","CLPTM1","PSMC3","RELB","PPP1R37","CTB-171A8.1","RP11-385F7.1","CTB-179K24.3","PVR","APOC2","CR1","APOC1P1","APOC1","AC243964.3","ERCC2","KLC3","MS4A4A","MS4A7","AL445493.3","AL355353.1","CD2AP","BLOC1S3","CEACAM16-AS1","FAM180B","MTCH2","ZNF296","CD2AP-DT","GEMIN7","HLA-DQA2","RAPSN","SLC39A13","BIN1","CEACAM19","C1QTNF4","ZNF112","ZNF223","ARHGAP1","APOE","CLU","DMPK","CD33","MS4A6A"],"cardinality":42,"color":"#3c5a9e"},{"name":"DEP","type":"set","elems":["ZNF389","ZSCAN16","TMEM106B","B3GALTL","NRDC","B3GLCT","DENND1B","RAB27B","ENSG00000289436","RPL31P12","ZNF192P1","AL022393.7","ZNF322","BTN3A2","SLC12A5","NEGR1","AREL1","LINC02796","AL513166.1","AL583808.1","TRMT61A","ZNF204P","ZNF391","RP1-313I6.12","ZSCAN26","ZSCAN16-AS1","CD40","BTN3A1","RB27B","D1","D2","D3","D4","D5","D6","D7","D8"],"cardinality":37,"color":"#3c5a9e"},{"name":"ADHD","type":"set","elems":["PTPRF","LSM6","ARTN","REELD1","FOXP1","KIZ","C1orf50"],"cardinality":7,"color":"#3c5a9e"}],"combinations":[{"name":"SCZ","type":"intersection","elems":["NT5C2","ZSCAN23","ARL3","ZSCAN26","ZSCAN16-AS1","RP1-313I6.12","NT5DC2","GNL3","SPCS1","PBRM1","NEK4","DPYD","PSMA4","FTSJ2","MAD1L1","FES","KLC1","COA8","PPP1R13B","MARK3","ZFYVE21","TDRD9","XRCC3","OGFOD2","PITPNM2","KMT5A","MPHOSPH9","ABCB9","C12orf65","ARL6IP4","HSPA9","SLCO4C1","RFTN2","HSPE1","HSPD1","SUGP1","NDUFA13","MAU2","HAPLN4","MRM2","PLCL1","CCDC92","LINC00240","SNORC","BTN3A1","CRELD2","UNC45A","BAG6","EIF4E3","TSNARE1","FLOT1","NDUA6","NAGAB","ZNF389","ZSCAN16","DGKZ","MICB","ITIH4","BAT2","NRGN","TM6SF2","ENSG00000267284","CACNB2","AL022393.7","ZNF192P1","THOC7","RP11-806K15.1","CRHR1-IT1","RP11-259G18.3","RP11-259G18.1","RP11-259G18.2","LRRC37A2","LRRC37A4P","KANSL1-AS1","PLEKHM1","LRRC37A","MAPT","RP11-798G7.5","RP11-707O23.5","DND1P1","ALMS1P","ZSCAN31","ZNF603P","PPM1M","GPM6A-DT","VRK2","ALMS1P1","SNX19","BORCS7","AS3MT","MAPT-AS1","MAPK8IP1P2","LINC02210","MAPK8IP1P1","STAG1-DT","SPA17","EIF5-DT","ARL17A","MAPK3","CYP2D6","VSIG2","ZNF602P","LINC01556","ZKSCAN8","LINC01415","NAGA","OLA1P1","NDUFA6-DT","WBP2NL","GOLGA2P7","WDR73","SCAND2P","PCCB","CRHR1","ARHGAP27","DNAH10OS","GLYCTK","DNAH1","LINC02224","VPS29","HLA-C","RERE","FURIN","ANAPC7","ZNF192P2","AL022393.1","OR2B8P","ZKSCAN3","OR2B7P","GPR89P","IQCB2P","OR1F12","CACNA1I","GLT8D1","STIMATE","AC006252.1","LINC00862","AC093297.2","CEBPZOS","WBP1L","ZKSCAN8P1","ZKSCAN8P2","PHETA2","SMG1P5","TBX6","SMG1P6","SLX1B","BOLA2","CNNM2","PACSIN3","ATG13","RPL22P17","NUDT1","Y_RNA","YJEFN3","CYP21A2","CYP21A1P","C4A","PALS2","MAPT-IT1","KANSL1","SPPL2C","FAM215B","FMNL1","FMNL1-DT","SEMA3G","GALNT2","ACTR5","BUB1B","ANKRD63","PAK6","ADSS2","LINC01470","FOXN2","SLC66A2","MYT1L","MUCL3","LINC02210-CRHR1","S1","S2","S3","S4","S5","S6","S7","S8","S9","S10","S11","S12","S13","S14","S15","S16","S17","S18","S19","S20","S21","S22","S23","S24","S25"],"color":"#3c5a9e","cardinality":203,"setNames":"SCZ","degree":1},{"name":"BP","type":"intersection","elems":["FADS2","FADS1","ADD3","LMAN2L","PPM1M","ITIH4","GNL3","LINC01748","ASB16-AS1","NEK4","STK4","SCAND2P","WDR73","GOLGA2P7","PLEC","DNAH1","GLYCTK","PROZ","FURIN","TMEM258","GLT8D1","SPCS1","STIMATE","AC006252.1","PARP10","KIAA1109","FADS3","ASB16","RPS6KA2","ANK3","PBRM1","NT5DC2","CUL4A","PCID2","SCN2A","FLOT1","ADDG","GSDME","B1","B2","B3","B4","B5","B6","B7","B8","B9","B10","B11","B12","B13","B14","B15","B16","B17"],"color":"#3c5a9e","cardinality":55,"setNames":"BP","degree":1},{"name":"ALZ","type":"intersection","elems":["BCL3","CLPTM1","PSMC3","RELB","PPP1R37","CTB-171A8.1","RP11-385F7.1","CTB-179K24.3","PVR","APOC2","CR1","APOC1P1","APOC1","AC243964.3","ERCC2","KLC3","MS4A4A","MS4A7","AL445493.3","AL355353.1","CD2AP","BLOC1S3","CEACAM16-AS1","FAM180B","MTCH2","ZNF296","CD2AP-DT","GEMIN7","HLA-DQA2","RAPSN","SLC39A13","BIN1","CEACAM19","C1QTNF4","ZNF112","ZNF223","ARHGAP1","APOE","CLU","DMPK","CD33","MS4A6A"],"color":"#3c5a9e","cardinality":42,"setNames":"ALZ","degree":1},{"name":"DEP","type":"intersection","elems":["ZNF389","ZSCAN16","TMEM106B","B3GALTL","NRDC","B3GLCT","DENND1B","RAB27B","ENSG00000289436","RPL31P12","ZNF192P1","AL022393.7","ZNF322","BTN3A2","SLC12A5","NEGR1","AREL1","LINC02796","AL513166.1","AL583808.1","TRMT61A","ZNF204P","ZNF391","RP1-313I6.12","ZSCAN26","ZSCAN16-AS1","CD40","BTN3A1","RB27B","D1","D2","D3","D4","D5","D6","D7","D8"],"color":"#3c5a9e","cardinality":37,"setNames":"DEP","degree":1},{"name":"SCZ&BP","type":"intersect","elems":["NT5DC2","GNL3","SPCS1","PBRM1","NEK4","FLOT1","ITIH4","PPM1M","GOLGA2P7","WDR73","SCAND2P","GLYCTK","DNAH1","FURIN","GLT8D1","STIMATE","AC006252.1"],"color":"#3c5a9e","cardinality":17,"setNames":["SCZ","BP"],"degree":2},{"name":"SCZ&DEP","type":"intersect","elems":["ZSCAN26","ZSCAN16-AS1","RP1-313I6.12","BTN3A1","ZNF389","ZSCAN16","AL022393.7","ZNF192P1"],"color":"#3c5a9e","cardinality":8,"setNames":["SCZ","DEP"],"degree":2},{"name":"ADHD","type":"intersection","elems":["PTPRF","LSM6","ARTN","REELD1","FOXP1","KIZ","C1orf50"],"color":"#3c5a9e","cardinality":7,"setNames":"ADHD","degree":1}],"elems":["PTPRF","LSM6","ARTN","REELD1","FOXP1","KIZ","C1orf50","BCL3","CLPTM1","PSMC3","RELB","PPP1R37","CTB-171A8.1","RP11-385F7.1","CTB-179K24.3","PVR","APOC2","CR1","APOC1P1","APOC1","AC243964.3","ERCC2","KLC3","MS4A4A","MS4A7","AL445493.3","AL355353.1","CD2AP","BLOC1S3","CEACAM16-AS1","FAM180B","MTCH2","ZNF296","CD2AP-DT","GEMIN7","HLA-DQA2","RAPSN","SLC39A13","BIN1","CEACAM19","C1QTNF4","ZNF112","ZNF223","ARHGAP1","APOE","CLU","DMPK","CD33","MS4A6A","FADS2","FADS1","ADD3","LMAN2L","PPM1M","ITIH4","GNL3","LINC01748","ASB16-AS1","NEK4","STK4","SCAND2P","WDR73","GOLGA2P7","PLEC","DNAH1","GLYCTK","PROZ","FURIN","TMEM258","GLT8D1","SPCS1","STIMATE","AC006252.1","PARP10","KIAA1109","FADS3","ASB16","RPS6KA2","ANK3","PBRM1","NT5DC2","CUL4A","PCID2","SCN2A","FLOT1","ADDG","GSDME","B1","B2","B3","B4","B5","B6","B7","B8","B9","B10","B11","B12","B13","B14","B15","B16","B17","ZNF389","ZSCAN16","TMEM106B","B3GALTL","NRDC","B3GLCT","DENND1B","RAB27B","ENSG00000289436","RPL31P12","ZNF192P1","AL022393.7","ZNF322","BTN3A2","SLC12A5","NEGR1","AREL1","LINC02796","AL513166.1","AL583808.1","TRMT61A","ZNF204P","ZNF391","RP1-313I6.12","ZSCAN26","ZSCAN16-AS1","CD40","BTN3A1","RB27B","D1","D2","D3","D4","D5","D6","D7","D8","NT5C2","ZSCAN23","ARL3","DPYD","PSMA4","FTSJ2","MAD1L1","FES","KLC1","COA8","PPP1R13B","MARK3","ZFYVE21","TDRD9","XRCC3","OGFOD2","PITPNM2","KMT5A","MPHOSPH9","ABCB9","C12orf65","ARL6IP4","HSPA9","SLCO4C1","RFTN2","HSPE1","HSPD1","SUGP1","NDUFA13","MAU2","HAPLN4","MRM2","PLCL1","CCDC92","LINC00240","SNORC","CRELD2","UNC45A","BAG6","EIF4E3","TSNARE1","NDUA6","NAGAB","DGKZ","MICB","BAT2","NRGN","TM6SF2","ENSG00000267284","CACNB2","THOC7","RP11-806K15.1","CRHR1-IT1","RP11-259G18.3","RP11-259G18.1","RP11-259G18.2","LRRC37A2","LRRC37A4P","KANSL1-AS1","PLEKHM1","LRRC37A","MAPT","RP11-798G7.5","RP11-707O23.5","DND1P1","ALMS1P","ZSCAN31","ZNF603P","GPM6A-DT","VRK2","ALMS1P1","SNX19","BORCS7","AS3MT","MAPT-AS1","MAPK8IP1P2","LINC02210","MAPK8IP1P1","STAG1-DT","SPA17","EIF5-DT","ARL17A","MAPK3","CYP2D6","VSIG2","ZNF602P","LINC01556","ZKSCAN8","LINC01415","NAGA","OLA1P1","NDUFA6-DT","WBP2NL","PCCB","CRHR1","ARHGAP27","DNAH10OS","LINC02224","VPS29","HLA-C","RERE","ANAPC7","ZNF192P2","AL022393.1","OR2B8P","ZKSCAN3","OR2B7P","GPR89P","IQCB2P","OR1F12","CACNA1I","LINC00862","AC093297.2","CEBPZOS","WBP1L","ZKSCAN8P1","ZKSCAN8P2","PHETA2","SMG1P5","TBX6","SMG1P6","SLX1B","BOLA2","CNNM2","PACSIN3","ATG13","RPL22P17","NUDT1","Y_RNA","YJEFN3","CYP21A2","CYP21A1P","C4A","PALS2","MAPT-IT1","KANSL1","SPPL2C","FAM215B","FMNL1","FMNL1-DT","SEMA3G","GALNT2","ACTR5","BUB1B","ANKRD63","PAK6","ADSS2","LINC01470","FOXN2","SLC66A2","MYT1L","MUCL3","LINC02210-CRHR1","S1","S2","S3","S4","S5","S6","S7","S8","S9","S10","S11","S12","S13","S14","S15","S16","S17","S18","S19","S20","S21","S22","S23","S24","S25"],"expressionData":false,"attrs":[],"interactive":true,"events_nonce":false},"evals":[],"jsHooks":[]}</script>
+                <script type="application/htmlwidget-sizing" data-for="htmlwidget-be339001faa9894e76e5">{"viewer":{"width":"100%","height":400,"padding":0,"fill":false},"browser":{"width":"100%","height":400,"padding":0,"fill":false}}</script>
+                <!-- JSON数据结束 -->
+
+                <p style="font-size: 24px; margin-top: 20px"><strong>Summary statistics of significant Bulk-tissue
+                    biomarkers in MR analysis</strong></p><br/>
+                <table class="myble1" ; style="width : 100%" ;border="1">
+                    <tr bgcolor="#CAE1FF">
+                        <th width="30%" ; height="45"><p style="font-size: 20px;" align="middle">Psychiatric
+                            disorder</p></th>
+                        <th><p style="font-size: 20px;" align="middle">eQTL</p></th>
+                        <th><p style="font-size: 20px;" align="middle">sQTL</p></th>
+                        <th><p style="font-size: 20px;" align="middle">mQTL</p></th>
+                        <th><p style="font-size: 20px;" align="middle">pQTL</p></th>
+                        <th><p style="font-size: 20px;" align="middle">caQTL</p></th>
+                        <th><p style="font-size: 20px;" align="middle">haQTL</p></th>
+                    </tr>
+
+                    <tr>
+                        <th width="30%" ; height="45"><p style="font-size: 20px;" align="middle"><a
+                                th:href="@{/Bulktissue_SCZ}">SCZ</a></p></th>
+                        <th><p style="font-size: 20px;" align="middle">127</p></th>
+                        <th><p style="font-size: 20px;" align="middle">51</p></th>
+                        <th><p style="font-size: 20px;" align="middle">13</p></th>
+                        <th><p style="font-size: 20px;" align="middle">2</p></th>
+                        <th><p style="font-size: 20px;" align="middle">4</p></th>
+                        <th><p style="font-size: 20px;" align="middle">4</p></th>
+                    </tr>
+
+                    <tr>
+                        <th width="30%" ; height="45"><p style="font-size: 20px;" align="middle"><a
+                                th:href="@{/Bulktissue_ALZ}">ALZ</a></p></th>
+                        <th><p style="font-size: 20px;" align="middle">34</p></th>
+                        <th><p style="font-size: 20px;" align="middle">10</p></th>
+                        <th><p style="font-size: 20px;" align="middle">5</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">2</p></th>
+                        <th><p style="font-size: 20px;" align="middle">1</p></th>
+                    </tr>
+
+                    <tr>
+                        <th width="30%" ; height="45"><p style="font-size: 20px;" align="middle"><a
+                                th:href="@{/Bulktissue_BP}">BP</a></p></th>
+                        <th><p style="font-size: 20px;" align="middle">24</p></th>
+                        <th><p style="font-size: 20px;" align="middle">10</p></th>
+                        <th><p style="font-size: 20px;" align="middle">1</p></th>
+                        <th><p style="font-size: 20px;" align="middle">2</p></th>
+                        <th><p style="font-size: 20px;" align="middle">2</p></th>
+                        <th><p style="font-size: 20px;" align="middle">1</p></th>
+                    </tr>
+
+                    <tr>
+                        <th width="30%" ; height="45"><p style="font-size: 20px;" align="middle"><a
+                                th:href="@{/Bulktissue_DEP}">DEP</a></p></th>
+                        <th><p style="font-size: 20px;" align="middle">15</p></th>
+                        <th><p style="font-size: 20px;" align="middle">6</p></th>
+                        <th><p style="font-size: 20px;" align="middle">9</p></th>
+                        <th><p style="font-size: 20px;" align="middle">1</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">1</p></th>
+                    </tr>
+
+                    <tr>
+                        <th width="30%" height="45"><p style="font-size: 20px;" align="middle"><a
+                                th:href="@{/Bulktissue_ADHD}">ADHD</a></p></th> <!--/Bulktissue-ADHD-->
+                        <th><p style="font-size: 20px;" align="middle">3</p></th>
+                        <th><p style="font-size: 20px;" align="middle">3</p></th>
+                        <th><p style="font-size: 20px;" align="middle">2</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">1</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    </tr>
+
+                    <tr>
+                        <th width="30%" ; height="45"><p style="font-size: 20px;" align="middle"><a
+                                th:href="@{/Bulktissue_ANX}">ANX</a></p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    </tr>
+                    <tr>
+                        <th width="30%" ; height="45"><p style="font-size: 20px;" align="middle"><a
+                                th:href="@{/Bulktissue_ASD}">ASD</a></p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    </tr>
+
+                    <tr>
+                        <th width="30%" ; height="45"><p style="font-size: 20px;" align="middle"><a
+                                th:href="@{/Bulktissue_ED}">ED</a></p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    </tr>
+
+                    <tr>
+                        <th width="30%" ; height="45"><p style="font-size: 20px;" align="middle"><a
+                                th:href="@{/Bulktissue_OCD}">OCD</a></p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    </tr>
+
+                    <tr>
+                        <th width="30%" ; height="45"><p style="font-size: 20px;" align="middle"><a
+                                th:href="@{/Bulktissue_PTSD}">PTSD</a></p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                        <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    </tr>
+
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div style="height:2rem"></div>

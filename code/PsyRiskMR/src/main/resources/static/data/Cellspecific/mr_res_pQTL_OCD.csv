@@ -1,0 +1,8 @@
+"Gene","Tissue","Psychiatric.disorder","Method","Nsnp","Beta","SE","OR","P.value","Q_Pvalue.MREgger.","Q_Pvalue.IVW.","P.value.Intercept.","PPH4"
+"S100A13","Stem-cell-iPSC","OCD","Wald ratio",1,0.119,0.057,1.126,0.037,NA,NA,NA,0.101149483
+"CRYZ","Stem-cell-iPSC","OCD","Wald ratio",1,-0.04,0.025,0.961,0.107,NA,NA,NA,0.044438391
+"TTF2","Stem-cell-iPSC","OCD","Wald ratio",1,0.05,0.046,1.051,0.278,NA,NA,NA,0.021784312
+"CRABP2","Stem-cell-iPSC","OCD","Wald ratio",1,-0.046,0.099,0.955,0.646,NA,NA,NA,0.004342702
+"SYF2","Stem-cell-iPSC","OCD","Wald ratio",1,0.027,0.068,1.028,0.69,NA,NA,NA,0.000428586
+"COA7","Stem-cell-iPSC","OCD","Wald ratio",1,-0.02,0.052,0.981,0.707,NA,NA,NA,0.012037333
+"GSTM4","Stem-cell-iPSC","OCD","Wald ratio",1,-0.035,0.12,0.965,0.77,NA,NA,NA,0.000528114

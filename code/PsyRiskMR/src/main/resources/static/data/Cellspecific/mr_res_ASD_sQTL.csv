@@ -1,0 +1,1690 @@
+"Gene","Tissue","Psychiatric disorder","Method","Nsnp","Beta","SE","OR","P-value","Q_Pvalue(MREgger)","Q_Pvalue(IVW)","P-value(Intercept)","PPH4"
+"MACROD2","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.126","0.030","1.134","2.16e-05",NA,0.538792185,NA,0.000901289
+"KCNN2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.082","0.021","0.921","8.18e-05",NA,NA,NA,0.006694226
+"UBR3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.189","0.052","1.209","2.64e-04",NA,NA,NA,0.055607852
+"RNF216P1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.105","0.029","0.900","2.82e-04",NA,NA,NA,0.670181702
+"CCDC188","Stem-cell-iPSC","ASD","Wald ratio",1," 0.093","0.026","1.098","3.44e-04",NA,NA,NA,0.009090187
+"LINC00635","Stem-cell-iPSC","ASD","Wald ratio",1," 0.097","0.027","1.102","3.72e-04",NA,NA,NA,0.001885935
+"SLC25A21","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.134","0.038","0.874","4.09e-04",NA,NA,NA,0.001371586
+"SYNDIG1L","Stem-cell-iPSC","ASD","Wald ratio",1," 0.110","0.034","1.116","1.47e-03",NA,NA,NA,0.004118315
+"CHST9","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.063","0.020","0.939","1.59e-03",NA,NA,NA,0.006264605
+"ST3GAL3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.069","0.022","1.072","1.60e-03",NA,NA,NA,0.00039219
+"PKP4","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.065","0.021","0.937","1.76e-03",NA,NA,NA,0.000449243
+"ADAMTS9-AS2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.104","0.034","1.109","2.05e-03",NA,NA,NA,0.001585612
+"DDX60L","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.247","0.081","0.781","2.26e-03",NA,NA,NA,0.43857606
+"NPC1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.075","0.025","0.928","2.36e-03",NA,NA,NA,0.000338723
+"TRIM42","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.063","0.021","0.939","2.70e-03",NA,NA,NA,0.00486274
+"PREX1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.093","0.031","0.912","3.30e-03",NA,NA,NA,0.000414494
+"RPSAP12","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.091","0.031","0.913","3.45e-03",NA,NA,NA,0.000883729
+"GRIN3A","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.180","0.062","0.835","3.48e-03",NA,NA,NA,0.007782542
+"MXRA7","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.167","0.057","0.846","3.65e-03",NA,NA,NA,0.318684492
+"CIZ1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.056","0.019","0.946","3.86e-03",NA,NA,NA,0.001239539
+"OSTN","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.062","0.022","0.940","4.18e-03",NA,NA,NA,0.003736919
+"SGIP1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.243","0.086","1.275","4.65e-03",NA,NA,NA,0.271045069
+"PTGDR","Stem-cell-iPSC","ASD","Wald ratio",1," 0.129","0.046","1.137","5.24e-03",NA,NA,NA,0.010464558
+"HELZ","Stem-cell-iPSC","ASD","Wald ratio",1," 0.152","0.056","1.164","6.31e-03",NA,NA,NA,0.000706063
+"RNU6-1103P","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.060","0.022","0.942","6.37e-03",NA,NA,NA,0.002297612
+"LINC01257","Stem-cell-iPSC","ASD","Wald ratio",1," 0.078","0.029","1.082","6.46e-03",NA,NA,NA,0.000275095
+"ABCA1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.063","0.023","1.065","6.93e-03",NA,NA,NA,0.007144987
+"MEGF10","Stem-cell-iPSC","ASD","Wald ratio",1," 0.067","0.025","1.069","7.16e-03",NA,NA,NA,0.002250806
+"ACTR3B","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.060","0.023","0.942","7.41e-03",NA,NA,NA,9.9e-05
+"EIF3H","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.122","0.046","0.885","7.56e-03",NA,NA,NA,0.001119458
+"TMEM170B","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.060","0.022","0.942","7.75e-03",NA,NA,NA,0.006221998
+"RNA5SP279","Stem-cell-iPSC","ASD","Wald ratio",1," 0.059","0.022","1.061","7.77e-03",NA,NA,NA,0.005309569
+"RNU6-138P","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.234","0.088","0.791","7.86e-03",NA,NA,NA,0.01591907
+"SPINK2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.130","0.049","0.878","7.96e-03",NA,NA,NA,0.000979567
+"MAMDC2-AS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.114","0.043","0.892","8.02e-03",NA,NA,NA,0.000528757
+"RPS2P48","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.056","0.021","0.946","8.63e-03",NA,NA,NA,0.179730744
+"LINC00593","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.114","0.044","0.893","9.22e-03",NA,NA,NA,0.000485399
+"C1orf106","Stem-cell-iPSC","ASD","Wald ratio",1," 0.057","0.022","1.059","9.59e-03",NA,NA,NA,0.124627291
+"KIAA1328","Stem-cell-iPSC","ASD","Wald ratio",1," 0.127","0.049","1.135","1.03e-02",NA,NA,NA,0.00108344
+"EXOC6","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.189","0.074","0.828","1.07e-02",NA,NA,NA,0.157819666
+"PSMG1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.081","0.032","0.922","1.07e-02",NA,NA,NA,0.000485491
+"HNRNPA1P43","Stem-cell-iPSC","ASD","Wald ratio",1," 0.056","0.022","1.057","1.12e-02",NA,NA,NA,0.000110112
+"NBAS","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.114","0.045","0.892","1.13e-02",NA,NA,NA,0.000712035
+"ESCO1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.146","0.058","1.157","1.14e-02",NA,NA,NA,0.000961295
+"LINC01500","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.196","0.078","0.822","1.17e-02",NA,NA,NA,0.001103428
+"LINC01088","Stem-cell-iPSC","ASD","Wald ratio",1," 0.042","0.017","1.043","1.19e-02",NA,NA,NA,0.002252146
+"MC5R","Stem-cell-iPSC","ASD","Wald ratio",1," 0.070","0.028","1.073","1.21e-02",NA,NA,NA,0.000298329
+"FAM49B","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.101","0.041","0.904","1.24e-02",NA,NA,NA,0.063694351
+"PIP5K1B","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.060","0.024","0.942","1.37e-02",NA,NA,NA,0.000123314
+"EPHB1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.104","0.043","1.110","1.48e-02",NA,NA,NA,0.000509472
+"ARHGAP24","Stem-cell-iPSC","ASD","Wald ratio",1," 0.059","0.024","1.060","1.51e-02",NA,NA,NA,8.71e-05
+"FAM160A1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.102","0.042","1.107","1.53e-02",NA,NA,NA,0.000265187
+"ADH1C","Stem-cell-iPSC","ASD","Wald ratio",1," 0.191","0.080","1.210","1.63e-02",NA,NA,NA,0.026223304
+"POT1-AS1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.050","0.021","1.051","1.67e-02",NA,NA,NA,0.001171414
+"UGT2B15","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.121","0.051","0.886","1.74e-02",NA,NA,NA,0.078626657
+"SORCS2","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.040","0.017","0.960","1.75e-02",NA,0.759210286,NA,7.87e-05
+"UTS2B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.042","0.018","1.043","1.79e-02",NA,NA,NA,0.001716528
+"PNLDC1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.056","0.024","1.058","1.88e-02",NA,NA,NA,0.000121142
+"GALNTL6","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.063","0.027","1.065","1.94e-02",NA,0.698255864,NA,7.59e-05
+"VTCN1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.122","0.052","1.130","1.99e-02",NA,NA,NA,0.014046987
+"CGNL1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.111","0.048","0.895","2.02e-02",NA,NA,NA,0.092146958
+"CHFR","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.070","0.030","0.933","2.04e-02",NA,NA,NA,0.000359418
+"DKK2","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.076","0.033","1.079","2.04e-02",NA,0.941531226,NA,0.000130615
+"GPC6-AS2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.047","0.020","0.954","2.12e-02",NA,NA,NA,0.000494431
+"LSM1P2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.066","0.029","1.068","2.13e-02",NA,NA,NA,9.46e-05
+"PDP1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.051","0.022","0.951","2.31e-02",NA,NA,NA,0.007474575
+"PRB1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.133","0.058","0.876","2.32e-02",NA,NA,NA,0.002069531
+"POLD2P1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.066","0.029","1.068","2.34e-02",NA,NA,NA,0.003596866
+"SMARCA2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.120","0.053","1.128","2.37e-02",NA,NA,NA,0.001432986
+"FBP1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.170","0.075","0.844","2.44e-02",NA,NA,NA,0.094763648
+"TACC3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.045","0.020","1.046","2.49e-02",NA,NA,NA,0.010629467
+"MAGI1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.047","0.021","1.048","2.53e-02",NA,NA,NA,4.89e-05
+"HLA-DPB1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.078","0.035","1.081","2.57e-02",NA,NA,NA,0.117464899
+"HTRA1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.116","0.052","0.890","2.58e-02",NA,NA,NA,0.000221377
+"RNU6-21P","Stem-cell-iPSC","ASD","Wald ratio",1," 0.157","0.071","1.170","2.73e-02",NA,NA,NA,0.000391718
+"KIF16B","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.057","0.026","0.945","2.74e-02",NA,NA,NA,0.00015263
+"WDR70","Stem-cell-iPSC","ASD","Wald ratio",1," 0.107","0.049","1.113","2.75e-02",NA,NA,NA,0.000148937
+"RPL13AP25","Stem-cell-iPSC","ASD","Wald ratio",1," 0.102","0.047","1.107","2.85e-02",NA,NA,NA,0.00037577
+"SLC36A3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.222","0.101","1.248","2.86e-02",NA,NA,NA,0.071799911
+"TMTC1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.151","0.069","1.163","2.92e-02",NA,NA,NA,0.089296003
+"HIVEP3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.079","0.036","1.082","3.03e-02",NA,NA,NA,0.00014332
+"HLA-DQB1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.180","0.083","0.835","3.07e-02",NA,NA,NA,0.088426491
+"LIFR-AS1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.070","0.033","1.073","3.20e-02",NA,NA,NA,6.3e-05
+"GSTM2P1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.048","0.023","0.953","3.28e-02",NA,NA,NA,8.49e-05
+"LINC01603","Stem-cell-iPSC","ASD","Wald ratio",1," 0.050","0.023","1.051","3.28e-02",NA,NA,NA,2.8e-05
+"TGM3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.115","0.054","1.122","3.29e-02",NA,NA,NA,0.00032528
+"WDR27","Stem-cell-iPSC","ASD","Wald ratio",1," 0.496","0.233","1.643","3.32e-02",NA,NA,NA,0.088731718
+"CACYBPP2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.061","0.029","0.941","3.35e-02",NA,NA,NA,8.95e-05
+"SH3YL1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.047","0.022","0.954","3.36e-02",NA,NA,NA,2.83e-05
+"AOX1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.043","0.020","0.958","3.37e-02",NA,NA,NA,0.060204636
+"NRCAM","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.040","0.019","0.961","3.43e-02",NA,NA,NA,0.000537916
+"ADAMTS12","Stem-cell-iPSC","ASD","Wald ratio",1," 0.044","0.021","1.044","3.44e-02",NA,NA,NA,0.00097612
+"ADNP2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.055","0.026","0.947","3.45e-02",NA,NA,NA,0.000105644
+"KLHL1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.069","0.033","0.933","3.47e-02",NA,NA,NA,0.00021212
+"FAM179A","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.047","0.022","0.954","3.51e-02",NA,NA,NA,8.92e-05
+"GLRX3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.049","0.024","1.051","3.83e-02",NA,NA,NA,0.000271488
+"MYO3A","Stem-cell-iPSC","ASD","Wald ratio",1," 0.126","0.061","1.135","3.83e-02",NA,NA,NA,0.000554744
+"AK4P4","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.047","0.023","0.954","3.88e-02",NA,NA,NA,0.000107134
+"ZNF391","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.135","0.066","0.873","3.89e-02",NA,NA,NA,0.001552209
+"OXNAD1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.120","0.058","0.887","3.90e-02",NA,NA,NA,0.054660983
+"WDPCP","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.069","0.034","0.933","3.96e-02",NA,NA,NA,5.89e-05
+"ZFPM2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.051","0.025","1.052","3.96e-02",NA,NA,NA,0.0009319
+"UFD1L","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.053","0.026","0.949","3.98e-02",NA,NA,NA,7.02e-05
+"TMEM117","Stem-cell-iPSC","ASD","Wald ratio",1," 0.065","0.032","1.067","4.12e-02",NA,NA,NA,0.001538486
+"PPM1AP1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.061","0.030","1.063","4.16e-02",NA,NA,NA,0.005199458
+"ANK1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.093","0.045","1.097","4.16e-02",NA,NA,NA,9.23e-05
+"CCNT2-AS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.045","0.022","0.956","4.17e-02",NA,NA,NA,0.003064537
+"LINC00504","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.043","0.021","0.958","4.19e-02",NA,NA,NA,0.011587704
+"ADGRL3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.061","0.030","1.062","4.22e-02",NA,NA,NA,3.85e-05
+"THRAP3P1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.142","0.070","0.868","4.23e-02",NA,NA,NA,0.020610706
+"HUNK","Stem-cell-iPSC","ASD","Wald ratio",1," 0.102","0.050","1.107","4.27e-02",NA,NA,NA,0.002203543
+"DLC1","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.051","0.025","1.053","4.31e-02",NA,0.738904141,NA,3.37e-05
+"UGGT1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.039","0.019","0.962","4.32e-02",NA,NA,NA,0.001683343
+"FAM227A","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.036","0.018","0.965","4.34e-02",NA,NA,NA,0.000141727
+"C5orf49","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.105","0.052","0.900","4.39e-02",NA,NA,NA,0.002974093
+"PWP1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.072","0.036","1.075","4.40e-02",NA,NA,NA,3.91e-05
+"DAOA-AS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.204","0.101","0.816","4.41e-02",NA,NA,NA,0.053737219
+"INSR","Stem-cell-iPSC","ASD","Wald ratio",1," 0.112","0.056","1.118","4.43e-02",NA,NA,NA,0.002860064
+"ARNTL","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.039","0.020","1.040","4.43e-02",NA,0.757257925,NA,2.62e-05
+"LINC00376","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.041","0.020","0.960","4.48e-02",NA,NA,NA,0.000984374
+"VGLL3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.121","0.061","1.129","4.55e-02",NA,NA,NA,0.049717057
+"LZTS1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.049","0.025","1.050","4.68e-02",NA,NA,NA,0.000640763
+"RFX3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.069","0.035","0.933","4.78e-02",NA,NA,NA,3.29e-05
+"SERPINE2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.119","0.060","0.888","4.95e-02",NA,NA,NA,0.044564047
+"KRT18P27","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.090","0.046","0.914","5.04e-02",NA,NA,NA,0.020847489
+"RIMS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.085","0.043","0.919","5.13e-02",NA,NA,NA,0.000142044
+"WRN","Stem-cell-iPSC","ASD","Wald ratio",1," 0.040","0.021","1.041","5.19e-02",NA,NA,NA,1.98e-05
+"TNIP3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.187","0.096","0.829","5.20e-02",NA,NA,NA,0.000409146
+"COBL","Stem-cell-iPSC","ASD","Wald ratio",1," 0.049","0.025","1.050","5.22e-02",NA,NA,NA,2.9e-05
+"ZFYVE9P2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.043","0.022","0.958","5.27e-02",NA,NA,NA,0.000101198
+"ENDOD1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.083","0.043","0.921","5.34e-02",NA,NA,NA,0.044228012
+"ATP6V1C1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.043","0.022","1.044","5.39e-02",NA,NA,NA,2.4e-05
+"KIF18A","Stem-cell-iPSC","ASD","Wald ratio",1," 0.046","0.024","1.047","5.47e-02",NA,NA,NA,4.18e-05
+"AHCYL2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.087","0.045","0.917","5.50e-02",NA,NA,NA,0.009035345
+"TYW3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.132","0.069","1.142","5.56e-02",NA,NA,NA,0.041139835
+"PTPRQ","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.035","0.018","0.966","5.57e-02",NA,0.960670772,NA,2.55e-05
+"AQR","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.102","0.054","0.903","5.59e-02",NA,NA,NA,0.000572987
+"PDE1C","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.043","0.023","0.958","5.63e-02",NA,NA,NA,6.08e-05
+"NPHP3-AS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.042","0.022","0.959","5.69e-02",NA,NA,NA,0.044855465
+"GJC1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.066","0.035","0.936","5.72e-02",NA,NA,NA,1.71e-05
+"SLC44A1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.140","0.074","0.869","5.80e-02",NA,NA,NA,0.000181129
+"PEPD","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.040","0.021","0.961","5.84e-02",NA,NA,NA,0.049554887
+"ZNF407","Stem-cell-iPSC","ASD","Wald ratio",1," 0.093","0.049","1.098","5.87e-02",NA,NA,NA,0.005001537
+"LINC01280","Stem-cell-iPSC","ASD","Wald ratio",1," 0.084","0.044","1.087","5.87e-02",NA,NA,NA,0.003467711
+"HSPE1P10","Stem-cell-iPSC","ASD","Wald ratio",1," 0.098","0.052","1.103","5.94e-02",NA,NA,NA,0.000123035
+"C2orf47","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.089","0.047","0.915","5.94e-02",NA,NA,NA,0.000984106
+"IGFBP7-AS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.040","0.021","0.961","6.01e-02",NA,NA,NA,0.000464897
+"LRRTM4","Stem-cell-iPSC","ASD","Wald ratio",1," 0.073","0.039","1.075","6.05e-02",NA,NA,NA,0.000134822
+"SETP2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.087","0.046","1.091","6.05e-02",NA,NA,NA,0.012359419
+"MAP3K9","Stem-cell-iPSC","ASD","Wald ratio",1," 0.063","0.034","1.065","6.18e-02",NA,NA,NA,4.78e-05
+"HERPUD2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.046","0.025","1.047","6.21e-02",NA,NA,NA,7.73e-05
+"RNU6-2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.067","0.036","1.069","6.30e-02",NA,NA,NA,0.060063779
+"RNU1-18P","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.182","0.098","0.833","6.37e-02",NA,NA,NA,0.051148648
+"FAM107B","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.063","0.034","1.065","6.37e-02",NA,0.599435034,NA,0.000199817
+"LYRM4","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.075","0.040","0.928","6.40e-02",NA,NA,NA,0.03756198
+"GPR78","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.045","0.024","0.956","6.40e-02",NA,NA,NA,4.68e-05
+"DNMBP","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.036","0.020","0.964","6.42e-02",NA,NA,NA,1.18e-05
+"SATB1-AS1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.103","0.056","1.108","6.57e-02",NA,NA,NA,0.040093764
+"BCR","Stem-cell-iPSC","ASD","Wald ratio",1," 0.070","0.038","1.072","6.61e-02",NA,NA,NA,0.001391349
+"CDH13","Stem-cell-iPSC","ASD","Inverse variance weighted",3," 0.022","0.012","1.023","6.72e-02",0.234279997,0.47846277,0.871049852,0.000849752
+"MAP1B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.174","0.095","1.190","6.78e-02",NA,NA,NA,0.036289
+"PRKD1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.040","0.022","0.961","6.82e-02",NA,NA,NA,9.53e-05
+"YEATS4","Stem-cell-iPSC","ASD","Wald ratio",1," 0.035","0.019","1.036","6.89e-02",NA,NA,NA,0.000917198
+"NAMA","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.084","0.046","0.920","6.89e-02",NA,NA,NA,0.000172633
+"DPT","Stem-cell-iPSC","ASD","Wald ratio",1," 0.070","0.039","1.073","6.91e-02",NA,NA,NA,0.0004415
+"RNF138P2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.121","0.066","1.128","6.92e-02",NA,NA,NA,0.044885898
+"LINC01559","Stem-cell-iPSC","ASD","Wald ratio",1," 0.051","0.028","1.052","6.93e-02",NA,NA,NA,2.23e-05
+"AGPAT5","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.047","0.026","0.954","7.02e-02",NA,NA,NA,9.03e-05
+"PRDM15","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.092","0.051","0.912","7.05e-02",NA,NA,NA,0.015797925
+"COL13A1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.073","0.040","0.930","7.06e-02",NA,NA,NA,3.84e-05
+"ZPLD1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.043","0.024","1.044","7.12e-02",NA,NA,NA,3.75e-05
+"PON1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.083","0.046","1.086","7.25e-02",NA,NA,NA,0.000716475
+"GSTA4","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.040","0.022","0.960","7.28e-02",NA,NA,NA,0.000320312
+"MRPL50P1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.168","0.094","1.183","7.28e-02",NA,NA,NA,0.001258641
+"SMYD2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.044","0.025","1.045","7.40e-02",NA,NA,NA,4.32e-05
+"CHSY3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.050","0.028","0.951","7.43e-02",NA,NA,NA,0.002689698
+"RAD51B","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.084","0.047","0.920","7.45e-02",NA,NA,NA,0.001154343
+"RNU4ATAC8P","Stem-cell-iPSC","ASD","Wald ratio",1," 0.041","0.023","1.042","7.46e-02",NA,NA,NA,0.00835218
+"C1orf141","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.144","0.081","0.866","7.53e-02",NA,NA,NA,0.034224559
+"ZNF292","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.135","0.076","0.874","7.55e-02",NA,NA,NA,0.000198273
+"MARCO","Stem-cell-iPSC","ASD","Wald ratio",1," 0.058","0.033","1.060","7.57e-02",NA,NA,NA,1.91e-05
+"AK9","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.035","0.020","0.965","7.62e-02",NA,NA,NA,4.45e-05
+"LINC00539","Stem-cell-iPSC","ASD","Wald ratio",1," 0.124","0.070","1.132","7.66e-02",NA,NA,NA,0.033050108
+"SEMA5B","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.031","0.017","0.970","7.77e-02",NA,NA,NA,0.005846749
+"PROM1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.069","0.039","0.933","7.83e-02",NA,NA,NA,8.15e-05
+"PCNPP2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.067","0.038","0.935","7.89e-02",NA,NA,NA,0.001115528
+"ARHGAP22","Stem-cell-iPSC","ASD","Wald ratio",1," 0.143","0.081","1.153","7.90e-02",NA,NA,NA,0.033087686
+"SHANK2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.068","0.039","0.935","7.95e-02",NA,NA,NA,1.38e-05
+"CDH13","Stem-cell-iPSC","ASD","Weighted median",3," 0.025","0.014","1.026","8.06e-02",0.234279997,0.47846277,0.871049852,0.000849752
+"RNF17","Stem-cell-iPSC","ASD","Wald ratio",1," 0.037","0.021","1.037","8.10e-02",NA,NA,NA,0.030233538
+"ZNF385D","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.066","0.038","1.068","8.27e-02",NA,0.883291773,NA,4.58e-05
+"ABCC9","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.034","0.019","0.967","8.38e-02",NA,NA,NA,0.000321807
+"INHBB","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.037","0.021","0.964","8.38e-02",NA,NA,NA,2.52e-05
+"FBLN7","Stem-cell-iPSC","ASD","Wald ratio",1," 0.038","0.022","1.038","8.45e-02",NA,NA,NA,1.34e-05
+"C15orf53","Stem-cell-iPSC","ASD","Wald ratio",1," 0.037","0.022","1.038","8.55e-02",NA,NA,NA,0.000113091
+"LRMP","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.053","0.031","1.054","8.60e-02",NA,0.977661241,NA,7.37e-05
+"XPO6","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.063","0.037","0.939","8.61e-02",NA,NA,NA,4.2e-05
+"MGAT4C","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.072","0.042","0.930","8.65e-02",NA,NA,NA,8.58e-05
+"SYNM","Stem-cell-iPSC","ASD","Wald ratio",1," 0.083","0.048","1.086","8.71e-02",NA,NA,NA,0.035812237
+"RDX","Stem-cell-iPSC","ASD","Wald ratio",1," 0.059","0.034","1.061","8.72e-02",NA,NA,NA,4.81e-05
+"STAU2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.038","0.022","0.962","8.83e-02",NA,NA,NA,2.33e-05
+"LRRC1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.040","0.023","1.041","8.85e-02",NA,NA,NA,0.000168363
+"ACKR3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.072","0.042","0.930","8.85e-02",NA,NA,NA,0.000187361
+"PRR35","Stem-cell-iPSC","ASD","Wald ratio",1," 0.039","0.023","1.040","8.89e-02",NA,NA,NA,8.83e-06
+"SLC13A3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.083","0.049","1.087","9.00e-02",NA,NA,NA,0.000168678
+"GNLY","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.082","0.049","0.921","9.11e-02",NA,NA,NA,0.000405222
+"FRMD4A","Stem-cell-iPSC","ASD","Weighted median",3,"-0.061","0.036","0.941","9.16e-02",0.077140101,0.059624547,0.534437335,0.000251123
+"ARHGEF28","Stem-cell-iPSC","ASD","Wald ratio",1," 0.068","0.040","1.070","9.25e-02",NA,NA,NA,1.36e-05
+"OTUD1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.066","0.039","0.936","9.26e-02",NA,NA,NA,6.49e-05
+"IL34","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.053","0.032","0.948","9.28e-02",NA,NA,NA,0.000257795
+"ACVR1B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.068","0.041","1.070","9.37e-02",NA,NA,NA,1.1e-05
+"SGMS1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.079","0.047","1.082","9.37e-02",NA,NA,NA,0.02484951
+"MYOF","Stem-cell-iPSC","ASD","Wald ratio",1," 0.043","0.026","1.044","9.41e-02",NA,NA,NA,0.008958827
+"RNU6-991P","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.100","0.060","0.905","9.42e-02",NA,NA,NA,8.48e-05
+"ASPM","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.037","0.022","0.963","9.46e-02",NA,NA,NA,0.000117703
+"SORCS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.037","0.022","0.964","9.51e-02",NA,NA,NA,0.000856402
+"CNOT6LP1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.188","0.113","0.829","9.59e-02",NA,NA,NA,0.000347019
+"HTR3C","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.035","0.021","0.966","9.65e-02",NA,NA,NA,4.34e-05
+"SDHB","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.033","0.020","0.967","9.65e-02",NA,NA,NA,5.11e-05
+"HTR4","Stem-cell-iPSC","ASD","Wald ratio",1," 0.070","0.042","1.072","9.65e-02",NA,NA,NA,2.33e-05
+"RORA","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.039","0.023","0.962","9.65e-02",NA,NA,NA,3.56e-05
+"SLIT3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.037","0.022","0.964","9.77e-02",NA,NA,NA,1.37e-05
+"EREG","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.039","0.023","0.962","9.82e-02",NA,NA,NA,0.000132808
+"ADAMTS17","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.027","0.016","1.027","9.82e-02",NA,0.976120259,NA,1.99e-05
+"KLHL25","Stem-cell-iPSC","ASD","Wald ratio",1," 0.041","0.025","1.042","9.84e-02",NA,NA,NA,8.26e-05
+"SRPRB","Stem-cell-iPSC","ASD","Wald ratio",1," 0.033","0.020","1.034","9.93e-02",NA,NA,NA,0.024338839
+"KIAA1429","Stem-cell-iPSC","ASD","Wald ratio",1," 0.072","0.044","1.075","9.94e-02",NA,NA,NA,0.000102547
+"STIM2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.038","0.023","1.039","1.01e-01",NA,NA,NA,0.004336635
+"LINC01183","Stem-cell-iPSC","ASD","Wald ratio",1," 0.042","0.026","1.043","1.02e-01",NA,NA,NA,8.63e-06
+"CDH12","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.085","0.052","0.918","1.03e-01",NA,NA,NA,0.001056209
+"FLRT2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.038","0.024","1.039","1.04e-01",NA,NA,NA,0.027190893
+"TMC2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.063","0.038","0.939","1.04e-01",NA,NA,NA,0.001289093
+"RPTOR","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.031","0.019","1.032","1.04e-01",NA,0.898825507,NA,0.007127858
+"FBXO40","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.029","0.018","0.972","1.05e-01",NA,NA,NA,0.025731635
+"MYO9B","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.034","0.021","0.966","1.05e-01",NA,NA,NA,3.78e-05
+"LINC01019","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.058","0.036","0.943","1.07e-01",NA,NA,NA,0.00010934
+"DCLK2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.089","0.055","1.093","1.07e-01",NA,NA,NA,7.23e-05
+"AUH","Stem-cell-iPSC","ASD","Wald ratio",1," 0.036","0.022","1.036","1.08e-01",NA,NA,NA,1.45e-05
+"LMX1A","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.131","0.082","0.877","1.08e-01",NA,NA,NA,0.00542384
+"MKX","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.060","0.037","0.942","1.10e-01",NA,NA,NA,0.023487432
+"LINC01362","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.039","0.025","0.961","1.11e-01",NA,0.851299377,NA,0.009323515
+"PCSK5","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.071","0.045","0.932","1.14e-01",NA,NA,NA,0.000115782
+"CCDC91","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.095","0.060","0.909","1.14e-01",NA,NA,NA,0.020970914
+"CHN2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.061","0.039","1.063","1.15e-01",NA,NA,NA,0.004597358
+"OTOR","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.063","0.040","0.939","1.15e-01",NA,NA,NA,0.001417669
+"PLXNA2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.091","0.058","1.095","1.15e-01",NA,NA,NA,0.025510691
+"CMIP","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.076","0.048","0.927","1.15e-01",NA,NA,NA,4.6e-05
+"LURAP1L-AS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.062","0.039","0.940","1.16e-01",NA,NA,NA,9.61e-05
+"RGS12","Stem-cell-iPSC","ASD","Wald ratio",1," 0.085","0.054","1.089","1.17e-01",NA,NA,NA,0.000373394
+"GNG2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.034","0.022","1.034","1.17e-01",NA,NA,NA,5.74e-05
+"VGLL2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.162","0.104","1.176","1.18e-01",NA,NA,NA,0.018901783
+"RASGEF1B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.093","0.060","1.098","1.18e-01",NA,NA,NA,0.000634987
+"CDH19","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.083","0.054","0.920","1.19e-01",NA,NA,NA,0.000926725
+"ANK3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.053","0.034","1.055","1.20e-01",NA,NA,NA,2.75e-05
+"DLG2","Stem-cell-iPSC","ASD","Inverse variance weighted",4,"-0.033","0.021","0.967","1.20e-01",0.171396973,0.178932137,0.470151142,0.004027724
+"LINC01040","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.033","0.021","0.968","1.20e-01",NA,NA,NA,9.44e-05
+"TRAM1L1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.032","0.020","1.032","1.21e-01",NA,NA,NA,5.31e-05
+"RNU6-1001P","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.037","0.024","0.964","1.22e-01",NA,NA,NA,8.63e-05
+"PPP2R4","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.062","0.040","0.940","1.23e-01",NA,NA,NA,0.018646283
+"CUBN","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.034","0.022","0.966","1.23e-01",NA,NA,NA,5.45e-06
+"CSN3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.030","0.019","0.971","1.24e-01",NA,NA,NA,0.019517119
+"MIR5702","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.030","0.020","0.970","1.26e-01",NA,NA,NA,9.7e-05
+"PAMR1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.093","0.061","1.098","1.26e-01",NA,NA,NA,0.006081681
+"SERPINB9P1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.055","0.036","1.057","1.26e-01",NA,NA,NA,0.000224556
+"MYL10","Stem-cell-iPSC","ASD","Wald ratio",1," 0.033","0.022","1.034","1.27e-01",NA,NA,NA,0.012930117
+"SERPINA5","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.081","0.053","0.922","1.27e-01",NA,NA,NA,0.003499111
+"PAQR6","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.071","0.047","0.931","1.27e-01",NA,NA,NA,0.000227476
+"RGS14","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.064","0.042","0.938","1.28e-01",NA,NA,NA,8.46e-05
+"ESR1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.121","0.079","1.129","1.28e-01",NA,NA,NA,5.69e-05
+"KRT8P18","Stem-cell-iPSC","ASD","Wald ratio",1," 0.074","0.048","1.076","1.28e-01",NA,NA,NA,0.019580827
+"CTXN3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.065","0.043","0.937","1.29e-01",NA,NA,NA,3.88e-05
+"PPP3CA","Stem-cell-iPSC","ASD","Wald ratio",1," 0.079","0.052","1.083","1.30e-01",NA,NA,NA,7.99e-05
+"OSBP2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.102","0.067","1.107","1.30e-01",NA,NA,NA,6.03e-05
+"LINC00920","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.071","0.047","0.932","1.34e-01",NA,NA,NA,0.022101158
+"KIAA2012","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.062","0.041","0.940","1.34e-01",NA,NA,NA,0.020637732
+"RPL21P47","Stem-cell-iPSC","ASD","Wald ratio",1," 0.030","0.020","1.030","1.35e-01",NA,NA,NA,0.000503172
+"BTBD11","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.030","0.020","0.971","1.35e-01",NA,NA,NA,2.76e-05
+"LIMS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.033","0.022","0.967","1.35e-01",NA,NA,NA,7.78e-06
+"PTPRG","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.040","0.027","0.961","1.36e-01",NA,0.797584843,NA,0.001249749
+"TRIO","Stem-cell-iPSC","ASD","Wald ratio",1," 0.076","0.051","1.079","1.36e-01",NA,NA,NA,0.009749467
+"VAPA","Stem-cell-iPSC","ASD","Wald ratio",1," 0.056","0.038","1.058","1.37e-01",NA,NA,NA,0.000293134
+"PVT1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.035","0.024","0.965","1.37e-01",NA,NA,NA,1.86e-05
+"KCNA10","Stem-cell-iPSC","ASD","Wald ratio",1," 0.087","0.059","1.091","1.38e-01",NA,NA,NA,0.011281011
+"CFAP61","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.055","0.037","0.946","1.38e-01",NA,NA,NA,1.17e-05
+"CNNM1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.196","0.132","0.822","1.38e-01",NA,NA,NA,0.001078306
+"TPT1P2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.052","0.035","0.950","1.38e-01",NA,NA,NA,3.44e-05
+"CTNND2","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.034","0.023","1.035","1.39e-01",NA,0.904934172,NA,0.000231252
+"TRAPPC9","Stem-cell-iPSC","ASD","Wald ratio",1," 0.030","0.020","1.031","1.39e-01",NA,NA,NA,0.000343615
+"SLC39A8","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.027","0.018","0.973","1.40e-01",NA,0.326140417,NA,0.006990919
+"COL11A1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.033","0.023","1.034","1.40e-01",NA,NA,NA,1.57e-05
+"IPO11","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.037","0.025","0.963","1.41e-01",NA,NA,NA,2.7e-05
+"XYLT1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.034","0.023","1.035","1.41e-01",NA,NA,NA,2.44e-05
+"STPG2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.031","0.021","1.031","1.42e-01",NA,NA,NA,2.31e-05
+"TOX3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.033","0.022","0.968","1.42e-01",NA,NA,NA,5.73e-06
+"KCNJ6","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.090","0.061","0.914","1.43e-01",NA,NA,NA,0.000908249
+"GUCA1C","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.060","0.041","0.942","1.44e-01",NA,NA,NA,4.84e-05
+"DPCD","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.035","0.024","0.966","1.46e-01",NA,NA,NA,6.96e-06
+"CBLN2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.041","0.028","1.042","1.47e-01",NA,NA,NA,8.18e-06
+"TENM4","Stem-cell-iPSC","ASD","Inverse variance weighted",3," 0.022","0.015","1.022","1.48e-01",0.771819049,0.712165321,0.581773185,0.000142433
+"CNTN3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.027","0.019","0.973","1.48e-01",NA,NA,NA,0.019529003
+"FAM189A2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.032","0.022","1.033","1.48e-01",NA,NA,NA,2.17e-05
+"VCAN","Stem-cell-iPSC","ASD","Wald ratio",1," 0.026","0.018","1.026","1.48e-01",NA,NA,NA,0.000970148
+"NLGN1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.065","0.045","0.937","1.49e-01",NA,NA,NA,0.000244403
+"NT5DC3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.063","0.044","1.065","1.50e-01",NA,NA,NA,0.001696411
+"DLG2","Stem-cell-iPSC","ASD","Simple mode",4,"-0.046","0.024","0.955","1.50e-01",0.171396973,0.178932137,0.470151142,0.004027724
+"RNF123","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.047","0.033","0.954","1.50e-01",NA,NA,NA,7.56e-06
+"KLRD1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.031","0.021","0.970","1.51e-01",NA,NA,NA,0.005110288
+"FLT4","Stem-cell-iPSC","ASD","Wald ratio",1," 0.029","0.020","1.030","1.52e-01",NA,NA,NA,0.000634442
+"TGFBI","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.063","0.044","0.939","1.52e-01",NA,NA,NA,0.018863826
+"DNAJC27-AS1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.046","0.033","1.047","1.53e-01",NA,NA,NA,4.34e-05
+"UPP2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.032","0.022","1.032","1.54e-01",NA,NA,NA,2.32e-05
+"GAS2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.051","0.036","0.950","1.54e-01",NA,NA,NA,3.28e-05
+"PLSCR5","Stem-cell-iPSC","ASD","Wald ratio",1," 0.032","0.023","1.033","1.55e-01",NA,NA,NA,1.4e-05
+"COL25A1","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.051","0.036","1.053","1.56e-01",NA,0.281699227,NA,0.002226508
+"MOB3B","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.032","0.022","0.969","1.56e-01",NA,NA,NA,1.35e-05
+"CCL28","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.025","0.018","0.975","1.56e-01",NA,NA,NA,0.000828573
+"MCF2L2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.038","0.027","1.039","1.58e-01",NA,NA,NA,3.35e-05
+"DSTNP5","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.052","0.037","0.949","1.59e-01",NA,NA,NA,7.53e-05
+"PIGN","Stem-cell-iPSC","ASD","Wald ratio",1," 0.062","0.044","1.064","1.59e-01",NA,NA,NA,0.000493686
+"TDGF1P4","Stem-cell-iPSC","ASD","Wald ratio",1," 0.057","0.041","1.059","1.59e-01",NA,NA,NA,4.61e-05
+"OSBPL10","Stem-cell-iPSC","ASD","Inverse variance weighted",3," 0.024","0.017","1.024","1.60e-01",0.918162257,0.49311692,0.446312233,3.3e-05
+"NTRK2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.029","0.021","0.971","1.62e-01",NA,NA,NA,0.014422672
+"GHR","Stem-cell-iPSC","ASD","Wald ratio",1," 0.029","0.021","1.030","1.64e-01",NA,NA,NA,2.71e-05
+"ACTL10","Stem-cell-iPSC","ASD","Wald ratio",1," 0.034","0.024","1.034","1.64e-01",NA,NA,NA,1.11e-05
+"ACER2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.040","0.029","0.961","1.65e-01",NA,NA,NA,3.77e-05
+"MIR3681HG","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.023","0.016","0.977","1.65e-01",NA,0.339120159,NA,0.000223092
+"LINC00534","Stem-cell-iPSC","ASD","Wald ratio",1," 0.034","0.024","1.035","1.65e-01",NA,NA,NA,8.63e-06
+"XPR1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.029","0.021","1.029","1.66e-01",NA,NA,NA,0.000187414
+"PTP4A1P4","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.033","0.024","0.968","1.66e-01",NA,0.340950507,NA,0.000472388
+"TENM4","Stem-cell-iPSC","ASD","Weighted median",3," 0.025","0.018","1.025","1.66e-01",0.771819049,0.712165321,0.581773185,0.000142433
+"RIIAD1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.036","0.026","1.037","1.66e-01",NA,NA,NA,0.001867601
+"SNX9","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.030","0.022","0.970","1.67e-01",NA,0.887049829,NA,4.88e-05
+"TBC1D4","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.146","0.105","0.864","1.67e-01",NA,NA,NA,0.00012125
+"CYCSP17","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.099","0.072","0.906","1.67e-01",NA,NA,NA,0.018849417
+"INPP4B","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.041","0.030","0.959","1.67e-01",NA,NA,NA,8.16e-06
+"C1orf109","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.058","0.042","0.944","1.67e-01",NA,NA,NA,9.27e-05
+"PTPN14","Stem-cell-iPSC","ASD","Wald ratio",1," 0.047","0.034","1.049","1.67e-01",NA,NA,NA,1.56e-05
+"SEMA3E","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.059","0.043","0.943","1.68e-01",NA,NA,NA,0.002073675
+"LINC01307","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.092","0.067","0.912","1.69e-01",NA,NA,NA,0.009134168
+"COX6B1P6","Stem-cell-iPSC","ASD","Wald ratio",1," 0.031","0.023","1.031","1.71e-01",NA,NA,NA,1.3e-05
+"DNAH9","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.069","0.050","0.933","1.71e-01",NA,NA,NA,4.28e-05
+"NAALADL2","Stem-cell-iPSC","ASD","Inverse variance weighted",3,"-0.026","0.019","0.974","1.72e-01",0.201644348,0.379693648,0.739605679,1.27e-05
+"LINC00410","Stem-cell-iPSC","ASD","Wald ratio",1," 0.034","0.025","1.034","1.72e-01",NA,NA,NA,0.000399
+"TPD52","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.053","0.038","0.949","1.72e-01",NA,NA,NA,0.008843458
+"PLA2G4A","Stem-cell-iPSC","ASD","Wald ratio",1," 0.030","0.022","1.030","1.72e-01",NA,NA,NA,8.2e-06
+"RPL31P35","Stem-cell-iPSC","ASD","Wald ratio",1," 0.049","0.036","1.050","1.73e-01",NA,NA,NA,0.001317251
+"ZFP36L2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.100","0.074","1.105","1.74e-01",NA,NA,NA,0.005816892
+"PCDH9","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.043","0.032","1.044","1.74e-01",NA,0.497559011,NA,0.00808694
+"RN7SKP181","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.028","0.021","0.972","1.74e-01",NA,NA,NA,2.74e-05
+"KRTAP10-12","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.029","0.021","0.972","1.74e-01",NA,NA,NA,0.017343344
+"MGST2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.028","0.021","0.973","1.76e-01",NA,NA,NA,1.28e-05
+"SH2D1B","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.076","0.056","0.927","1.77e-01",NA,NA,NA,0.0177336
+"SLC24A4","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.062","0.046","0.940","1.78e-01",NA,NA,NA,0.010492531
+"D2HGDH","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.035","0.026","0.966","1.78e-01",NA,NA,NA,4.12e-05
+"SEMA3C","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.026","0.019","0.975","1.79e-01",NA,0.628907599,NA,0.018909691
+"CTSC","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.031","0.023","0.970","1.81e-01",NA,NA,NA,5.41e-05
+"PDE1A","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.102","0.076","0.903","1.81e-01",NA,NA,NA,0.01269333
+"PRSS37","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.027","0.020","0.974","1.82e-01",NA,NA,NA,4.29e-05
+"RN7SKP168","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.055","0.042","0.946","1.83e-01",NA,NA,NA,5.23e-05
+"RTN4","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.049","0.037","0.953","1.83e-01",NA,NA,NA,9.14e-05
+"TBCK","Stem-cell-iPSC","ASD","Wald ratio",1," 0.031","0.023","1.032","1.84e-01",NA,NA,NA,0.002162733
+"FGF5","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.053","0.040","0.948","1.84e-01",NA,NA,NA,0.000704372
+"ANKRD10","Stem-cell-iPSC","ASD","Wald ratio",1," 0.048","0.036","1.049","1.85e-01",NA,NA,NA,5.13e-05
+"RSL24D1P4","Stem-cell-iPSC","ASD","Wald ratio",1," 0.071","0.053","1.073","1.85e-01",NA,NA,NA,0.016148888
+"PUM3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.027","0.020","0.974","1.85e-01",NA,NA,NA,0.003467773
+"PRDM2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.082","0.062","0.921","1.85e-01",NA,NA,NA,9.23e-05
+"TMEM229B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.066","0.050","1.068","1.85e-01",NA,NA,NA,0.00011129
+"NIPA2P2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.060","0.045","0.942","1.86e-01",NA,NA,NA,2.81e-05
+"S100A7","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.031","0.023","0.970","1.86e-01",NA,NA,NA,6.47e-06
+"C22orf34","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.068","0.052","0.934","1.86e-01",NA,NA,NA,2.02e-05
+"TNFRSF10C","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.038","0.029","0.963","1.86e-01",NA,NA,NA,2.28e-05
+"RALYL","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.031","0.023","0.970","1.86e-01",NA,NA,NA,0.000111411
+"PLOD2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.050","0.038","1.051","1.87e-01",NA,NA,NA,0.000255814
+"FZD1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.029","0.022","0.972","1.87e-01",NA,NA,NA,1.51e-05
+"TRGC2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.098","0.074","0.907","1.87e-01",NA,NA,NA,0.002944076
+"METTL25","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.050","0.038","0.951","1.87e-01",NA,NA,NA,0.000159744
+"CD34","Stem-cell-iPSC","ASD","Wald ratio",1," 0.050","0.038","1.052","1.88e-01",NA,NA,NA,0.000115673
+"ACCSL","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.053","0.040","0.949","1.89e-01",NA,NA,NA,0.003441645
+"LINC00882","Stem-cell-iPSC","ASD","Wald ratio",1," 0.048","0.037","1.049","1.90e-01",NA,NA,NA,1.41e-05
+"ST6GAL1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.047","0.036","1.048","1.90e-01",NA,NA,NA,0.000387615
+"KLHL31","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.092","0.070","0.912","1.90e-01",NA,NA,NA,0.000119952
+"PPFIBP2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.028","0.021","1.028","1.91e-01",NA,NA,NA,5.32e-05
+"ROBO2","Stem-cell-iPSC","ASD","Inverse variance weighted",3," 0.021","0.016","1.021","1.91e-01",0.377402024,0.574933192,0.668945819,2e-05
+"PLEKHS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.071","0.055","0.931","1.91e-01",NA,NA,NA,0.000809861
+"CHMP6","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.031","0.024","0.969","1.93e-01",NA,NA,NA,0.000243672
+"TG","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.056","0.043","0.946","1.94e-01",NA,NA,NA,0.007278402
+"BMPR1B","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.029","0.023","1.030","1.95e-01",NA,0.642552296,NA,5e-05
+"TSPAN2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.037","0.028","1.037","1.95e-01",NA,NA,NA,0.000356948
+"DOK5","Stem-cell-iPSC","ASD","Wald ratio",1," 0.099","0.076","1.104","1.96e-01",NA,NA,NA,0.0157118
+"EGFEM1P","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.027","0.021","1.028","1.97e-01",NA,0.8097475,NA,5.82e-06
+"DBIP1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.024","0.019","1.024","1.98e-01",NA,NA,NA,0.015917082
+"OR7A5","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.028","0.022","0.972","1.98e-01",NA,NA,NA,3.32e-06
+"DOCK1","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.043","0.033","0.958","1.98e-01",NA,0.107180848,NA,7.13e-05
+"PLCL2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.042","0.033","1.043","1.99e-01",NA,NA,NA,1.66e-05
+"NKAIN4","Stem-cell-iPSC","ASD","Wald ratio",1," 0.052","0.040","1.053","1.99e-01",NA,NA,NA,0.000113271
+"IL7R","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.050","0.039","0.951","1.99e-01",NA,NA,NA,3e-05
+"URB1-AS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.048","0.037","0.953","2.00e-01",NA,NA,NA,3.82e-05
+"GUCY2GP","Stem-cell-iPSC","ASD","Wald ratio",1," 0.071","0.056","1.074","2.00e-01",NA,NA,NA,0.001082972
+"EGFR","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.090","0.071","0.914","2.01e-01",NA,NA,NA,0.017434559
+"PLXNA4","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.061","0.048","0.941","2.02e-01",NA,NA,NA,0.000207078
+"LRRC8B","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.028","0.022","0.972","2.02e-01",NA,NA,NA,6.12e-06
+"STEAP1B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.033","0.026","1.034","2.03e-01",NA,NA,NA,1.33e-05
+"OSBPL9P3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.094","0.073","0.911","2.03e-01",NA,NA,NA,0.000361796
+"BIN1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.060","0.048","0.941","2.03e-01",NA,NA,NA,0.000178127
+"DSC1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.150","0.118","0.861","2.04e-01",NA,NA,NA,0.01513758
+"LDHC","Stem-cell-iPSC","ASD","Wald ratio",1," 0.033","0.026","1.034","2.04e-01",NA,NA,NA,0.001548318
+"MAPK10","Stem-cell-iPSC","ASD","Wald ratio",1," 0.028","0.022","1.028","2.04e-01",NA,NA,NA,3.65e-05
+"LINC01428","Stem-cell-iPSC","ASD","Wald ratio",1," 0.055","0.044","1.057","2.05e-01",NA,NA,NA,0.000131556
+"SYNPR","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.076","0.060","0.927","2.08e-01",NA,NA,NA,0.002579882
+"RAI1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.045","0.036","0.956","2.08e-01",NA,NA,NA,6.69e-06
+"RPL29P29","Stem-cell-iPSC","ASD","Wald ratio",1," 0.057","0.046","1.059","2.09e-01",NA,NA,NA,0.000125139
+"TEC","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.090","0.072","0.914","2.09e-01",NA,NA,NA,0.015517779
+"STRN","Stem-cell-iPSC","ASD","Wald ratio",1," 0.116","0.093","1.123","2.11e-01",NA,NA,NA,0.012100727
+"LINC00929","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.025","0.020","0.975","2.11e-01",NA,NA,NA,1.59e-05
+"FAM171A1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.056","0.045","0.946","2.11e-01",NA,NA,NA,4.31e-05
+"OSBPL10","Stem-cell-iPSC","ASD","Weighted mode",3," 0.036","0.020","1.037","2.11e-01",0.918162257,0.49311692,0.446312233,3.3e-05
+"SH3PXD2A","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.103","0.082","0.902","2.11e-01",NA,NA,NA,0.001048228
+"GRK5","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.031","0.025","0.969","2.11e-01",NA,NA,NA,1.29e-05
+"EMC8","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.028","0.023","0.972","2.12e-01",NA,NA,NA,0.017200707
+"RPS20P25","Stem-cell-iPSC","ASD","Wald ratio",1," 0.028","0.023","1.029","2.12e-01",NA,NA,NA,8.9e-06
+"MAGI2","Stem-cell-iPSC","ASD","Inverse variance weighted",4,"-0.017","0.014","0.983","2.13e-01",0.544053362,0.505110826,0.400602051,0.00175041
+"PPP3CC","Stem-cell-iPSC","ASD","Wald ratio",1," 0.026","0.021","1.026","2.13e-01",NA,NA,NA,6.63e-06
+"CACUL1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.023","0.019","0.977","2.14e-01",NA,NA,NA,0.007041265
+"SMYD3","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.024","0.019","1.024","2.14e-01",NA,0.960056397,NA,1.62e-05
+"NAALADL2","Stem-cell-iPSC","ASD","Simple mode",3,"-0.065","0.036","0.937","2.14e-01",0.201644348,0.379693648,0.739605679,1.27e-05
+"LINC01181","Stem-cell-iPSC","ASD","Wald ratio",1," 0.051","0.041","1.052","2.15e-01",NA,NA,NA,0.001071823
+"OPCML","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.039","0.031","0.962","2.16e-01",NA,NA,NA,2.56e-05
+"PAPPA","Stem-cell-iPSC","ASD","Wald ratio",1," 0.046","0.037","1.047","2.16e-01",NA,NA,NA,3.53e-05
+"PREX2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.025","0.020","0.975","2.16e-01",NA,NA,NA,2.63e-05
+"ATXN1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.092","0.075","1.097","2.18e-01",NA,NA,NA,0.000134577
+"RXFP2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.032","0.026","1.033","2.19e-01",NA,NA,NA,0.001811704
+"MS4A4E","Stem-cell-iPSC","ASD","Wald ratio",1," 0.047","0.038","1.048","2.19e-01",NA,NA,NA,0.000119381
+"C10orf107","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.103","0.084","0.902","2.20e-01",NA,NA,NA,0.014633226
+"KLRAP1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.036","0.029","0.965","2.20e-01",NA,NA,NA,1.15e-05
+"MYOM1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.027","0.022","0.974","2.21e-01",NA,NA,NA,2.59e-05
+"C2orf57","Stem-cell-iPSC","ASD","Wald ratio",1," 0.043","0.035","1.044","2.21e-01",NA,NA,NA,0.015288509
+"ADGRF2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.027","0.022","0.973","2.22e-01",NA,NA,NA,0.015363805
+"PSKH2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.143","0.117","0.866","2.22e-01",NA,NA,NA,0.014355551
+"CDH8","Stem-cell-iPSC","ASD","Wald ratio",1," 0.040","0.033","1.041","2.23e-01",NA,NA,NA,1.53e-05
+"NAALADL2","Stem-cell-iPSC","ASD","Weighted median",3,"-0.026","0.021","0.974","2.25e-01",0.201644348,0.379693648,0.739605679,1.27e-05
+"RNU4-77P","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.071","0.059","0.931","2.25e-01",NA,NA,NA,0.006300838
+"CDH13","Stem-cell-iPSC","ASD","Weighted mode",3," 0.035","0.020","1.036","2.26e-01",0.234279997,0.47846277,0.871049852,0.000849752
+"IL21R","Stem-cell-iPSC","ASD","Wald ratio",1," 0.040","0.033","1.041","2.26e-01",NA,NA,NA,8.3e-06
+"MIR1202","Stem-cell-iPSC","ASD","Wald ratio",1," 0.026","0.021","1.026","2.26e-01",NA,NA,NA,4.33e-05
+"SCARB1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.026","0.022","1.027","2.27e-01",NA,NA,NA,8.31e-06
+"TNR","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.029","0.024","0.972","2.27e-01",NA,NA,NA,5.41e-06
+"OSBPL1A","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.021","0.017","1.021","2.27e-01",NA,0.830159193,NA,0.013257513
+"TENM2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.025","0.021","0.975","2.27e-01",NA,NA,NA,0.000629846
+"P2RY14","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.110","0.091","0.896","2.28e-01",NA,NA,NA,4.56e-05
+"RPL23AP22","Stem-cell-iPSC","ASD","Wald ratio",1," 0.063","0.053","1.066","2.30e-01",NA,NA,NA,0.013997334
+"SPARCL1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.060","0.050","1.062","2.30e-01",NA,NA,NA,0.000361665
+"SLC4A2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.037","0.031","1.038","2.31e-01",NA,NA,NA,1.27e-05
+"PLXND1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.053","0.044","1.054","2.31e-01",NA,NA,NA,0.001236425
+"UTRN","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.056","0.047","0.945","2.32e-01",NA,NA,NA,3.86e-05
+"PDE11A","Stem-cell-iPSC","ASD","Wald ratio",1," 0.097","0.081","1.102","2.32e-01",NA,NA,NA,0.019636133
+"OTOGL","Stem-cell-iPSC","ASD","Wald ratio",1," 0.026","0.022","1.026","2.32e-01",NA,NA,NA,4.29e-05
+"TTC21A","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.043","0.036","0.958","2.33e-01",NA,NA,NA,9.44e-05
+"LINC01090","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.018","0.015","1.018","2.34e-01",NA,0.709592323,NA,0.01455806
+"RGS7","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.034","0.029","0.966","2.34e-01",NA,NA,NA,0.000125521
+"CPNE4","Stem-cell-iPSC","ASD","Wald ratio",1," 0.075","0.063","1.078","2.34e-01",NA,NA,NA,0.008431161
+"PHC2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.025","0.021","0.975","2.34e-01",NA,NA,NA,0.000206476
+"MFSD14A","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.083","0.070","0.921","2.35e-01",NA,NA,NA,4.4e-05
+"AIM1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.076","0.064","1.079","2.35e-01",NA,NA,NA,6.24e-05
+"LHFP","Stem-cell-iPSC","ASD","Wald ratio",1," 0.042","0.036","1.043","2.35e-01",NA,NA,NA,0.012517157
+"STX8","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.029","0.024","0.971","2.35e-01",NA,NA,NA,1.89e-05
+"SFRP2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.096","0.082","1.101","2.38e-01",NA,NA,NA,0.015214985
+"ITPKA","Stem-cell-iPSC","ASD","Wald ratio",1," 0.048","0.041","1.049","2.38e-01",NA,NA,NA,0.003619762
+"MIR3660","Stem-cell-iPSC","ASD","Wald ratio",1," 0.029","0.025","1.029","2.40e-01",NA,NA,NA,0.000302089
+"FRMD4A","Stem-cell-iPSC","ASD","Simple mode",3,"-0.140","0.084","0.870","2.40e-01",0.077140101,0.059624547,0.534437335,0.000251123
+"RPL26P3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.024","0.021","1.024","2.41e-01",NA,NA,NA,1.88e-05
+"PRKCA","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.024","0.020","0.976","2.41e-01",NA,NA,NA,0.000662453
+"SLCO1B1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.078","0.067","1.082","2.41e-01",NA,NA,NA,0.013828211
+"ZDHHC20-IT1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.021","0.018","1.021","2.42e-01",NA,NA,NA,8.02e-05
+"FAM135B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.029","0.025","1.029","2.43e-01",NA,NA,NA,1.81e-05
+"RN7SL97P","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.025","0.021","0.976","2.43e-01",NA,NA,NA,0.000477623
+"LEP","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.040","0.035","0.960","2.45e-01",NA,NA,NA,9.5e-05
+"RNU1-46P","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.080","0.069","0.923","2.45e-01",NA,NA,NA,0.002641171
+"CEP78","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.055","0.047","0.947","2.45e-01",NA,NA,NA,0.009440351
+"RNF214","Stem-cell-iPSC","ASD","Wald ratio",1," 0.043","0.037","1.044","2.45e-01",NA,NA,NA,1.18e-05
+"UNC5CL","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.080","0.069","0.923","2.46e-01",NA,NA,NA,4.11e-05
+"ALB","Stem-cell-iPSC","ASD","Wald ratio",1," 0.051","0.044","1.053","2.47e-01",NA,NA,NA,0.002278365
+"GAPDHP16","Stem-cell-iPSC","ASD","Wald ratio",1," 0.027","0.024","1.028","2.48e-01",NA,NA,NA,7.33e-06
+"RN7SL193P","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.045","0.039","0.956","2.50e-01",NA,NA,NA,6.96e-06
+"LINC01163","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.024","0.021","0.977","2.50e-01",NA,NA,NA,1.49e-05
+"ARL15","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.024","0.021","0.976","2.50e-01",NA,NA,NA,0.014111415
+"L3MBTL4","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.119","0.104","0.888","2.50e-01",NA,NA,NA,0.001260624
+"TSPAN8","Stem-cell-iPSC","ASD","Wald ratio",1," 0.041","0.036","1.042","2.50e-01",NA,NA,NA,7.48e-05
+"NR2C2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.028","0.025","0.972","2.51e-01",NA,NA,NA,4.7e-06
+"RNF144A","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.051","0.045","0.950","2.51e-01",NA,NA,NA,0.000483618
+"OSBPL10","Stem-cell-iPSC","ASD","Weighted median",3," 0.023","0.020","1.023","2.51e-01",0.918162257,0.49311692,0.446312233,3.3e-05
+"FARP1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.048","0.042","0.953","2.55e-01",NA,NA,NA,8.29e-05
+"OR13A1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.084","0.074","1.088","2.55e-01",NA,NA,NA,0.017450637
+"FECHP1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.027","0.024","1.028","2.57e-01",NA,NA,NA,1.45e-05
+"LINC01354","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.041","0.036","0.960","2.57e-01",NA,NA,NA,1.33e-05
+"MATN2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.070","0.062","0.933","2.58e-01",NA,NA,NA,0.012574597
+"PHACTR2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.024","0.022","1.025","2.59e-01",NA,NA,NA,3.6e-06
+"ADGRF1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.030","0.026","1.030","2.60e-01",NA,NA,NA,3.08e-05
+"NPSR1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.028","0.025","0.973","2.61e-01",NA,NA,NA,0.000269219
+"GRIN2B","Stem-cell-iPSC","ASD","Simple mode",3,"-0.087","0.056","0.917","2.62e-01",0.043595934,0.075354692,0.694983377,1.74e-05
+"CTNNA3","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.029","0.025","1.029","2.62e-01",NA,0.185181553,NA,0.000180739
+"ZC3H12D","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.059","0.052","0.943","2.62e-01",NA,NA,NA,0.009398949
+"ISG20","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.029","0.025","0.972","2.63e-01",NA,NA,NA,0.00085382
+"POM121L13P","Stem-cell-iPSC","ASD","Wald ratio",1," 0.022","0.020","1.023","2.63e-01",NA,NA,NA,2.44e-05
+"SPOCK1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.058","0.052","1.060","2.63e-01",NA,NA,NA,0.001956658
+"LINC01600","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.025","0.022","0.975","2.64e-01",NA,NA,NA,0.013969308
+"FAM155A","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.021","0.019","0.979","2.64e-01",NA,NA,NA,0.000224212
+"RGS7BP","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.026","0.024","0.974","2.65e-01",NA,NA,NA,1.28e-05
+"PRPF4B","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.025","0.022","0.976","2.65e-01",NA,NA,NA,5.74e-05
+"FRMD4A","Stem-cell-iPSC","ASD","Inverse variance weighted",3,"-0.055","0.050","0.946","2.66e-01",0.077140101,0.059624547,0.534437335,0.000251123
+"SDR16C5","Stem-cell-iPSC","ASD","Wald ratio",1," 0.046","0.042","1.047","2.67e-01",NA,NA,NA,3.3e-05
+"RBFOX1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.026","0.024","0.974","2.68e-01",NA,NA,NA,1.25e-05
+"CASC15","Stem-cell-iPSC","ASD","Wald ratio",1," 0.024","0.022","1.024","2.68e-01",NA,NA,NA,5.7e-05
+"SCHIP1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.023","0.021","1.023","2.68e-01",NA,NA,NA,0.000168703
+"PRIMA1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.046","0.042","1.047","2.69e-01",NA,NA,NA,5e-05
+"OR2T1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.027","0.024","0.974","2.69e-01",NA,NA,NA,1.26e-05
+"LINC00384","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.058","0.052","0.944","2.72e-01",NA,NA,NA,0.013619778
+"CPS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.020","0.019","0.980","2.72e-01",NA,NA,NA,0.00222872
+"CDH10","Stem-cell-iPSC","ASD","Wald ratio",1," 0.028","0.025","1.028","2.72e-01",NA,NA,NA,8.63e-06
+"MYH15","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.082","0.075","0.921","2.73e-01",NA,NA,NA,0.013933911
+"ADGRL2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.055","0.050","0.946","2.73e-01",NA,NA,NA,0.012995419
+"FMNL2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.057","0.052","1.058","2.74e-01",NA,NA,NA,0.000342834
+"DPY19L2P2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.108","0.099","1.114","2.76e-01",NA,NA,NA,0.013214016
+"CST1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.088","0.081","1.092","2.76e-01",NA,NA,NA,0.014459008
+"SYTL3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.053","0.049","1.054","2.77e-01",NA,NA,NA,0.002654198
+"GRIP1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.024","0.022","0.976","2.77e-01",NA,NA,NA,5.53e-05
+"SEPHS1P7","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.025","0.023","0.975","2.77e-01",NA,NA,NA,4.43e-05
+"KCNMA1","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.026","0.024","0.974","2.78e-01",NA,0.574312076,NA,5.12e-05
+"IRF7","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.055","0.051","0.946","2.78e-01",NA,NA,NA,0.000103898
+"RPL19P11","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.044","0.040","0.957","2.79e-01",NA,NA,NA,0.000122319
+"ALCAM","Stem-cell-iPSC","ASD","Wald ratio",1," 0.057","0.053","1.059","2.79e-01",NA,NA,NA,0.011025161
+"CSNK1A1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.030","0.028","0.970","2.81e-01",NA,NA,NA,2.91e-05
+"TCN2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.051","0.048","0.950","2.81e-01",NA,NA,NA,0.000121754
+"CDH13","Stem-cell-iPSC","ASD","Simple mode",3," 0.031","0.022","1.032","2.82e-01",0.234279997,0.47846277,0.871049852,0.000849752
+"ARC","Stem-cell-iPSC","ASD","Wald ratio",1," 0.065","0.060","1.067","2.83e-01",NA,NA,NA,0.000257755
+"OSBPL8","Stem-cell-iPSC","ASD","Wald ratio",1," 0.024","0.022","1.024","2.84e-01",NA,NA,NA,6.38e-06
+"RPS17P2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.059","0.055","0.942","2.86e-01",NA,NA,NA,0.012748961
+"LYPD6B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.052","0.049","1.053","2.86e-01",NA,NA,NA,0.000833935
+"BACE2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.043","0.041","1.044","2.86e-01",NA,NA,NA,0.002062437
+"GRIN2B","Stem-cell-iPSC","ASD","Weighted median",3,"-0.043","0.040","0.958","2.87e-01",0.043595934,0.075354692,0.694983377,1.74e-05
+"MIR873","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.025","0.023","0.975","2.89e-01",NA,NA,NA,0.014306322
+"DIO2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.026","0.025","0.974","2.90e-01",NA,NA,NA,2.14e-05
+"RPL23AP68","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.105","0.099","0.900","2.90e-01",NA,NA,NA,0.01898979
+"DISP1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.025","0.023","0.976","2.91e-01",NA,NA,NA,0.004192095
+"PDZD2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.021","0.020","1.021","2.91e-01",NA,NA,NA,0.000673381
+"PLB1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.048","0.045","0.953","2.91e-01",NA,NA,NA,0.003893787
+"CDH18","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.020","0.019","0.980","2.92e-01",NA,0.586539094,NA,2.78e-06
+"ERICH1-AS1","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.041","0.039","0.960","2.92e-01",NA,0.811239999,NA,2.64e-05
+"RABL3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.027","0.026","1.028","2.92e-01",NA,NA,NA,5.23e-06
+"EFNA5","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.027","0.026","0.973","2.93e-01",NA,NA,NA,0.001779971
+"HIST1H2APS6","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.052","0.049","0.950","2.93e-01",NA,NA,NA,0.001017747
+"PLEKHG7","Stem-cell-iPSC","ASD","Wald ratio",1," 0.036","0.034","1.037","2.93e-01",NA,NA,NA,9.02e-05
+"MIR548XHG","Stem-cell-iPSC","ASD","Wald ratio",1," 0.019","0.018","1.020","2.93e-01",NA,NA,NA,0.000420425
+"CLIC5","Stem-cell-iPSC","ASD","Wald ratio",1," 0.018","0.018","1.019","2.94e-01",NA,NA,NA,0.007556406
+"CNTNAP2","Stem-cell-iPSC","ASD","Inverse variance weighted",5," 0.010","0.010","1.010","2.94e-01",0.423192454,0.57656301,0.78706089,2.57e-05
+"MAD1L1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.049","0.046","1.050","2.94e-01",NA,NA,NA,0.012140105
+"MIR3924","Stem-cell-iPSC","ASD","Wald ratio",1," 0.025","0.024","1.025","2.94e-01",NA,NA,NA,6.59e-06
+"CRIPT","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.049","0.047","0.953","2.96e-01",NA,NA,NA,6.83e-05
+"MECOM","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.024","0.023","0.977","2.98e-01",NA,NA,NA,8.2e-06
+"FEZ2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.022","0.021","0.978","2.98e-01",NA,NA,NA,0.001789889
+"MAGI2","Stem-cell-iPSC","ASD","MR Egger",4,"-0.062","0.045","0.939","2.98e-01",0.544053362,0.505110826,0.400602051,0.00175041
+"EDIL3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.065","0.063","1.068","2.98e-01",NA,NA,NA,5.12e-05
+"PNMAL1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.041","0.040","0.960","2.99e-01",NA,NA,NA,0.012959716
+"IYD","Stem-cell-iPSC","ASD","Wald ratio",1," 0.057","0.055","1.059","3.00e-01",NA,NA,NA,0.000142497
+"NAALADL2-AS2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.028","0.027","0.973","3.00e-01",NA,NA,NA,1.02e-05
+"CYYR1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.044","0.043","0.957","3.01e-01",NA,NA,NA,0.010612546
+"HECW2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.067","0.065","0.935","3.01e-01",NA,NA,NA,3.92e-05
+"AKAP6","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.018","0.018","0.982","3.01e-01",NA,NA,NA,3.12e-05
+"FOXP1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.049","0.047","1.050","3.01e-01",NA,NA,NA,0.000374367
+"RPS4XP7","Stem-cell-iPSC","ASD","Wald ratio",1," 0.021","0.020","1.021","3.02e-01",NA,NA,NA,5.02e-05
+"DERA","Stem-cell-iPSC","ASD","Wald ratio",1," 0.055","0.053","1.056","3.03e-01",NA,NA,NA,0.000633771
+"THEM7P","Stem-cell-iPSC","ASD","Wald ratio",1," 0.032","0.031","1.032","3.03e-01",NA,NA,NA,5.36e-06
+"RPL5P6","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.061","0.059","0.941","3.03e-01",NA,NA,NA,0.000191683
+"IDI2-AS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.041","0.040","0.960","3.04e-01",NA,NA,NA,0.002934719
+"GRIN2B","Stem-cell-iPSC","ASD","Inverse variance weighted",3,"-0.043","0.042","0.958","3.04e-01",0.043595934,0.075354692,0.694983377,1.74e-05
+"BUD13","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.018","0.017","0.982","3.04e-01",NA,NA,NA,0.00195484
+"MALRD1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.050","0.048","0.951","3.04e-01",NA,NA,NA,0.007095498
+"PKD1L2","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.025","0.024","1.025","3.05e-01",NA,0.502891482,NA,9.69e-05
+"ADGRB3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.062","0.061","1.064","3.05e-01",NA,NA,NA,0.00013828
+"LANCL2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.040","0.040","1.041","3.07e-01",NA,NA,NA,8.92e-05
+"NXPH1","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.029","0.028","1.029","3.07e-01",NA,0.925966436,NA,1.65e-05
+"RALGAPA1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.079","0.077","0.924","3.07e-01",NA,NA,NA,0.011674658
+"FREM2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.099","0.097","1.104","3.08e-01",NA,NA,NA,0.012358844
+"EPHA5","Stem-cell-iPSC","ASD","Wald ratio",1," 0.040","0.039","1.040","3.09e-01",NA,NA,NA,3.84e-05
+"PABPC4L","Stem-cell-iPSC","ASD","Wald ratio",1," 0.045","0.044","1.046","3.09e-01",NA,NA,NA,1.48e-05
+"EXOC2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.046","0.045","1.047","3.09e-01",NA,NA,NA,0.000279497
+"MAGI2","Stem-cell-iPSC","ASD","Weighted median",4,"-0.018","0.018","0.982","3.09e-01",0.544053362,0.505110826,0.400602051,0.00175041
+"NELL1","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.019","0.018","0.981","3.09e-01",NA,0.594134766,NA,4.06e-06
+"ADAM12","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.016","0.016","1.016","3.10e-01",NA,0.898308709,NA,1.74e-05
+"RALGAPA2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.039","0.038","1.039","3.10e-01",NA,NA,NA,8.55e-05
+"S100A10","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.041","0.041","0.960","3.11e-01",NA,NA,NA,2.58e-05
+"RNU4-43P","Stem-cell-iPSC","ASD","Wald ratio",1," 0.021","0.021","1.021","3.11e-01",NA,NA,NA,0.006515597
+"ROBO2","Stem-cell-iPSC","ASD","Weighted mode",3," 0.024","0.018","1.024","3.11e-01",0.377402024,0.574933192,0.668945819,2e-05
+"AOAH","Stem-cell-iPSC","ASD","Wald ratio",1," 0.018","0.018","1.018","3.11e-01",NA,NA,NA,0.001977149
+"TCAF1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.039","0.038","0.962","3.11e-01",NA,NA,NA,0.000265722
+"FBLN5","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.027","0.027","0.973","3.11e-01",NA,NA,NA,0.000113671
+"CDH11","Stem-cell-iPSC","ASD","Wald ratio",1," 0.065","0.065","1.068","3.13e-01",NA,NA,NA,3.46e-05
+"TCP11L1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.019","0.019","1.019","3.14e-01",NA,NA,NA,0.000348333
+"SAP30BP","Stem-cell-iPSC","ASD","Wald ratio",1," 0.025","0.025","1.025","3.14e-01",NA,NA,NA,1.05e-05
+"PYROXD2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.026","0.026","1.027","3.14e-01",NA,NA,NA,4.9e-05
+"TNIK","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.020","0.020","1.020","3.15e-01",NA,0.315956008,NA,4.84e-05
+"PACRG","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.025","0.025","1.025","3.15e-01",NA,0.707476783,NA,0.000483504
+"H3F3C","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.103","0.103","0.902","3.16e-01",NA,NA,NA,0.000135629
+"DDC","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.020","0.020","0.980","3.17e-01",NA,NA,NA,0.000716814
+"CYP4X1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.058","0.058","0.944","3.17e-01",NA,NA,NA,0.001451651
+"GNPDA2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.050","0.050","1.051","3.17e-01",NA,NA,NA,0.010941866
+"CNST","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.021","0.021","0.979","3.17e-01",NA,NA,NA,8.66e-06
+"KPNA1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.046","0.046","1.047","3.17e-01",NA,NA,NA,0.000131864
+"KBTBD8","Stem-cell-iPSC","ASD","Wald ratio",1," 0.037","0.037","1.038","3.19e-01",NA,NA,NA,1.5e-05
+"PSMF1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.025","0.025","1.025","3.20e-01",NA,NA,NA,0.001260401
+"ELMO1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.037","0.037","1.038","3.21e-01",NA,NA,NA,0.000134529
+"EEF1GP6","Stem-cell-iPSC","ASD","Wald ratio",1," 0.037","0.037","1.038","3.21e-01",NA,NA,NA,1.32e-05
+"NREP-AS1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.052","0.052","1.053","3.21e-01",NA,NA,NA,0.00572327
+"DPY19L4","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.070","0.071","0.932","3.21e-01",NA,NA,NA,0.0003182
+"SH3RF1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.058","0.059","0.944","3.21e-01",NA,NA,NA,0.000145806
+"AHCYP4","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.028","0.028","0.973","3.21e-01",NA,0.357566786,NA,0.000108139
+"TNNI3K","Stem-cell-iPSC","ASD","Wald ratio",1," 0.041","0.041","1.042","3.22e-01",NA,NA,NA,8.93e-06
+"OR1I1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.050","0.050","0.952","3.23e-01",NA,NA,NA,3.23e-05
+"VLDLR-AS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.072","0.073","0.931","3.23e-01",NA,NA,NA,0.012570485
+"DLG2","Stem-cell-iPSC","ASD","Weighted mode",4,"-0.023","0.019","0.977","3.23e-01",0.171396973,0.178932137,0.470151142,0.004027724
+"DLG2","Stem-cell-iPSC","ASD","Weighted median",4,"-0.033","0.033","0.968","3.24e-01",0.171396973,0.178932137,0.470151142,0.004027724
+"LINC00222","Stem-cell-iPSC","ASD","Wald ratio",1," 0.042","0.043","1.043","3.24e-01",NA,NA,NA,0.000408736
+"GRIN2B","Stem-cell-iPSC","ASD","Weighted mode",3,"-0.061","0.048","0.940","3.26e-01",0.043595934,0.075354692,0.694983377,1.74e-05
+"MANEA-AS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.026","0.027","0.974","3.26e-01",NA,NA,NA,2.69e-05
+"FGF14","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.032","0.033","0.968","3.27e-01",NA,NA,NA,1.13e-05
+"CSMD1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.048","0.049","0.953","3.28e-01",NA,NA,NA,1.64e-05
+"RNU6-755P","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.042","0.043","0.959","3.29e-01",NA,NA,NA,0.000164138
+"RNU6-812P","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.072","0.074","0.931","3.30e-01",NA,NA,NA,0.006067383
+"CD14","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.019","0.019","0.981","3.30e-01",NA,NA,NA,3.51e-05
+"CCNY","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.023","0.024","0.977","3.30e-01",NA,NA,NA,1.39e-05
+"LMCD1-AS1","Stem-cell-iPSC","ASD","MR Egger",3,"-0.097","0.055","0.908","3.30e-01",0.508766452,0.131557724,0.308064893,0.030010245
+"KIAA1217","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.019","0.019","0.982","3.30e-01",NA,0.752753273,NA,5.95e-05
+"ADGRA3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.086","0.088","1.090","3.31e-01",NA,NA,NA,0.006747658
+"ELAVL1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.020","0.021","1.021","3.31e-01",NA,NA,NA,2.97e-06
+"MYOD1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.024","0.025","0.976","3.33e-01",NA,NA,NA,1.29e-05
+"LINC01331","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.021","0.021","0.980","3.33e-01",NA,NA,NA,0.000181489
+"CAST","Stem-cell-iPSC","ASD","Wald ratio",1," 0.070","0.072","1.072","3.34e-01",NA,NA,NA,0.000192411
+"TENM4","Stem-cell-iPSC","ASD","Weighted mode",3," 0.026","0.021","1.026","3.34e-01",0.771819049,0.712165321,0.581773185,0.000142433
+"RPL5P28","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.059","0.061","0.943","3.34e-01",NA,NA,NA,0.013499132
+"KCNQ3","Stem-cell-iPSC","ASD","MR Egger",3," 0.121","0.070","1.129","3.35e-01",0.220046933,0.053003951,0.337741754,7.94e-06
+"PGR","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.028","0.029","0.973","3.35e-01",NA,NA,NA,3.77e-05
+"JAZF1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.031","0.032","0.970","3.35e-01",NA,NA,NA,1.09e-05
+"ZFAT","Stem-cell-iPSC","ASD","Wald ratio",1," 0.038","0.039","1.038","3.35e-01",NA,NA,NA,0.00012191
+"XXYLT1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.057","0.059","1.059","3.35e-01",NA,NA,NA,0.006924768
+"SLC8A1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.037","0.038","0.964","3.35e-01",NA,NA,NA,2.74e-05
+"TENM4","Stem-cell-iPSC","ASD","Simple mode",3," 0.026","0.020","1.026","3.36e-01",0.771819049,0.712165321,0.581773185,0.000142433
+"SLC27A2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.023","0.024","0.977","3.36e-01",NA,NA,NA,4.5e-06
+"RNU7-183P","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.017","0.018","0.983","3.39e-01",NA,NA,NA,9.22e-06
+"CCDC38","Stem-cell-iPSC","ASD","Wald ratio",1," 0.027","0.028","1.027","3.39e-01",NA,NA,NA,0.000378659
+"PEX5L","Stem-cell-iPSC","ASD","Wald ratio",1," 0.076","0.079","1.079","3.40e-01",NA,NA,NA,0.000718379
+"ZNF286B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.040","0.041","1.040","3.40e-01",NA,NA,NA,0.009997746
+"RPL17P45","Stem-cell-iPSC","ASD","Wald ratio",1," 0.023","0.024","1.023","3.41e-01",NA,NA,NA,5.08e-05
+"RN7SKP122","Stem-cell-iPSC","ASD","Wald ratio",1," 0.018","0.019","1.018","3.42e-01",NA,NA,NA,0.008253692
+"TRIM35","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.022","0.023","0.978","3.42e-01",NA,NA,NA,1.16e-05
+"KCNIP1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.031","0.033","0.969","3.44e-01",NA,NA,NA,2.78e-05
+"ZHX3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.033","0.035","0.968","3.46e-01",NA,NA,NA,7.38e-06
+"SNX13","Stem-cell-iPSC","ASD","Wald ratio",1," 0.020","0.021","1.020","3.46e-01",NA,NA,NA,6.36e-05
+"MAGI3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.022","0.023","1.022","3.47e-01",NA,NA,NA,3.82e-05
+"LOR","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.026","0.027","0.975","3.47e-01",NA,NA,NA,1.1e-05
+"SEMA5A","Stem-cell-iPSC","ASD","Wald ratio",1," 0.036","0.038","1.036","3.48e-01",NA,NA,NA,9.84e-06
+"SMARCD2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.044","0.047","0.957","3.48e-01",NA,NA,NA,0.009673636
+"MIR5093","Stem-cell-iPSC","ASD","Wald ratio",1," 0.023","0.025","1.023","3.48e-01",NA,NA,NA,3.85e-06
+"QRSL1P1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.020","0.021","0.981","3.48e-01",NA,NA,NA,6.18e-06
+"RNA5SP461","Stem-cell-iPSC","ASD","Wald ratio",1," 0.021","0.023","1.021","3.50e-01",NA,NA,NA,1.04e-05
+"XRCC5","Stem-cell-iPSC","ASD","Wald ratio",1," 0.021","0.022","1.021","3.50e-01",NA,NA,NA,4.08e-06
+"FER1L6-AS2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.057","0.061","1.059","3.50e-01",NA,NA,NA,4.02e-05
+"SPOCK3","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.037","0.039","0.964","3.50e-01",NA,0.945925846,NA,8.09e-06
+"RIOK3P1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.025","0.027","0.975","3.52e-01",NA,NA,NA,2.87e-06
+"RNU6-699P","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.038","0.041","0.962","3.53e-01",NA,NA,NA,0.000181597
+"HMCN1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.020","0.022","0.980","3.54e-01",NA,NA,NA,1.61e-05
+"MAGI2","Stem-cell-iPSC","ASD","Simple mode",4,"-0.025","0.023","0.975","3.56e-01",0.544053362,0.505110826,0.400602051,0.00175041
+"PIK3CG","Stem-cell-iPSC","ASD","Wald ratio",1," 0.033","0.036","1.034","3.57e-01",NA,NA,NA,1.56e-05
+"NEBL","Stem-cell-iPSC","ASD","Wald ratio",1," 0.065","0.070","1.067","3.58e-01",NA,NA,NA,1.52e-05
+"ZXDC","Stem-cell-iPSC","ASD","Wald ratio",1," 0.035","0.038","1.035","3.58e-01",NA,NA,NA,1.56e-05
+"IMMP2L","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.026","0.028","0.974","3.58e-01",NA,0.101048666,NA,4.44e-05
+"CACNA2D1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.021","0.023","1.021","3.58e-01",NA,NA,NA,0.000105667
+"KIAA1161","Stem-cell-iPSC","ASD","Wald ratio",1," 0.040","0.043","1.041","3.59e-01",NA,NA,NA,4.85e-06
+"RUFY1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.035","0.038","1.036","3.60e-01",NA,NA,NA,0.000964515
+"DTWD1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.026","0.029","1.026","3.62e-01",NA,NA,NA,3.6e-06
+"MKL1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.043","0.047","1.044","3.62e-01",NA,NA,NA,0.000312774
+"MTA3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.040","0.044","0.961","3.64e-01",NA,NA,NA,0.000246346
+"LINC00399","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.022","0.024","0.978","3.64e-01",NA,NA,NA,1.08e-05
+"B3GNTL1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.064","0.071","0.938","3.65e-01",NA,NA,NA,0.010066871
+"MTND4LP25","Stem-cell-iPSC","ASD","Wald ratio",1," 0.020","0.022","1.020","3.66e-01",NA,NA,NA,3.56e-06
+"SLC5A8","Stem-cell-iPSC","ASD","Wald ratio",1," 0.019","0.021","1.019","3.66e-01",NA,NA,NA,3.74e-05
+"RNF219-AS1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.031","0.035","1.032","3.66e-01",NA,NA,NA,1.56e-05
+"ROBO2","Stem-cell-iPSC","ASD","Simple mode",3," 0.027","0.024","1.028","3.67e-01",0.377402024,0.574933192,0.668945819,2e-05
+"OSBPL10","Stem-cell-iPSC","ASD","MR Egger",3," 0.090","0.059","1.095","3.67e-01",0.918162257,0.49311692,0.446312233,3.3e-05
+"RBMS3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.053","0.059","0.948","3.68e-01",NA,NA,NA,4.04e-05
+"LINC01122","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.038","0.042","0.962","3.68e-01",NA,NA,NA,2.72e-05
+"LRP2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.020","0.022","0.980","3.68e-01",NA,NA,NA,1.17e-05
+"CSMD3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.015","0.017","0.985","3.68e-01",NA,NA,NA,0.000594212
+"EXOC5P1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.022","0.025","0.978","3.69e-01",NA,NA,NA,0.000202279
+"GPM6A","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.047","0.053","0.954","3.69e-01",NA,NA,NA,0.002533906
+"CCSER1","Stem-cell-iPSC","ASD","Simple mode",3,"-0.041","0.036","0.960","3.70e-01",0.02416773,0.021932223,0.607245037,0.000265622
+"MRPL57P1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.163","0.182","0.850","3.70e-01",NA,NA,NA,0.018235524
+"LOXL4","Stem-cell-iPSC","ASD","Wald ratio",1," 0.022","0.025","1.023","3.71e-01",NA,NA,NA,0.000152314
+"SH3RF3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.037","0.041","1.037","3.72e-01",NA,NA,NA,0.006619076
+"SLC12A8","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.018","0.021","0.982","3.73e-01",NA,NA,NA,1.41e-05
+"LRRC27","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.034","0.038","0.966","3.73e-01",NA,NA,NA,0.001402479
+"PHF14","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.037","0.041","0.964","3.74e-01",NA,NA,NA,3.02e-05
+"DCUN1D3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.022","0.024","1.022","3.75e-01",NA,NA,NA,4.48e-06
+"RSPO3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.037","0.042","0.963","3.76e-01",NA,NA,NA,7.18e-05
+"LINC00606","Stem-cell-iPSC","ASD","Wald ratio",1," 0.036","0.041","1.037","3.77e-01",NA,NA,NA,0.0105431
+"DYX1C1-CCPG1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.022","0.024","1.022","3.77e-01",NA,NA,NA,4.89e-06
+"ROR2","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.016","0.019","0.984","3.79e-01",NA,0.881013332,NA,0.000326466
+"OPN3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.017","0.019","1.017","3.80e-01",NA,NA,NA,0.000335192
+"PHBP14","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.035","0.040","0.966","3.80e-01",NA,NA,NA,0.000244381
+"RAB31","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.050","0.057","0.951","3.81e-01",NA,0.091956662,NA,0.001163449
+"CATSPERB","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.042","0.048","0.959","3.82e-01",NA,NA,NA,4.24e-05
+"GPC5","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.025","0.029","0.975","3.83e-01",NA,0.069740061,NA,4.57e-06
+"PRRC2C","Stem-cell-iPSC","ASD","Wald ratio",1," 0.016","0.019","1.016","3.83e-01",NA,NA,NA,0.002295276
+"FSTL5","Stem-cell-iPSC","ASD","Wald ratio",1," 0.022","0.025","1.022","3.84e-01",NA,NA,NA,0.000154414
+"PRELID2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.086","0.098","0.918","3.84e-01",NA,NA,NA,0.000126234
+"LAMC2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.021","0.024","0.979","3.86e-01",NA,NA,NA,0.009207764
+"RAMP1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.042","0.048","0.959","3.88e-01",NA,NA,NA,5.49e-05
+"PRKRIR","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.051","0.060","0.950","3.88e-01",NA,NA,NA,3.47e-05
+"TTLL11","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.035","0.041","0.966","3.88e-01",NA,NA,NA,6.72e-06
+"PPFIBP1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.053","0.062","1.055","3.89e-01",NA,NA,NA,0.012362876
+"SULF2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.043","0.050","1.044","3.89e-01",NA,NA,NA,9.05e-05
+"ISM1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.032","0.037","1.033","3.89e-01",NA,NA,NA,0.000692128
+"HS6ST1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.052","0.061","1.053","3.90e-01",NA,NA,NA,5.57e-05
+"LPCAT1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.049","0.058","1.050","3.93e-01",NA,NA,NA,0.00405206
+"LINC01499","Stem-cell-iPSC","ASD","Wald ratio",1," 0.072","0.085","1.075","3.94e-01",NA,NA,NA,0.00034658
+"LRRC15","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.104","0.122","0.901","3.94e-01",NA,NA,NA,0.000418945
+"PRSS2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.017","0.020","0.983","3.94e-01",NA,NA,NA,9.48e-06
+"PELI2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.031","0.036","1.031","3.96e-01",NA,NA,NA,3.97e-06
+"UBE2WP1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.033","0.039","1.034","3.96e-01",NA,NA,NA,0.000368864
+"MAGI2","Stem-cell-iPSC","ASD","Weighted mode",4,"-0.019","0.020","0.981","3.96e-01",0.544053362,0.505110826,0.400602051,0.00175041
+"C1QTNF9B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.031","0.036","1.031","3.97e-01",NA,NA,NA,0.00017674
+"SDCBP","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.016","0.019","0.984","3.98e-01",NA,NA,NA,9.21e-05
+"KLRF2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.039","0.046","0.962","3.98e-01",NA,NA,NA,0.000203047
+"SLC9A9","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.041","0.048","0.960","3.98e-01",NA,NA,NA,3.44e-05
+"ESRRG","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.012","0.014","0.988","3.99e-01",NA,0.545225214,NA,0.002688031
+"ARID1B","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.021","0.024","1.021","3.99e-01",NA,0.436589797,NA,0.003084979
+"UGT2B7","Stem-cell-iPSC","ASD","Wald ratio",1," 0.016","0.019","1.016","4.00e-01",NA,NA,NA,0.000313981
+"C1orf216","Stem-cell-iPSC","ASD","Wald ratio",1," 0.060","0.071","1.061","4.01e-01",NA,NA,NA,2.85e-05
+"NEPNP","Stem-cell-iPSC","ASD","Wald ratio",1," 0.052","0.062","1.053","4.01e-01",NA,NA,NA,0.000316097
+"GGTA2P","Stem-cell-iPSC","ASD","Wald ratio",1," 0.062","0.074","1.064","4.01e-01",NA,NA,NA,0.008310761
+"PIK3AP1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.031","0.038","0.969","4.04e-01",NA,NA,NA,0.000943117
+"ENPP7P9","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.029","0.035","0.971","4.05e-01",NA,NA,NA,4.75e-05
+"FAM189A1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.023","0.028","1.023","4.05e-01",NA,NA,NA,5.16e-06
+"EIF1AD","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.028","0.033","0.973","4.05e-01",NA,NA,NA,0.00042346
+"GRAMD4","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.074","0.089","0.929","4.05e-01",NA,NA,NA,5.49e-05
+"KRT19","Stem-cell-iPSC","ASD","Wald ratio",1," 0.017","0.020","1.017","4.05e-01",NA,NA,NA,0.009962728
+"GPATCH2L","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.077","0.093","0.925","4.06e-01",NA,NA,NA,0.013552431
+"LRRC2-AS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.018","0.021","0.983","4.06e-01",NA,NA,NA,0.000123531
+"LINC00251","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.039","0.047","0.961","4.07e-01",NA,NA,NA,9.34e-06
+"PRKG1","Stem-cell-iPSC","ASD","Weighted median",3,"-0.025","0.030","0.975","4.07e-01",0.029706367,0.042524726,0.665469078,2.13e-05
+"KIAA1211","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.028","0.034","0.972","4.08e-01",NA,NA,NA,2.42e-05
+"PRICKLE2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.022","0.026","0.979","4.08e-01",NA,NA,NA,7.43e-05
+"NLRP14","Stem-cell-iPSC","ASD","Wald ratio",1," 0.099","0.120","1.104","4.08e-01",NA,NA,NA,3.58e-05
+"LINC00941","Stem-cell-iPSC","ASD","Wald ratio",1," 0.022","0.026","1.022","4.09e-01",NA,NA,NA,5.88e-05
+"RN7SKP207","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.038","0.046","0.962","4.09e-01",NA,NA,NA,0.000436391
+"TMC1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.019","0.023","1.019","4.09e-01",NA,NA,NA,0.000281235
+"FHIT","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.021","0.026","1.021","4.11e-01",NA,0.222577656,NA,8.54e-05
+"ATP6V1G1P7","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.031","0.038","0.969","4.13e-01",NA,NA,NA,4.2e-05
+"TFEC","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.039","0.048","0.961","4.13e-01",NA,NA,NA,1.61e-05
+"NRG3","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.016","0.019","0.985","4.13e-01",NA,0.310984142,NA,1.91e-05
+"FSTL4","Stem-cell-iPSC","ASD","Wald ratio",1," 0.016","0.020","1.016","4.14e-01",NA,NA,NA,0.003443545
+"KTN1-AS1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.045","0.055","1.046","4.14e-01",NA,NA,NA,0.001995555
+"NAAA","Stem-cell-iPSC","ASD","Wald ratio",1," 0.021","0.026","1.021","4.15e-01",NA,NA,NA,6.44e-06
+"GRM7","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.042","0.051","1.042","4.16e-01",NA,0.024262057,NA,0.036941172
+"LINC01272","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.017","0.021","0.983","4.17e-01",NA,NA,NA,9.73e-05
+"LINC01588","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.040","0.049","0.961","4.17e-01",NA,NA,NA,0.000436779
+"ROBO2","Stem-cell-iPSC","ASD","Weighted median",3," 0.024","0.030","1.024","4.17e-01",0.377402024,0.574933192,0.668945819,2e-05
+"RPL14P1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.040","0.049","0.961","4.17e-01",NA,NA,NA,0.000239953
+"ECHDC2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.020","0.025","0.980","4.17e-01",NA,NA,NA,4.76e-06
+"C6orf89","Stem-cell-iPSC","ASD","Wald ratio",1," 0.019","0.023","1.019","4.18e-01",NA,NA,NA,1.22e-05
+"TPO","Stem-cell-iPSC","ASD","Wald ratio",1," 0.015","0.018","1.015","4.18e-01",NA,NA,NA,0.001049817
+"METTL4","Stem-cell-iPSC","ASD","Wald ratio",1," 0.046","0.057","1.047","4.19e-01",NA,NA,NA,0.001383025
+"ANO3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.017","0.021","1.017","4.19e-01",NA,NA,NA,0.009318206
+"MRO","Stem-cell-iPSC","ASD","Wald ratio",1," 0.016","0.020","1.016","4.19e-01",NA,NA,NA,0.009565994
+"FTLP3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.055","0.069","1.057","4.20e-01",NA,NA,NA,1.66e-05
+"NCALD","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.052","0.064","0.950","4.20e-01",NA,NA,NA,2.74e-05
+"PRKG1","Stem-cell-iPSC","ASD","Weighted mode",3,"-0.026","0.026","0.974","4.20e-01",0.029706367,0.042524726,0.665469078,2.13e-05
+"ZBTB7C","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.024","0.029","1.024","4.21e-01",NA,0.372532726,NA,0.000430361
+"CSMD2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.021","0.026","0.979","4.22e-01",NA,NA,NA,3.43e-06
+"ARHGEF7","Stem-cell-iPSC","ASD","Wald ratio",1," 0.039","0.049","1.040","4.22e-01",NA,NA,NA,0.009422223
+"TMCC2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.018","0.022","0.982","4.22e-01",NA,NA,NA,1.07e-05
+"PRKG1","Stem-cell-iPSC","ASD","Simple mode",3,"-0.028","0.027","0.973","4.22e-01",0.029706367,0.042524726,0.665469078,2.13e-05
+"ST8SIA2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.034","0.043","0.966","4.22e-01",NA,NA,NA,0.000148212
+"EYS","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.020","0.025","0.981","4.23e-01",NA,NA,NA,7.07e-06
+"NDUFS5P5","Stem-cell-iPSC","ASD","Wald ratio",1," 0.064","0.080","1.066","4.24e-01",NA,NA,NA,0.00418474
+"TDRD3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.036","0.046","1.037","4.25e-01",NA,NA,NA,0.007213704
+"ZCCHC2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.040","0.051","1.041","4.28e-01",NA,NA,NA,0.004290767
+"CALML3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.021","0.026","1.021","4.29e-01",NA,NA,NA,2.94e-05
+"LINC01075","Stem-cell-iPSC","ASD","Wald ratio",1," 0.018","0.023","1.018","4.29e-01",NA,NA,NA,2.46e-05
+"PLCB1","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.017","0.021","1.017","4.29e-01",NA,0.721473586,NA,0.000266782
+"H6PD","Stem-cell-iPSC","ASD","Wald ratio",1," 0.063","0.080","1.065","4.29e-01",NA,NA,NA,0.002626931
+"LINC00330","Stem-cell-iPSC","ASD","Wald ratio",1," 0.017","0.021","1.017","4.31e-01",NA,NA,NA,6.54e-06
+"LINC01104","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.014","0.018","0.986","4.31e-01",NA,NA,NA,0.000295043
+"ODF1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.030","0.038","0.970","4.31e-01",NA,NA,NA,1.43e-05
+"ZNRF3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.016","0.020","0.984","4.31e-01",NA,NA,NA,6.9e-05
+"RNU1-44P","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.021","0.027","0.979","4.32e-01",NA,NA,NA,9.29e-05
+"SETD6","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.065","0.082","0.938","4.33e-01",NA,NA,NA,0.018346896
+"TRAV5","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.016","0.021","0.984","4.33e-01",NA,NA,NA,3.71e-06
+"F11-AS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.057","0.072","0.945","4.33e-01",NA,NA,NA,0.001742948
+"TSNAX-DISC1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.072","0.092","0.931","4.34e-01",NA,NA,NA,0.004888467
+"CEACAM22P","Stem-cell-iPSC","ASD","Wald ratio",1," 0.017","0.021","1.017","4.34e-01",NA,NA,NA,8.59e-06
+"PRELID3B","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.018","0.023","0.983","4.36e-01",NA,NA,NA,9.96e-05
+"EXTL3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.047","0.061","1.048","4.37e-01",NA,NA,NA,0.000997517
+"SNRPCP13","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.046","0.059","0.955","4.38e-01",NA,NA,NA,2.12e-05
+"EML1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.038","0.049","0.963","4.38e-01",NA,NA,NA,0.000182565
+"SLC24A3","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.011","0.014","0.989","4.38e-01",NA,0.417038749,NA,3e-06
+"DSC3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.018","0.024","1.019","4.40e-01",NA,NA,NA,2.56e-05
+"ATP10A","Stem-cell-iPSC","ASD","Wald ratio",1," 0.032","0.041","1.032","4.42e-01",NA,NA,NA,1.54e-05
+"KCNG4","Stem-cell-iPSC","ASD","Wald ratio",1," 0.019","0.024","1.019","4.42e-01",NA,NA,NA,2.64e-05
+"RN7SKP196","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.030","0.039","0.971","4.42e-01",NA,NA,NA,1.43e-05
+"LGR4","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.017","0.022","0.983","4.43e-01",NA,NA,NA,1.5e-05
+"ASAP1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.034","0.045","0.966","4.44e-01",NA,NA,NA,6.75e-06
+"PDE4D","Stem-cell-iPSC","ASD","Wald ratio",1," 0.016","0.021","1.017","4.44e-01",NA,NA,NA,9.62e-05
+"CRB1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.050","0.065","0.951","4.44e-01",NA,NA,NA,0.002299332
+"NDUFB5P1","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.021","0.027","1.021","4.44e-01",NA,0.513704812,NA,7.27e-05
+"ZNF266","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.018","0.024","0.982","4.45e-01",NA,NA,NA,0.001124336
+"LINC01048","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.083","0.109","0.920","4.45e-01",NA,NA,NA,0.009508379
+"CPEB1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.023","0.030","0.977","4.45e-01",NA,NA,NA,1.58e-05
+"CHST11","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.036","0.047","0.965","4.45e-01",NA,NA,NA,0.000151413
+"ANXA5","Stem-cell-iPSC","ASD","Wald ratio",1," 0.018","0.024","1.019","4.46e-01",NA,NA,NA,6.61e-06
+"RNF5P1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.044","0.058","1.045","4.46e-01",NA,NA,NA,0.000282715
+"FAM83D","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.027","0.035","0.973","4.47e-01",NA,NA,NA,1.06e-05
+"SYNE1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.019","0.025","1.019","4.48e-01",NA,NA,NA,2.83e-05
+"MIR7515HG","Stem-cell-iPSC","ASD","Wald ratio",1," 0.016","0.022","1.017","4.49e-01",NA,NA,NA,7.16e-06
+"EGFLAM","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.015","0.020","0.985","4.50e-01",NA,NA,NA,1.17e-05
+"EMCN","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.022","0.029","0.978","4.51e-01",NA,NA,NA,0.007927138
+"RASA3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.033","0.043","1.033","4.51e-01",NA,NA,NA,0.000624016
+"MTSS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.026","0.034","0.975","4.51e-01",NA,NA,NA,5.5e-06
+"GFRA1","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.029","0.039","1.030","4.52e-01",NA,0.571161951,NA,3.08e-05
+"EPB41L3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.036","0.048","1.036","4.52e-01",NA,NA,NA,0.000696309
+"LMCD1-AS1","Stem-cell-iPSC","ASD","Simple mode",3," 0.061","0.066","1.063","4.53e-01",0.508766452,0.131557724,0.308064893,0.030010245
+"RPL22P19","Stem-cell-iPSC","ASD","Wald ratio",1," 0.027","0.036","1.028","4.53e-01",NA,NA,NA,7.71e-05
+"WISP3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.031","0.042","1.032","4.54e-01",NA,NA,NA,2.15e-05
+"CACNA1E","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.061","0.081","0.941","4.55e-01",NA,NA,NA,0.000176146
+"NIFKP9","Stem-cell-iPSC","ASD","Wald ratio",1," 0.054","0.073","1.055","4.57e-01",NA,NA,NA,0.01166142
+"IQGAP2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.018","0.024","1.018","4.58e-01",NA,NA,NA,0.000199107
+"TENM4","Stem-cell-iPSC","ASD","MR Egger",3," 0.063","0.056","1.065","4.61e-01",0.771819049,0.712165321,0.581773185,0.000142433
+"GALC","Stem-cell-iPSC","ASD","Wald ratio",1," 0.014","0.019","1.014","4.62e-01",NA,NA,NA,0.009302982
+"SDK1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.033","0.045","0.967","4.62e-01",NA,NA,NA,0.000319701
+"ABHD11-AS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.033","0.045","0.967","4.62e-01",NA,NA,NA,0.000816203
+"NHLH2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.030","0.041","1.030","4.63e-01",NA,NA,NA,0.000317062
+"ALK","Stem-cell-iPSC","ASD","Wald ratio",1," 0.018","0.024","1.018","4.63e-01",NA,NA,NA,0.000120061
+"LINC00871","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.032","0.044","0.968","4.64e-01",NA,NA,NA,1.84e-05
+"NUCB2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.034","0.047","0.966","4.65e-01",NA,NA,NA,0.012105091
+"BCAR1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.037","0.051","0.964","4.66e-01",NA,NA,NA,6.37e-05
+"LAMA2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.034","0.046","1.034","4.66e-01",NA,NA,NA,3.27e-05
+"SETP7","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.023","0.032","0.977","4.67e-01",NA,NA,NA,0.000240463
+"TACC2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.014","0.019","1.014","4.67e-01",NA,NA,NA,2.69e-05
+"MIR4500HG","Stem-cell-iPSC","ASD","Wald ratio",1," 0.014","0.020","1.015","4.67e-01",NA,NA,NA,3.27e-05
+"NEK11","Stem-cell-iPSC","ASD","Wald ratio",1," 0.044","0.060","1.045","4.68e-01",NA,NA,NA,0.011112691
+"RNY1P1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.076","0.105","0.926","4.68e-01",NA,NA,NA,0.019134407
+"HTR2A","Stem-cell-iPSC","ASD","Wald ratio",1," 0.018","0.025","1.018","4.68e-01",NA,NA,NA,0.001875544
+"AKR1C2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.041","0.057","0.960","4.68e-01",NA,NA,NA,1.76e-05
+"CHRM5","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.036","0.050","0.965","4.68e-01",NA,NA,NA,4.47e-05
+"CCDC106","Stem-cell-iPSC","ASD","Wald ratio",1," 0.041","0.057","1.042","4.71e-01",NA,NA,NA,2.01e-05
+"FAM13A","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.033","0.045","0.968","4.71e-01",NA,NA,NA,0.000196952
+"GALNT10","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.018","0.025","0.982","4.71e-01",NA,NA,NA,4.15e-06
+"MPP4","Stem-cell-iPSC","ASD","Wald ratio",1," 0.016","0.022","1.016","4.71e-01",NA,NA,NA,4.45e-06
+"TRIB2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.014","0.020","1.015","4.72e-01",NA,NA,NA,1.59e-05
+"SLC24A2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.033","0.047","1.034","4.75e-01",NA,NA,NA,0.000296713
+"SENP7","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.056","0.079","0.945","4.76e-01",NA,NA,NA,0.008845477
+"SPINT4","Stem-cell-iPSC","ASD","Wald ratio",1," 0.014","0.020","1.014","4.77e-01",NA,NA,NA,1.87e-05
+"ST13P12","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.015","0.022","0.985","4.79e-01",NA,NA,NA,4.38e-06
+"LINC00492","Stem-cell-iPSC","ASD","Wald ratio",1," 0.028","0.040","1.029","4.80e-01",NA,NA,NA,3.08e-05
+"HPCAL1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.017","0.023","1.017","4.81e-01",NA,NA,NA,1.45e-05
+"MMP26","Stem-cell-iPSC","ASD","Wald ratio",1," 0.015","0.021","1.015","4.81e-01",NA,NA,NA,6.6e-05
+"TEKT3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.040","0.058","0.960","4.82e-01",NA,NA,NA,0.002374252
+"ZMAT4","Stem-cell-iPSC","ASD","Wald ratio",1," 0.033","0.047","1.034","4.82e-01",NA,NA,NA,0.000124097
+"PSAT1P3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.016","0.023","0.984","4.83e-01",NA,NA,NA,1.55e-05
+"OSTM1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.033","0.048","0.967","4.84e-01",NA,NA,NA,2.91e-05
+"LINC00968","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.018","0.026","0.982","4.84e-01",NA,NA,NA,6.02e-05
+"RPS11P1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.021","0.030","0.979","4.84e-01",NA,NA,NA,2.31e-05
+"FOXCUT","Stem-cell-iPSC","ASD","Wald ratio",1," 0.015","0.022","1.015","4.84e-01",NA,NA,NA,6.35e-06
+"GLIS3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.016","0.023","0.984","4.84e-01",NA,NA,NA,5.99e-06
+"BMP3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.022","0.031","0.979","4.85e-01",NA,NA,NA,8.51e-06
+"OTP","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.025","0.036","0.975","4.85e-01",NA,NA,NA,1.05e-05
+"BMP6","Stem-cell-iPSC","ASD","Wald ratio",1," 0.033","0.047","1.033","4.85e-01",NA,NA,NA,0.008755679
+"HERC3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.064","0.092","0.938","4.86e-01",NA,NA,NA,0.006362271
+"B4GALT5","Stem-cell-iPSC","ASD","Wald ratio",1," 0.059","0.085","1.061","4.86e-01",NA,NA,NA,0.000588375
+"VN2R3P","Stem-cell-iPSC","ASD","Wald ratio",1," 0.041","0.060","1.042","4.86e-01",NA,NA,NA,0.000159528
+"LMCD1-AS1","Stem-cell-iPSC","ASD","Weighted mode",3,"-0.023","0.028","0.977","4.86e-01",0.508766452,0.131557724,0.308064893,0.030010245
+"TSKU","Stem-cell-iPSC","ASD","Wald ratio",1," 0.021","0.030","1.021","4.86e-01",NA,NA,NA,0.006078226
+"CTNNA1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.015","0.022","0.985","4.87e-01",NA,NA,NA,4.75e-06
+"RNU6-356P","Stem-cell-iPSC","ASD","Wald ratio",1," 0.019","0.027","1.019","4.87e-01",NA,NA,NA,1.06e-05
+"SLC38A6","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.015","0.022","0.985","4.87e-01",NA,NA,NA,1.59e-05
+"DOPEY2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.016","0.023","0.984","4.89e-01",NA,NA,NA,7.65e-06
+"POLE4","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.014","0.020","0.987","4.89e-01",NA,NA,NA,0.000183446
+"PTMAP5","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.015","0.022","0.985","4.89e-01",NA,0.937277592,NA,0.000508478
+"TP63","Stem-cell-iPSC","ASD","Wald ratio",1," 0.034","0.049","1.035","4.89e-01",NA,NA,NA,0.002345431
+"GRIN2A","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.028","0.041","1.028","4.90e-01",NA,0.754224417,NA,0.000163062
+"MIR4425","Stem-cell-iPSC","ASD","Wald ratio",1," 0.018","0.027","1.019","4.90e-01",NA,NA,NA,8e-06
+"ERBB4","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.011","0.017","1.012","4.90e-01",NA,0.535964413,NA,7.21e-06
+"ROBO2","Stem-cell-iPSC","ASD","MR Egger",3," 0.044","0.042","1.045","4.91e-01",0.377402024,0.574933192,0.668945819,2e-05
+"GNAI1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.054","0.079","1.056","4.91e-01",NA,NA,NA,0.009620606
+"LNX2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.017","0.025","0.983","4.93e-01",NA,NA,NA,7.7e-06
+"MIER2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.013","0.019","1.013","4.93e-01",NA,NA,NA,6.12e-05
+"PDE3A","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.013","0.020","0.987","4.93e-01",NA,NA,NA,0.001602826
+"DPYS","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.026","0.038","0.974","4.93e-01",NA,NA,NA,1.04e-05
+"AFAP1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.016","0.023","1.016","4.93e-01",NA,NA,NA,0.010004448
+"SGCZ","Stem-cell-iPSC","ASD","Wald ratio",1," 0.017","0.025","1.017","4.94e-01",NA,NA,NA,0.00093194
+"TNS3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.035","0.052","1.036","4.94e-01",NA,NA,NA,6.57e-06
+"TBC1D22A","Stem-cell-iPSC","ASD","Wald ratio",1," 0.044","0.065","1.045","4.94e-01",NA,NA,NA,0.000493387
+"MDN1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.028","0.041","0.972","4.94e-01",NA,NA,NA,5.26e-05
+"INHBA-AS1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.041","0.060","1.042","4.94e-01",NA,NA,NA,0.000355021
+"XKR4","Stem-cell-iPSC","ASD","Wald ratio",1," 0.017","0.025","1.017","4.94e-01",NA,NA,NA,0.000539249
+"CD81-AS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.055","0.081","0.946","4.95e-01",NA,NA,NA,2.97e-05
+"FGF20","Stem-cell-iPSC","ASD","Wald ratio",1," 0.015","0.021","1.015","4.96e-01",NA,NA,NA,1.07e-05
+"RARB","Stem-cell-iPSC","ASD","Wald ratio",1," 0.012","0.018","1.012","4.97e-01",NA,NA,NA,0.008251238
+"ARPP21","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.017","0.026","0.983","4.98e-01",NA,NA,NA,6.18e-05
+"FGF9","Stem-cell-iPSC","ASD","Wald ratio",1," 0.018","0.026","1.018","4.98e-01",NA,NA,NA,0.00011082
+"LRRC16A","Stem-cell-iPSC","ASD","Wald ratio",1," 0.015","0.021","1.015","4.98e-01",NA,NA,NA,3.49e-05
+"RAI14","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.020","0.029","0.980","4.98e-01",NA,NA,NA,2.34e-05
+"RNU6-38P","Stem-cell-iPSC","ASD","Wald ratio",1," 0.024","0.035","1.024","4.99e-01",NA,NA,NA,4.55e-06
+"NMUR2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.016","0.023","1.016","4.99e-01",NA,NA,NA,0.008333397
+"MITF","Stem-cell-iPSC","ASD","Wald ratio",1," 0.015","0.022","1.015","4.99e-01",NA,NA,NA,0.000134322
+"IRF2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.017","0.025","1.017","4.99e-01",NA,NA,NA,1.05e-05
+"BST1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.018","0.026","0.983","5.00e-01",NA,NA,NA,0.000566563
+"TMEM78","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.028","0.042","0.972","5.01e-01",NA,NA,NA,6.64e-06
+"FTH1P21","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.014","0.021","0.986","5.02e-01",NA,NA,NA,0.000136945
+"FLI1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.014","0.021","1.014","5.04e-01",NA,NA,NA,0.000248282
+"RPH3AL","Stem-cell-iPSC","ASD","Wald ratio",1," 0.014","0.021","1.014","5.08e-01",NA,NA,NA,0.000731903
+"CBX5","Stem-cell-iPSC","ASD","Wald ratio",1," 0.032","0.048","1.032","5.08e-01",NA,NA,NA,0.000104325
+"CAMTA1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.024","0.037","0.976","5.11e-01",NA,NA,NA,2.03e-05
+"ADAMTS18","Stem-cell-iPSC","ASD","Wald ratio",1," 0.023","0.035","1.023","5.11e-01",NA,NA,NA,1.45e-05
+"MIR3976HG","Stem-cell-iPSC","ASD","Wald ratio",1," 0.028","0.042","1.028","5.12e-01",NA,NA,NA,6.49e-05
+"CCSER1","Stem-cell-iPSC","ASD","Weighted mode",3,"-0.019","0.024","0.981","5.12e-01",0.02416773,0.021932223,0.607245037,0.000265622
+"KCNIP4","Stem-cell-iPSC","ASD","Weighted median",3," 0.011","0.016","1.011","5.12e-01",0.583617142,0.605912179,0.556106529,0.000237962
+"KCNMA1-AS1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.024","0.037","1.025","5.12e-01",NA,NA,NA,1.9e-05
+"LVRN","Stem-cell-iPSC","ASD","Wald ratio",1," 0.020","0.031","1.020","5.13e-01",NA,NA,NA,2.14e-05
+"HHAT","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.017","0.026","0.983","5.13e-01",NA,NA,NA,0.010718926
+"RALA","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.014","0.022","0.986","5.16e-01",NA,NA,NA,1.46e-05
+"CAB39L","Stem-cell-iPSC","ASD","Wald ratio",1," 0.035","0.053","1.035","5.16e-01",NA,NA,NA,0.009181245
+"KCNIP4","Stem-cell-iPSC","ASD","MR Egger",3," 0.047","0.050","1.049","5.17e-01",0.583617142,0.605912179,0.556106529,0.000237962
+"SUCLG2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.023","0.036","0.977","5.17e-01",NA,NA,NA,3.36e-05
+"LRRC72","Stem-cell-iPSC","ASD","Wald ratio",1," 0.025","0.039","1.025","5.18e-01",NA,NA,NA,1.72e-05
+"COMMD10","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.014","0.022","0.986","5.18e-01",NA,NA,NA,0.001953765
+"JPH1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.028","0.043","0.972","5.18e-01",NA,NA,NA,0.000136678
+"DAPK1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.014","0.022","0.986","5.19e-01",NA,NA,NA,4.39e-05
+"LGI1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.037","0.058","1.038","5.20e-01",NA,NA,NA,0.002901531
+"PLXDC2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.041","0.064","0.960","5.20e-01",NA,NA,NA,5.16e-05
+"GM2A","Stem-cell-iPSC","ASD","Wald ratio",1," 0.052","0.081","1.054","5.21e-01",NA,NA,NA,0.009461114
+"ERC2","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.008","0.013","1.008","5.23e-01",NA,0.3260473,NA,5.18e-05
+"ATP5A1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.020","0.032","1.021","5.23e-01",NA,NA,NA,2.32e-05
+"RHBDD1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.012","0.019","1.012","5.23e-01",NA,NA,NA,0.000235366
+"LDLRAD4","Stem-cell-iPSC","ASD","Wald ratio",1," 0.025","0.040","1.026","5.25e-01",NA,NA,NA,7.27e-06
+"SLC30A10","Stem-cell-iPSC","ASD","Wald ratio",1," 0.012","0.019","1.012","5.26e-01",NA,NA,NA,0.00015904
+"ITGAV","Stem-cell-iPSC","ASD","Wald ratio",1," 0.016","0.025","1.016","5.27e-01",NA,NA,NA,0.009516846
+"ATP6V1B1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.014","0.022","1.014","5.27e-01",NA,NA,NA,0.000711807
+"ASIC2","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.016","0.026","0.984","5.28e-01",NA,0.126296397,NA,0.023189098
+"FHL5","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.013","0.020","0.988","5.28e-01",NA,NA,NA,1.51e-05
+"MEAF6P1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.010","0.016","1.010","5.28e-01",NA,NA,NA,0.004884585
+"TYW1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.107","0.171","1.113","5.31e-01",NA,NA,NA,0.009953055
+"KIRREL3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.016","0.026","1.016","5.31e-01",NA,NA,NA,1.05e-05
+"WDYHV1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.014","0.023","1.014","5.32e-01",NA,NA,NA,0.000164138
+"DNM1P47","Stem-cell-iPSC","ASD","Wald ratio",1," 0.026","0.042","1.027","5.33e-01",NA,NA,NA,6.21e-05
+"ACSS1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.027","0.044","1.027","5.36e-01",NA,NA,NA,8.78e-06
+"GPR137B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.026","0.041","1.026","5.36e-01",NA,NA,NA,0.000108281
+"EPHA6","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.009","0.014","0.991","5.39e-01",NA,0.836805388,NA,2.28e-05
+"ANKRD7","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.040","0.065","0.961","5.40e-01",NA,NA,NA,0.000457998
+"ARHGAP21","Stem-cell-iPSC","ASD","Wald ratio",1," 0.015","0.024","1.015","5.40e-01",NA,NA,NA,5.29e-06
+"DOK4","Stem-cell-iPSC","ASD","Wald ratio",1," 0.055","0.091","1.057","5.41e-01",NA,NA,NA,5.38e-05
+"RNU2-54P","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.024","0.040","0.976","5.41e-01",NA,NA,NA,9.48e-05
+"CASC20","Stem-cell-iPSC","ASD","Wald ratio",1," 0.024","0.039","1.024","5.42e-01",NA,NA,NA,3.11e-05
+"DHRS7B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.032","0.052","1.032","5.42e-01",NA,NA,NA,0.008590927
+"RN7SL201P","Stem-cell-iPSC","ASD","Wald ratio",1," 0.026","0.043","1.027","5.42e-01",NA,NA,NA,0.000166122
+"FAM174B","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.012","0.020","0.988","5.42e-01",NA,NA,NA,0.000107168
+"TRA2A","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.044","0.072","0.957","5.42e-01",NA,NA,NA,0.008558201
+"KCNIP4","Stem-cell-iPSC","ASD","Weighted mode",3," 0.012","0.016","1.012","5.43e-01",0.583617142,0.605912179,0.556106529,0.000237962
+"RBM48P1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.016","0.026","1.016","5.43e-01",NA,NA,NA,2.36e-06
+"RNU6-546P","Stem-cell-iPSC","ASD","Wald ratio",1," 0.023","0.039","1.024","5.46e-01",NA,NA,NA,0.002925371
+"ATP6AP1L","Stem-cell-iPSC","ASD","Wald ratio",1," 0.028","0.047","1.029","5.46e-01",NA,NA,NA,0.000232205
+"FAM13B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.034","0.056","1.034","5.46e-01",NA,NA,NA,0.010144647
+"LINGO2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.013","0.022","1.013","5.46e-01",NA,NA,NA,2.2e-05
+"NEDD4L","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.019","0.032","0.981","5.47e-01",NA,0.117493786,NA,0.002513124
+"FAM149A","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.018","0.030","1.018","5.47e-01",NA,0.113722223,NA,0.022295254
+"GHRL","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.034","0.056","0.967","5.48e-01",NA,NA,NA,0.008164966
+"LINC00700","Stem-cell-iPSC","ASD","Wald ratio",1," 0.041","0.068","1.042","5.49e-01",NA,NA,NA,0.002766493
+"CD101","Stem-cell-iPSC","ASD","Wald ratio",1," 0.033","0.055","1.033","5.50e-01",NA,NA,NA,0.000256082
+"PDGFRL","Stem-cell-iPSC","ASD","Wald ratio",1," 0.014","0.023","1.014","5.51e-01",NA,NA,NA,0.01063986
+"SH2D6","Stem-cell-iPSC","ASD","Wald ratio",1," 0.022","0.037","1.022","5.51e-01",NA,NA,NA,4.41e-05
+"LINC01037","Stem-cell-iPSC","ASD","Wald ratio",1," 0.017","0.028","1.017","5.52e-01",NA,NA,NA,0.007414811
+"SLC1A2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.015","0.025","0.985","5.52e-01",NA,NA,NA,1.23e-05
+"SUMO2P13","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.034","0.057","0.967","5.55e-01",NA,NA,NA,0.007912747
+"C1QTNF2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.022","0.038","0.978","5.55e-01",NA,NA,NA,3.59e-05
+"ZNF619P1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.012","0.020","1.012","5.55e-01",NA,NA,NA,0.008173758
+"LINC00264","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.021","0.036","0.979","5.56e-01",NA,NA,NA,1.03e-05
+"PLEKHG1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.025","0.043","1.025","5.56e-01",NA,NA,NA,4.12e-06
+"TBC1D1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.012","0.020","0.988","5.57e-01",NA,NA,NA,7.81e-05
+"ARG2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.023","0.039","1.023","5.58e-01",NA,NA,NA,9.97e-06
+"NOL10","Stem-cell-iPSC","ASD","Wald ratio",1," 0.036","0.061","1.036","5.59e-01",NA,NA,NA,0.008325181
+"FECH","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.020","0.034","0.980","5.59e-01",NA,NA,NA,2.26e-05
+"FGGY","Stem-cell-iPSC","ASD","Wald ratio",1," 0.023","0.040","1.024","5.61e-01",NA,NA,NA,4.24e-06
+"KCNMB2","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.027","0.046","1.027","5.61e-01",NA,0.72246772,NA,0.005671972
+"PKHD1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.024","0.042","1.025","5.61e-01",NA,NA,NA,0.001263424
+"ABCA13","Stem-cell-iPSC","ASD","Wald ratio",1," 0.023","0.039","1.023","5.62e-01",NA,NA,NA,0.007919062
+"F3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.077","0.132","1.080","5.63e-01",NA,NA,NA,0.011102902
+"LINC01322","Stem-cell-iPSC","ASD","Wald ratio",1," 0.014","0.024","1.014","5.64e-01",NA,NA,NA,5.32e-06
+"ZMIZ1-AS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.027","0.047","0.973","5.66e-01",NA,NA,NA,0.008214738
+"SNTG1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.017","0.029","0.983","5.67e-01",NA,NA,NA,1.12e-05
+"C10orf35","Stem-cell-iPSC","ASD","Wald ratio",1," 0.011","0.019","1.011","5.67e-01",NA,NA,NA,0.004254725
+"RPL35AP19","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.014","0.025","0.986","5.67e-01",NA,NA,NA,3.31e-05
+"VTI1A","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.014","0.025","0.986","5.68e-01",NA,NA,NA,3.02e-06
+"DOK2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.014","0.024","1.014","5.68e-01",NA,NA,NA,0.001163516
+"ABCC13","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.039","0.068","0.962","5.68e-01",NA,NA,NA,0.010245669
+"MTND5P15","Stem-cell-iPSC","ASD","Wald ratio",1," 0.014","0.024","1.014","5.69e-01",NA,NA,NA,0.009678566
+"HIF1AN","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.014","0.025","0.986","5.71e-01",NA,NA,NA,7.93e-06
+"WWOX","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.011","0.020","0.989","5.71e-01",NA,0.228494802,NA,6.73e-06
+"CNTN4-AS1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.012","0.021","1.012","5.71e-01",NA,NA,NA,6.28e-06
+"TANC1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.012","0.021","1.012","5.72e-01",NA,NA,NA,3.09e-05
+"ZNF280D","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.031","0.054","0.970","5.72e-01",NA,NA,NA,2.99e-05
+"MAST4","Stem-cell-iPSC","ASD","Wald ratio",1," 0.026","0.046","1.026","5.72e-01",NA,NA,NA,0.00028188
+"CEP112","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.012","0.021","0.988","5.73e-01",NA,NA,NA,2.8e-06
+"KCNIP4","Stem-cell-iPSC","ASD","Simple mode",3," 0.012","0.018","1.012","5.73e-01",0.583617142,0.605912179,0.556106529,0.000237962
+"MPHOSPH10","Stem-cell-iPSC","ASD","Wald ratio",1," 0.023","0.041","1.023","5.73e-01",NA,NA,NA,0.000147294
+"LGI2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.030","0.054","0.970","5.74e-01",NA,NA,NA,0.000212872
+"TXNL1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.010","0.018","0.990","5.74e-01",NA,NA,NA,0.008446531
+"SEPT2P1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.011","0.020","1.011","5.75e-01",NA,NA,NA,0.001020005
+"ROR1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.032","0.058","1.033","5.75e-01",NA,NA,NA,2.73e-05
+"APOL4","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.030","0.054","0.970","5.75e-01",NA,NA,NA,0.005776057
+"THSD7A","Stem-cell-iPSC","ASD","Wald ratio",1," 0.071","0.127","1.073","5.76e-01",NA,NA,NA,0.017568736
+"LINC00676","Stem-cell-iPSC","ASD","Wald ratio",1," 0.020","0.037","1.021","5.77e-01",NA,NA,NA,4.71e-06
+"LINC01507","Stem-cell-iPSC","ASD","Wald ratio",1," 0.034","0.061","1.035","5.77e-01",NA,NA,NA,1.54e-05
+"LINC01127","Stem-cell-iPSC","ASD","Wald ratio",1," 0.013","0.023","1.013","5.77e-01",NA,NA,NA,1.53e-05
+"STARD6","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.024","0.043","0.977","5.78e-01",NA,NA,NA,0.006475537
+"NPAS3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.013","0.023","1.013","5.79e-01",NA,NA,NA,0.000257582
+"GRXCR1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.028","0.050","1.028","5.80e-01",NA,NA,NA,0.003617615
+"GC","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.013","0.023","0.987","5.80e-01",NA,NA,NA,3.47e-06
+"TXNRD2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.024","0.044","1.025","5.81e-01",NA,NA,NA,1.22e-05
+"RBM43","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.020","0.036","0.981","5.82e-01",NA,NA,NA,0.002060795
+"MIR1275","Stem-cell-iPSC","ASD","Wald ratio",1," 0.011","0.020","1.011","5.82e-01",NA,NA,NA,0.003115459
+"ATP11A","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.022","0.040","0.978","5.82e-01",NA,NA,NA,3.21e-05
+"LINC01121","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.024","0.044","0.976","5.82e-01",NA,NA,NA,3.65e-05
+"SEL1L3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.045","0.082","1.046","5.83e-01",NA,NA,NA,0.000136798
+"HMGB3P17","Stem-cell-iPSC","ASD","Wald ratio",1," 0.025","0.046","1.025","5.84e-01",NA,NA,NA,8.46e-05
+"TAF1B","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.018","0.033","0.982","5.84e-01",NA,NA,NA,0.007714972
+"LINC01241","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.022","0.040","0.978","5.85e-01",NA,NA,NA,0.003491149
+"TUBAL3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.012","0.022","0.988","5.85e-01",NA,NA,NA,4.84e-06
+"CDH3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.030","0.056","0.970","5.85e-01",NA,NA,NA,0.007374587
+"LINC01448","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.021","0.038","1.021","5.86e-01",NA,0.05726387,NA,5.26e-06
+"HCRTR2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.059","0.108","0.943","5.86e-01",NA,NA,NA,0.009550349
+"GRIN2B","Stem-cell-iPSC","ASD","MR Egger",3,"-0.123","0.163","0.884","5.87e-01",0.043595934,0.075354692,0.694983377,1.74e-05
+"HS1BP3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.013","0.023","0.987","5.88e-01",NA,NA,NA,4.77e-05
+"ANTXRLP1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.012","0.021","1.012","5.88e-01",NA,NA,NA,0.008968072
+"LINC01091","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.040","0.074","0.961","5.89e-01",NA,NA,NA,0.007014958
+"EIF1B","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.017","0.032","0.983","5.89e-01",NA,NA,NA,3.45e-05
+"LYZL2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.012","0.022","1.012","5.89e-01",NA,NA,NA,5.58e-06
+"FOXP2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.045","0.084","1.046","5.90e-01",NA,NA,NA,0.000210119
+"RNU6-248P","Stem-cell-iPSC","ASD","Wald ratio",1," 0.012","0.022","1.012","5.90e-01",NA,NA,NA,1.7e-06
+"ZDHHC14","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.016","0.030","0.984","5.91e-01",NA,NA,NA,1.27e-05
+"RPL7P33","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.012","0.023","0.988","5.93e-01",NA,NA,NA,3.49e-05
+"UMODL1-AS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.036","0.067","0.965","5.94e-01",NA,NA,NA,0.003997553
+"RGCC","Stem-cell-iPSC","ASD","Wald ratio",1," 0.024","0.045","1.024","5.95e-01",NA,NA,NA,4.39e-05
+"SEC16B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.038","0.072","1.039","5.96e-01",NA,NA,NA,0.000222645
+"FOXN3","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.012","0.022","0.988","5.96e-01",NA,0.366566048,NA,0.011456086
+"B3GAT2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.021","0.039","1.021","5.96e-01",NA,NA,NA,8.82e-06
+"KRTAP5-8","Stem-cell-iPSC","ASD","Wald ratio",1," 0.021","0.040","1.021","5.97e-01",NA,NA,NA,2.68e-05
+"VSIG10","Stem-cell-iPSC","ASD","Wald ratio",1," 0.025","0.047","1.025","5.97e-01",NA,NA,NA,0.005443161
+"RNU6-210P","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.011","0.022","0.989","5.97e-01",NA,NA,NA,0.001340246
+"CCDC67","Stem-cell-iPSC","ASD","Wald ratio",1," 0.026","0.049","1.026","5.98e-01",NA,NA,NA,0.000276242
+"APP","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.023","0.043","0.978","5.98e-01",NA,NA,NA,0.000399521
+"LINC01197","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.024","0.046","0.976","5.99e-01",NA,NA,NA,3.98e-05
+"DPF3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.012","0.023","1.012","5.99e-01",NA,NA,NA,8.45e-06
+"C4orf51","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.010","0.020","0.990","6.00e-01",NA,NA,NA,0.00035818
+"LDHAP3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.012","0.023","1.012","6.01e-01",NA,NA,NA,2.17e-05
+"GRIA4","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.020","0.038","0.980","6.02e-01",NA,NA,NA,2.41e-05
+"TSTD3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.032","0.061","0.969","6.03e-01",NA,NA,NA,0.003018545
+"SNHG15","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.051","0.098","0.950","6.03e-01",NA,NA,NA,2.94e-05
+"ANO4","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.019","0.036","0.981","6.03e-01",NA,NA,NA,0.009638994
+"ETV3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.032","0.062","1.033","6.04e-01",NA,NA,NA,0.000762777
+"MRPS33P3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.012","0.023","1.012","6.04e-01",NA,NA,NA,0.009028299
+"ANKRD50","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.016","0.030","0.984","6.04e-01",NA,NA,NA,2.37e-05
+"PDHX","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.009","0.018","0.991","6.05e-01",NA,0.336709504,NA,0.001984068
+"VENTXP2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.015","0.030","1.015","6.05e-01",NA,NA,NA,6.7e-05
+"IGFN1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.075","0.145","1.078","6.06e-01",NA,NA,NA,0.012047089
+"CCSER1","Stem-cell-iPSC","ASD","MR Egger",3,"-0.084","0.118","0.919","6.07e-01",0.02416773,0.021932223,0.607245037,0.000265622
+"OAT","Stem-cell-iPSC","ASD","Wald ratio",1," 0.017","0.033","1.017","6.08e-01",NA,NA,NA,3.15e-06
+"AHNAK","Stem-cell-iPSC","ASD","Wald ratio",1," 0.037","0.072","1.038","6.08e-01",NA,NA,NA,0.009198098
+"DENND3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.011","0.022","0.989","6.08e-01",NA,NA,NA,5.53e-05
+"CCDC80","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.012","0.024","0.988","6.08e-01",NA,NA,NA,0.008639189
+"RN7SL401P","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.014","0.028","0.986","6.12e-01",NA,NA,NA,1.58e-05
+"KCNIP4","Stem-cell-iPSC","ASD","Inverse variance weighted",3," 0.007","0.015","1.007","6.12e-01",0.583617142,0.605912179,0.556106529,0.000237962
+"C1orf52","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.012","0.023","0.988","6.12e-01",NA,NA,NA,6.03e-06
+"TACSTD2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.021","0.042","1.021","6.13e-01",NA,NA,NA,0.000149299
+"FRY","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.015","0.029","0.985","6.13e-01",NA,NA,NA,9.15e-06
+"RUNX3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.010","0.020","1.010","6.14e-01",NA,NA,NA,0.000213249
+"EVA1C","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.009","0.018","0.991","6.15e-01",NA,NA,NA,0.000332542
+"BBS9","Stem-cell-iPSC","ASD","Wald ratio",1," 0.023","0.046","1.023","6.15e-01",NA,NA,NA,7.5e-05
+"IPO9-AS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.021","0.041","0.980","6.15e-01",NA,NA,NA,8.51e-05
+"CLDN16","Stem-cell-iPSC","ASD","Wald ratio",1," 0.011","0.023","1.011","6.15e-01",NA,NA,NA,1.48e-05
+"SPHKAP","Stem-cell-iPSC","ASD","Wald ratio",1," 0.024","0.048","1.025","6.17e-01",NA,NA,NA,0.000166787
+"ARHGEF26","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.017","0.034","0.983","6.17e-01",NA,NA,NA,1.71e-05
+"FAM78B","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.016","0.031","0.984","6.17e-01",NA,NA,NA,9.73e-06
+"TTK","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.010","0.020","0.990","6.17e-01",NA,NA,NA,2.14e-05
+"ADAMTS16","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.023","0.047","0.977","6.19e-01",NA,NA,NA,0.000132754
+"LINC01478","Stem-cell-iPSC","ASD","Wald ratio",1," 0.011","0.022","1.011","6.19e-01",NA,NA,NA,2.68e-05
+"ORC5","Stem-cell-iPSC","ASD","Wald ratio",1," 0.022","0.044","1.022","6.22e-01",NA,NA,NA,2.23e-05
+"ENPP6","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.026","0.052","0.975","6.22e-01",NA,NA,NA,0.002873069
+"MAFTRR","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.024","0.049","0.976","6.23e-01",NA,NA,NA,0.000764718
+"COLGALT2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.030","0.061","0.971","6.24e-01",NA,NA,NA,0.008605633
+"CES5A","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.010","0.020","0.990","6.24e-01",NA,NA,NA,0.001033095
+"AUTS2","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.009","0.018","0.991","6.24e-01",NA,0.247465247,NA,0.000569465
+"SUPT3H","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.011","0.022","0.989","6.25e-01",NA,NA,NA,1.04e-05
+"LINC00540","Stem-cell-iPSC","ASD","Inverse variance weighted",3," 0.011","0.022","1.011","6.26e-01",0.244766452,0.322211112,0.562337522,2.52e-06
+"CDK14","Stem-cell-iPSC","ASD","MR Egger",3," 0.042","0.063","1.043","6.28e-01",0.588422666,0.73918905,0.675885369,0.000403487
+"SLC6A19","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.020","0.042","0.980","6.28e-01",NA,NA,NA,0.000377826
+"PQLC2L","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.022","0.045","0.978","6.28e-01",NA,NA,NA,0.006911751
+"FRMD4A","Stem-cell-iPSC","ASD","MR Egger",3," 0.167","0.253","1.182","6.28e-01",0.077140101,0.059624547,0.534437335,0.000251123
+"PRKCZ","Stem-cell-iPSC","ASD","Wald ratio",1," 0.027","0.055","1.027","6.29e-01",NA,NA,NA,7.56e-05
+"MIR548AE1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.009","0.020","0.991","6.29e-01",NA,NA,NA,0.000437965
+"CWC22","Stem-cell-iPSC","ASD","Wald ratio",1," 0.023","0.048","1.023","6.29e-01",NA,NA,NA,0.000965229
+"LINC00351","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.010","0.021","0.990","6.30e-01",NA,NA,NA,0.005607412
+"MYO1C","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.009","0.020","0.991","6.31e-01",NA,NA,NA,5.69e-06
+"NRSN1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.008","0.018","1.008","6.32e-01",NA,NA,NA,0.000117604
+"CACNG6","Stem-cell-iPSC","ASD","Wald ratio",1," 0.025","0.051","1.025","6.34e-01",NA,NA,NA,1.98e-05
+"GAPDHP28","Stem-cell-iPSC","ASD","Wald ratio",1," 0.009","0.018","1.009","6.35e-01",NA,NA,NA,0.000547847
+"ISCA1P1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.021","0.044","1.021","6.35e-01",NA,NA,NA,3.19e-05
+"CDK14","Stem-cell-iPSC","ASD","Weighted mode",3," 0.013","0.024","1.013","6.36e-01",0.588422666,0.73918905,0.675885369,0.000403487
+"UBE2E2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.020","0.042","0.980","6.36e-01",NA,NA,NA,0.000353699
+"HMGB3P16","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.010","0.021","0.990","6.36e-01",NA,NA,NA,0.008176706
+"MIR4475","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.011","0.024","0.989","6.37e-01",NA,NA,NA,8.08e-06
+"ALOX5AP","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.015","0.032","0.985","6.37e-01",NA,NA,NA,1.75e-05
+"RB1CC1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.016","0.034","1.016","6.37e-01",NA,NA,NA,6.94e-06
+"HAGLROS","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.012","0.026","0.988","6.38e-01",NA,NA,NA,6.59e-06
+"CDK14","Stem-cell-iPSC","ASD","Weighted median",3," 0.010","0.020","1.010","6.38e-01",0.588422666,0.73918905,0.675885369,0.000403487
+"TMCO3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.013","0.029","0.987","6.39e-01",NA,NA,NA,1.58e-05
+"CNTNAP2","Stem-cell-iPSC","ASD","Weighted median",5," 0.006","0.012","1.006","6.39e-01",0.423192454,0.57656301,0.78706089,2.57e-05
+"RN7SL361P","Stem-cell-iPSC","ASD","Wald ratio",1," 0.022","0.046","1.022","6.40e-01",NA,NA,NA,0.006180211
+"DDX10","Stem-cell-iPSC","ASD","Wald ratio",1," 0.009","0.019","1.009","6.40e-01",NA,NA,NA,0.007891308
+"DOCK2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.053","0.114","1.055","6.40e-01",NA,NA,NA,8.48e-05
+"PNPT1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.008","0.018","1.008","6.43e-01",NA,NA,NA,1.33e-05
+"PTPRO","Stem-cell-iPSC","ASD","Wald ratio",1," 0.027","0.058","1.027","6.43e-01",NA,NA,NA,2.83e-05
+"KCNIP3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.010","0.022","1.010","6.43e-01",NA,NA,NA,1.47e-05
+"KIAA1456","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.026","0.056","1.026","6.44e-01",NA,0.056442947,NA,1.91e-05
+"UNC13C","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.006","0.014","0.994","6.44e-01",NA,0.375437562,NA,0.010439659
+"XCL1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.020","0.043","1.020","6.44e-01",NA,NA,NA,3.2e-05
+"PRPH2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.009","0.021","1.010","6.45e-01",NA,NA,NA,0.000207865
+"DPP10","Stem-cell-iPSC","ASD","Wald ratio",1," 0.033","0.071","1.033","6.45e-01",NA,NA,NA,0.007571917
+"ABCC4","Stem-cell-iPSC","ASD","Wald ratio",1," 0.011","0.024","1.011","6.45e-01",NA,NA,NA,0.000787669
+"TMEM177","Stem-cell-iPSC","ASD","Wald ratio",1," 0.014","0.031","1.015","6.46e-01",NA,NA,NA,0.001088522
+"DCC","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.017","0.036","1.017","6.46e-01",NA,0.923803959,NA,1.27e-05
+"CD36","Stem-cell-iPSC","ASD","Wald ratio",1," 0.008","0.018","1.008","6.47e-01",NA,NA,NA,0.0001681
+"SOX5","Stem-cell-iPSC","ASD","Wald ratio",1," 0.016","0.036","1.017","6.47e-01",NA,NA,NA,7.67e-06
+"FABP6","Stem-cell-iPSC","ASD","Wald ratio",1," 0.018","0.039","1.018","6.50e-01",NA,NA,NA,0.005523821
+"C11orf24","Stem-cell-iPSC","ASD","Wald ratio",1," 0.010","0.022","1.010","6.50e-01",NA,NA,NA,4.54e-06
+"TLE2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.028","0.062","0.973","6.53e-01",NA,NA,NA,7.04e-06
+"PWRN2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.024","0.054","1.025","6.53e-01",NA,NA,NA,0.001449667
+"RNU6-1018P","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.011","0.026","0.989","6.53e-01",NA,NA,NA,5.56e-06
+"PRR5L","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.022","0.049","1.022","6.53e-01",NA,0.662449062,NA,0.008754948
+"KCNQ1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.010","0.022","0.990","6.55e-01",NA,NA,NA,9.31e-06
+"DNAJC5B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.054","0.120","1.055","6.55e-01",NA,NA,NA,0.011220622
+"GMDS","Stem-cell-iPSC","ASD","Wald ratio",1," 0.017","0.038","1.017","6.55e-01",NA,NA,NA,4.57e-06
+"LINC00276","Stem-cell-iPSC","ASD","Wald ratio",1," 0.027","0.061","1.028","6.56e-01",NA,NA,NA,0.006617423
+"CLPTM1L","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.018","0.040","0.982","6.56e-01",NA,NA,NA,7.83e-06
+"PRKG1","Stem-cell-iPSC","ASD","MR Egger",3,"-0.128","0.213","0.880","6.56e-01",0.029706367,0.042524726,0.665469078,2.13e-05
+"TMEM108","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.009","0.019","0.991","6.57e-01",NA,NA,NA,3.47e-05
+"LPAR3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.009","0.020","1.009","6.57e-01",NA,NA,NA,0.000391582
+"NRXN1","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.011","0.024","0.989","6.58e-01",NA,0.235876262,NA,0.000189752
+"RNU6-1012P","Stem-cell-iPSC","ASD","Wald ratio",1," 0.007","0.016","1.007","6.58e-01",NA,NA,NA,0.000660529
+"LCP1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.008","0.019","1.009","6.58e-01",NA,NA,NA,4.38e-06
+"FRMD3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.045","0.103","0.956","6.59e-01",NA,NA,NA,0.010094099
+"SPTSSB","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.073","0.166","0.930","6.60e-01",NA,NA,NA,0.013818066
+"YBX1P6","Stem-cell-iPSC","ASD","Wald ratio",1," 0.029","0.067","1.030","6.60e-01",NA,NA,NA,0.003510856
+"PRR18","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.023","0.052","0.978","6.60e-01",NA,NA,NA,0.006878463
+"CDKAL1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.025","0.057","1.025","6.61e-01",NA,NA,NA,3.26e-05
+"SPIRE2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.015","0.035","0.985","6.61e-01",NA,NA,NA,1.7e-05
+"INADL","Stem-cell-iPSC","ASD","Wald ratio",1," 0.008","0.019","1.008","6.62e-01",NA,NA,NA,0.00090083
+"PALM2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.012","0.027","1.012","6.62e-01",NA,NA,NA,0.010108706
+"CPXM2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.019","0.044","0.981","6.62e-01",NA,NA,NA,7.89e-05
+"CDK14","Stem-cell-iPSC","ASD","Inverse variance weighted",3," 0.008","0.018","1.008","6.63e-01",0.588422666,0.73918905,0.675885369,0.000403487
+"UCK2","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.019","0.042","0.982","6.63e-01",NA,0.295257459,NA,0.011284465
+"GLRA1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.010","0.022","1.010","6.63e-01",NA,NA,NA,1.31e-05
+"ALPK1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.011","0.025","1.011","6.64e-01",NA,NA,NA,6.14e-06
+"PDE4B","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.017","0.039","0.983","6.64e-01",NA,NA,NA,2.03e-05
+"SATB2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.021","0.049","1.021","6.64e-01",NA,NA,NA,0.005422118
+"LRRFIP1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.010","0.024","1.010","6.65e-01",NA,NA,NA,0.000151414
+"EGLN3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.016","0.037","1.016","6.65e-01",NA,NA,NA,1.02e-05
+"MAN1A1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.010","0.023","0.990","6.68e-01",NA,NA,NA,2.66e-05
+"RPL4P5","Stem-cell-iPSC","ASD","Wald ratio",1," 0.009","0.021","1.009","6.68e-01",NA,NA,NA,3.26e-05
+"PCA3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.008","0.020","1.008","6.69e-01",NA,NA,NA,0.000302129
+"EXT1","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.024","0.056","0.977","6.71e-01",NA,0.006163165,NA,6.76e-05
+"VSX1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.009","0.021","0.991","6.71e-01",NA,NA,NA,0.006838695
+"SNRPEP8","Stem-cell-iPSC","ASD","Wald ratio",1," 0.019","0.044","1.019","6.71e-01",NA,NA,NA,0.000503151
+"HNRNPLP1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.020","0.046","0.981","6.71e-01",NA,NA,NA,0.000133831
+"FAM216B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.020","0.048","1.020","6.71e-01",NA,NA,NA,0.007525008
+"GALNTL5","Stem-cell-iPSC","ASD","Wald ratio",1," 0.034","0.080","1.034","6.72e-01",NA,NA,NA,6.11e-05
+"MIR4704","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.042","0.098","0.959","6.72e-01",NA,NA,NA,0.01089793
+"GYG1P2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.012","0.029","0.988","6.73e-01",NA,NA,NA,7.58e-06
+"PAK1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.017","0.041","0.983","6.73e-01",NA,NA,NA,1.8e-05
+"SMAD3","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.035","0.083","0.966","6.73e-01",NA,0.066961153,NA,0.008232435
+"PKN2-AS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.017","0.041","0.983","6.74e-01",NA,NA,NA,0.000784191
+"FKBP1C","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.019","0.045","0.981","6.74e-01",NA,NA,NA,0.001588447
+"CCDC6","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.016","0.039","0.984","6.75e-01",NA,NA,NA,0.000568178
+"SUMO1P2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.016","0.038","1.016","6.77e-01",NA,NA,NA,1.92e-05
+"LINC01591","Stem-cell-iPSC","ASD","Wald ratio",1," 0.019","0.047","1.020","6.77e-01",NA,NA,NA,0.000567485
+"LINC00540","Stem-cell-iPSC","ASD","MR Egger",3,"-0.031","0.056","0.969","6.77e-01",0.244766452,0.322211112,0.562337522,2.52e-06
+"KDR","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.010","0.024","0.990","6.77e-01",NA,0.465875442,NA,0.007234861
+"MIR572","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.016","0.037","0.985","6.78e-01",NA,NA,NA,1.53e-05
+"KLF12","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.018","0.043","0.982","6.80e-01",NA,NA,NA,0.008964935
+"TMEM44","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.020","0.049","0.980","6.80e-01",NA,NA,NA,0.002331085
+"KCNK2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.009","0.021","0.991","6.81e-01",NA,NA,NA,0.009128075
+"PPP1R13L","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.037","0.090","0.964","6.81e-01",NA,NA,NA,0.000655201
+"SPOCK2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.024","0.060","0.976","6.84e-01",NA,NA,NA,0.007511975
+"RPS14P7","Stem-cell-iPSC","ASD","Wald ratio",1," 0.017","0.041","1.017","6.84e-01",NA,NA,NA,1.34e-05
+"LINC00485","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.032","0.078","0.969","6.85e-01",NA,NA,NA,0.000122316
+"KCNH1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.009","0.021","1.009","6.85e-01",NA,NA,NA,1.39e-05
+"LINC00520","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.009","0.023","0.991","6.86e-01",NA,NA,NA,3.65e-06
+"KSR2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.009","0.023","0.991","6.86e-01",NA,NA,NA,1.84e-06
+"RPL17P35","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.015","0.038","0.985","6.87e-01",NA,NA,NA,7.45e-06
+"DAB2IP","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.010","0.025","0.990","6.87e-01",NA,NA,NA,1.07e-05
+"MIR8070","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.079","0.198","0.924","6.88e-01",NA,NA,NA,0.009194697
+"CCSER1","Stem-cell-iPSC","ASD","Weighted median",3,"-0.012","0.029","0.989","6.89e-01",0.02416773,0.021932223,0.607245037,0.000265622
+"CECR5-AS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.022","0.057","0.978","6.91e-01",NA,NA,NA,0.000113402
+"MMP20","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.024","0.061","0.976","6.93e-01",NA,NA,NA,0.007437303
+"TMEM168","Stem-cell-iPSC","ASD","Wald ratio",1," 0.018","0.045","1.018","6.94e-01",NA,NA,NA,1.53e-05
+"PITPNM2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.010","0.027","0.990","6.95e-01",NA,NA,NA,3.52e-06
+"ZNF148","Stem-cell-iPSC","ASD","Wald ratio",1," 0.022","0.056","1.022","6.95e-01",NA,NA,NA,2.84e-05
+"OVCH2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.011","0.028","1.011","6.95e-01",NA,NA,NA,0.011485642
+"FHDC1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.011","0.028","1.011","6.95e-01",NA,NA,NA,4.38e-06
+"PLD1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.015","0.039","0.985","6.96e-01",NA,NA,NA,1.7e-05
+"RAMP3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.023","0.059","1.023","6.96e-01",NA,NA,NA,0.000723853
+"RAD23BLP","Stem-cell-iPSC","ASD","Wald ratio",1," 0.013","0.034","1.013","6.96e-01",NA,NA,NA,6.1e-06
+"ARHGAP26","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.008","0.022","0.992","6.97e-01",NA,NA,NA,4.25e-06
+"ZNF57","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.014","0.036","0.986","6.98e-01",NA,NA,NA,9.5e-06
+"RPL7","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.019","0.048","0.982","6.98e-01",NA,NA,NA,0.000774731
+"INVS","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.008","0.021","0.992","6.99e-01",NA,NA,NA,8.85e-06
+"RN7SKP280","Stem-cell-iPSC","ASD","Wald ratio",1," 0.028","0.074","1.029","6.99e-01",NA,NA,NA,0.007427995
+"KANSL3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.023","0.061","0.977","7.00e-01",NA,NA,NA,0.007692856
+"MS4A6E","Stem-cell-iPSC","ASD","Wald ratio",1," 0.008","0.021","1.008","7.00e-01",NA,NA,NA,0.00760586
+"SLC15A4","Stem-cell-iPSC","ASD","Wald ratio",1," 0.021","0.053","1.021","7.00e-01",NA,NA,NA,0.003436329
+"NCAM2","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.009","0.022","0.991","7.01e-01",NA,0.865725062,NA,1.19e-05
+"PARP14","Stem-cell-iPSC","ASD","Wald ratio",1," 0.027","0.069","1.027","7.01e-01",NA,NA,NA,5.27e-05
+"TRPC4","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.011","0.028","0.989","7.01e-01",NA,NA,NA,1.6e-05
+"ADAMTS20","Stem-cell-iPSC","ASD","Wald ratio",1," 0.048","0.124","1.049","7.01e-01",NA,NA,NA,0.000135525
+"PRKAG2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.008","0.021","1.008","7.02e-01",NA,NA,NA,0.003255218
+"CTBP2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.010","0.026","0.990","7.02e-01",NA,NA,NA,1.13e-05
+"TMEM132B","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.008","0.020","0.992","7.02e-01",NA,0.68429413,NA,3.15e-05
+"MEPCE","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.018","0.046","0.982","7.02e-01",NA,NA,NA,0.00056788
+"CLDN10","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.014","0.037","0.986","7.05e-01",NA,NA,NA,3.1e-06
+"RPL30P3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.006","0.017","1.006","7.05e-01",NA,NA,NA,0.001226644
+"ROPN1B","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.126","0.334","0.882","7.06e-01",NA,NA,NA,0.0081714
+"TRBV30","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.009","0.025","0.991","7.08e-01",NA,NA,NA,6.56e-06
+"MTND5P34","Stem-cell-iPSC","ASD","Wald ratio",1," 0.010","0.025","1.010","7.08e-01",NA,NA,NA,3.35e-05
+"RIMS3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.014","0.038","1.014","7.09e-01",NA,NA,NA,7.48e-06
+"PIP4K2A","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.009","0.023","0.991","7.09e-01",NA,NA,NA,1.56e-05
+"MED15P9","Stem-cell-iPSC","ASD","Wald ratio",1," 0.019","0.050","1.019","7.09e-01",NA,NA,NA,1.84e-05
+"CEBPE","Stem-cell-iPSC","ASD","Wald ratio",1," 0.009","0.025","1.009","7.09e-01",NA,NA,NA,1.9e-06
+"ZNF100","Stem-cell-iPSC","ASD","Wald ratio",1," 0.026","0.069","1.026","7.10e-01",NA,NA,NA,1.76e-05
+"ZNF611","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.008","0.022","0.992","7.10e-01",NA,NA,NA,2.17e-05
+"TTC28","Stem-cell-iPSC","ASD","Wald ratio",1," 0.019","0.052","1.019","7.11e-01",NA,NA,NA,0.00014525
+"TBX18","Stem-cell-iPSC","ASD","Wald ratio",1," 0.019","0.050","1.019","7.11e-01",NA,NA,NA,0.007422854
+"BCAS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.011","0.030","0.989","7.11e-01",NA,NA,NA,1.42e-05
+"SORBS1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.031","0.083","1.031","7.13e-01",NA,NA,NA,0.000205588
+"PARN","Stem-cell-iPSC","ASD","Wald ratio",1," 0.015","0.039","1.015","7.13e-01",NA,NA,NA,5.37e-06
+"TCP11L2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.016","0.043","1.016","7.15e-01",NA,NA,NA,0.000834135
+"CDHR3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.017","0.047","1.017","7.15e-01",NA,NA,NA,4.11e-05
+"AGAP1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.009","0.024","0.991","7.15e-01",NA,NA,NA,4.87e-06
+"CUX1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.018","0.050","1.018","7.16e-01",NA,NA,NA,0.000797288
+"GOLGA7","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.025","0.069","0.975","7.17e-01",NA,NA,NA,0.000325317
+"NHLRC2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.007","0.020","1.007","7.17e-01",NA,NA,NA,5.27e-06
+"GM2AP1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.009","0.025","0.991","7.18e-01",NA,NA,NA,2.75e-06
+"KCNQ3","Stem-cell-iPSC","ASD","Weighted median",3," 0.008","0.022","1.008","7.18e-01",0.220046933,0.053003951,0.337741754,7.94e-06
+"ADGB","Stem-cell-iPSC","ASD","Wald ratio",1," 0.021","0.060","1.022","7.19e-01",NA,NA,NA,0.003781247
+"PLAC9","Stem-cell-iPSC","ASD","Wald ratio",1," 0.015","0.043","1.015","7.21e-01",NA,NA,NA,0.00013932
+"TRAV13-2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.015","0.043","0.985","7.21e-01",NA,NA,NA,6.58e-06
+"IFIT1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.021","0.059","1.021","7.21e-01",NA,NA,NA,0.00234234
+"SLC47A1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.012","0.034","1.012","7.22e-01",NA,NA,NA,6.32e-06
+"RGS9","Stem-cell-iPSC","ASD","Wald ratio",1," 0.024","0.068","1.025","7.22e-01",NA,NA,NA,6.61e-06
+"PHYKPL","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.011","0.031","0.989","7.22e-01",NA,NA,NA,0.000459243
+"COG3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.024","0.069","0.976","7.23e-01",NA,NA,NA,3.53e-05
+"ZNF257","Stem-cell-iPSC","ASD","Wald ratio",1," 0.016","0.045","1.016","7.23e-01",NA,NA,NA,4.14e-05
+"C16orf62","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.017","0.049","0.983","7.23e-01",NA,NA,NA,0.000224571
+"RNU6-34P","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.008","0.022","0.992","7.23e-01",NA,NA,NA,4.27e-05
+"STARD13","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.008","0.024","0.992","7.23e-01",NA,NA,NA,2.12e-05
+"PVRL3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.008","0.022","0.992","7.24e-01",NA,NA,NA,4.24e-05
+"PSD3","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.007","0.021","1.007","7.24e-01",NA,0.126445444,NA,4.53e-05
+"ECM1P2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.009","0.026","0.991","7.26e-01",NA,NA,NA,6.59e-06
+"RYR2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.008","0.023","1.008","7.26e-01",NA,NA,NA,1.44e-05
+"PDLIM5","Stem-cell-iPSC","ASD","Wald ratio",1," 0.008","0.022","1.008","7.26e-01",NA,NA,NA,1.94e-05
+"DLG2","Stem-cell-iPSC","ASD","MR Egger",4," 0.030","0.075","1.031","7.27e-01",0.171396973,0.178932137,0.470151142,0.004027724
+"LINC01376","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.008","0.023","0.992","7.28e-01",NA,NA,NA,0.00017505
+"CRB2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.008","0.023","1.008","7.28e-01",NA,NA,NA,4.15e-06
+"CNTNAP2","Stem-cell-iPSC","ASD","Weighted mode",5," 0.005","0.013","1.005","7.28e-01",0.423192454,0.57656301,0.78706089,2.57e-05
+"PRDM9","Stem-cell-iPSC","ASD","Wald ratio",1," 0.030","0.088","1.031","7.30e-01",NA,NA,NA,1.87e-05
+"POM121L4P","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.012","0.034","0.988","7.30e-01",NA,NA,NA,1.01e-05
+"LSM11","Stem-cell-iPSC","ASD","Wald ratio",1," 0.011","0.032","1.011","7.32e-01",NA,NA,NA,5.78e-06
+"RN7SL366P","Stem-cell-iPSC","ASD","Wald ratio",1," 0.022","0.064","1.022","7.32e-01",NA,NA,NA,0.002850283
+"GALM","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.007","0.021","0.993","7.32e-01",NA,NA,NA,0.007658385
+"LRRC4C","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.007","0.020","0.993","7.33e-01",NA,0.682328394,NA,8.84e-05
+"RN7SKP6","Stem-cell-iPSC","ASD","Wald ratio",1," 0.012","0.036","1.012","7.33e-01",NA,NA,NA,2.23e-05
+"SLC39A9","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.010","0.030","0.990","7.34e-01",NA,NA,NA,7.36e-06
+"JAKMIP3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.007","0.019","1.007","7.34e-01",NA,NA,NA,0.00761301
+"DGKD","Stem-cell-iPSC","ASD","Wald ratio",1," 0.012","0.035","1.012","7.34e-01",NA,NA,NA,5.32e-06
+"PAX3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.024","0.070","1.024","7.34e-01",NA,NA,NA,0.000102567
+"NKAIN3","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.009","0.026","1.009","7.35e-01",NA,0.24548777,NA,0.017038432
+"RNY3P10","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.021","0.061","0.980","7.35e-01",NA,NA,NA,0.002020435
+"RPL35AP12","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.029","0.088","0.971","7.37e-01",NA,NA,NA,0.000164401
+"EBF1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.008","0.024","1.008","7.37e-01",NA,NA,NA,5.6e-06
+"LINC01260","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.007","0.020","0.993","7.37e-01",NA,NA,NA,0.006253179
+"ELL2P3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.008","0.023","0.992","7.39e-01",NA,NA,NA,2.13e-06
+"HAUS6P1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.017","0.052","0.983","7.39e-01",NA,NA,NA,0.000158283
+"C3orf33","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.009","0.027","0.991","7.39e-01",NA,NA,NA,2.3e-05
+"USP20","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.016","0.049","0.984","7.41e-01",NA,NA,NA,5.15e-05
+"ICE2P2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.007","0.020","1.007","7.41e-01",NA,NA,NA,0.006485193
+"DOCK8","Stem-cell-iPSC","ASD","Wald ratio",1," 0.016","0.049","1.016","7.42e-01",NA,NA,NA,0.005005848
+"LSAMP","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.031","0.093","0.970","7.43e-01",NA,0.005525496,NA,0.034350815
+"TET3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.009","0.026","0.991","7.44e-01",NA,NA,NA,2.66e-06
+"FLT3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.015","0.047","0.985","7.45e-01",NA,NA,NA,6.34e-05
+"BEGAIN","Stem-cell-iPSC","ASD","Wald ratio",1," 0.018","0.056","1.018","7.46e-01",NA,NA,NA,0.000860083
+"COL27A1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.008","0.026","0.992","7.46e-01",NA,NA,NA,6.2e-06
+"VAV3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.008","0.024","0.992","7.47e-01",NA,NA,NA,0.007452127
+"NCKAP5","Stem-cell-iPSC","ASD","Wald ratio",1," 0.010","0.030","1.010","7.47e-01",NA,NA,NA,2.77e-06
+"DAB2","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.005","0.015","1.005","7.48e-01",NA,0.519862241,NA,7.3e-05
+"TNN","Stem-cell-iPSC","ASD","Wald ratio",1," 0.008","0.026","1.008","7.49e-01",NA,NA,NA,0.005616839
+"TTC27","Stem-cell-iPSC","ASD","Wald ratio",1," 0.023","0.072","1.023","7.49e-01",NA,NA,NA,4.56e-05
+"PTPRD","Stem-cell-iPSC","ASD","Inverse variance weighted",4," 0.005","0.014","1.005","7.49e-01",0.430025,0.639279416,0.971401991,0.001647924
+"RPL10L","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.019","0.058","0.982","7.49e-01",NA,NA,NA,0.000329426
+"CNN3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.006","0.020","0.994","7.50e-01",NA,NA,NA,0.007327788
+"LINC00333","Stem-cell-iPSC","ASD","Wald ratio",1," 0.026","0.083","1.027","7.52e-01",NA,NA,NA,0.007738935
+"PITPNC1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.015","0.047","1.015","7.52e-01",NA,NA,NA,8.04e-05
+"IRF6","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.012","0.038","0.988","7.53e-01",NA,NA,NA,1.77e-05
+"SNRPFP3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.015","0.047","1.015","7.54e-01",NA,NA,NA,2.04e-05
+"MAEL","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.006","0.020","0.994","7.55e-01",NA,NA,NA,1.02e-05
+"PDE8A","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.007","0.023","0.993","7.55e-01",NA,NA,NA,9.81e-06
+"MEPE","Stem-cell-iPSC","ASD","Wald ratio",1," 0.010","0.031","1.010","7.55e-01",NA,NA,NA,0.013641909
+"TCEA3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.008","0.027","0.992","7.55e-01",NA,NA,NA,4.23e-05
+"TPT1-AS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.006","0.020","0.994","7.55e-01",NA,NA,NA,8.96e-06
+"RNA5SP162","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.014","0.045","0.986","7.57e-01",NA,NA,NA,0.000380652
+"SP100","Stem-cell-iPSC","ASD","Wald ratio",1," 0.008","0.025","1.008","7.58e-01",NA,NA,NA,2.62e-05
+"ABRACL","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.009","0.029","0.991","7.58e-01",NA,NA,NA,1.73e-05
+"KSR1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.007","0.022","1.007","7.59e-01",NA,NA,NA,2.03e-06
+"RHBDF1P1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.007","0.022","1.007","7.60e-01",NA,NA,NA,0.001632347
+"KCNC4","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.007","0.022","0.993","7.60e-01",NA,NA,NA,1.64e-05
+"LINC01482","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.013","0.044","0.987","7.60e-01",NA,NA,NA,1.85e-05
+"SCD5","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.011","0.038","0.989","7.60e-01",NA,NA,NA,0.001000093
+"WDR31","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.007","0.023","0.993","7.61e-01",NA,NA,NA,5.81e-06
+"CHMP7","Stem-cell-iPSC","ASD","Wald ratio",1," 0.006","0.018","1.006","7.62e-01",NA,NA,NA,0.007467947
+"ADAMTS3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.013","0.042","0.987","7.62e-01",NA,NA,NA,0.000172945
+"LINC01310","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.021","0.071","0.979","7.62e-01",NA,NA,NA,0.000117575
+"INTS7","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.007","0.022","0.993","7.63e-01",NA,NA,NA,1.73e-06
+"CREG1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.016","0.053","0.984","7.63e-01",NA,NA,NA,4.3e-05
+"NAP1L4P3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.022","0.072","1.022","7.63e-01",NA,NA,NA,0.003422902
+"SPATC1L","Stem-cell-iPSC","ASD","Wald ratio",1," 0.010","0.033","1.010","7.64e-01",NA,NA,NA,7.56e-06
+"PDE1B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.012","0.040","1.012","7.65e-01",NA,NA,NA,0.007689795
+"GNB5","Stem-cell-iPSC","ASD","Wald ratio",1," 0.053","0.176","1.054","7.65e-01",NA,NA,NA,0.009332727
+"WWTR1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.011","0.038","1.011","7.66e-01",NA,NA,NA,9.34e-05
+"CFI","Stem-cell-iPSC","ASD","Wald ratio",1," 0.013","0.043","1.013","7.67e-01",NA,NA,NA,5.13e-06
+"RNF217-AS1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.008","0.027","1.008","7.67e-01",NA,NA,NA,8.35e-06
+"LINC01107","Stem-cell-iPSC","ASD","Wald ratio",1," 0.011","0.037","1.011","7.68e-01",NA,NA,NA,6.07e-05
+"ZSCAN18","Stem-cell-iPSC","ASD","Wald ratio",1," 0.009","0.032","1.010","7.70e-01",NA,NA,NA,1.04e-05
+"DOK6","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.017","0.058","0.983","7.70e-01",NA,NA,NA,0.005098783
+"FHOD3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.006","0.022","0.994","7.70e-01",NA,NA,NA,1.61e-05
+"CAMK1D","Stem-cell-iPSC","ASD","Wald ratio",1," 0.017","0.060","1.018","7.71e-01",NA,NA,NA,0.00736156
+"THEMIS","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.006","0.022","0.994","7.71e-01",NA,NA,NA,2.24e-05
+"GSTA2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.012","0.041","0.988","7.73e-01",NA,NA,NA,0.006262037
+"PDZRN3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.006","0.022","0.994","7.73e-01",NA,NA,NA,0.003527817
+"NAALADL2","Stem-cell-iPSC","ASD","Weighted mode",3,"-0.008","0.023","0.992","7.73e-01",0.201644348,0.379693648,0.739605679,1.27e-05
+"ARHGEF10","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.016","0.056","0.984","7.74e-01",NA,NA,NA,0.000749153
+"MTCO1P43","Stem-cell-iPSC","ASD","Wald ratio",1," 0.005","0.019","1.005","7.77e-01",NA,NA,NA,0.002553412
+"PCCA","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.010","0.036","0.990","7.77e-01",NA,NA,NA,7.75e-06
+"TPP2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.006","0.021","0.994","7.77e-01",NA,NA,NA,3.04e-06
+"RN7SKP36","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.021","0.074","0.979","7.79e-01",NA,NA,NA,0.000834749
+"CERS6","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.013","0.047","0.987","7.79e-01",NA,NA,NA,3.09e-05
+"PDIA5","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.007","0.026","0.993","7.80e-01",NA,NA,NA,5.41e-05
+"RNU6-380P","Stem-cell-iPSC","ASD","Wald ratio",1," 0.015","0.053","1.015","7.81e-01",NA,NA,NA,4.93e-05
+"KRT18P56","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.014","0.050","0.986","7.81e-01",NA,NA,NA,3.12e-05
+"GPIHBP1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.012","0.044","1.012","7.81e-01",NA,NA,NA,1.18e-05
+"AKAP7","Stem-cell-iPSC","ASD","Wald ratio",1," 0.031","0.113","1.032","7.81e-01",NA,NA,NA,0.009735632
+"TBX20","Stem-cell-iPSC","ASD","Wald ratio",1," 0.017","0.061","1.017","7.82e-01",NA,NA,NA,0.004498966
+"LY75","Stem-cell-iPSC","ASD","Wald ratio",1," 0.006","0.020","1.006","7.82e-01",NA,NA,NA,0.006585291
+"LINC00540","Stem-cell-iPSC","ASD","Simple mode",3,"-0.012","0.037","0.988","7.82e-01",0.244766452,0.322211112,0.562337522,2.52e-06
+"PROK2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.011","0.040","1.011","7.83e-01",NA,NA,NA,0.000111904
+"OR4D5","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.005","0.018","0.995","7.83e-01",NA,NA,NA,0.000360748
+"BIVM","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.011","0.041","0.989","7.84e-01",NA,NA,NA,0.007116444
+"GFRA4","Stem-cell-iPSC","ASD","Wald ratio",1," 0.018","0.065","1.018","7.85e-01",NA,NA,NA,0.009566177
+"ADARB2","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.007","0.024","1.007","7.87e-01",NA,0.82853117,NA,0.000917064
+"SSUH2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.006","0.023","0.994","7.87e-01",NA,NA,NA,7.26e-06
+"CYB5A","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.014","0.053","0.986","7.87e-01",NA,NA,NA,0.000145516
+"HMGA1P7","Stem-cell-iPSC","ASD","Wald ratio",1," 0.006","0.021","1.006","7.88e-01",NA,NA,NA,0.005187996
+"OR1M4P","Stem-cell-iPSC","ASD","Wald ratio",1," 0.005","0.019","1.005","7.88e-01",NA,NA,NA,3.28e-05
+"SCN8A","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.010","0.035","0.991","7.88e-01",NA,NA,NA,3.1e-06
+"FGD3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.013","0.047","0.987","7.88e-01",NA,NA,NA,0.002704762
+"FAR1P1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.010","0.037","1.010","7.88e-01",NA,NA,NA,5.23e-05
+"GRM8","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.007","0.024","0.994","7.88e-01",NA,NA,NA,3.86e-06
+"GALR1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.006","0.021","1.006","7.89e-01",NA,NA,NA,0.008044174
+"KCNQ3","Stem-cell-iPSC","ASD","Weighted mode",3," 0.007","0.022","1.007","7.90e-01",0.220046933,0.053003951,0.337741754,7.94e-06
+"PBX1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.009","0.035","0.991","7.90e-01",NA,NA,NA,7.16e-06
+"VEPH1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.012","0.045","0.988","7.91e-01",NA,NA,NA,5.89e-05
+"SLC35B3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.007","0.025","0.993","7.91e-01",NA,NA,NA,0.000127012
+"MED6P1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.006","0.023","0.994","7.93e-01",NA,NA,NA,4.97e-06
+"PRICKLE2-AS3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.009","0.035","0.991","7.94e-01",NA,NA,NA,0.004398047
+"DOCK5","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.006","0.024","0.994","7.95e-01",NA,NA,NA,0.006680256
+"LMO4","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.005","0.018","0.995","7.96e-01",NA,NA,NA,0.007306673
+"MUC7","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.006","0.022","0.994","7.96e-01",NA,NA,NA,1.34e-05
+"DOCK10","Stem-cell-iPSC","ASD","Wald ratio",1," 0.013","0.051","1.013","7.98e-01",NA,NA,NA,0.000173117
+"MED30","Stem-cell-iPSC","ASD","Wald ratio",1," 0.006","0.025","1.006","7.98e-01",NA,NA,NA,5.96e-05
+"FAM212B","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.016","0.062","0.984","7.98e-01",NA,NA,NA,0.00058978
+"HNRNPA1P57","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.044","0.175","0.957","8.00e-01",NA,NA,NA,0.014927274
+"CHRNB3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.017","0.069","0.983","8.00e-01",NA,NA,NA,0.001555743
+"ANKS1B","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.016","0.063","0.984","8.00e-01",NA,NA,NA,0.004847078
+"MEF2D","Stem-cell-iPSC","ASD","Wald ratio",1," 0.007","0.026","1.007","8.01e-01",NA,NA,NA,0.005416314
+"NAV3","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.008","0.032","0.992","8.02e-01",NA,0.600719315,NA,2.62e-05
+"CSGALNACT1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.014","0.056","1.014","8.04e-01",NA,NA,NA,0.000159423
+"TFEB","Stem-cell-iPSC","ASD","Wald ratio",1," 0.011","0.045","1.011","8.04e-01",NA,NA,NA,9.66e-05
+"PICALM","Stem-cell-iPSC","ASD","Wald ratio",1," 0.020","0.080","1.020","8.04e-01",NA,NA,NA,0.007400469
+"EDAR","Stem-cell-iPSC","ASD","Wald ratio",1," 0.011","0.043","1.011","8.05e-01",NA,NA,NA,0.003189022
+"RERGL","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.007","0.027","0.993","8.05e-01",NA,NA,NA,4.07e-06
+"SIRT1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.016","0.067","1.017","8.05e-01",NA,NA,NA,0.000113719
+"IBTK","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.006","0.023","0.994","8.06e-01",NA,NA,NA,2.98e-06
+"KRT18P17","Stem-cell-iPSC","ASD","Wald ratio",1," 0.005","0.019","1.005","8.07e-01",NA,NA,NA,0.000220093
+"STAB2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.005","0.022","0.995","8.07e-01",NA,NA,NA,3.52e-06
+"FAM49A","Stem-cell-iPSC","ASD","Wald ratio",1," 0.010","0.042","1.010","8.07e-01",NA,NA,NA,2.03e-05
+"HDDC2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.006","0.025","0.994","8.08e-01",NA,NA,NA,1.58e-05
+"MIR4300HG","Stem-cell-iPSC","ASD","Wald ratio",1," 0.008","0.031","1.008","8.08e-01",NA,NA,NA,1.19e-05
+"MAGI1-AS1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.005","0.021","1.005","8.08e-01",NA,NA,NA,1.13e-05
+"CDH13","Stem-cell-iPSC","ASD","MR Egger",3," 0.066","0.212","1.068","8.08e-01",0.234279997,0.47846277,0.871049852,0.000849752
+"FOXF2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.004","0.018","0.996","8.09e-01",NA,NA,NA,0.007389082
+"DLGAP1-AS4","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.010","0.040","0.990","8.09e-01",NA,NA,NA,5.94e-05
+"OLFML3","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.009","0.039","1.009","8.10e-01",NA,0.23526615,NA,0.009768104
+"HEPACAM","Stem-cell-iPSC","ASD","Wald ratio",1," 0.015","0.061","1.015","8.10e-01",NA,NA,NA,0.001797422
+"CCKAR","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.012","0.049","0.988","8.10e-01",NA,NA,NA,1.92e-05
+"CNTNAP2","Stem-cell-iPSC","ASD","Simple mode",5," 0.004","0.015","1.004","8.11e-01",0.423192454,0.57656301,0.78706089,2.57e-05
+"LINC00583","Stem-cell-iPSC","ASD","Wald ratio",1," 0.010","0.043","1.010","8.12e-01",NA,NA,NA,0.000197078
+"RNU6-329P","Stem-cell-iPSC","ASD","Wald ratio",1," 0.020","0.082","1.020","8.12e-01",NA,NA,NA,0.000374936
+"SCEL","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.007","0.029","0.993","8.12e-01",NA,NA,NA,0.006991895
+"COL4A2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.012","0.049","1.012","8.12e-01",NA,NA,NA,7.67e-05
+"LINC01483","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.005","0.019","0.995","8.13e-01",NA,NA,NA,7.44e-06
+"C2orf88","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.005","0.022","0.995","8.13e-01",NA,NA,NA,0.003169076
+"RIN2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.005","0.019","1.005","8.14e-01",NA,NA,NA,6.56e-06
+"THSD7B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.009","0.037","1.009","8.16e-01",NA,NA,NA,6.18e-05
+"NUS1P3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.017","0.074","1.017","8.17e-01",NA,NA,NA,0.005808657
+"VENTXP4","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.025","0.108","0.975","8.18e-01",NA,NA,NA,0.005932549
+"PCBP3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.005","0.021","1.005","8.18e-01",NA,NA,NA,4.12e-06
+"FAM184B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.012","0.050","1.012","8.18e-01",NA,NA,NA,0.007258578
+"FGD4","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.004","0.018","1.004","8.18e-01",NA,0.236834205,NA,9.68e-06
+"OXR1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.016","0.071","0.984","8.19e-01",NA,NA,NA,0.000267076
+"HSF2BP","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.004","0.019","0.996","8.19e-01",NA,NA,NA,2.89e-06
+"ACSM6","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.021","0.094","0.979","8.19e-01",NA,NA,NA,0.008666208
+"RNU6-175P","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.009","0.039","0.991","8.20e-01",NA,NA,NA,3.76e-06
+"SMOX","Stem-cell-iPSC","ASD","Wald ratio",1," 0.007","0.030","1.007","8.20e-01",NA,NA,NA,7.36e-06
+"CHRNA7","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.006","0.025","0.994","8.20e-01",NA,NA,NA,0.000116224
+"KCNQ3","Stem-cell-iPSC","ASD","Inverse variance weighted",3," 0.006","0.029","1.007","8.20e-01",0.220046933,0.053003951,0.337741754,7.94e-06
+"RNU1-139P","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.005","0.022","0.995","8.22e-01",NA,NA,NA,0.001081557
+"RASSF5","Stem-cell-iPSC","ASD","Wald ratio",1," 0.011","0.050","1.011","8.24e-01",NA,NA,NA,0.004750374
+"NCF2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.011","0.050","0.989","8.24e-01",NA,NA,NA,0.002112449
+"FAM195DP","Stem-cell-iPSC","ASD","Wald ratio",1," 0.005","0.023","1.005","8.24e-01",NA,NA,NA,4e-05
+"TTC7B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.008","0.035","1.008","8.24e-01",NA,NA,NA,1.27e-05
+"ANGPT1","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.005","0.021","0.995","8.26e-01",NA,0.872467684,NA,0.002773274
+"BORCS5","Stem-cell-iPSC","ASD","Wald ratio",1," 0.005","0.024","1.005","8.27e-01",NA,NA,NA,7.59e-06
+"SH3GL2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.019","0.085","0.982","8.28e-01",NA,NA,NA,0.006998398
+"PHF2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.013","0.061","0.987","8.28e-01",NA,NA,NA,0.000108566
+"ZMIZ1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.014","0.066","0.986","8.29e-01",NA,NA,NA,0.000133942
+"WFS1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.028","0.132","1.029","8.30e-01",NA,NA,NA,0.003133791
+"DAB1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.011","0.051","1.011","8.30e-01",NA,NA,NA,0.007343491
+"DESI2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.005","0.023","1.005","8.31e-01",NA,NA,NA,1.48e-05
+"MLLT3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.018","0.086","0.982","8.31e-01",NA,NA,NA,2.51e-05
+"VIT","Stem-cell-iPSC","ASD","Wald ratio",1," 0.004","0.020","1.004","8.31e-01",NA,NA,NA,0.007572282
+"ART5","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.009","0.040","0.991","8.31e-01",NA,NA,NA,0.008041297
+"VDAC1P9","Stem-cell-iPSC","ASD","Wald ratio",1," 0.006","0.028","1.006","8.31e-01",NA,NA,NA,5.21e-05
+"ASTN2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.009","0.042","0.991","8.32e-01",NA,NA,NA,0.000893707
+"MEGF11","Stem-cell-iPSC","ASD","Wald ratio",1," 0.005","0.023","1.005","8.32e-01",NA,NA,NA,4.14e-06
+"STARP1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.005","0.024","1.005","8.33e-01",NA,NA,NA,1.77e-06
+"SLC7A1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.006","0.030","0.994","8.34e-01",NA,NA,NA,0.000487828
+"SFRP4","Stem-cell-iPSC","ASD","Wald ratio",1," 0.004","0.021","1.004","8.34e-01",NA,NA,NA,0.006868254
+"MTND5P17","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.005","0.023","0.995","8.35e-01",NA,NA,NA,6.09e-05
+"PIGP","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.005","0.024","0.995","8.35e-01",NA,NA,NA,0.006974177
+"LINC01234","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.007","0.036","0.993","8.36e-01",NA,NA,NA,4.15e-06
+"LINC00922","Stem-cell-iPSC","ASD","Wald ratio",1," 0.016","0.077","1.016","8.36e-01",NA,NA,NA,5.71e-06
+"MTO1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.005","0.024","0.995","8.37e-01",NA,NA,NA,1.44e-05
+"BICD2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.010","0.047","0.990","8.38e-01",NA,NA,NA,1.69e-05
+"TRPM3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.005","0.023","1.005","8.38e-01",NA,NA,NA,0.003027698
+"CIDEA","Stem-cell-iPSC","ASD","Wald ratio",1," 0.012","0.057","1.012","8.39e-01",NA,NA,NA,0.000128287
+"COL24A1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.024","0.119","1.025","8.39e-01",NA,NA,NA,0.010151603
+"MTCO1P47","Stem-cell-iPSC","ASD","Wald ratio",1," 0.007","0.037","1.007","8.39e-01",NA,NA,NA,6.28e-05
+"SCAF11","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.006","0.030","0.994","8.40e-01",NA,NA,NA,3.49e-06
+"KLHL23","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.004","0.020","0.996","8.41e-01",NA,NA,NA,0.003111172
+"IGFBP7","Stem-cell-iPSC","ASD","Wald ratio",1," 0.015","0.076","1.015","8.41e-01",NA,NA,NA,0.000784219
+"RNU6-889P","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.006","0.028","0.994","8.42e-01",NA,NA,NA,9.9e-06
+"RPSAP74","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.004","0.019","0.996","8.43e-01",NA,NA,NA,0.007354251
+"CDH4","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.007","0.036","0.993","8.44e-01",NA,0.245515763,NA,0.010870534
+"PPP1R21","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.014","0.072","0.986","8.44e-01",NA,NA,NA,4.2e-05
+"LINC00698","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.004","0.018","0.996","8.45e-01",NA,NA,NA,5e-05
+"ALDH18A1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.006","0.030","0.994","8.46e-01",NA,NA,NA,1.67e-05
+"MTRR","Stem-cell-iPSC","ASD","Wald ratio",1," 0.008","0.041","1.008","8.46e-01",NA,NA,NA,0.003745233
+"BTBD7","Stem-cell-iPSC","ASD","Wald ratio",1," 0.012","0.063","1.012","8.47e-01",NA,NA,NA,0.000732228
+"TRPS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.009","0.045","0.991","8.47e-01",NA,NA,NA,2.78e-05
+"S100A14","Stem-cell-iPSC","ASD","Wald ratio",1," 0.011","0.058","1.011","8.48e-01",NA,NA,NA,0.002221322
+"VAV2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.005","0.024","1.005","8.48e-01",NA,NA,NA,8.89e-06
+"RABGAP1L","Stem-cell-iPSC","ASD","Wald ratio",1," 0.004","0.022","1.004","8.48e-01",NA,NA,NA,0.00304607
+"WWC1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.005","0.028","1.005","8.48e-01",NA,NA,NA,1.38e-05
+"CREB5","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.005","0.026","1.005","8.51e-01",NA,0.16224504,NA,3.2e-06
+"MET","Stem-cell-iPSC","ASD","Wald ratio",1," 0.004","0.023","1.004","8.51e-01",NA,NA,NA,7.72e-05
+"PRKG1","Stem-cell-iPSC","ASD","Inverse variance weighted",3,"-0.007","0.039","0.993","8.51e-01",0.029706367,0.042524726,0.665469078,2.13e-05
+"SLC26A4-AS1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.004","0.024","1.004","8.53e-01",NA,NA,NA,3.81e-06
+"RN7SKP93","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.005","0.027","0.995","8.53e-01",NA,NA,NA,7.17e-06
+"RPL7P48","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.009","0.047","0.991","8.54e-01",NA,NA,NA,1.27e-05
+"PRRC2B","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.004","0.021","0.996","8.56e-01",NA,NA,NA,2.73e-06
+"SYNE3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.004","0.020","0.996","8.58e-01",NA,NA,NA,7.64e-05
+"CHKA","Stem-cell-iPSC","ASD","Wald ratio",1," 0.007","0.040","1.007","8.58e-01",NA,NA,NA,3.61e-06
+"SCARA5","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.004","0.020","0.996","8.59e-01",NA,0.776778869,NA,0.000140484
+"CNTNAP2","Stem-cell-iPSC","ASD","MR Egger",5,"-0.019","0.100","0.981","8.59e-01",0.423192454,0.57656301,0.78706089,2.57e-05
+"MYO5B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.005","0.031","1.005","8.60e-01",NA,NA,NA,1.31e-05
+"PBLD","Stem-cell-iPSC","ASD","Wald ratio",1," 0.005","0.026","1.005","8.60e-01",NA,NA,NA,6.41e-05
+"SLC15A5","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.006","0.036","0.994","8.60e-01",NA,NA,NA,0.000289442
+"SPPL2A","Stem-cell-iPSC","ASD","Wald ratio",1," 0.004","0.023","1.004","8.62e-01",NA,NA,NA,8.96e-06
+"PACSIN2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.007","0.038","1.007","8.64e-01",NA,NA,NA,1.12e-05
+"RPS6KB1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.004","0.024","0.996","8.64e-01",NA,NA,NA,1.86e-05
+"PUS7L","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.003","0.017","0.997","8.66e-01",NA,NA,NA,0.000109496
+"C8orf37-AS1","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.010","0.060","1.010","8.66e-01",NA,0.052292262,NA,0.003857024
+"SMYD1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.003","0.019","0.997","8.67e-01",NA,NA,NA,0.006923353
+"STK10","Stem-cell-iPSC","ASD","Wald ratio",1," 0.004","0.021","1.004","8.67e-01",NA,NA,NA,1.02e-05
+"MAP3K7","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.006","0.039","0.994","8.67e-01",NA,NA,NA,1.84e-05
+"ARHGAP42","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.007","0.044","0.993","8.67e-01",NA,NA,NA,0.002064736
+"RASGRF1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.009","0.057","0.991","8.69e-01",NA,NA,NA,7.99e-06
+"CRTAC1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.006","0.038","1.006","8.69e-01",NA,NA,NA,2.61e-05
+"PTPRD","Stem-cell-iPSC","ASD","MR Egger",4," 0.006","0.030","1.006","8.70e-01",0.430025,0.639279416,0.971401991,0.001647924
+"KCNC2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.010","0.064","1.010","8.71e-01",NA,NA,NA,1.3e-05
+"TSPAN14","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.004","0.024","0.996","8.72e-01",NA,NA,NA,0.000366699
+"RASGRP3","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.005","0.030","1.005","8.72e-01",NA,0.629281594,NA,1.89e-05
+"RN7SKP199","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.008","0.050","0.992","8.74e-01",NA,NA,NA,9.09e-05
+"PPM1H","Stem-cell-iPSC","ASD","Wald ratio",1," 0.003","0.020","1.003","8.74e-01",NA,NA,NA,8.75e-06
+"USP13","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.004","0.026","0.996","8.75e-01",NA,NA,NA,0.009780411
+"AMOTL1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.009","0.057","1.009","8.77e-01",NA,NA,NA,0.00018322
+"PTPRD","Stem-cell-iPSC","ASD","Weighted median",4," 0.003","0.017","1.003","8.77e-01",0.430025,0.639279416,0.971401991,0.001647924
+"CDK14","Stem-cell-iPSC","ASD","Simple mode",3," 0.005","0.026","1.005","8.77e-01",0.588422666,0.73918905,0.675885369,0.000403487
+"ANKDD1B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.009","0.057","1.009","8.78e-01",NA,NA,NA,3.25e-05
+"SUSD1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.004","0.024","0.996","8.79e-01",NA,NA,NA,0.000135966
+"SVIL","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.003","0.018","0.997","8.79e-01",NA,NA,NA,0.00113433
+"CNTN1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.003","0.021","0.997","8.80e-01",NA,NA,NA,0.005508364
+"TSPAN5","Stem-cell-iPSC","ASD","Wald ratio",1," 0.006","0.037","1.006","8.80e-01",NA,NA,NA,0.00216289
+"DSCAML1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.005","0.035","0.995","8.81e-01",NA,NA,NA,0.000149904
+"LINC01267","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.003","0.023","0.997","8.81e-01",NA,NA,NA,0.007262606
+"LINC00578","Stem-cell-iPSC","ASD","Wald ratio",1," 0.003","0.023","1.003","8.82e-01",NA,NA,NA,0.000689897
+"CCSER1","Stem-cell-iPSC","ASD","Inverse variance weighted",3,"-0.005","0.036","0.995","8.82e-01",0.02416773,0.021932223,0.607245037,0.000265622
+"RELN","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.004","0.029","1.004","8.83e-01",NA,0.166646496,NA,5.93e-06
+"RAD23B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.006","0.041","1.006","8.85e-01",NA,NA,NA,9.17e-05
+"GFPT2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.002","0.017","0.998","8.85e-01",NA,NA,NA,0.001359891
+"PTPRD","Stem-cell-iPSC","ASD","Weighted mode",4," 0.003","0.016","1.003","8.85e-01",0.430025,0.639279416,0.971401991,0.001647924
+"NEK6","Stem-cell-iPSC","ASD","Wald ratio",1," 0.007","0.049","1.007","8.87e-01",NA,NA,NA,7.05e-05
+"NFE2L3P1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.005","0.039","1.006","8.87e-01",NA,NA,NA,6.13e-06
+"ARPC3P5","Stem-cell-iPSC","ASD","Wald ratio",1," 0.011","0.079","1.011","8.88e-01",NA,NA,NA,0.008685121
+"UMAD1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.003","0.021","1.003","8.88e-01",NA,NA,NA,0.007798004
+"RN7SL58P","Stem-cell-iPSC","ASD","Wald ratio",1," 0.010","0.071","1.010","8.90e-01",NA,NA,NA,0.009749545
+"TAS2R16","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.003","0.024","0.997","8.90e-01",NA,NA,NA,6.44e-06
+"PAG1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.003","0.024","1.003","8.92e-01",NA,NA,NA,7.29e-06
+"SNORD13","Stem-cell-iPSC","ASD","Wald ratio",1," 0.003","0.025","1.003","8.93e-01",NA,NA,NA,0.00036208
+"KDM4C","Stem-cell-iPSC","ASD","Wald ratio",1," 0.003","0.026","1.003","8.93e-01",NA,NA,NA,8.45e-06
+"LINC01198","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.010","0.072","0.990","8.94e-01",NA,NA,NA,5.65e-05
+"ADAM29","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.012","0.088","0.988","8.94e-01",NA,NA,NA,0.000135358
+"GACAT1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.013","0.097","1.013","8.94e-01",NA,NA,NA,0.008052735
+"SOX2-OT","Stem-cell-iPSC","ASD","Wald ratio",1," 0.003","0.022","1.003","8.96e-01",NA,NA,NA,2.93e-06
+"NAA16","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.005","0.042","0.995","8.97e-01",NA,NA,NA,0.000310661
+"OFCC1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.005","0.039","1.005","8.97e-01",NA,NA,NA,0.000718901
+"SGCD","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.003","0.027","0.997","8.98e-01",NA,NA,NA,3.39e-06
+"KCNQ3","Stem-cell-iPSC","ASD","Simple mode",3," 0.005","0.032","1.005","8.99e-01",0.220046933,0.053003951,0.337741754,7.94e-06
+"LINC01207","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.005","0.037","0.995","8.99e-01",NA,NA,NA,1.91e-05
+"LINC00540","Stem-cell-iPSC","ASD","Weighted median",3," 0.008","0.062","1.008","8.99e-01",0.244766452,0.322211112,0.562337522,2.52e-06
+"DGKI","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.005","0.040","0.995","8.99e-01",NA,NA,NA,4.84e-06
+"ICA1L","Stem-cell-iPSC","ASD","Wald ratio",1," 0.003","0.020","1.003","9.00e-01",NA,NA,NA,7.63e-06
+"FAM210B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.003","0.025","1.003","9.00e-01",NA,NA,NA,0.001742734
+"NRXN3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.007","0.059","1.007","9.01e-01",NA,NA,NA,0.006326408
+"RYR3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.006","0.050","0.994","9.01e-01",NA,NA,NA,0.001250346
+"LINC00540","Stem-cell-iPSC","ASD","Weighted mode",3," 0.003","0.022","1.003","9.02e-01",0.244766452,0.322211112,0.562337522,2.52e-06
+"CLVS1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.006","0.047","1.006","9.02e-01",NA,NA,NA,0.004003191
+"ASAH1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.004","0.036","1.004","9.03e-01",NA,NA,NA,5.75e-06
+"SRRM1P2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.008","0.064","1.008","9.03e-01",NA,NA,NA,0.002888906
+"FAM234A","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.004","0.033","0.996","9.04e-01",NA,NA,NA,1.45e-05
+"SERGEF","Stem-cell-iPSC","ASD","Wald ratio",1," 0.002","0.021","1.002","9.09e-01",NA,NA,NA,0.000286767
+"SGK1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.003","0.022","0.997","9.10e-01",NA,NA,NA,2.4e-06
+"DPYSL2","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.005","0.047","0.995","9.11e-01",NA,NA,NA,1.85e-05
+"LIMD1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.004","0.037","0.996","9.11e-01",NA,NA,NA,0.00124662
+"PPARGC1A","Stem-cell-iPSC","ASD","Wald ratio",1," 0.003","0.024","1.003","9.14e-01",NA,NA,NA,0.005935078
+"PRMT8","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.007","0.061","0.993","9.14e-01",NA,NA,NA,0.000194484
+"CEP128","Stem-cell-iPSC","ASD","Wald ratio",1," 0.002","0.021","1.002","9.15e-01",NA,NA,NA,4.2e-06
+"ATG2B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.003","0.025","1.003","9.18e-01",NA,NA,NA,8.94e-05
+"RPEP2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.003","0.027","1.003","9.19e-01",NA,NA,NA,6.6e-06
+"MIR1303","Stem-cell-iPSC","ASD","Wald ratio",1," 0.009","0.083","1.009","9.19e-01",NA,NA,NA,0.000276508
+"RN7SKP14","Stem-cell-iPSC","ASD","Wald ratio",1," 0.002","0.023","1.002","9.19e-01",NA,NA,NA,7.07e-06
+"FTH1P5","Stem-cell-iPSC","ASD","Wald ratio",1," 0.004","0.044","1.004","9.19e-01",NA,NA,NA,0.005895977
+"PARD3","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.014","0.136","0.986","9.19e-01",NA,NA,NA,0.000228548
+"PARD3B","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.002","0.022","0.998","9.20e-01",NA,NA,NA,1.66e-06
+"CPO","Stem-cell-iPSC","ASD","Wald ratio",1," 0.004","0.036","1.004","9.20e-01",NA,NA,NA,0.000127387
+"ZNF385B","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.006","0.057","0.994","9.21e-01",NA,NA,NA,0.000789198
+"SEMA3D","Stem-cell-iPSC","ASD","Wald ratio",1," 0.004","0.037","1.004","9.21e-01",NA,NA,NA,1.82e-05
+"COLEC12","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.006","0.064","0.994","9.21e-01",NA,NA,NA,0.00753119
+"SVIL-AS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.004","0.038","0.996","9.22e-01",NA,NA,NA,4.91e-05
+"NME7","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.002","0.017","0.998","9.22e-01",NA,NA,NA,2e-05
+"NAALADL2","Stem-cell-iPSC","ASD","MR Egger",3," 0.011","0.089","1.011","9.24e-01",0.201644348,0.379693648,0.739605679,1.27e-05
+"WARS2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.006","0.067","1.006","9.24e-01",NA,NA,NA,0.002248146
+"ITGBL1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.002","0.024","1.002","9.24e-01",NA,NA,NA,2.36e-05
+"RPS3AP1","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.002","0.017","1.002","9.24e-01",NA,0.932046634,NA,2.66e-05
+"KIAA1671","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.005","0.052","0.995","9.25e-01",NA,NA,NA,2.61e-05
+"SBF2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.002","0.025","1.002","9.27e-01",NA,NA,NA,0.001537526
+"MYRIP","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.003","0.029","0.997","9.28e-01",NA,NA,NA,1.45e-05
+"COL26A1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.002","0.020","0.998","9.29e-01",NA,NA,NA,8.22e-06
+"LINC01264","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.003","0.029","0.997","9.29e-01",NA,NA,NA,5.89e-06
+"AGBL1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.003","0.039","1.003","9.31e-01",NA,NA,NA,4.23e-05
+"TCERG1L","Stem-cell-iPSC","ASD","Wald ratio",1," 0.006","0.073","1.006","9.32e-01",NA,NA,NA,0.001742957
+"LRP1B","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.003","0.031","1.003","9.34e-01",NA,0.962204113,NA,6.83e-05
+"LINC01619","Stem-cell-iPSC","ASD","Wald ratio",1," 0.004","0.047","1.004","9.37e-01",NA,NA,NA,0.005766238
+"FAT3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.001","0.018","1.001","9.37e-01",NA,NA,NA,0.000264708
+"CRYL1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.002","0.020","0.998","9.38e-01",NA,NA,NA,0.000119055
+"CORO2A","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.002","0.023","0.998","9.39e-01",NA,NA,NA,4.89e-05
+"RPL17P12","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.004","0.055","0.996","9.40e-01",NA,NA,NA,0.005408794
+"MYO16","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.001","0.019","0.999","9.41e-01",NA,0.396394815,NA,0.000981893
+"LOXHD1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.002","0.027","1.002","9.41e-01",NA,NA,NA,1.02e-05
+"OSBPL10","Stem-cell-iPSC","ASD","Simple mode",3,"-0.003","0.032","0.997","9.42e-01",0.918162257,0.49311692,0.446312233,3.3e-05
+"FRMD4A","Stem-cell-iPSC","ASD","Weighted mode",3," 0.003","0.038","1.003","9.43e-01",0.077140101,0.059624547,0.534437335,0.000251123
+"ANKRD34C-AS1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.004","0.050","1.004","9.43e-01",NA,NA,NA,0.004193801
+"HIP1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.004","0.059","0.996","9.43e-01",NA,NA,NA,0.003026118
+"MCTP1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.004","0.054","0.996","9.45e-01",NA,NA,NA,0.000233665
+"CLSTN2","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.001","0.018","1.001","9.47e-01",NA,0.282744138,NA,1.21e-05
+"LYPD5","Stem-cell-iPSC","ASD","Wald ratio",1," 0.005","0.076","1.005","9.48e-01",NA,NA,NA,0.007048259
+"FRAS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.001","0.023","0.999","9.49e-01",NA,NA,NA,4.89e-06
+"ARMC10P1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.001","0.022","0.999","9.49e-01",NA,NA,NA,0.006948353
+"LINC00620","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.002","0.024","0.998","9.49e-01",NA,NA,NA,0.000530684
+"LMCD1-AS1","Stem-cell-iPSC","ASD","Weighted median",3,"-0.005","0.081","0.995","9.49e-01",0.508766452,0.131557724,0.308064893,0.030010245
+"HMMR","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.005","0.085","0.995","9.50e-01",NA,NA,NA,0.007309175
+"PAK7","Stem-cell-iPSC","ASD","Wald ratio",1," 0.001","0.021","1.001","9.50e-01",NA,NA,NA,1.4e-05
+"PRNP","Stem-cell-iPSC","ASD","Wald ratio",1," 0.001","0.020","1.001","9.50e-01",NA,NA,NA,0.000893207
+"DNAJC15","Stem-cell-iPSC","ASD","Wald ratio",1," 0.011","0.176","1.011","9.51e-01",NA,NA,NA,0.008023963
+"SSX2IP","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.003","0.043","0.997","9.52e-01",NA,NA,NA,0.00013846
+"TSPAN9","Stem-cell-iPSC","ASD","Wald ratio",1," 0.002","0.032","1.002","9.53e-01",NA,NA,NA,1.69e-05
+"WAC","Stem-cell-iPSC","ASD","Wald ratio",1," 0.001","0.021","1.001","9.54e-01",NA,NA,NA,0.007680356
+"LINC00886","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.001","0.021","0.999","9.54e-01",NA,NA,NA,3.76e-05
+"LINC00189","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.003","0.057","0.997","9.54e-01",NA,NA,NA,3.41e-05
+"FAM134B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.003","0.044","1.003","9.54e-01",NA,NA,NA,0.006455666
+"GABRR1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.003","0.049","1.003","9.54e-01",NA,NA,NA,0.00217658
+"RNU6-725P","Stem-cell-iPSC","ASD","Wald ratio",1," 0.005","0.095","1.005","9.54e-01",NA,NA,NA,0.006945668
+"RPL5P26","Stem-cell-iPSC","ASD","Wald ratio",1," 0.001","0.025","1.001","9.55e-01",NA,NA,NA,0.001384412
+"MAP10","Stem-cell-iPSC","ASD","Wald ratio",1," 0.003","0.051","1.003","9.55e-01",NA,NA,NA,7.12e-06
+"RUNX1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.001","0.021","0.999","9.56e-01",NA,NA,NA,3.29e-06
+"PDZPH1P","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.002","0.045","0.998","9.56e-01",NA,NA,NA,2.71e-05
+"CNTLN","Stem-cell-iPSC","ASD","Inverse variance weighted",2," 0.001","0.016","1.001","9.59e-01",NA,0.746700745,NA,0.005438226
+"BDH2P1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.001","0.022","0.999","9.60e-01",NA,NA,NA,1.83e-05
+"KIAA0196","Stem-cell-iPSC","ASD","Wald ratio",1," 0.004","0.084","1.004","9.60e-01",NA,NA,NA,0.007963569
+"ROBO1","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.002","0.033","0.998","9.61e-01",NA,0.039759751,NA,4.91e-05
+"PARK2","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.002","0.034","0.998","9.61e-01",NA,0.206574755,NA,0.000140867
+"RIMS2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.001","0.021","1.001","9.62e-01",NA,NA,NA,0.000148283
+"HAS2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.003","0.056","1.003","9.62e-01",NA,NA,NA,0.000314303
+"AKTIP","Stem-cell-iPSC","ASD","Wald ratio",1," 0.002","0.037","1.002","9.63e-01",NA,NA,NA,5.8e-06
+"STXBP6","Stem-cell-iPSC","ASD","Inverse variance weighted",2,"-0.002","0.034","0.998","9.63e-01",NA,0.084102085,NA,0.000218688
+"ANKS4B","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.002","0.048","0.998","9.63e-01",NA,NA,NA,1.17e-05
+"FNDC3B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.001","0.023","1.001","9.66e-01",NA,NA,NA,1.46e-05
+"TMEM74","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.002","0.049","0.998","9.66e-01",NA,NA,NA,0.003922763
+"SHROOM3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.001","0.023","1.001","9.67e-01",NA,NA,NA,5.01e-05
+"PTPRD","Stem-cell-iPSC","ASD","Simple mode",4," 0.001","0.021","1.001","9.67e-01",0.430025,0.639279416,0.971401991,0.001647924
+"KLHL5","Stem-cell-iPSC","ASD","Wald ratio",1," 0.002","0.044","1.002","9.67e-01",NA,NA,NA,0.00019591
+"C2orf40","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.002","0.052","0.998","9.67e-01",NA,NA,NA,0.00699976
+"COX10-AS1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.002","0.046","0.998","9.69e-01",NA,NA,NA,3.27e-05
+"RNF150","Stem-cell-iPSC","ASD","Wald ratio",1," 0.003","0.066","1.003","9.69e-01",NA,NA,NA,0.004647743
+"EEF1A1P27","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.001","0.020","0.999","9.71e-01",NA,NA,NA,0.000210401
+"DOCK4","Stem-cell-iPSC","ASD","Wald ratio",1," 0.001","0.027","1.001","9.72e-01",NA,NA,NA,2.05e-06
+"VAMP1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.001","0.033","0.999","9.73e-01",NA,NA,NA,0.003614061
+"LINC00680","Stem-cell-iPSC","ASD","Wald ratio",1," 0.001","0.025","1.001","9.74e-01",NA,NA,NA,2.65e-06
+"LMCD1-AS1","Stem-cell-iPSC","ASD","Inverse variance weighted",3,"-0.001","0.033","0.999","9.75e-01",0.508766452,0.131557724,0.308064893,0.030010245
+"EPDR1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.001","0.038","1.001","9.75e-01",NA,NA,NA,0.004006948
+"ANXA2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.001","0.027","1.001","9.75e-01",NA,NA,NA,0.001043558
+"MFAP3L","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.001","0.023","0.999","9.77e-01",NA,NA,NA,1.71e-05
+"RPL7L1P9","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.001","0.021","0.999","9.77e-01",NA,NA,NA,4.47e-06
+"C8orf34","Stem-cell-iPSC","ASD","Wald ratio",1," 0.001","0.040","1.001","9.77e-01",NA,NA,NA,1.16e-05
+"C21orf33","Stem-cell-iPSC","ASD","Wald ratio",1," 0.001","0.052","1.001","9.77e-01",NA,NA,NA,9.09e-05
+"TBC1D9B","Stem-cell-iPSC","ASD","Wald ratio",1," 0.001","0.046","1.001","9.78e-01",NA,NA,NA,0.004306656
+"LINC01115","Stem-cell-iPSC","ASD","Wald ratio",1," 0.001","0.039","1.001","9.78e-01",NA,NA,NA,4.9e-05
+"RNU6-765P","Stem-cell-iPSC","ASD","Wald ratio",1," 0.001","0.021","1.001","9.78e-01",NA,NA,NA,0.000969923
+"ESRRB","Stem-cell-iPSC","ASD","Wald ratio",1," 0.002","0.076","1.002","9.79e-01",NA,NA,NA,4.02e-05
+"ZDHHC8P1","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.001","0.050","0.999","9.79e-01",NA,NA,NA,4.23e-05
+"TSPAN13","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.001","0.021","0.999","9.80e-01",NA,NA,NA,0.005308547
+"FUNDC2P2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.001","0.024","1.001","9.80e-01",NA,NA,NA,4.98e-06
+"NFIA","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.001","0.056","0.999","9.81e-01",NA,NA,NA,0.000628537
+"RNA5SP73","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.001","0.040","0.999","9.83e-01",NA,NA,NA,9.55e-06
+"ELP3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.001","0.055","1.001","9.83e-01",NA,NA,NA,0.006936048
+"TIAM1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.000","0.023","1.000","9.83e-01",NA,NA,NA,1.87e-05
+"GNG12-AS1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.001","0.052","1.001","9.84e-01",NA,NA,NA,0.007473772
+"SNTG2","Stem-cell-iPSC","ASD","Wald ratio",1," 0.002","0.083","1.002","9.85e-01",NA,NA,NA,0.00768753
+"WBP11P1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.001","0.039","1.001","9.87e-01",NA,NA,NA,1.39e-05
+"MIR548A1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.000","0.024","1.000","9.88e-01",NA,NA,NA,0.00097897
+"PHGDH","Stem-cell-iPSC","ASD","Wald ratio",1," 0.002","0.115","1.002","9.89e-01",NA,NA,NA,0.007081976
+"KANK4","Stem-cell-iPSC","ASD","Wald ratio",1," 0.000","0.023","1.000","9.89e-01",NA,NA,NA,5.75e-06
+"CNTN5","Stem-cell-iPSC","ASD","Wald ratio",1," 0.000","0.024","1.000","9.89e-01",NA,NA,NA,8.67e-06
+"DENND2A","Stem-cell-iPSC","ASD","Wald ratio",1," 0.001","0.050","1.001","9.89e-01",NA,NA,NA,4.42e-05
+"FGF12","Stem-cell-iPSC","ASD","Wald ratio",1," 0.000","0.022","1.000","9.90e-01",NA,NA,NA,3.56e-05
+"SEMA6D","Stem-cell-iPSC","ASD","Wald ratio",1," 0.001","0.064","1.001","9.90e-01",NA,NA,NA,0.007956944
+"KLHL29","Stem-cell-iPSC","ASD","Wald ratio",1," 0.000","0.041","1.000","9.94e-01",NA,NA,NA,7.41e-06
+"RPS15AP5","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.001","0.091","0.999","9.94e-01",NA,NA,NA,0.007714574
+"TBC1D5","Stem-cell-iPSC","ASD","Wald ratio",1," 0.000","0.024","1.000","9.94e-01",NA,NA,NA,2e-06
+"IGF1R","Stem-cell-iPSC","ASD","Wald ratio",1," 0.000","0.021","1.000","9.94e-01",NA,NA,NA,5.3e-05
+"SLC35F4","Stem-cell-iPSC","ASD","Wald ratio",1," 0.000","0.049","1.000","9.95e-01",NA,NA,NA,6.46e-06
+"HSPA12A","Stem-cell-iPSC","ASD","Wald ratio",1,"-0.001","0.119","0.999","9.95e-01",NA,NA,NA,0.008349833
+"GLI3","Stem-cell-iPSC","ASD","Wald ratio",1," 0.000","0.019","1.000","1.00e+00",NA,NA,NA,4.31e-05
+"PNRC2P1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.000","0.035","1.000","1.00e+00",NA,NA,NA,3.89e-05
+"ERAP1","Stem-cell-iPSC","ASD","Wald ratio",1," 0.000","0.049","1.000","1.00e+00",NA,NA,NA,2.21e-05

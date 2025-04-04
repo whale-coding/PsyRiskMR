@@ -1,0 +1,201 @@
+Gene,Tissue,Psychiatry,Method,Nsnp,OR,Pvalue,Q_Pvalue(MREgger),Q_Pvalue(IVW),Pvalue(Intercept),PPH4
+C3orf62,Brain Nucleus accumbens basal ganglia,ED,Wald ratio,1,0.817,1.20E-12,NA,NA,NA,0.390298855
+IMPDH2,Brain Spinal cord cervical,ED,Wald ratio,1,0.871,3.29E-10,NA,NA,NA,0.68582884
+CDH10,Brain Spinal cord cervical,ED,Wald ratio,1,0.857,5.75E-08,NA,NA,NA,0.830299014
+COL7A1,Brain Putamen basal ganglia,ED,Wald ratio,1,0.924,2.18E-06,NA,NA,NA,0.103518143
+CTNNB1,Brain Hippocampus,ED,Wald ratio,1,1.113,5.91E-06,NA,NA,NA,0.994525131
+CTNNB1,Brain Cortex,ED,Wald ratio,1,1.542,7.54E-06,NA,NA,NA,0.993212632
+LGALS8,Brain Hippocampus,ED,Wald ratio,1,1.201,8.42E-06,NA,NA,NA,0.456836674
+RPS26,Brain Cortex,ED,Wald ratio,1,0.826,1.37E-05,NA,NA,NA,0.988224746
+ERBB3,Brain Cortex,ED,Wald ratio,1,0.33,1.37E-05,NA,NA,NA,0.988218191
+SUOX,Brain Cortex,ED,Wald ratio,1,0.793,1.37E-05,NA,NA,NA,0.988224746
+RPL41,Brain Cortex,ED,Wald ratio,1,0.426,1.37E-05,NA,NA,NA,0.988224746
+RAB5B,Brain Cortex,ED,Wald ratio,1,0.562,1.37E-05,NA,NA,NA,0.988224746
+HEMK1,Brain Hypothalamus,ED,Wald ratio,1,1.117,1.42E-05,NA,NA,NA,0.115496591
+MGMT,Brain Cortex,ED,Inverse variance weighted,2,0.869,1.57E-05,NA,0.401427694,NA,0.028342938
+MED28,Brain Putamen basal ganglia,ED,Wald ratio,1,1.155,2.05E-05,NA,NA,NA,0.12879273
+SEC24C,Brain Hypothalamus,ED,Wald ratio,1,1.13,2.52E-05,NA,NA,NA,0.368534032
+KDM8,Brain Spinal cord cervical,ED,Wald ratio,1,0.911,2.65E-05,NA,NA,NA,0.118801203
+PRKCSH,Brain Cortex,ED,Wald ratio,1,0.732,2.75E-05,NA,NA,NA,0.986846639
+PRKCSH,Brain Hippocampus,ED,Wald ratio,1,0.865,3.03E-05,NA,NA,NA,0.985051493
+MGMT,Brain Hippocampus,ED,Wald ratio,1,0.904,3.42E-05,NA,NA,NA,0.970874927
+MGMT,Brain Nucleus accumbens basal ganglia,ED,Wald ratio,1,0.92,3.42E-05,NA,NA,NA,0.972667716
+MGMT,Brain Putamen basal ganglia,ED,Wald ratio,1,0.916,3.42E-05,NA,NA,NA,0.972545849
+MGMT,Brain Spinal cord cervical,ED,Wald ratio,1,0.942,3.42E-05,NA,NA,NA,0.972679095
+RBM6,Brain Hippocampus,ED,Wald ratio,1,1.115,3.50E-05,NA,NA,NA,0.045322043
+EPHX4,Brain Hippocampus,ED,Wald ratio,1,0.885,4.30E-05,NA,NA,NA,0.053980348
+SMCO4,Brain Hypothalamus,ED,Wald ratio,1,1.073,5.10E-05,NA,NA,NA,0.977219419
+SRRM4,Brain Cortex,ED,Wald ratio,1,0.32,6.51E-05,NA,NA,NA,0.952550359
+RBM6,Brain Cortex,ED,Wald ratio,1,2.275,7.54E-05,NA,NA,NA,0.946424564
+MST1,Brain Cortex,ED,Wald ratio,1,2.959,7.54E-05,NA,NA,NA,0.944948958
+RNF123,Brain Cortex,ED,Wald ratio,1,0.754,7.54E-05,NA,NA,NA,0.945644047
+ARIH2,Brain Cortex,ED,Wald ratio,1,0.803,7.54E-05,NA,NA,NA,0.946388519
+AKR1C1,Brain Substantia nigra,ED,Wald ratio,1,0.928,8.81E-05,NA,NA,NA,0.269053328
+FAM19A2,Brain Cortex,ED,Wald ratio,1,1.444,9.24E-05,NA,NA,NA,0.958920822
+PRKCSH,Brain Putamen basal ganglia,ED,Wald ratio,1,0.873,1.03E-04,NA,NA,NA,0.075405094
+RIPPLY2,Brain Putamen basal ganglia,ED,Wald ratio,1,1.22,1.03E-04,NA,NA,NA,0.019463418
+PRKCSH,Brain Spinal cord cervical,ED,Wald ratio,1,0.936,1.03E-04,NA,NA,NA,0.959597362
+RP11-276H19.1,Brain Cortex,ED,Inverse variance weighted,2,1.174,1.05E-04,NA,0.413324655,NA,0.861049028
+USB1,Brain Hypothalamus,ED,Wald ratio,1,1.12,1.06E-04,NA,NA,NA,0.095921128
+ME1,Brain Nucleus accumbens basal ganglia,ED,Wald ratio,1,0.884,1.22E-04,NA,NA,NA,0.023919905
+HRH2,Brain Nucleus accumbens basal ganglia,ED,Wald ratio,1,1.156,1.40E-04,NA,NA,NA,0.005984175
+RNF7,Brain Spinal cord cervical,ED,Wald ratio,1,1.082,1.71E-04,NA,NA,NA,0.023273805
+ZBED3-AS1,Brain Cortex,ED,Wald ratio,1,2.261,2.01E-04,NA,NA,NA,0.877704068
+RFPL1S,Brain Cortex,ED,Wald ratio,1,0.847,2.01E-04,NA,NA,NA,0.88978999
+FLOT1,Brain Substantia nigra,ED,Wald ratio,1,0.964,2.01E-04,NA,NA,NA,0.910039527
+AL513166.1,Brain Cortex,ED,Wald ratio,1,1.862,2.19E-04,NA,NA,NA,0.860275788
+REPS1,Brain Nucleus accumbens basal ganglia,ED,Wald ratio,1,1.109,2.43E-04,NA,NA,NA,0.574004522
+DYNC1I2,Brain Substantia nigra,ED,Wald ratio,1,0.941,2.52E-04,NA,NA,NA,0.777937847
+RIC1,Brain Hypothalamus,ED,Wald ratio,1,0.852,2.57E-04,NA,NA,NA,0.062446779
+ABRACL,Brain Hippocampus,ED,Wald ratio,1,0.885,2.59E-04,NA,NA,NA,0.008592198
+BAG6,Brain Cortex,ED,Inverse variance weighted,6,0.96,2.67E-04,0.749936103,0.796843524,0.542982236,0.016933749
+RFPL1S,Brain Nucleus accumbens basal ganglia,ED,Wald ratio,1,0.908,2.73E-04,NA,NA,NA,0.257168183
+BAG6,Brain Putamen basal ganglia,ED,Wald ratio,1,0.938,2.85E-04,NA,NA,NA,0.830075349
+SNHG5,Brain Cortex,ED,Wald ratio,1,1.305,2.86E-04,NA,NA,NA,0.827069528
+SNHG5,Brain Hippocampus,ED,Wald ratio,1,0.955,2.86E-04,NA,NA,NA,0.827069544
+SNHG5,Brain Hypothalamus,ED,Wald ratio,1,0.951,2.86E-04,NA,NA,NA,0.827069544
+SNHG5,Brain Nucleus accumbens basal ganglia,ED,Wald ratio,1,0.959,2.86E-04,NA,NA,NA,0.827069544
+CHPT1,Brain Nucleus accumbens basal ganglia,ED,Wald ratio,1,1.088,2.86E-04,NA,NA,NA,0.382376465
+SNHG5,Brain Putamen basal ganglia,ED,Wald ratio,1,1.047,2.86E-04,NA,NA,NA,0.827069544
+SNHG5,Brain Spinal cord cervical,ED,Wald ratio,1,0.957,2.86E-04,NA,NA,NA,0.827069544
+SNHG5,Brain Substantia nigra,ED,Wald ratio,1,0.952,2.86E-04,NA,NA,NA,0.827069544
+GLRX2,Brain Cortex,ED,Wald ratio,1,1.595,3.19E-04,NA,NA,NA,0.821392214
+LINC01031,Brain Cortex,ED,Wald ratio,1,1.374,3.19E-04,NA,NA,NA,0.820318712
+EPHA10,Brain Cortex,ED,Wald ratio,1,0.788,3.27E-04,NA,NA,NA,0.821047646
+C1orf109,Brain Cortex,ED,Wald ratio,1,0.751,3.27E-04,NA,NA,NA,0.821047794
+ACTN2,Brain Nucleus accumbens basal ganglia,ED,Wald ratio,1,1.145,3.30E-04,NA,NA,NA,0.138979762
+SYNE3,Brain Spinal cord cervical,ED,Wald ratio,1,1.069,3.30E-04,NA,NA,NA,0.122120111
+LGALS8,Brain Hypothalamus,ED,Wald ratio,1,0.867,3.49E-04,NA,NA,NA,0.419524984
+ZNF532,Brain Hippocampus,ED,Wald ratio,1,1.106,3.51E-04,NA,NA,NA,0.144054875
+MFSD13A,Brain Nucleus accumbens basal ganglia,ED,Wald ratio,1,1.056,3.76E-04,NA,NA,NA,0.792920518
+VAMP2,Brain Putamen basal ganglia,ED,Wald ratio,1,1.147,3.82E-04,NA,NA,NA,0.568067988
+ZCCHC2,Brain Cortex,ED,Wald ratio,1,1.264,3.93E-04,NA,NA,NA,0.789235771
+GPM6A,Brain Hippocampus,ED,Wald ratio,1,1.088,3.93E-04,NA,NA,NA,0.002385805
+PTBP2,Brain Cortex,ED,Wald ratio,1,1.273,3.95E-04,NA,NA,NA,0.814172303
+GTDC1,Brain Nucleus accumbens basal ganglia,ED,Wald ratio,1,0.899,3.96E-04,NA,NA,NA,0.051356066
+VAMP2,Brain Cortex,ED,Wald ratio,1,2.028,4.13E-04,NA,NA,NA,0.794844651
+CTC1,Brain Cortex,ED,Wald ratio,1,1.345,4.13E-04,NA,NA,NA,0.794822904
+PER1,Brain Cortex,ED,Wald ratio,1,0.909,4.13E-04,NA,NA,NA,0.794844651
+DYNC1I2,Brain Putamen basal ganglia,ED,Wald ratio,1,0.946,4.38E-04,NA,NA,NA,0.782664776
+ITGA8,Brain Cortex,ED,Inverse variance weighted,2,1.303,4.49E-04,NA,0.677527175,NA,0.501200168
+TENM3,Brain Hypothalamus,ED,Wald ratio,1,0.901,4.55E-04,NA,NA,NA,0.015931984
+MRTFB,Brain Putamen basal ganglia,ED,Wald ratio,1,0.879,4.74E-04,NA,NA,NA,0.009686237
+DOP1B,Brain Cortex,ED,Wald ratio,1,0.451,4.83E-04,NA,NA,NA,0.753123987
+CBR3-AS1,Brain Cortex,ED,Wald ratio,1,0.865,4.83E-04,NA,NA,NA,0.753124087
+CBR3,Brain Cortex,ED,Wald ratio,1,0.761,4.83E-04,NA,NA,NA,0.753111272
+POLDIP3,Brain Putamen basal ganglia,ED,Wald ratio,1,1.105,4.83E-04,NA,NA,NA,0.264745268
+CTD-2380F24.1,Brain Cortex,ED,Wald ratio,1,0.875,5.04E-04,NA,NA,NA,0.78847648
+IQCK,Brain Cortex,ED,Wald ratio,1,0.327,5.04E-04,NA,NA,NA,0.785915787
+KNOP1,Brain Cortex,ED,Wald ratio,1,1.205,5.04E-04,NA,NA,NA,0.78847648
+AC027130.1,Brain Cortex,ED,Wald ratio,1,0.471,5.04E-04,NA,NA,NA,0.78847648
+KNOP1,Brain Hippocampus,ED,Wald ratio,1,0.899,5.06E-04,NA,NA,NA,0.052051705
+DYNC1I2,Brain Nucleus accumbens basal ganglia,ED,Wald ratio,1,0.954,5.14E-04,NA,NA,NA,0.750930363
+MICOS10,Brain Cortex,ED,Inverse variance weighted,3,0.805,5.27E-04,0.385273462,0.365877671,0.463662696,0.426243863
+LDLR,Brain Nucleus accumbens basal ganglia,ED,Wald ratio,1,0.89,5.38E-04,NA,NA,NA,0.002781641
+PRKCSH,Brain Nucleus accumbens basal ganglia,ED,Wald ratio,1,0.892,5.38E-04,NA,NA,NA,0.142084482
+ELFN2,Brain Substantia nigra,ED,Wald ratio,1,1.092,5.53E-04,NA,NA,NA,0.013011965
+DYNC1I2,Brain Hippocampus,ED,Wald ratio,1,0.937,5.67E-04,NA,NA,NA,0.729253286
+SGIP1,Brain Substantia nigra,ED,Wald ratio,1,1.076,5.95E-04,NA,NA,NA,0.001080421
+HNRNPH1,Brain Putamen basal ganglia,ED,Wald ratio,1,0.875,5.96E-04,NA,NA,NA,0.032027027
+BAG6,Brain Cortex,ED,Weighted median,6,0.959,6.39E-04,0.749936103,0.796843524,0.542982236,0.016933749
+DHX33,Brain Cortex,ED,Wald ratio,1,1.325,6.41E-04,NA,NA,NA,0.778430687
+MIS12,Brain Cortex,ED,Wald ratio,1,1.868,6.41E-04,NA,NA,NA,0.778937033
+ASTN1,Brain Nucleus accumbens basal ganglia,ED,Wald ratio,1,0.906,6.53E-04,NA,NA,NA,0.017341153
+FAM32A,Brain Putamen basal ganglia,ED,Wald ratio,1,1.088,6.66E-04,NA,NA,NA,0.598440277
+CCNT1,Brain Spinal cord cervical,ED,Wald ratio,1,0.907,6.83E-04,NA,NA,NA,0.00139255
+ALDH16A1,Brain Cortex,ED,Wald ratio,1,1.162,6.97E-04,NA,NA,NA,0.702082088
+PIH1D1,Brain Cortex,ED,Wald ratio,1,0.748,6.97E-04,NA,NA,NA,0.702082088
+PPM1K-DT,Brain Hippocampus,ED,Wald ratio,1,0.934,7.28E-04,NA,NA,NA,0.408300525
+UTP18,Brain Cortex,ED,Wald ratio,1,1.234,7.65E-04,NA,NA,NA,0.640501122
+ECT2,Brain Hypothalamus,ED,Wald ratio,1,0.913,7.65E-04,NA,NA,NA,0.003387427
+GMPR,Brain Substantia nigra,ED,Wald ratio,1,1.051,7.86E-04,NA,NA,NA,0.558563122
+STYXL1,Brain Spinal cord cervical,ED,Wald ratio,1,0.945,7.98E-04,NA,NA,NA,0.460896032
+DYNC1I2,Brain Hypothalamus,ED,Wald ratio,1,0.946,8.01E-04,NA,NA,NA,0.678392745
+PCNP,Brain Hypothalamus,ED,Wald ratio,1,0.908,8.21E-04,NA,NA,NA,0.214105975
+PCNP,Brain Putamen basal ganglia,ED,Wald ratio,1,0.909,8.21E-04,NA,NA,NA,0.068456352
+ZSCAN26,Brain Hippocampus,ED,Wald ratio,1,0.944,8.36E-04,NA,NA,NA,0.706104836
+DIS3L,Brain Putamen basal ganglia,ED,Wald ratio,1,1.083,8.72E-04,NA,NA,NA,0.186016907
+EPB41L3,Brain Nucleus accumbens basal ganglia,ED,Wald ratio,1,1.109,8.98E-04,NA,NA,NA,0.37982351
+LINC02974,Brain Nucleus accumbens basal ganglia,ED,Wald ratio,1,1.109,8.98E-04,NA,NA,NA,0.37982351
+ACADVL,Brain Cortex,ED,Wald ratio,1,0.703,9.03E-04,NA,NA,NA,0.623348593
+ELP5,Brain Cortex,ED,Wald ratio,1,1.34,9.03E-04,NA,NA,NA,0.621722126
+DLG4,Brain Cortex,ED,Wald ratio,1,0.583,9.03E-04,NA,NA,NA,0.623348593
+CTDNEP1,Brain Cortex,ED,Wald ratio,1,0.867,9.03E-04,NA,NA,NA,0.623348593
+CKAP5,Brain Putamen basal ganglia,ED,Wald ratio,1,0.9,9.18E-04,NA,NA,NA,0.001091539
+TMEM150C,Brain Spinal cord cervical,ED,Wald ratio,1,1.183,9.37E-04,NA,NA,NA,0.001900839
+TTC13,Brain Cortex,ED,Wald ratio,1,1.236,9.68E-04,NA,NA,NA,0.682666844
+ARV1,Brain Cortex,ED,Wald ratio,1,0.879,9.68E-04,NA,NA,NA,0.68266799
+ARHGAP22,Brain Putamen basal ganglia,ED,Wald ratio,1,1.073,9.88E-04,NA,NA,NA,0.589927957
+STK35,Brain Cortex,ED,Wald ratio,1,0.381,1.03E-03,NA,NA,NA,0.648964435
+MTMR12,Brain Cortex,ED,Wald ratio,1,1.317,1.04E-03,NA,NA,NA,0.607688334
+CFAP300,Brain Spinal cord cervical,ED,Wald ratio,1,1.118,1.05E-03,NA,NA,NA,0.000554785
+FSD1L,Brain Putamen basal ganglia,ED,Wald ratio,1,1.156,1.07E-03,NA,NA,NA,0.001983898
+COBL,Brain Substantia nigra,ED,Wald ratio,1,0.939,1.07E-03,NA,NA,NA,0.366629616
+MUC20,Brain Cortex,ED,Inverse variance weighted,3,1.388,1.09E-03,0.351323454,0.501076062,0.604218752,0.130119728
+KLF3,Brain Nucleus accumbens basal ganglia,ED,Wald ratio,1,0.902,1.11E-03,NA,NA,NA,0.009850225
+BRAF,Brain Hippocampus,ED,Wald ratio,1,0.901,1.12E-03,NA,NA,NA,0.00581476
+CEBPZOS,Brain Hypothalamus,ED,Wald ratio,1,1.057,1.14E-03,NA,NA,NA,0.57165596
+TM9SF2,Brain Hippocampus,ED,Wald ratio,1,1.127,1.16E-03,NA,NA,NA,0.001538319
+ARL13B,Brain Spinal cord cervical,ED,Wald ratio,1,1.113,1.16E-03,NA,NA,NA,0.004058897
+FRRS1L,Brain Cortex,ED,Wald ratio,1,1.497,1.17E-03,NA,NA,NA,0.623520588
+BLTP3B,Brain Hippocampus,ED,Wald ratio,1,1.072,1.17E-03,NA,NA,NA,0.002633154
+PSMD4,Brain Hippocampus,ED,Wald ratio,1,0.883,1.17E-03,NA,NA,NA,0.273055681
+THBS4,Brain Cortex,ED,Wald ratio,1,1.176,1.18E-03,NA,NA,NA,0.559899915
+LPXN,Brain Hypothalamus,ED,Wald ratio,1,1.095,1.18E-03,NA,NA,NA,0.013106909
+THBS4,Brain Substantia nigra,ED,Wald ratio,1,1.081,1.18E-03,NA,NA,NA,0.047901041
+CBLB,Brain Putamen basal ganglia,ED,Wald ratio,1,1.106,1.23E-03,NA,NA,NA,0.002852806
+U2AF1L4,Brain Substantia nigra,ED,Wald ratio,1,1.049,1.27E-03,NA,NA,NA,0.575407045
+CUL1,Brain Hippocampus,ED,Wald ratio,1,1.089,1.29E-03,NA,NA,NA,0.036497306
+AL132780.1,Brain Cortex,ED,Wald ratio,1,1.431,1.30E-03,NA,NA,NA,0.543289187
+RBM23,Brain Cortex,ED,Wald ratio,1,1.067,1.30E-03,NA,NA,NA,0.543289187
+RP11-298I3.1,Brain Cortex,ED,Wald ratio,1,1.169,1.30E-03,NA,NA,NA,0.543289187
+HAUS4,Brain Cortex,ED,Wald ratio,1,2.189,1.30E-03,NA,NA,NA,0.54328291
+EDC3,Brain Putamen basal ganglia,ED,Wald ratio,1,1.116,1.30E-03,NA,NA,NA,0.00075936
+RASL11A,Brain Hippocampus,ED,Wald ratio,1,0.833,1.33E-03,NA,NA,NA,0.003061152
+ADK,Brain Cortex,ED,Wald ratio,1,1.119,1.38E-03,NA,NA,NA,0.541603513
+NSMCE2,Brain Hippocampus,ED,Wald ratio,1,1.091,1.39E-03,NA,NA,NA,0.001559973
+GRK6,Brain Cortex,ED,Wald ratio,1,0.587,1.41E-03,NA,NA,NA,0.527688902
+DBN1,Brain Cortex,ED,Wald ratio,1,0.759,1.41E-03,NA,NA,NA,0.527688902
+PCMT1,Brain Cortex,ED,Inverse variance weighted,2,0.817,1.42E-03,NA,0.93131342,NA,0.345923053
+PRPF6,Brain Hypothalamus,ED,Wald ratio,1,1.171,1.42E-03,NA,NA,NA,0.026015854
+DIS3L,Brain Nucleus accumbens basal ganglia,ED,Wald ratio,1,1.081,1.42E-03,NA,NA,NA,0.536634525
+TMOD2,Brain Putamen basal ganglia,ED,Wald ratio,1,0.914,1.43E-03,NA,NA,NA,0.001047642
+ACAT1,Brain Cortex,ED,Wald ratio,1,0.581,1.46E-03,NA,NA,NA,0.571031312
+SLC39A13,Brain Hippocampus,ED,Wald ratio,1,0.947,1.46E-03,NA,NA,NA,0.522387679
+SLC39A13,Brain Hypothalamus,ED,Wald ratio,1,0.944,1.46E-03,NA,NA,NA,0.522387679
+SLC39A13,Brain Nucleus accumbens basal ganglia,ED,Wald ratio,1,0.95,1.46E-03,NA,NA,NA,0.522387679
+SLC39A13,Brain Substantia nigra,ED,Wald ratio,1,0.935,1.46E-03,NA,NA,NA,0.52217174
+TRPS1,Brain Spinal cord cervical,ED,Wald ratio,1,0.938,1.47E-03,NA,NA,NA,0.001982135
+ZSCAN26,Brain Cortex,ED,Wald ratio,1,1.932,1.48E-03,NA,NA,NA,0.550108058
+ZSCAN16-AS1,Brain Cortex,ED,Wald ratio,1,1.377,1.48E-03,NA,NA,NA,0.550109318
+RP1-313I6.12,Brain Cortex,ED,Wald ratio,1,1.157,1.48E-03,NA,NA,NA,0.550109318
+NEMF,Brain Putamen basal ganglia,ED,Wald ratio,1,0.925,1.50E-03,NA,NA,NA,0.009049756
+SEC11C,Brain Cortex,ED,Wald ratio,1,0.82,1.61E-03,NA,NA,NA,0.512136397
+FES,Brain Cortex,ED,Wald ratio,1,1.175,1.63E-03,NA,NA,NA,0.493360982
+TUBE1,Brain Putamen basal ganglia,ED,Wald ratio,1,0.884,1.63E-03,NA,NA,NA,0.001029573
+GRIK1-AS1,Brain Cortex,ED,Wald ratio,1,0.831,1.64E-03,NA,NA,NA,0.589263285
+SMG7,Brain Nucleus accumbens basal ganglia,ED,Wald ratio,1,1.056,1.64E-03,NA,NA,NA,0.000359817
+SCAND2P,Brain Putamen basal ganglia,ED,Wald ratio,1,1.127,1.65E-03,NA,NA,NA,0.001263162
+LINC02473,Brain Spinal cord cervical,ED,Wald ratio,1,1.085,1.67E-03,NA,NA,NA,0.000684404
+SOD3,Brain Spinal cord cervical,ED,Wald ratio,1,1.085,1.67E-03,NA,NA,NA,0.000684404
+FGF12,Brain Hypothalamus,ED,Wald ratio,1,0.951,1.69E-03,NA,NA,NA,0.551137137
+FGF12,Brain Nucleus accumbens basal ganglia,ED,Wald ratio,1,0.949,1.69E-03,NA,NA,NA,0.551137138
+TLE4,Brain Cortex,ED,Wald ratio,1,0.825,1.71E-03,NA,NA,NA,0.493615726
+UNC45A,Brain Nucleus accumbens basal ganglia,ED,Wald ratio,1,0.93,1.71E-03,NA,NA,NA,0.114872401
+SLC26A6,Brain Hippocampus,ED,Wald ratio,1,0.926,1.73E-03,NA,NA,NA,0.000551183
+PPP2R1A,Brain Cortex,ED,Wald ratio,1,0.454,1.75E-03,NA,NA,NA,0.500086511
+GMPR,Brain Cortex,ED,Wald ratio,1,1.213,1.83E-03,NA,NA,NA,0.463381125
+KMT2E,Brain Cortex,ED,Inverse variance weighted,2,1.21,1.84E-03,NA,0.618915491,NA,0.015085768
+FAM174A,Brain Cortex,ED,Wald ratio,1,0.77,1.86E-03,NA,NA,NA,0.494323581
+RP11-275H4.1,Brain Cortex,ED,Inverse variance weighted,2,0.942,1.91E-03,NA,0.265876363,NA,0.065724272
+BCL2A1,Brain Cortex,ED,Wald ratio,1,0.787,1.91E-03,NA,NA,NA,0.479740827
+TRAPPC9,Brain Spinal cord cervical,ED,Wald ratio,1,1.095,1.93E-03,NA,NA,NA,0.000573184
+SNTG1,Brain Cortex,ED,Inverse variance weighted,2,1.267,1.96E-03,NA,0.774040018,NA,0.29772852
+ITGA6,Brain Hippocampus,ED,Wald ratio,1,0.919,1.98E-03,NA,NA,NA,0.000857186
+STYXL1,Brain Hypothalamus,ED,Wald ratio,1,0.951,1.99E-03,NA,NA,NA,0.464477456
+PPHLN1,Brain Substantia nigra,ED,Wald ratio,1,1.092,1.99E-03,NA,NA,NA,0.004194269
+LINC01299,Brain Substantia nigra,ED,Wald ratio,1,1.083,1.99E-03,NA,NA,NA,0.001269726
+NDUFS1,Brain Cortex,ED,Wald ratio,1,0.673,2.02E-03,NA,NA,NA,0.015364794
+INO80D,Brain Cortex,ED,Wald ratio,1,0.589,2.02E-03,NA,NA,NA,0.440041664
+GALM,Brain Putamen basal ganglia,ED,Wald ratio,1,1.133,2.02E-03,NA,NA,NA,0.000648311
+C16orf72,Brain Cortex,ED,Wald ratio,1,1.894,2.04E-03,NA,NA,NA,0.465057912

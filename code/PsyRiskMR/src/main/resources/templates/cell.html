@@ -1,0 +1,245 @@
+
+<!--引入公共头部-->
+<th:block th:include="base::common"></th:block>
+<link th:href="@{/css/layui.css}" rel="stylesheet">
+<script type="text/javascript" th:src="@{/js/position.js}"></script>
+<style>
+    * {
+        margin: 0 auto
+    }
+
+    html {
+        font-size: 62.5%;
+    !important;
+        /* font-size: 62.5%; */
+    }
+
+    img {
+        max-width: 100%;
+        -ms-interpolation-mode: bicubic;
+    }
+
+    .nav_a {
+        text-decoration: none;
+        font-size: 1.8rem;
+        padding-left: 2%;
+        color: white;
+        line-height: 100%;
+        float: left;
+        margin: 0 auto;
+        display: block;
+        margin-top: 4rem;
+    }
+
+    .nav_a:hover {
+        color: rgb(156, 217, 185);
+    }
+
+
+    .total_div {
+        width: 100%;
+        height: 12rem;
+        line-height: 12rem;
+        background-repeat: no-repeat;
+        -webkit-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+
+    .total_div_1 {
+        float: left;
+        width: 40%;
+        height: 100%;
+        line-height: 40%;
+        margin: 0 auto
+    }
+
+    #container {
+        width: 90%;
+        margin: 0 auto;
+        font-size: 1.6rem;
+    }
+
+    #container .article {
+        margin: 0 auto;
+        overflow: hidden;
+    }
+
+    #container .article .articlebox {
+        overflow: hidden;
+        position: relative;
+    }
+
+    #container .article .articlebox .articlelist {
+        width: 25%;
+    / / background: #8A2BE2;
+        border: none;
+        float: left;
+        padding-bottom: 2rem;
+    }
+
+    #container .article .articlebox .articledetail {
+        width: 70%;
+    / / background: #FFB6C1;
+        float: right;
+    }
+
+</style>
+
+<!-- 将JavaScript文件链接移到这里 -->
+<script  th:src="@{/static_new/cellspecific-script.js}" defer></script>
+<script  th:src="@{/static_new/cellspecific-script2.js}" defer></script>
+
+<script type="text/javascript" th:src="@{/static_new/jquery-2.1.4.min.js}"></script>
+<script type="text/javascript" th:src="@{/static_new/plotly-2.20.0.min.js}"></script>
+<!--<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>-->
+<!--<script src="https://cdn.plot.ly/plotly-2.20.0.min.js" charset="utf-8"></script>-->
+
+<div id="container">
+    <div class="article">
+        <div class="articledetail">
+            <div style="border:none;margin-top:6rem">
+                <div id="b" ; style="width:70%; text-align:center; margin:0 auto;">
+                </div>
+
+            </div>
+        </div>
+        <div id="a" ; style="width:60%; text-align:center; margin:0 auto;">
+            <p style="font-size: 24px; text-align:center"><strong>Corresponding upsetplot of significant Bulk-tissue
+                biomarkers in MR analysis</strong></p><br/>
+<!--            <iframe id="my-frame"-->
+<!--                    loading="lazy"-->
+<!--                    th:src="@{/images/cellheatmap/cellspecific.html}"-->
+<!--                    style="width:1000px; height:500px; display:block; margin:0 auto;"-->
+<!--                    onload="setIframeHeight(this.id)">-->
+<!--            </iframe>-->
+
+            <!-- 将iframe内容放到主HTML中 -->
+            <div id="htmlwidget_container">
+                <div id="htmlwidget-1ed3b007ed40ceec5093" style="width:100%;height:400px;" class="upsetjs html-widget"></div>
+            </div>
+            <!-- JSON数据 -->
+            <script type="application/json" data-for="htmlwidget-1ed3b007ed40ceec5093">{"x":{"sets":[{"name":"SCZ","type":"set","elems":["WBP2NL","LINC01068","AC093297.2","SLCO4C1","ZNF391","ANKRD44","BTN2A2","NGEF","KCNQ5 ","MAPK3","GNL3","PLCL1","CHRNA3","NEK1","GLB1L2","ZKSCAN8","NT5DC2","DND1P1","BTN3A2","PPP1R13B","HLA-DQA1","SRPK2","HAPLN4","KIAA0892","VSIG2","NRGN","ITIH4","AS3MT","MAD1L1","TSNARE1","PLCL2","ABCB9","ARL6IP4","MAP7D1","S1","S2","S3","S4","S5","TRAPPC3","LOC339674","ALMS1P","ELAC2","VRK2"],"cardinality":44,"color":"#3c5a9e"},{"name":"ALZ","type":"set","elems":["BIN1","PICALM","CR1","RIN3","MTCH2","AL355353.1","PVRL2","BCAM","MS4A6E","C1QTNF4","APOE","ERCC2","PVR","GEMIN7","APOC2","APOC4","CLPTM1","CD2AP","SIX5","DMPK","MS4A4E"],"cardinality":21,"color":"#3c5a9e"},{"name":"BP","type":"set","elems":["FADS2","FADS1","PLEC","TMEM258","TRPT1","NT5DC2","RNU6-131P","B1","B2","B3","BTN3A2","UBTF","GNL3","ACTN3"],"cardinality":14,"color":"#3c5a9e"},{"name":"DEP","type":"set","elems":["SLC12A5","NEGR1","COP1","DEP1","DEP2","DEP3","BTN2A2","ZKSCAN8","KLC1","BTN3A2","CTTNBP2","B3GALTL","PAX5"],"cardinality":13,"color":"#3c5a9e"},{"name":"ED","type":"set","elems":["QRICH1","KLHDC8B","DALRD3","UQCRC1","WDR6","P4HTM"],"cardinality":6,"color":"#3c5a9e"},{"name":"ADHD","type":"set","elems":["LSM6","MED8","SMARCA2"],"cardinality":3,"color":"#3c5a9e"}],"combinations":[{"name":"SCZ","type":"intersection","elems":["WBP2NL","LINC01068","AC093297.2","SLCO4C1","ZNF391","ANKRD44","BTN2A2","NGEF","KCNQ5 ","MAPK3","GNL3","PLCL1","CHRNA3","NEK1","GLB1L2","ZKSCAN8","NT5DC2","DND1P1","BTN3A2","PPP1R13B","HLA-DQA1","SRPK2","HAPLN4","KIAA0892","VSIG2","NRGN","ITIH4","AS3MT","MAD1L1","TSNARE1","PLCL2","ABCB9","ARL6IP4","MAP7D1","S1","S2","S3","S4","S5","TRAPPC3","LOC339674","ALMS1P","ELAC2","VRK2"],"color":"#3c5a9e","cardinality":44,"setNames":"SCZ","degree":1},{"name":"ALZ","type":"intersection","elems":["BIN1","PICALM","CR1","RIN3","MTCH2","AL355353.1","PVRL2","BCAM","MS4A6E","C1QTNF4","APOE","ERCC2","PVR","GEMIN7","APOC2","APOC4","CLPTM1","CD2AP","SIX5","DMPK","MS4A4E"],"color":"#3c5a9e","cardinality":21,"setNames":"ALZ","degree":1},{"name":"BP","type":"intersection","elems":["FADS2","FADS1","PLEC","TMEM258","TRPT1","NT5DC2","RNU6-131P","B1","B2","B3","BTN3A2","UBTF","GNL3","ACTN3"],"color":"#3c5a9e","cardinality":14,"setNames":"BP","degree":1},{"name":"DEP","type":"intersection","elems":["SLC12A5","NEGR1","COP1","DEP1","DEP2","DEP3","BTN2A2","ZKSCAN8","KLC1","BTN3A2","CTTNBP2","B3GALTL","PAX5"],"color":"#3c5a9e","cardinality":13,"setNames":"DEP","degree":1},{"name":"ED","type":"intersection","elems":["QRICH1","KLHDC8B","DALRD3","UQCRC1","WDR6","P4HTM"],"color":"#3c5a9e","cardinality":6,"setNames":"ED","degree":1},{"name":"ADHD","type":"intersection","elems":["LSM6","MED8","SMARCA2"],"color":"#3c5a9e","cardinality":3,"setNames":"ADHD","degree":1},{"name":"SCZ&BP","type":"intersect","elems":["GNL3","NT5DC2","BTN3A2"],"color":"#3c5a9e","cardinality":3,"setNames":["SCZ","BP"],"degree":2},{"name":"SCZ&DEP","type":"intersect","elems":["BTN2A2","ZKSCAN8","BTN3A2"],"color":"#3c5a9e","cardinality":3,"setNames":["SCZ","DEP"],"degree":2},{"name":"BP&DEP","type":"intersect","elems":"BTN3A2","color":"#3c5a9e","cardinality":1,"setNames":["BP","DEP"],"degree":2},{"name":"SCZ&BP&DEP","type":"intersect","elems":"BTN3A2","color":"#3c5a9e","cardinality":1,"setNames":["SCZ","BP","DEP"],"degree":3}],"elems":["LSM6","MED8","SMARCA2","BIN1","PICALM","CR1","RIN3","MTCH2","AL355353.1","PVRL2","BCAM","MS4A6E","C1QTNF4","APOE","ERCC2","PVR","GEMIN7","APOC2","APOC4","CLPTM1","CD2AP","SIX5","DMPK","MS4A4E","FADS2","FADS1","PLEC","TMEM258","TRPT1","NT5DC2","RNU6-131P","B1","B2","B3","BTN3A2","UBTF","GNL3","ACTN3","SLC12A5","NEGR1","COP1","DEP1","DEP2","DEP3","BTN2A2","ZKSCAN8","KLC1","CTTNBP2","B3GALTL","PAX5","QRICH1","KLHDC8B","DALRD3","UQCRC1","WDR6","P4HTM","WBP2NL","LINC01068","AC093297.2","SLCO4C1","ZNF391","ANKRD44","NGEF","KCNQ5 ","MAPK3","PLCL1","CHRNA3","NEK1","GLB1L2","DND1P1","PPP1R13B","HLA-DQA1","SRPK2","HAPLN4","KIAA0892","VSIG2","NRGN","ITIH4","AS3MT","MAD1L1","TSNARE1","PLCL2","ABCB9","ARL6IP4","MAP7D1","S1","S2","S3","S4","S5","TRAPPC3","LOC339674","ALMS1P","ELAC2","VRK2"],"expressionData":false,"attrs":[],"interactive":true,"events_nonce":false},"evals":[],"jsHooks":[]}</script>
+            <script type="application/htmlwidget-sizing" data-for="htmlwidget-1ed3b007ed40ceec5093">{"viewer":{"width":"100%","height":400,"padding":0,"fill":false},"browser":{"width":"100%","height":400,"padding":0,"fill":false}}</script>
+            <!-- JSON数据结束 -->
+
+            <p style="font-size: 24px;margin-top: 20px"><strong>Summary statistics of significant Cell-specific
+                biomarkers in MR analysis</strong></p><br/>
+            <table class="myble1" ; style="width : 100%" ;border="1">
+                <tr bgcolor="#CAE1FF">
+                    <th width="30%" ; height="45"><p style="font-size: 20px;" align="middle">Psychiatric disorder</p>
+                    </th>
+                    <th><p style="font-size: 20px;" align="middle">eQTL</p></th>
+                    <th><p style="font-size: 20px;" align="middle">sQTL</p></th>
+                    <th><p style="font-size: 20px;" align="middle">mQTL</p></th>
+                    <th><p style="font-size: 20px;" align="middle">pQTL</p></th>
+                    <th><p style="font-size: 20px;" align="middle">haQTL</p></th>
+                </tr>
+
+                <tr>
+                    <th width="30%" ; height="45"><p style="font-size: 20px;" align="middle"><a
+                            th:href="@{/Cellspecific_SCZ}">SCZ</a></p></th>
+                    <th><p style="font-size: 20px;" align="middle">15</p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    <th><p style="font-size: 20px;" align="middle">16</p></th>
+                    <th><p style="font-size: 20px;" align="middle">3</p></th>
+                    <th><p style="font-size: 20px;" align="middle">8</p></th>
+                </tr>
+
+                <tr>
+                    <th width="30%" ; height="45"><p style="font-size: 20px;" align="middle"><a
+                            th:href="@{/Cellspecific_ALZ}">ALZ</a></p></th>
+                    <th><p style="font-size: 20px;" align="middle">14</p></th>
+                    <th><p style="font-size: 20px;" align="middle">3</p></th>
+                    <th><p style="font-size: 20px;" align="middle">6</p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    <th><p style="font-size: 20px;" align="middle">1</p></th>
+                </tr>
+
+                <tr>
+                    <th width="30%" ; height="45"><p style="font-size: 20px;" align="middle"><a
+                            th:href="@{/Cellspecific_ED}">ED</a></p></th>
+                    <th><p style="font-size: 20px;" align="middle">6</p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                </tr>
+
+                <tr>
+                    <th width="30%" ; height="45"><p style="font-size: 20px;" align="middle"><a
+                            th:href="@{/Cellspecific_BP}">BP</a></p></th>
+                    <th><p style="font-size: 20px;" align="middle">5</p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    <th><p style="font-size: 20px;" align="middle">1</p></th>
+                    <th><p style="font-size: 20px;" align="middle">2</p></th>
+                    <th><p style="font-size: 20px;" align="middle">3</p></th>
+                </tr>
+
+                <tr>
+                    <th width="30%" ; height="45"><p style="font-size: 20px;" align="middle"><a
+                            th:href="@{/Cellspecific_DEP}">DEP</a></p></th>
+                    <th><p style="font-size: 20px;" align="middle">4</p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    <th><p style="font-size: 20px;" align="middle">5</p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    <th><p style="font-size: 20px;" align="middle">3</p></th>
+                </tr>
+
+                <tr>
+                    <th width="30%" ; height="45"><p style="font-size: 20px;" align="middle"><a
+                            th:href="@{/Cellspecific_ADHD}">ADHD</a></p></th>
+                    <th><p style="font-size: 20px;" align="middle">2</p></th>
+                    <th><p style="font-size: 20px;" align="middle">1</p></th>
+                    <th><p style="font-size: 20px;" align="middle">1</p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                </tr>
+
+                <tr>
+                    <th width="30%" ; height="45"><p style="font-size: 20px;" align="middle"><a
+                            th:href="@{/Cellspecific_ANX}">ANX</a></p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                </tr>
+
+                <tr>
+                    <th width="30%" ; height="45"><p style="font-size: 20px;" align="middle"><a
+                            th:href="@{/Cellspecific_ASD}">ASD</a></p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                </tr>
+
+                <tr>
+                    <th width="30%" ; height="45"><p style="font-size: 20px;" align="middle"><a
+                            th:href="@{/Cellspecific_OCD}">OCD</a></p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                </tr>
+
+                <tr>
+                    <th width="30%" ; height="45"><p style="font-size: 20px;" align="middle"><a
+                            th:href="@{/Cellspecific_PTSD}">PTSD</a></p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                    <th><p style="font-size: 20px;" align="middle">0</p></th>
+                </tr>
+
+            </table>
+        </div>
+    </div>
+</div>
+</div>
+
+<div style="height:2rem"></div>

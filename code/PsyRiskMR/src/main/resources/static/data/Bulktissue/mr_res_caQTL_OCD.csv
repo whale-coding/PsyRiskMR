@@ -1,0 +1,582 @@
+"Gene","Tissue","Psychiatric disorder","Method","Nsnp","Beta","SE","OR","P-value","Q_Pvalue(MREgger)","Q_Pvalue(IVW)","P-value(Intercept)","PPH4"
+"PAM","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.206","0.059","0.814","4.59e-04",NA,NA,NA,0.833489222
+"CFAP46","Brain Prefrontal cortex","OCD","Inverse variance weighted",2," 0.150","0.044","1.162","7.26e-04",NA,0.661639415,NA,0.040248342
+"WDR62","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.176","0.054","1.193","1.14e-03",NA,NA,NA,0.703951632
+"PDIA5","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.098","0.031","1.103","1.78e-03",NA,NA,NA,0.644068142
+"PLCH1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.181","0.061","0.835","2.96e-03",NA,NA,NA,0.32490044
+"SYNE1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.123","0.042","0.884","3.32e-03",NA,NA,NA,0.528507626
+"JAZF1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.129","0.046","0.879","4.98e-03",NA,NA,NA,0.426439965
+"STMN4","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.108","0.039","1.114","5.02e-03",NA,NA,NA,0.384635415
+"MEGF6","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.131","0.049","0.877","6.98e-03",NA,NA,NA,0.02361728
+"PCGF3","Brain Prefrontal cortex","OCD","Inverse variance weighted",2," 0.117","0.045","1.124","9.58e-03",NA,0.227408714,NA,0.469161399
+"ROBO2","Brain Prefrontal cortex","OCD","Inverse variance weighted",2,"-0.063","0.024","0.939","9.83e-03",NA,0.954773108,NA,0.109901737
+"PHRF1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.078","0.031","0.925","1.17e-02",NA,NA,NA,0.247007261
+"FOXP1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.130","0.052","1.138","1.31e-02",NA,NA,NA,0.220163551
+"LDLRAD4","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.069","0.028","0.933","1.44e-02",NA,NA,NA,0.228445673
+"DPP10","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.093","0.038","0.911","1.45e-02",NA,NA,NA,0.227156979
+"MET","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.120","0.050","1.127","1.59e-02",NA,NA,NA,0.18491782
+"HSD17B11","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.153","0.065","0.858","1.79e-02",NA,NA,NA,0.162279528
+"TSHR","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.164","0.069","0.849","1.81e-02",NA,NA,NA,0.175214782
+"LATS2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.163","0.070","0.850","1.97e-02",NA,NA,NA,0.146534709
+"PRPH2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.085","0.037","0.918","2.01e-02",NA,NA,NA,0.169387726
+"HSD17B4","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.240","0.104","1.271","2.12e-02",NA,NA,NA,0.148835406
+"MTUS1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.134","0.059","0.874","2.22e-02",NA,NA,NA,0.179275849
+"FRMD4A","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.133","0.058","0.876","2.25e-02",NA,NA,NA,0.119488163
+"RNF215","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.193","0.085","1.212","2.27e-02",NA,NA,NA,0.156006623
+"HELZ2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.252","0.111","0.777","2.33e-02",NA,NA,NA,0.206659731
+"IQSEC3","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.066","0.029","0.936","2.39e-02",NA,NA,NA,0.145727444
+"MATN2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.138","0.062","0.871","2.52e-02",NA,NA,NA,0.128972011
+"KALRN","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.137","0.062","1.147","2.82e-02",NA,NA,NA,0.121964128
+"SLC38A9","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.114","0.052","0.892","2.83e-02",NA,NA,NA,0.125800789
+"DNAAF3","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.127","0.058","0.881","2.84e-02",NA,NA,NA,0.128204297
+"BSPRY","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.142","0.066","1.153","3.17e-02",NA,NA,NA,0.116642822
+"DNAJC6","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.104","0.049","0.901","3.20e-02",NA,NA,NA,0.108814132
+"ABCA1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.174","0.082","1.190","3.31e-02",NA,NA,NA,0.144331957
+"GFPT2","Brain Prefrontal cortex","OCD","Inverse variance weighted",2,"-0.048","0.022","0.953","3.34e-02",NA,0.451860613,NA,0.12669245
+"THSD4","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.115","0.055","1.122","3.83e-02",NA,NA,NA,0.101819989
+"PKD1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.108","0.052","0.898","4.02e-02",NA,NA,NA,0.116582325
+"NINJ2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.097","0.048","0.907","4.24e-02",NA,NA,NA,0.092613612
+"E2F7","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.079","0.039","0.924","4.32e-02",NA,NA,NA,0.092207202
+"RBFOX1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.148","0.073","0.863","4.39e-02",NA,NA,NA,0.086824588
+"SIPA1L3","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.125","0.062","1.133","4.43e-02",NA,NA,NA,0.082115107
+"ASB5","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.150","0.074","0.861","4.45e-02",NA,NA,NA,0.09744822
+"ZFP30","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.234","0.117","0.791","4.45e-02",NA,NA,NA,0.104262394
+"NFATC1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.119","0.059","1.126","4.51e-02",NA,NA,NA,0.090545632
+"CNTNAP2","Brain Prefrontal cortex","OCD","Inverse variance weighted",2,"-0.055","0.028","0.947","4.73e-02",NA,0.648435967,NA,0.039906876
+"ANKLE2","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.069","0.035","1.071","4.76e-02",NA,NA,NA,0.08096378
+"TNS1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.074","0.037","0.929","4.97e-02",NA,NA,NA,0.080434123
+"GPR35","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.185","0.096","0.831","5.42e-02",NA,NA,NA,0.11858285
+"PREX1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.161","0.085","1.174","5.73e-02",NA,NA,NA,0.087600016
+"NXPH1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.062","0.033","1.064","5.85e-02",NA,NA,NA,0.071799255
+"ATP11A","Brain Prefrontal cortex","OCD","Inverse variance weighted",2,"-0.067","0.036","0.935","5.96e-02",NA,0.67118504,NA,0.048808125
+"CARMIL3","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.088","0.047","1.092","6.10e-02",NA,NA,NA,0.082866504
+"PRKCZ","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.085","0.046","1.089","6.13e-02",NA,NA,NA,0.076602591
+"RGS14","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.079","0.043","0.924","6.57e-02",NA,NA,NA,0.06844228
+"XKR4","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.065","0.035","1.067","6.73e-02",NA,NA,NA,0.064747866
+"BOD1L1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.081","0.045","1.084","6.99e-02",NA,NA,NA,0.063339143
+"DIRAS1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.086","0.048","1.090","7.23e-02",NA,NA,NA,0.075404538
+"TTC13","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.113","0.063","0.893","7.34e-02",NA,NA,NA,0.073262572
+"RHEX","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.123","0.069","0.884","7.36e-02",NA,NA,NA,0.070237241
+"ANO2","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.066","0.037","1.068","7.55e-02",NA,NA,NA,0.058402993
+"SLC35E4","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.072","0.041","1.075","7.79e-02",NA,NA,NA,0.098234801
+"CCNY","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.068","0.039","1.070","7.80e-02",NA,NA,NA,0.059438349
+"CD59","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.175","0.099","1.191","7.88e-02",NA,NA,NA,0.092865074
+"RAET1E","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.082","0.047","0.921","7.90e-02",NA,NA,NA,0.056082342
+"WDR35","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.079","0.045","0.924","8.26e-02",NA,NA,NA,0.053837637
+"NEK8","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.090","0.052","1.094","8.40e-02",NA,NA,NA,0.05317738
+"SPAG1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.102","0.059","0.903","8.45e-02",NA,NA,NA,0.054338325
+"SLC1A2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.056","0.033","0.945","9.13e-02",NA,NA,NA,0.049272517
+"NEK4","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.097","0.058","1.102","9.38e-02",NA,NA,NA,0.049186498
+"BCL11A","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.087","0.052","1.091","9.77e-02",NA,NA,NA,0.055361506
+"SLC6A3","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.058","0.035","0.943","9.87e-02",NA,NA,NA,0.056003992
+"PTPRJ","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.073","0.044","0.930","1.00e-01",NA,NA,NA,0.052635036
+"PLCG2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.074","0.045","0.928","1.00e-01",NA,NA,NA,0.049977397
+"CHPT1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.075","0.045","1.078","1.01e-01",NA,NA,NA,0.064610918
+"EIF4E3","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.056","0.034","1.058","1.02e-01",NA,NA,NA,0.047255582
+"DGKB","Brain Prefrontal cortex","OCD","Inverse variance weighted",2,"-0.064","0.039","0.938","1.03e-01",NA,0.604279029,NA,0.049298388
+"TEX29","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.056","0.034","1.057","1.04e-01",NA,NA,NA,0.045965941
+"KCNJ6","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.093","0.057","1.097","1.04e-01",NA,NA,NA,0.053432677
+"CKMT2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.092","0.057","0.913","1.09e-01",NA,NA,NA,0.033127837
+"CDHR2","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.059","0.037","1.061","1.13e-01",NA,NA,NA,0.046891538
+"MCOLN2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.067","0.042","0.935","1.14e-01",NA,NA,NA,0.050267992
+"NEDD4L","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.111","0.070","0.895","1.15e-01",NA,NA,NA,0.050845321
+"PLEKHS1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.060","0.038","1.062","1.16e-01",NA,NA,NA,0.04222744
+"DOT1L","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.117","0.075","1.124","1.18e-01",NA,NA,NA,0.060504686
+"CACNA1C","Brain Prefrontal cortex","OCD","Inverse variance weighted",3," 0.044","0.028","1.045","1.18e-01",0.863123117,0.754537407,0.598368661,0.094713007
+"PTPRM","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.106","0.068","1.111","1.20e-01",NA,NA,NA,0.041553068
+"HSPA12A","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.079","0.051","0.924","1.21e-01",NA,NA,NA,0.049771705
+"MTSS1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.084","0.055","0.919","1.23e-01",NA,NA,NA,0.040587212
+"PASK","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.056","0.037","1.058","1.23e-01",NA,NA,NA,0.071029807
+"RPTOR","Brain Prefrontal cortex","OCD","Weighted median",3,"-0.061","0.041","0.941","1.31e-01",0.221053037,0.13623386,0.419979179,0.01942057
+"ASTN2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.067","0.045","0.935","1.32e-01",NA,NA,NA,0.038212618
+"PIAS4","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.063","0.042","1.065","1.33e-01",NA,NA,NA,0.040577606
+"MARCHF6","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.082","0.055","1.086","1.35e-01",NA,NA,NA,0.056949122
+"ADARB2","Brain Prefrontal cortex","OCD","MR Egger",5,"-0.140","0.069","0.869","1.35e-01",0.501222469,0.177956179,0.141419863,0.013968184
+"AP2A2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.096","0.065","0.908","1.40e-01",NA,NA,NA,0.0332264
+"SVIL","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.071","0.048","0.931","1.40e-01",NA,NA,NA,0.037897451
+"CAPZB","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.066","0.045","0.936","1.42e-01",NA,NA,NA,0.037572025
+"PTPN13","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.048","0.033","0.954","1.43e-01",NA,NA,NA,0.052678578
+"RPS6KA2","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.062","0.043","1.064","1.44e-01",NA,NA,NA,0.035312789
+"EXD3","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.104","0.071","1.109","1.45e-01",NA,NA,NA,0.087154903
+"DLGAP2","Brain Prefrontal cortex","OCD","MR Egger",6," 0.178","0.099","1.195","1.48e-01",0.440728189,0.258813429,0.171419431,0.016014894
+"CUBN","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.077","0.053","1.080","1.49e-01",NA,NA,NA,0.035053731
+"CACNA1C","Brain Prefrontal cortex","OCD","Weighted median",3," 0.044","0.031","1.045","1.50e-01",0.863123117,0.754537407,0.598368661,0.094713007
+"MTFR1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.082","0.057","1.085","1.50e-01",NA,NA,NA,0.040087553
+"RIMS2","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.102","0.071","1.107","1.51e-01",NA,NA,NA,0.04514084
+"F13A1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.065","0.045","1.067","1.52e-01",NA,NA,NA,0.060317333
+"ADAMTS3","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.108","0.076","1.114","1.54e-01",NA,NA,NA,0.035560136
+"SCFD1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.046","0.032","0.955","1.56e-01",NA,NA,NA,0.034646377
+"TACC3","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.090","0.064","1.094","1.59e-01",NA,NA,NA,0.043650061
+"ZNF385B","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.062","0.044","0.940","1.62e-01",NA,NA,NA,0.065876043
+"NPM1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.083","0.060","1.087","1.62e-01",NA,NA,NA,0.033356879
+"FAM120B","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.059","0.042","1.060","1.63e-01",NA,NA,NA,0.033462523
+"GNA12","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.087","0.063","0.916","1.65e-01",NA,NA,NA,0.030599152
+"TP63","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.057","0.041","0.945","1.66e-01",NA,NA,NA,0.0548816
+"NUDT6","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.069","0.050","0.934","1.68e-01",NA,NA,NA,0.035457974
+"MFSD12","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.093","0.067","1.097","1.69e-01",NA,NA,NA,0.03153052
+"JKAMP","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.076","0.055","0.927","1.71e-01",NA,NA,NA,0.032385784
+"CCDC149","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.064","0.047","0.938","1.72e-01",NA,NA,NA,0.032392748
+"TEC","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.054","0.040","1.056","1.73e-01",NA,NA,NA,0.032497796
+"HLA-DPB1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.089","0.066","0.915","1.80e-01",NA,NA,NA,0.034312551
+"TMEM120B","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.068","0.051","0.935","1.83e-01",NA,NA,NA,0.043220791
+"POLR3K","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.071","0.053","0.932","1.85e-01",NA,NA,NA,0.039079166
+"TMEM178B","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.081","0.061","0.922","1.86e-01",NA,NA,NA,0.029257279
+"C4orf47","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.165","0.125","0.848","1.87e-01",NA,NA,NA,0.03329268
+"CAPN11","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.063","0.048","0.939","1.89e-01",NA,NA,NA,0.034318703
+"RNF141","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.118","0.090","0.889","1.91e-01",NA,NA,NA,0.028780835
+"KCNIP1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.079","0.060","1.082","1.91e-01",NA,NA,NA,0.033680481
+"VPS41","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.076","0.059","1.079","1.93e-01",NA,NA,NA,0.026714201
+"CR1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.049","0.038","1.050","2.00e-01",NA,NA,NA,0.035013401
+"RASA3","Brain Prefrontal cortex","OCD","Inverse variance weighted",2," 0.036","0.028","1.036","2.03e-01",NA,0.969293695,NA,0.022810712
+"LHPP","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.041","0.033","1.042","2.04e-01",NA,NA,NA,0.03041342
+"THAP4","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.053","0.042","0.948","2.04e-01",NA,NA,NA,0.040271063
+"KIF16B","Brain Prefrontal cortex","OCD","Inverse variance weighted",2,"-0.050","0.039","0.952","2.05e-01",NA,0.213628109,NA,0.098763588
+"ALDH16A1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.045","0.036","1.046","2.09e-01",NA,NA,NA,0.027683483
+"COLEC11","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.061","0.049","1.063","2.12e-01",NA,NA,NA,0.037904656
+"PRKN","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.096","0.077","0.909","2.14e-01",NA,NA,NA,0.032697065
+"SLX9","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.057","0.046","0.944","2.16e-01",NA,NA,NA,0.038526182
+"HOMER1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.081","0.066","0.922","2.16e-01",NA,NA,NA,0.007382079
+"RAB2A","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.071","0.057","1.073","2.17e-01",NA,NA,NA,0.027323122
+"MMP11","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.072","0.058","0.931","2.19e-01",NA,NA,NA,0.02522436
+"ADCY1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.081","0.066","1.084","2.20e-01",NA,NA,NA,0.027505529
+"SMYD3","Brain Prefrontal cortex","OCD","Weighted median",4," 0.033","0.027","1.033","2.21e-01",0.630965001,0.782452967,0.730434605,0.00578152
+"ERBB4","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.044","0.036","0.957","2.24e-01",NA,NA,NA,0.025890585
+"CACNA1C","Brain Prefrontal cortex","OCD","Weighted mode",3," 0.057","0.033","1.059","2.30e-01",0.863123117,0.754537407,0.598368661,0.094713007
+"MDGA1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.099","0.083","0.906","2.30e-01",NA,NA,NA,0.041004413
+"CLUL1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.070","0.058","0.933","2.30e-01",NA,NA,NA,0.017151802
+"KCNG2","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.039","0.032","1.039","2.33e-01",NA,NA,NA,0.03573286
+"SMYD3","Brain Prefrontal cortex","OCD","Inverse variance weighted",4," 0.028","0.024","1.029","2.34e-01",0.630965001,0.782452967,0.730434605,0.00578152
+"RUNX1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.076","0.064","0.927","2.36e-01",NA,NA,NA,0.025113826
+"CDAN1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.079","0.067","0.924","2.37e-01",NA,NA,NA,0.029761662
+"PDE11A","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.044","0.038","0.957","2.38e-01",NA,NA,NA,0.034963749
+"FAM124A","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.077","0.065","0.926","2.39e-01",NA,NA,NA,0.025259724
+"PLCB4","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.050","0.043","0.951","2.42e-01",NA,NA,NA,0.024551902
+"C19orf12","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.092","0.079","0.912","2.45e-01",NA,NA,NA,0.029038609
+"DSCAM","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.064","0.055","0.938","2.46e-01",NA,NA,NA,0.02666033
+"ITGB3","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.085","0.074","1.089","2.48e-01",NA,NA,NA,0.024447778
+"SYTL3","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.114","0.099","1.121","2.48e-01",NA,NA,NA,0.023778141
+"PPFIA4","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.061","0.053","1.063","2.49e-01",NA,NA,NA,0.030714071
+"VWA5B2","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.046","0.041","1.048","2.53e-01",NA,NA,NA,0.028587724
+"NMNAT2","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.051","0.045","1.052","2.54e-01",NA,NA,NA,0.025771268
+"CAMK4","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.075","0.066","1.078","2.54e-01",NA,NA,NA,0.023544181
+"RUNX2","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.045","0.040","1.046","2.55e-01",NA,NA,NA,0.025675623
+"ADAM12","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.052","0.046","1.054","2.58e-01",NA,NA,NA,0.024137519
+"SETBP1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.055","0.049","0.946","2.58e-01",NA,NA,NA,0.00406253
+"STAB2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.032","0.028","0.969","2.61e-01",NA,NA,NA,0.023187654
+"TRARG1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.065","0.058","0.937","2.62e-01",NA,NA,NA,0.024772915
+"TPO","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.062","0.056","1.064","2.63e-01",NA,NA,NA,0.023381956
+"PRDM16","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.059","0.053","0.943","2.63e-01",NA,NA,NA,0.023380529
+"SNTG2","Brain Prefrontal cortex","OCD","Inverse variance weighted",3," 0.036","0.032","1.037","2.64e-01",0.267378461,0.154396475,0.389049932,0.0205797
+"CSGALNACT1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.058","0.052","1.059","2.66e-01",NA,NA,NA,0.023065954
+"ASAP2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.055","0.050","0.947","2.70e-01",NA,NA,NA,0.023956736
+"NTM","Brain Prefrontal cortex","OCD","Inverse variance weighted",3," 0.039","0.036","1.040","2.74e-01",0.065272779,0.125624704,0.720259902,0.018140344
+"AUTS2","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.056","0.051","1.057","2.74e-01",NA,NA,NA,0.041251389
+"AK8","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.051","0.047","0.950","2.76e-01",NA,NA,NA,0.023240768
+"ANKRD36B","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.035","0.032","0.966","2.78e-01",NA,NA,NA,0.02359498
+"EIF3H","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.063","0.059","1.066","2.79e-01",NA,NA,NA,0.02291389
+"GRTP1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.037","0.034","0.964","2.80e-01",NA,NA,NA,0.024757512
+"OSBPL3","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.050","0.046","0.951","2.82e-01",NA,NA,NA,0.023413874
+"ZNF16","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.032","0.030","1.033","2.82e-01",NA,NA,NA,0.025769854
+"PLEKHG7","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.073","0.068","0.930","2.83e-01",NA,NA,NA,0.021982212
+"TYW1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.039","0.037","1.040","2.83e-01",NA,NA,NA,0.025321965
+"ITPR2","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.091","0.085","1.095","2.84e-01",NA,NA,NA,0.024487354
+"DYSF","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.079","0.073","1.082","2.84e-01",NA,NA,NA,0.024798078
+"PIGP","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.087","0.081","0.917","2.85e-01",NA,NA,NA,0.022116663
+"AMDHD1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.072","0.067","1.074","2.86e-01",NA,NA,NA,0.022639106
+"COL5A2","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.068","0.065","1.071","2.90e-01",NA,NA,NA,0.026962317
+"GAS7","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.066","0.062","1.068","2.91e-01",NA,NA,NA,0.021841214
+"RFTN1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.075","0.072","0.928","2.94e-01",NA,NA,NA,0.047872519
+"PAMR1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.059","0.057","1.061","2.95e-01",NA,NA,NA,0.022823753
+"RPTOR","Brain Prefrontal cortex","OCD","Weighted mode",3,"-0.067","0.048","0.936","2.98e-01",0.221053037,0.13623386,0.419979179,0.01942057
+"CTDP1","Brain Prefrontal cortex","OCD","Inverse variance weighted",2," 0.026","0.025","1.026","3.00e-01",NA,0.880653475,NA,0.015676311
+"COL23A1","Brain Prefrontal cortex","OCD","Inverse variance weighted",2," 0.025","0.024","1.025","3.01e-01",NA,0.846209043,NA,0.018951841
+"CHCHD3","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.042","0.041","0.959","3.01e-01",NA,NA,NA,0.021355014
+"SLC10A7","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.033","0.032","0.967","3.07e-01",NA,NA,NA,0.022896532
+"TRPS1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.055","0.055","0.946","3.14e-01",NA,NA,NA,0.020945336
+"EIF2AK4","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.081","0.081","1.085","3.17e-01",NA,NA,NA,0.031089201
+"HDAC4","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.046","0.046","0.955","3.20e-01",NA,NA,NA,0.02608657
+"SEC14L5","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.055","0.055","0.947","3.21e-01",NA,NA,NA,0.020416772
+"RPTOR","Brain Prefrontal cortex","OCD","Simple mode",3,"-0.065","0.050","0.937","3.22e-01",0.221053037,0.13623386,0.419979179,0.01942057
+"HIVEP3","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.077","0.077","0.926","3.22e-01",NA,NA,NA,0.022924177
+"KIRREL3","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.043","0.044","0.958","3.23e-01",NA,NA,NA,0.020416992
+"CAB39L","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.062","0.063","0.940","3.25e-01",NA,NA,NA,0.020417725
+"CDH4","Brain Prefrontal cortex","OCD","Inverse variance weighted",3,"-0.020","0.020","0.980","3.26e-01",0.314887173,0.547306567,0.736189764,0.02077357
+"SIM2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.050","0.051","0.951","3.26e-01",NA,NA,NA,0.022873721
+"PI4KA","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.068","0.069","0.935","3.26e-01",NA,NA,NA,0.020540192
+"SLC38A10","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.071","0.073","1.074","3.28e-01",NA,NA,NA,0.021770699
+"SLC8A1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.056","0.057","0.945","3.29e-01",NA,NA,NA,0.020572173
+"CDH4","Brain Prefrontal cortex","OCD","Simple mode",3,"-0.038","0.030","0.963","3.30e-01",0.314887173,0.547306567,0.736189764,0.02077357
+"SLIT3","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.068","0.070","0.935","3.32e-01",NA,NA,NA,0.020894971
+"SNTG2","Brain Prefrontal cortex","OCD","Weighted median",3," 0.026","0.027","1.026","3.32e-01",0.267378461,0.154396475,0.389049932,0.0205797
+"HLA-DQB1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.053","0.055","1.054","3.32e-01",NA,NA,NA,0.031554699
+"DROSHA","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.056","0.058","1.058","3.34e-01",NA,NA,NA,0.02664741
+"SORCS1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.057","0.059","1.058","3.34e-01",NA,NA,NA,0.019801271
+"TP73","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.057","0.059","1.059","3.35e-01",NA,NA,NA,0.028520777
+"BTBD9","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.054","0.057","0.947","3.36e-01",NA,NA,NA,0.017690976
+"SHB","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.052","0.054","1.053","3.36e-01",NA,NA,NA,0.019907285
+"TMBIM4","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.031","0.032","1.031","3.36e-01",NA,NA,NA,0.019910107
+"LRWD1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.047","0.049","1.048","3.38e-01",NA,NA,NA,0.021786266
+"GHRL","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.047","0.049","0.954","3.38e-01",NA,NA,NA,0.019673538
+"SLC35F1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.042","0.044","1.043","3.40e-01",NA,NA,NA,0.01984158
+"CAMK1D","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.055","0.058","0.946","3.41e-01",NA,NA,NA,0.019523509
+"CYP4V2","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.025","0.026","1.025","3.42e-01",NA,NA,NA,0.023943906
+"SPATC1L","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.034","0.036","0.967","3.43e-01",NA,NA,NA,0.022770223
+"ACYP2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.043","0.045","0.958","3.45e-01",NA,NA,NA,0.020235113
+"STX6","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.038","0.040","1.039","3.46e-01",NA,NA,NA,0.019708932
+"OTUD7A","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.042","0.045","1.043","3.49e-01",NA,NA,NA,0.022495575
+"DYNC2I1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.045","0.048","1.046","3.49e-01",NA,NA,NA,0.020249806
+"ARHGAP39","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.104","0.111","1.110","3.49e-01",NA,NA,NA,0.050113222
+"NADSYN1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.041","0.044","0.960","3.50e-01",NA,NA,NA,0.021756094
+"CDH23","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.059","0.064","1.061","3.52e-01",NA,NA,NA,0.015148077
+"HFM1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.078","0.084","0.925","3.53e-01",NA,NA,NA,0.033566402
+"TPCN2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.035","0.039","0.965","3.58e-01",NA,NA,NA,0.025045192
+"GPATCH2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.061","0.066","0.941","3.59e-01",NA,NA,NA,0.019685739
+"NTM","Brain Prefrontal cortex","OCD","Weighted median",3," 0.028","0.031","1.028","3.62e-01",0.065272779,0.125624704,0.720259902,0.018140344
+"PTPRN2","Brain Prefrontal cortex","OCD","MR Egger",4,"-0.121","0.104","0.886","3.66e-01",0.407334535,0.332757673,0.331863397,0.017032532
+"MS4A15","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.054","0.060","0.948","3.67e-01",NA,NA,NA,0.020743632
+"MEIS1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.062","0.069","0.940","3.70e-01",NA,NA,NA,0.019964813
+"HPCAL1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.087","0.098","0.916","3.71e-01",NA,NA,NA,0.020982595
+"CECR2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.031","0.035","0.969","3.72e-01",NA,NA,NA,0.020009419
+"EIF3B","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.029","0.033","1.030","3.74e-01",NA,NA,NA,0.01857726
+"NCOA7","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.053","0.060","1.055","3.76e-01",NA,NA,NA,0.018316166
+"SORCS2","Brain Prefrontal cortex","OCD","MR Egger",3,"-0.237","0.160","0.789","3.77e-01",0.65236798,0.278327519,0.367664013,0.013336767
+"PTPN14","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.041","0.047","0.959","3.78e-01",NA,NA,NA,0.021536366
+"CSMD1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.048","0.054","1.049","3.78e-01",NA,NA,NA,0.02123509
+"HTATIP2","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.061","0.069","1.063","3.78e-01",NA,NA,NA,0.019142186
+"ADAMTS16","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.022","0.026","1.023","3.79e-01",NA,NA,NA,0.01891767
+"SLC7A11","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.064","0.073","1.066","3.79e-01",NA,NA,NA,0.034477862
+"GALNTL6","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.037","0.042","0.964","3.80e-01",NA,NA,NA,0.019307637
+"COL18A1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.036","0.041","0.965","3.81e-01",NA,NA,NA,0.020922715
+"TFPI","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.051","0.059","0.950","3.84e-01",NA,NA,NA,0.020642824
+"AGAP1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.045","0.052","0.956","3.84e-01",NA,NA,NA,0.018965206
+"CACNA1C","Brain Prefrontal cortex","OCD","MR Egger",3," 0.077","0.053","1.080","3.86e-01",0.863123117,0.754537407,0.598368661,0.094713007
+"SNX24","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.037","0.043","0.964","3.86e-01",NA,NA,NA,0.020049307
+"SMYD3","Brain Prefrontal cortex","OCD","Weighted mode",4," 0.032","0.031","1.032","3.87e-01",0.630965001,0.782452967,0.730434605,0.00578152
+"ZFPM1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.053","0.061","0.949","3.87e-01",NA,NA,NA,0.053671692
+"CCDC144A","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.048","0.056","1.049","3.88e-01",NA,NA,NA,0.035426531
+"NT5DC1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.032","0.037","1.032","3.90e-01",NA,NA,NA,0.020322835
+"FRMPD2","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.032","0.038","1.033","3.92e-01",NA,NA,NA,0.022918075
+"CTNND2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.038","0.045","0.963","3.94e-01",NA,NA,NA,0.018282402
+"NRXN1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.067","0.080","0.935","3.99e-01",NA,NA,NA,0.018013886
+"PPP4R4","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.041","0.049","1.042","4.01e-01",NA,NA,NA,0.024816145
+"SMYD3","Brain Prefrontal cortex","OCD","Simple mode",4," 0.035","0.035","1.035","4.02e-01",0.630965001,0.782452967,0.730434605,0.00578152
+"RPTOR","Brain Prefrontal cortex","OCD","MR Egger",3,"-0.516","0.381","0.597","4.05e-01",0.221053037,0.13623386,0.419979179,0.01942057
+"KIF26A","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.063","0.076","1.065","4.06e-01",NA,NA,NA,0.035260517
+"FRY","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.034","0.041","1.034","4.09e-01",NA,NA,NA,0.020993211
+"CDH4","Brain Prefrontal cortex","OCD","Weighted median",3,"-0.019","0.023","0.981","4.10e-01",0.314887173,0.547306567,0.736189764,0.02077357
+"ENOSF1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.044","0.054","1.045","4.11e-01",NA,NA,NA,0.017838619
+"WDR33","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.049","0.060","0.952","4.13e-01",NA,NA,NA,0.014944733
+"DNAH11","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.045","0.056","0.956","4.13e-01",NA,NA,NA,0.018522327
+"ARHGAP32","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.049","0.059","1.050","4.14e-01",NA,NA,NA,0.024667446
+"DLGAP2","Brain Prefrontal cortex","OCD","Inverse variance weighted",6," 0.015","0.019","1.015","4.33e-01",0.440728189,0.258813429,0.171419431,0.016014894
+"AK3","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.040","0.052","0.960","4.35e-01",NA,NA,NA,0.019727935
+"EPHB2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.047","0.060","0.955","4.39e-01",NA,NA,NA,0.018368299
+"TG","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.045","0.058","0.956","4.42e-01",NA,NA,NA,0.017339483
+"EHMT1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.029","0.038","0.971","4.43e-01",NA,NA,NA,0.017543875
+"SLC41A1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.022","0.029","1.022","4.45e-01",NA,NA,NA,0.017074979
+"LRRC27","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.055","0.072","0.947","4.47e-01",NA,NA,NA,0.019620313
+"WAC","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.031","0.041","1.032","4.47e-01",NA,NA,NA,0.01863825
+"B3GAT1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.033","0.043","0.968","4.51e-01",NA,NA,NA,0.02368765
+"RAMP1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.040","0.053","0.961","4.51e-01",NA,NA,NA,0.01895891
+"EXT1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.019","0.025","0.981","4.52e-01",NA,NA,NA,0.020981236
+"MYT1L","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.044","0.059","0.957","4.54e-01",NA,NA,NA,0.015620778
+"NAV3","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.041","0.054","0.960","4.54e-01",NA,NA,NA,0.016232072
+"DDX11","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.027","0.035","0.974","4.54e-01",NA,NA,NA,0.019494232
+"TBATA","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.045","0.061","0.956","4.63e-01",NA,NA,NA,0.018403436
+"SLC41A3","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.021","0.029","1.021","4.68e-01",NA,NA,NA,0.018113383
+"VPS53","Brain Prefrontal cortex","OCD","Inverse variance weighted",2," 0.019","0.026","1.019","4.70e-01",NA,0.503633887,NA,0.032961433
+"RPH3AL","Brain Prefrontal cortex","OCD","MR Egger",4," 0.143","0.165","1.154","4.78e-01",0.283246779,0.328453744,0.483389504,0.075597226
+"TAF4","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.019","0.027","1.019","4.79e-01",NA,NA,NA,0.018727075
+"MYRFL","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.034","0.049","1.035","4.80e-01",NA,NA,NA,0.018412715
+"PDE2A","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.033","0.047","0.967","4.81e-01",NA,NA,NA,0.016078708
+"WDR37","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.037","0.052","0.964","4.81e-01",NA,NA,NA,0.022993738
+"KCNMB2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.057","0.081","0.945","4.83e-01",NA,NA,NA,0.017442674
+"ARHGEF38","Brain Prefrontal cortex","OCD","Inverse variance weighted",2,"-0.043","0.062","0.958","4.83e-01",NA,0.073278123,NA,0.099593949
+"PRKG1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.045","0.065","0.956","4.87e-01",NA,NA,NA,0.016211218
+"GNAI1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.036","0.052","0.965","4.90e-01",NA,NA,NA,0.015928933
+"PSMD5","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.035","0.050","1.035","4.90e-01",NA,NA,NA,0.016262007
+"RYR3","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.044","0.064","0.957","4.93e-01",NA,NA,NA,0.014331907
+"PDE1B","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.047","0.070","1.049","4.98e-01",NA,NA,NA,0.017769994
+"ZNF577","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.050","0.073","1.051","4.99e-01",NA,NA,NA,0.022773837
+"LY96","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.075","0.111","1.078","5.00e-01",NA,NA,NA,0.021701345
+"SLC9A9","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.028","0.042","1.028","5.03e-01",NA,NA,NA,0.015638134
+"TRIO","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.021","0.031","0.979","5.03e-01",NA,NA,NA,0.015812981
+"ABCC4","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.026","0.040","1.027","5.05e-01",NA,NA,NA,0.02902964
+"ANKRD18B","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.036","0.055","0.964","5.06e-01",NA,NA,NA,0.016298129
+"ARHGEF18","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.039","0.059","1.040","5.07e-01",NA,NA,NA,0.018749597
+"NWD2","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.032","0.049","1.033","5.09e-01",NA,NA,NA,0.01566392
+"RAB11FIP3","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.023","0.034","0.978","5.10e-01",NA,NA,NA,0.015767649
+"TMEM132D","Brain Prefrontal cortex","OCD","Inverse variance weighted",2," 0.017","0.026","1.017","5.12e-01",NA,0.776255551,NA,0.016127103
+"PID1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.053","0.082","0.949","5.19e-01",NA,NA,NA,0.022920718
+"PRIMA1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.050","0.079","0.951","5.27e-01",NA,NA,NA,0.024735895
+"EXOC2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.021","0.033","0.980","5.27e-01",NA,NA,NA,0.018895168
+"BCAR1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.039","0.062","0.962","5.29e-01",NA,NA,NA,0.01535894
+"EGFR","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.026","0.041","0.974","5.29e-01",NA,NA,NA,0.024394558
+"COL22A1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.042","0.067","1.043","5.32e-01",NA,NA,NA,0.019973956
+"FLT4","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.023","0.036","1.023","5.33e-01",NA,NA,NA,0.017966428
+"ZNF385D","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.033","0.053","1.034","5.34e-01",NA,NA,NA,0.029128325
+"PSD4","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.037","0.059","1.037","5.35e-01",NA,NA,NA,0.015397687
+"GALNT17","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.015","0.024","1.015","5.37e-01",NA,NA,NA,0.016723479
+"APAF1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.034","0.054","0.967","5.38e-01",NA,NA,NA,0.024811987
+"SNTG2","Brain Prefrontal cortex","OCD","Weighted mode",3," 0.023","0.031","1.023","5.39e-01",0.267378461,0.154396475,0.389049932,0.0205797
+"TBC1D1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.024","0.040","1.025","5.39e-01",NA,NA,NA,0.017414528
+"COL9A3","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.039","0.063","1.040","5.40e-01",NA,NA,NA,0.011838871
+"FRAS1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.029","0.048","1.030","5.42e-01",NA,NA,NA,0.015641108
+"SNTG2","Brain Prefrontal cortex","OCD","MR Egger",3,"-0.067","0.077","0.935","5.42e-01",0.267378461,0.154396475,0.389049932,0.0205797
+"GRIN2A","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.017","0.028","0.983","5.46e-01",NA,NA,NA,0.015188535
+"SDK1","Brain Prefrontal cortex","OCD","Inverse variance weighted",2,"-0.023","0.039","0.977","5.51e-01",NA,0.761171961,NA,0.014009127
+"RIN2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.017","0.028","0.983","5.52e-01",NA,NA,NA,0.015330581
+"RPTOR","Brain Prefrontal cortex","OCD","Inverse variance weighted",3,"-0.028","0.047","0.973","5.54e-01",0.221053037,0.13623386,0.419979179,0.01942057
+"FBXO34","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.026","0.044","0.974","5.56e-01",NA,NA,NA,0.015054503
+"ME2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.052","0.089","0.949","5.58e-01",NA,NA,NA,0.015370344
+"PLEKHG4B","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.022","0.038","0.978","5.58e-01",NA,NA,NA,0.02213232
+"SYNE3","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.028","0.048","0.972","5.59e-01",NA,NA,NA,0.017494253
+"PIWIL4","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.041","0.071","0.959","5.60e-01",NA,NA,NA,0.013843913
+"HHAT","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.033","0.056","0.968","5.60e-01",NA,NA,NA,0.016768384
+"ZDHHC20","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.015","0.027","1.015","5.68e-01",NA,NA,NA,0.015067595
+"SMCHD1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.035","0.062","1.035","5.73e-01",NA,NA,NA,0.017457176
+"NBPF3","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.028","0.050","1.028","5.74e-01",NA,NA,NA,0.015004873
+"UTS2R","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.023","0.041","1.023","5.76e-01",NA,NA,NA,0.035897627
+"SORCS3","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.024","0.043","0.976","5.80e-01",NA,NA,NA,0.016068117
+"PRKAG2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.031","0.057","0.969","5.81e-01",NA,NA,NA,0.012547537
+"ACOXL","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.030","0.055","1.031","5.84e-01",NA,NA,NA,0.018601627
+"CHST9","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.033","0.060","1.033","5.87e-01",NA,NA,NA,0.014466434
+"GABRR2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.043","0.079","0.958","5.88e-01",NA,NA,NA,0.016021914
+"CROCC2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.039","0.073","0.962","5.89e-01",NA,NA,NA,0.014659554
+"MTNR1A","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.046","0.085","0.955","5.89e-01",NA,NA,NA,0.028709093
+"FIBCD1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.037","0.068","1.037","5.90e-01",NA,NA,NA,0.013590801
+"NAV2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.031","0.057","0.970","5.91e-01",NA,NA,NA,0.020493039
+"CYP2W1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.042","0.079","1.043","5.91e-01",NA,NA,NA,0.01691169
+"STK32C","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.031","0.057","0.970","5.91e-01",NA,NA,NA,0.018859431
+"TC2N","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.032","0.059","1.032","5.92e-01",NA,NA,NA,0.014471469
+"PIERCE2","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.076","0.143","1.079","5.93e-01",NA,NA,NA,0.025948838
+"ZCCHC24","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.021","0.039","0.979","5.93e-01",NA,NA,NA,0.015536238
+"TSNARE1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.021","0.040","0.979","5.96e-01",NA,NA,NA,0.014483034
+"RNASEH2A","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.020","0.037","1.020","5.99e-01",NA,NA,NA,0.01509375
+"GABRG3","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.027","0.051","0.973","6.00e-01",NA,NA,NA,0.014598841
+"GMDS","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.049","0.093","1.050","6.01e-01",NA,NA,NA,0.014611613
+"GSTO2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.032","0.062","0.968","6.05e-01",NA,NA,NA,0.014082488
+"RNF213","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.022","0.043","1.022","6.06e-01",NA,NA,NA,0.01447737
+"RPH3AL","Brain Prefrontal cortex","OCD","Weighted mode",4,"-0.021","0.037","0.979","6.08e-01",0.283246779,0.328453744,0.483389504,0.075597226
+"PKP3","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.038","0.074","0.963","6.10e-01",NA,NA,NA,0.024192394
+"NOTCH1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.027","0.053","1.027","6.11e-01",NA,NA,NA,0.016289608
+"CARMIL1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.029","0.058","1.030","6.11e-01",NA,NA,NA,0.017342182
+"THBS2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.030","0.060","0.971","6.17e-01",NA,NA,NA,0.016696231
+"TMEM132C","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.028","0.056","0.973","6.18e-01",NA,NA,NA,0.011597885
+"PRDX1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.044","0.089","1.045","6.20e-01",NA,NA,NA,0.01508665
+"CACNG8","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.036","0.073","1.036","6.25e-01",NA,NA,NA,0.015564109
+"TENM4","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.020","0.040","0.981","6.26e-01",NA,NA,NA,0.014435953
+"SORCS2","Brain Prefrontal cortex","OCD","Simple mode",3,"-0.030","0.053","0.971","6.28e-01",0.65236798,0.278327519,0.367664013,0.013336767
+"SV2B","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.025","0.052","1.025","6.32e-01",NA,NA,NA,0.014486422
+"UBE2F","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.029","0.062","0.971","6.36e-01",NA,NA,NA,0.0141944
+"FOXN3","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.026","0.056","1.027","6.40e-01",NA,NA,NA,0.014518257
+"STAC","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.031","0.066","0.970","6.42e-01",NA,NA,NA,0.016556177
+"DIP2C","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.014","0.030","1.014","6.43e-01",NA,NA,NA,0.014071224
+"GRID2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.024","0.053","0.976","6.45e-01",NA,NA,NA,0.014472884
+"SLC2A9","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.014","0.031","1.014","6.46e-01",NA,NA,NA,0.023069193
+"MUC12","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.019","0.042","1.020","6.47e-01",NA,NA,NA,0.014875403
+"RACK1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.027","0.061","1.028","6.52e-01",NA,NA,NA,0.015952743
+"NAALADL2","Brain Prefrontal cortex","OCD","Inverse variance weighted",2,"-0.031","0.069","0.969","6.52e-01",NA,0.086214437,NA,0.020657302
+"PPP1R2","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.034","0.077","1.035","6.57e-01",NA,NA,NA,0.018215805
+"SYNDIG1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.025","0.057","1.026","6.58e-01",NA,NA,NA,0.013322629
+"DISP3","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.023","0.052","0.977","6.62e-01",NA,NA,NA,0.019954894
+"SLC66A2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.014","0.032","0.986","6.64e-01",NA,NA,NA,0.014565155
+"NTM","Brain Prefrontal cortex","OCD","MR Egger",3," 0.203","0.351","1.225","6.66e-01",0.065272779,0.125624704,0.720259902,0.018140344
+"RPH3AL","Brain Prefrontal cortex","OCD","Weighted median",4,"-0.014","0.034","0.986","6.67e-01",0.283246779,0.328453744,0.483389504,0.075597226
+"PPP3R1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.029","0.066","0.972","6.68e-01",NA,NA,NA,0.014690936
+"PSMF1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.020","0.048","0.980","6.71e-01",NA,NA,NA,0.017901369
+"VIPR2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.022","0.052","0.978","6.73e-01",NA,NA,NA,0.015724069
+"CACNA1C","Brain Prefrontal cortex","OCD","Simple mode",3," 0.021","0.044","1.022","6.74e-01",0.863123117,0.754537407,0.598368661,0.094713007
+"PTPRN2","Brain Prefrontal cortex","OCD","Inverse variance weighted",4," 0.009","0.022","1.009","6.75e-01",0.407334535,0.332757673,0.331863397,0.017032532
+"WIPF1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.022","0.053","0.978","6.76e-01",NA,NA,NA,0.013553498
+"B3GNTL1","Brain Prefrontal cortex","OCD","Inverse variance weighted",2,"-0.016","0.039","0.984","6.77e-01",NA,0.603641852,NA,0.021170951
+"SMYD3","Brain Prefrontal cortex","OCD","MR Egger",4," 0.157","0.327","1.170","6.78e-01",0.630965001,0.782452967,0.730434605,0.00578152
+"FMN2","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.011","0.027","1.011","6.82e-01",NA,NA,NA,0.015344133
+"CDH4","Brain Prefrontal cortex","OCD","MR Egger",3,"-0.101","0.185","0.904","6.83e-01",0.314887173,0.547306567,0.736189764,0.02077357
+"PCNT","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.027","0.066","1.028","6.83e-01",NA,NA,NA,0.012794384
+"ATXN7L1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.018","0.044","1.018","6.85e-01",NA,NA,NA,0.017832606
+"KCNQ3","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.030","0.074","1.031","6.85e-01",NA,NA,NA,0.014649246
+"LHFPL6","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.016","0.041","1.017","6.89e-01",NA,NA,NA,0.019377287
+"TRAPPC9","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.031","0.076","1.031","6.89e-01",NA,NA,NA,0.02323761
+"LHCGR","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.015","0.037","0.985","6.89e-01",NA,NA,NA,0.017294568
+"COL19A1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.023","0.057","1.023","6.89e-01",NA,NA,NA,0.014527873
+"PIGN","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.014","0.035","0.986","6.90e-01",NA,NA,NA,0.015430201
+"CDH4","Brain Prefrontal cortex","OCD","Weighted mode",3,"-0.012","0.025","0.988","6.91e-01",0.314887173,0.547306567,0.736189764,0.02077357
+"CNTN5","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.021","0.052","0.980","6.95e-01",NA,NA,NA,0.014494155
+"ANGPT4","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.015","0.038","1.015","6.96e-01",NA,NA,NA,0.014013012
+"SORCS2","Brain Prefrontal cortex","OCD","Weighted mode",3,"-0.021","0.047","0.979","6.99e-01",0.65236798,0.278327519,0.367664013,0.013336767
+"ABCA7","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.028","0.073","0.972","7.01e-01",NA,NA,NA,0.015617779
+"DCC","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.015","0.039","0.985","7.03e-01",NA,NA,NA,0.015226224
+"SMG5","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.021","0.055","0.979","7.07e-01",NA,NA,NA,0.013378939
+"FSTL5","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.025","0.066","0.976","7.08e-01",NA,NA,NA,0.010868459
+"FAT1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.020","0.053","0.980","7.09e-01",NA,NA,NA,0.013872509
+"MUC17","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.020","0.054","0.980","7.11e-01",NA,NA,NA,0.016411944
+"AFAP1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.011","0.029","1.011","7.11e-01",NA,NA,NA,0.015212777
+"ADARB2","Brain Prefrontal cortex","OCD","Inverse variance weighted",5,"-0.008","0.023","0.992","7.12e-01",0.501222469,0.177956179,0.141419863,0.013968184
+"UNC45B","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.019","0.052","0.981","7.13e-01",NA,NA,NA,0.013891627
+"OSTN","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.026","0.072","1.027","7.13e-01",NA,NA,NA,0.014097254
+"EFCAB2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.018","0.050","0.982","7.13e-01",NA,NA,NA,0.014342465
+"ST6GAL1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.029","0.078","0.972","7.15e-01",NA,NA,NA,0.013726975
+"HPR","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.019","0.052","0.981","7.15e-01",NA,NA,NA,0.016569995
+"ARHGEF7","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.016","0.045","1.016","7.20e-01",NA,NA,NA,0.013798363
+"SLC27A1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.019","0.052","1.019","7.21e-01",NA,NA,NA,0.013436667
+"TRAPPC8","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.057","0.162","0.944","7.23e-01",NA,NA,NA,0.024291974
+"LYPLA1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.033","0.094","0.967","7.24e-01",NA,NA,NA,0.017227843
+"LRP1B","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.025","0.070","1.025","7.26e-01",NA,NA,NA,0.022557005
+"FAM174B","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.014","0.041","1.015","7.27e-01",NA,NA,NA,0.02300191
+"PLXNA2","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.024","0.068","1.024","7.28e-01",NA,NA,NA,0.015417192
+"UBA6","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.038","0.110","1.038","7.32e-01",NA,NA,NA,0.018358055
+"SNPH","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.012","0.037","1.013","7.35e-01",NA,NA,NA,0.013904292
+"SCD5","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.021","0.062","0.979","7.37e-01",NA,NA,NA,0.013520178
+"FAM107B","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.017","0.049","0.984","7.38e-01",NA,NA,NA,0.019419781
+"FLACC1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.026","0.080","1.026","7.45e-01",NA,NA,NA,0.012817584
+"SORCS2","Brain Prefrontal cortex","OCD","Weighted median",3,"-0.013","0.041","0.987","7.46e-01",0.65236798,0.278327519,0.367664013,0.013336767
+"MYOM2","Brain Prefrontal cortex","OCD","Inverse variance weighted",2,"-0.025","0.078","0.975","7.46e-01",NA,0.020896671,NA,0.15314573
+"PIP5K1C","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.012","0.038","1.012","7.50e-01",NA,NA,NA,0.023941789
+"BRD3","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.015","0.050","1.016","7.56e-01",NA,NA,NA,0.015264094
+"ARHGEF10","Brain Prefrontal cortex","OCD","Inverse variance weighted",2,"-0.009","0.029","0.991","7.59e-01",NA,0.650217595,NA,0.02602433
+"CHL1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.009","0.031","1.009","7.60e-01",NA,NA,NA,0.013565273
+"SBF2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.016","0.052","0.984","7.60e-01",NA,NA,NA,0.014653453
+"DPP6","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.016","0.053","1.016","7.61e-01",NA,NA,NA,0.014742671
+"HS1BP3","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.017","0.057","0.983","7.62e-01",NA,NA,NA,0.013504088
+"ST7L","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.013","0.043","0.987","7.63e-01",NA,NA,NA,0.016151227
+"AFDN","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.011","0.038","0.989","7.65e-01",NA,NA,NA,0.014179088
+"ABCB8","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.017","0.056","1.017","7.66e-01",NA,NA,NA,0.019517425
+"OPRL1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.010","0.034","1.010","7.66e-01",NA,NA,NA,0.014418504
+"ZNF415","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.013","0.044","0.987","7.70e-01",NA,NA,NA,0.01774782
+"SCG3","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.016","0.055","0.984","7.70e-01",NA,NA,NA,0.013241817
+"APBA2","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.009","0.031","1.009","7.70e-01",NA,NA,NA,0.017120668
+"KIF26B","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.012","0.040","1.012","7.70e-01",NA,NA,NA,0.019740529
+"S100A16","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.017","0.060","1.018","7.73e-01",NA,NA,NA,0.017102127
+"ANKRD33B","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.015","0.052","0.985","7.74e-01",NA,NA,NA,0.01328799
+"GIGYF2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.015","0.051","0.986","7.76e-01",NA,NA,NA,0.013775307
+"CNTN1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.008","0.026","1.008","7.77e-01",NA,NA,NA,0.013972296
+"HRNR","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.008","0.030","1.009","7.77e-01",NA,NA,NA,0.013478596
+"TRIML1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.016","0.058","1.016","7.80e-01",NA,NA,NA,0.013312469
+"SNTG2","Brain Prefrontal cortex","OCD","Simple mode",3," 0.011","0.035","1.011","7.82e-01",0.267378461,0.154396475,0.389049932,0.0205797
+"CERS6","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.015","0.054","0.985","7.82e-01",NA,NA,NA,0.013103924
+"SH3RF3","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.013","0.047","0.987","7.83e-01",NA,NA,NA,0.013448703
+"KREMEN1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.010","0.038","0.990","7.84e-01",NA,NA,NA,0.015981126
+"GSE1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.015","0.056","1.015","7.84e-01",NA,NA,NA,0.015482896
+"DOCK1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.010","0.036","1.010","7.86e-01",NA,NA,NA,0.013092055
+"HEATR4","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.010","0.036","0.990","7.87e-01",NA,NA,NA,0.013137631
+"MUC4","Brain Prefrontal cortex","OCD","Inverse variance weighted",2," 0.016","0.058","1.016","7.88e-01",NA,0.110564962,NA,0.019319088
+"ABR","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.010","0.039","0.990","7.89e-01",NA,NA,NA,0.034297017
+"DLGAP2","Brain Prefrontal cortex","OCD","Weighted median",6," 0.006","0.022","1.006","7.89e-01",0.440728189,0.258813429,0.171419431,0.016014894
+"CHRM5","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.009","0.034","0.991","7.92e-01",NA,NA,NA,0.013410473
+"SMOC2","Brain Prefrontal cortex","OCD","Inverse variance weighted",2,"-0.007","0.029","0.993","7.96e-01",NA,0.892299108,NA,0.012690978
+"CEP104","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.016","0.063","0.984","7.98e-01",NA,NA,NA,0.014130483
+"SLC17A5","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.016","0.065","0.984","8.03e-01",NA,NA,NA,0.013313754
+"GOLGA8B","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.013","0.051","1.013","8.03e-01",NA,NA,NA,0.013084204
+"ZDHHC14","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.012","0.049","1.012","8.04e-01",NA,NA,NA,0.01476405
+"BIN1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.029","0.118","0.971","8.04e-01",NA,NA,NA,0.017869257
+"NCEH1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.014","0.056","0.987","8.10e-01",NA,NA,NA,0.015366723
+"JAG2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.006","0.027","0.994","8.12e-01",NA,NA,NA,0.01352048
+"PCBP3","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.011","0.046","0.989","8.12e-01",NA,NA,NA,0.014150603
+"BPI","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.013","0.057","0.987","8.13e-01",NA,NA,NA,0.013391357
+"CRYL1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.011","0.048","1.011","8.20e-01",NA,NA,NA,0.014937535
+"SLC25A24","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.017","0.077","0.983","8.21e-01",NA,NA,NA,0.015958414
+"WDR7","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.011","0.047","0.989","8.21e-01",NA,NA,NA,0.013291441
+"RPH3AL","Brain Prefrontal cortex","OCD","Simple mode",4,"-0.011","0.046","0.989","8.22e-01",0.283246779,0.328453744,0.483389504,0.075597226
+"CARS1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.009","0.041","1.009","8.22e-01",NA,NA,NA,0.013337284
+"ADCY2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.012","0.055","0.988","8.25e-01",NA,NA,NA,0.011406805
+"PNLDC1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.007","0.033","0.993","8.26e-01",NA,NA,NA,0.012981974
+"CEP72","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.013","0.060","1.013","8.28e-01",NA,NA,NA,0.01201839
+"UBAC2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.010","0.047","0.990","8.29e-01",NA,NA,NA,0.013596136
+"PGS1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.014","0.064","1.014","8.32e-01",NA,NA,NA,0.016840717
+"CDK14","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.013","0.064","0.987","8.36e-01",NA,NA,NA,0.01216399
+"CSMD2","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.014","0.070","1.014","8.40e-01",NA,NA,NA,0.013446644
+"KLK7","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.012","0.061","1.012","8.41e-01",NA,NA,NA,0.014602613
+"MRPS9","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.017","0.087","1.017","8.42e-01",NA,NA,NA,0.012546373
+"C1orf159","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.005","0.028","1.005","8.49e-01",NA,NA,NA,0.017054648
+"TRHDE","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.013","0.067","1.013","8.50e-01",NA,NA,NA,0.012885494
+"LCLAT1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.013","0.069","1.013","8.50e-01",NA,NA,NA,0.015423184
+"LRPAP1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.009","0.046","0.991","8.51e-01",NA,NA,NA,0.012948758
+"SNX7","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.024","0.133","1.025","8.55e-01",NA,NA,NA,0.028583482
+"COL4A2","Brain Prefrontal cortex","OCD","Inverse variance weighted",2,"-0.004","0.025","0.996","8.59e-01",NA,0.414109553,NA,0.016760299
+"PTPRN2","Brain Prefrontal cortex","OCD","Weighted mode",4,"-0.005","0.027","0.995","8.59e-01",0.407334535,0.332757673,0.331863397,0.017032532
+"MCF2L","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.006","0.035","1.006","8.63e-01",NA,NA,NA,0.016013043
+"MS4A12","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.009","0.052","1.009","8.63e-01",NA,NA,NA,0.012573221
+"ANXA11","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.009","0.051","0.991","8.64e-01",NA,NA,NA,0.014167591
+"LDLRAD3","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.009","0.053","1.009","8.66e-01",NA,NA,NA,0.01290563
+"THEGL","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.011","0.068","0.989","8.66e-01",NA,NA,NA,0.018245839
+"HSF1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.011","0.069","1.012","8.68e-01",NA,NA,NA,0.014573289
+"LIMD1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.009","0.054","0.991","8.69e-01",NA,NA,NA,0.014381337
+"ZNF429","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.005","0.033","1.005","8.69e-01",NA,NA,NA,0.012944377
+"GSDME","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.012","0.074","1.012","8.73e-01",NA,NA,NA,0.013318373
+"RPH3AL","Brain Prefrontal cortex","OCD","Inverse variance weighted",4," 0.004","0.028","1.004","8.77e-01",0.283246779,0.328453744,0.483389504,0.075597226
+"AP5Z1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.014","0.091","1.014","8.78e-01",NA,NA,NA,0.027896296
+"ZNF827","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.006","0.042","0.994","8.82e-01",NA,NA,NA,0.014011445
+"DSC1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.007","0.050","1.007","8.83e-01",NA,NA,NA,0.013436903
+"SLC5A10","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.012","0.085","1.013","8.83e-01",NA,NA,NA,0.016345172
+"CPZ","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.006","0.043","0.994","8.84e-01",NA,NA,NA,0.015761259
+"GPR161","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.008","0.056","0.992","8.85e-01",NA,NA,NA,0.013116
+"PTDSS1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.006","0.040","1.006","8.87e-01",NA,NA,NA,0.012853163
+"BORCS5","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.007","0.046","0.994","8.87e-01",NA,NA,NA,0.012900161
+"FAM43A","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.010","0.071","1.010","8.89e-01",NA,NA,NA,0.013510459
+"CTNNA2","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.007","0.055","1.007","8.92e-01",NA,NA,NA,0.01875039
+"PCDHB16","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.004","0.033","1.004","8.94e-01",NA,NA,NA,0.012933994
+"NTM","Brain Prefrontal cortex","OCD","Weighted mode",3," 0.005","0.036","1.005","8.94e-01",0.065272779,0.125624704,0.720259902,0.018140344
+"OAF","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.010","0.075","1.010","8.95e-01",NA,NA,NA,0.022581564
+"KDM5B","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.010","0.077","1.010","8.99e-01",NA,NA,NA,0.013367764
+"UCN3","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.007","0.055","0.993","9.01e-01",NA,NA,NA,0.014159152
+"CMIP","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.006","0.049","1.006","9.05e-01",NA,NA,NA,0.012720963
+"DLEC1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.005","0.039","0.995","9.05e-01",NA,NA,NA,0.02466264
+"MYH15","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.003","0.027","1.003","9.06e-01",NA,NA,NA,0.014147582
+"LRBA","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.006","0.048","0.994","9.06e-01",NA,NA,NA,0.012955763
+"TECPR1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.010","0.085","0.990","9.09e-01",NA,NA,NA,0.01939654
+"PTPRN2","Brain Prefrontal cortex","OCD","Weighted median",4,"-0.003","0.024","0.997","9.11e-01",0.407334535,0.332757673,0.331863397,0.017032532
+"CHST13","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.007","0.064","0.993","9.13e-01",NA,NA,NA,0.0128722
+"DGKI","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.006","0.058","1.006","9.13e-01",NA,NA,NA,0.011785146
+"CTU2","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.006","0.055","1.006","9.14e-01",NA,NA,NA,0.015912162
+"TPD52","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.006","0.053","1.006","9.15e-01",NA,NA,NA,0.012940701
+"PRKAR1B","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.009","0.090","0.991","9.16e-01",NA,NA,NA,0.018238196
+"DOCK8","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.008","0.077","1.008","9.19e-01",NA,NA,NA,0.013025474
+"SLC5A8","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.005","0.052","0.995","9.19e-01",NA,NA,NA,0.015442463
+"ADARB2","Brain Prefrontal cortex","OCD","Simple mode",5," 0.003","0.031","1.003","9.20e-01",0.501222469,0.177956179,0.141419863,0.013968184
+"MOCS1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.006","0.060","0.994","9.20e-01",NA,NA,NA,0.011730219
+"TNR","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.004","0.040","1.004","9.23e-01",NA,NA,NA,0.012689952
+"EEF2K","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.005","0.050","0.995","9.24e-01",NA,NA,NA,0.015247009
+"RERG","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.005","0.055","1.005","9.25e-01",NA,NA,NA,0.012810012
+"PXDN","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.004","0.039","0.996","9.25e-01",NA,NA,NA,0.013497071
+"DNAJC15","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.006","0.069","1.007","9.25e-01",NA,NA,NA,0.015103037
+"KIF1A","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.004","0.041","0.996","9.27e-01",NA,NA,NA,0.016921656
+"CCDC6","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.003","0.033","0.997","9.27e-01",NA,NA,NA,0.012827493
+"SYT9","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.005","0.053","1.005","9.28e-01",NA,NA,NA,0.014151975
+"METTL4","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.004","0.045","1.004","9.31e-01",NA,NA,NA,0.014763721
+"SUCLG2","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.005","0.058","1.005","9.32e-01",NA,NA,NA,0.01329551
+"KYAT1","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.008","0.101","1.008","9.34e-01",NA,NA,NA,0.014193171
+"ADARB2","Brain Prefrontal cortex","OCD","Weighted mode",5," 0.002","0.028","1.002","9.36e-01",0.501222469,0.177956179,0.141419863,0.013968184
+"CA4","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.006","0.078","1.006","9.36e-01",NA,NA,NA,0.01742715
+"PJA2","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.002","0.029","1.002","9.39e-01",NA,NA,NA,0.012811351
+"IQCA1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.002","0.029","0.998","9.39e-01",NA,NA,NA,0.014139236
+"MAD1L1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.004","0.058","0.996","9.40e-01",NA,NA,NA,0.013570251
+"CCDC77","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.002","0.025","1.002","9.41e-01",NA,NA,NA,0.013331557
+"DLGAP2","Brain Prefrontal cortex","OCD","Simple mode",6," 0.003","0.036","1.003","9.45e-01",0.440728189,0.258813429,0.171419431,0.016014894
+"CBFA2T3","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.003","0.049","0.997","9.47e-01",NA,NA,NA,0.016099525
+"DNAH1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.004","0.066","0.996","9.48e-01",NA,NA,NA,0.019024552
+"NTM","Brain Prefrontal cortex","OCD","Simple mode",3,"-0.003","0.042","0.997","9.48e-01",0.065272779,0.125624704,0.720259902,0.018140344
+"CHAF1A","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.004","0.057","1.004","9.49e-01",NA,NA,NA,0.013033107
+"PTPRN2","Brain Prefrontal cortex","OCD","Simple mode",4,"-0.002","0.033","0.998","9.50e-01",0.407334535,0.332757673,0.331863397,0.017032532
+"LAPTM5","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.004","0.063","0.996","9.50e-01",NA,NA,NA,0.012260439
+"GPAT4","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.003","0.052","1.003","9.51e-01",NA,NA,NA,0.012845546
+"SORCS2","Brain Prefrontal cortex","OCD","Inverse variance weighted",3," 0.002","0.038","1.002","9.53e-01",0.65236798,0.278327519,0.367664013,0.013336767
+"FREM1","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.003","0.050","0.997","9.55e-01",NA,NA,NA,0.013032436
+"WDR70","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.002","0.031","1.002","9.57e-01",NA,NA,NA,0.013599808
+"NXN","Brain Prefrontal cortex","OCD","Inverse variance weighted",2," 0.001","0.026","1.001","9.57e-01",NA,0.650654344,NA,0.015689558
+"TBX19","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.003","0.064","1.003","9.60e-01",NA,NA,NA,0.023531072
+"ZFP37","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.002","0.043","0.998","9.65e-01",NA,NA,NA,0.016683681
+"MYO5B","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.002","0.055","1.002","9.65e-01",NA,NA,NA,0.015645511
+"WNK2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.003","0.066","0.997","9.69e-01",NA,NA,NA,0.012563193
+"DLGAP2","Brain Prefrontal cortex","OCD","Weighted mode",6," 0.002","0.042","1.002","9.70e-01",0.440728189,0.258813429,0.171419431,0.016014894
+"ARHGAP24","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.001","0.028","0.999","9.72e-01",NA,NA,NA,0.014107976
+"LMF1","Brain Prefrontal cortex","OCD","Inverse variance weighted",2,"-0.001","0.034","0.999","9.76e-01",NA,0.694692833,NA,0.015667577
+"CDC16","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.001","0.034","1.001","9.76e-01",NA,NA,NA,0.02219794
+"SLC8A2","Brain Prefrontal cortex","OCD","Wald ratio",1,"-0.001","0.075","0.999","9.85e-01",NA,NA,NA,0.015415862
+"PPP1R14C","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.000","0.032","1.000","9.89e-01",NA,NA,NA,0.014383527
+"NRCAM","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.001","0.052","1.001","9.92e-01",NA,NA,NA,0.014287411
+"ACTN2","Brain Prefrontal cortex","OCD","Inverse variance weighted",2," 0.000","0.026","1.000","9.94e-01",NA,0.965728086,NA,0.0170938
+"FAM131C","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.000","0.053","1.000","9.95e-01",NA,NA,NA,0.014849317
+"ADARB2","Brain Prefrontal cortex","OCD","Weighted median",5," 0.000","0.023","1.000","9.97e-01",0.501222469,0.177956179,0.141419863,0.013968184
+"CAPN9","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.000","0.034","1.000","9.97e-01",NA,NA,NA,0.013012442
+"UPK3B","Brain Prefrontal cortex","OCD","Wald ratio",1," 0.000","0.070","1.000","9.97e-01",NA,NA,NA,0.01316273

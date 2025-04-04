@@ -1,0 +1,201 @@
+Gene,Tissue,Psychiatry,Method,Nsnp,OR,Pvalue,Q_Pvalue(MREgger),Q_Pvalue(IVW),Pvalue(Intercept),PPH4
+FLT3,Brain Cortex,OCD,Wald ratio,1,0.79,7.83E-06,NA,NA,NA,0.996339877
+MYO19,Brain Nucleus accumbens,OCD,Wald ratio,1,0.861,4.15E-05,NA,NA,NA,0.980499841
+DHRS11,Brain Cortex,OCD,Wald ratio,1,0.475,5.48E-05,NA,NA,NA,0.974884239
+MYO19,Brain Cortex,OCD,Wald ratio,1,0.571,5.48E-05,NA,NA,NA,0.974881916
+GGNBP2,Brain Cortex,OCD,Wald ratio,1,0.537,5.48E-05,NA,NA,NA,0.974884239
+ZNHIT3,Brain Cortex,OCD,Wald ratio,1,0.528,5.48E-05,NA,NA,NA,0.974884239
+NUDT17,Brain Substantia,OCD,Wald ratio,1,0.861,7.36E-05,NA,NA,NA,0.046145522
+MPHOSPH9,Brain Nucleus accumbens,OCD,Wald ratio,1,0.837,9.99E-05,NA,NA,NA,0.660254577
+MYO19,Brain Hypothalamus,OCD,Wald ratio,1,0.874,1.04E-04,NA,NA,NA,0.954711429
+TTLL9,Brain Spinal cord,OCD,Wald ratio,1,0.708,1.20E-04,NA,NA,NA,0.001971801
+MPPE1,Brain Hippocampus,OCD,Wald ratio,1,1.134,1.23E-04,NA,NA,NA,0.948805716
+MPPE1,Brain Hypothalamus,OCD,Wald ratio,1,0.905,1.23E-04,NA,NA,NA,0.948806365
+MPPE1,Brain Nucleus accumbens,OCD,Wald ratio,1,1.106,1.23E-04,NA,NA,NA,0.948806365
+MPPE1,Brain Putamen basal,OCD,Wald ratio,1,0.9,1.23E-04,NA,NA,NA,0.948806365
+MPPE1,Brain Spinal cord,OCD,Wald ratio,1,0.911,1.23E-04,NA,NA,NA,0.948806365
+MPPE1,Brain Substantia,OCD,Wald ratio,1,0.903,1.23E-04,NA,NA,NA,0.948805722
+LINC01141,Brain Spinal cord,OCD,Wald ratio,1,0.798,1.86E-04,NA,NA,NA,0.013357566
+CSGALNACT2,Brain Putamen basal,OCD,Wald ratio,1,1.188,1.98E-04,NA,NA,NA,0.744540724
+ASB2,Brain Cortex,OCD,Wald ratio,1,7.654,1.99E-04,NA,NA,NA,0.934456602
+ZNF746,Brain Hippocampus,OCD,Wald ratio,1,0.817,2.06E-04,NA,NA,NA,0.057977041
+MYH15,Brain Spinal cord,OCD,Wald ratio,1,1.173,2.33E-04,NA,NA,NA,0.001179169
+THEMIS2,Brain Substantia,OCD,Wald ratio,1,0.859,2.77E-04,NA,NA,NA,0.041826077
+CSGALNACT2,Brain Nucleus accumbens,OCD,Wald ratio,1,1.207,2.84E-04,NA,NA,NA,0.200632721
+C3orf62,Brain Nucleus accumbens,OCD,Wald ratio,1,1.208,2.88E-04,NA,NA,NA,0.007206851
+ADGRB3,Brain Nucleus accumbens,OCD,Wald ratio,1,1.279,3.70E-04,NA,NA,NA,0.747166412
+NUDT17,Brain Hypothalamus,OCD,Wald ratio,1,0.896,3.78E-04,NA,NA,NA,0.869654583
+NUDT17,Brain Nucleus accumbens,OCD,Wald ratio,1,0.901,3.78E-04,NA,NA,NA,0.869658027
+USP20,Brain Cortex,OCD,Wald ratio,1,0.232,3.81E-04,NA,NA,NA,0.897940337
+FIP1L1,Brain Cortex,OCD,Wald ratio,1,1.785,3.96E-04,NA,NA,NA,0.896977454
+ASB8,Brain Putamen basal,OCD,Wald ratio,1,1.188,4.07E-04,NA,NA,NA,0.548740829
+CAPN9,Brain Putamen basal,OCD,Wald ratio,1,0.827,4.08E-04,NA,NA,NA,0.042593901
+AP4M1,Brain Spinal cord,OCD,Wald ratio,1,0.917,4.20E-04,NA,NA,NA,0.002658908
+MCM7,Brain Spinal cord,OCD,Wald ratio,1,0.898,4.20E-04,NA,NA,NA,0.000719275
+NGEF,Brain Putamen basal,OCD,Wald ratio,1,0.682,4.36E-04,NA,NA,NA,0.057021431
+TTC40,Brain Cortex,OCD,Inverse variance weighted,2,1.474,4.39E-04,NA,0.328318438,NA,0.130179107
+LAIR1,Brain Hypothalamus,OCD,Wald ratio,1,1.148,4.42E-04,NA,NA,NA,0.488538675
+MRC1,Brain Cortex,OCD,Wald ratio,1,1.825,4.43E-04,NA,NA,NA,0.849951509
+SLC39A12,Brain Cortex,OCD,Wald ratio,1,0.903,4.43E-04,NA,NA,NA,0.850409529
+ARF5,Brain Hippocampus,OCD,Wald ratio,1,1.48,4.72E-04,NA,NA,NA,0.024680463
+ARL4A,Brain Spinal cord,OCD,Wald ratio,1,1.221,4.75E-04,NA,NA,NA,0.024113198
+CSGALNACT2,Brain Hippocampus,OCD,Wald ratio,1,1.134,4.79E-04,NA,NA,NA,0.859177705
+CSGALNACT2,Brain Spinal cord,OCD,Wald ratio,1,1.115,4.79E-04,NA,NA,NA,0.550732759
+EFNA5,Brain Hypothalamus,OCD,Wald ratio,1,1.221,4.99E-04,NA,NA,NA,0.032727341
+CSGALNACT2,Brain Cortex,OCD,Wald ratio,1,0.792,5.06E-04,NA,NA,NA,0.85444369
+LAMTOR5-AS1,Brain Cortex,OCD,Wald ratio,1,0.765,5.59E-04,NA,NA,NA,0.819916694
+PLEC,Brain Cortex,OCD,Wald ratio,1,1.638,6.22E-04,NA,NA,NA,0.816131824
+WWTR1,Brain Substantia,OCD,Wald ratio,1,0.863,6.22E-04,NA,NA,NA,0.001238286
+GPR88,Brain Nucleus accumbens,OCD,Wald ratio,1,1.676,6.30E-04,NA,NA,NA,0.00180237
+THRB,Brain Spinal cord,OCD,Wald ratio,1,0.863,6.37E-04,NA,NA,NA,0.002247892
+AC107294.2,Brain Cortex,OCD,Wald ratio,1,0.192,6.51E-04,NA,NA,NA,0.809016884
+RP11-329B9.4,Brain Cortex,OCD,Wald ratio,1,1.24,6.51E-04,NA,NA,NA,0.809052387
+RWDD3,Brain Spinal cord,OCD,Wald ratio,1,1.147,6.57E-04,NA,NA,NA,0.216736138
+GRM3,Brain Cortex,OCD,Wald ratio,1,0.702,6.61E-04,NA,NA,NA,0.798567063
+AP2B1,Brain Cortex,OCD,Wald ratio,1,1.545,6.80E-04,NA,NA,NA,0.789502658
+ADAM8,Brain Spinal cord,OCD,Wald ratio,1,1.085,7.08E-04,NA,NA,NA,0.002765216
+FMO2,Brain Nucleus accumbens,OCD,Wald ratio,1,1.219,7.31E-04,NA,NA,NA,0.014966402
+PITPNM1,Brain Putamen basal,OCD,Wald ratio,1,1.2,7.35E-04,NA,NA,NA,0.002062829
+ZNF529,Brain Cortex,OCD,Wald ratio,1,0.726,7.60E-04,NA,NA,NA,0.776190687
+ZNF567,Brain Cortex,OCD,Wald ratio,1,1.154,7.60E-04,NA,NA,NA,0.776190687
+ZNF382,Brain Cortex,OCD,Wald ratio,1,3.239,7.60E-04,NA,NA,NA,0.776190687
+LINC01534,Brain Cortex,OCD,Wald ratio,1,3.137,7.60E-04,NA,NA,NA,0.776190687
+ZNF529-AS1,Brain Cortex,OCD,Wald ratio,1,3.278,7.60E-04,NA,NA,NA,0.776190687
+DDX41,Brain Cortex,OCD,Wald ratio,1,2.761,7.62E-04,NA,NA,NA,0.83865258
+PCDH7,Brain Cortex,OCD,Wald ratio,1,1.37,7.85E-04,NA,NA,NA,0.7785505
+POLR3A,Brain Spinal cord,OCD,Wald ratio,1,0.866,7.87E-04,NA,NA,NA,0.004528207
+GLUD1,Brain Spinal cord,OCD,Wald ratio,1,0.89,7.91E-04,NA,NA,NA,0.001614269
+CAMK2A,Brain Substantia,OCD,Wald ratio,1,1.187,8.47E-04,NA,NA,NA,0.001948663
+EML2,Brain Substantia,OCD,Wald ratio,1,0.838,8.75E-04,NA,NA,NA,0.001627132
+ARL6IP4,Brain Cortex,OCD,Wald ratio,1,1.114,8.76E-04,NA,NA,NA,0.761728897
+OGFOD2,Brain Cortex,OCD,Wald ratio,1,0.29,8.76E-04,NA,NA,NA,0.761728897
+PITPNM2,Brain Cortex,OCD,Wald ratio,1,0.147,8.76E-04,NA,NA,NA,0.755472125
+C12orf65,Brain Cortex,OCD,Wald ratio,1,0.644,8.76E-04,NA,NA,NA,0.760835021
+MPHOSPH9,Brain Cortex,OCD,Wald ratio,1,0.27,8.76E-04,NA,NA,NA,0.761728897
+ABCB9,Brain Cortex,OCD,Wald ratio,1,1.472,8.76E-04,NA,NA,NA,0.76170368
+KMT5A,Brain Cortex,OCD,Wald ratio,1,0.282,8.76E-04,NA,NA,NA,0.761728897
+TLR4,Brain Substantia,OCD,Wald ratio,1,0.884,9.47E-04,NA,NA,NA,0.001281366
+CACNG4,Brain Hippocampus,OCD,Wald ratio,1,1.204,1.01E-03,NA,NA,NA,0.003400037
+CACNG1,Brain Hippocampus,OCD,Wald ratio,1,1.204,1.01E-03,NA,NA,NA,0.003400037
+AUH,Brain Hippocampus,OCD,Wald ratio,1,1.202,1.03E-03,NA,NA,NA,0.040328566
+ADRM1,Brain Substantia,OCD,Wald ratio,1,1.143,1.07E-03,NA,NA,NA,0.004927981
+IL15RA,Brain Hippocampus,OCD,Wald ratio,1,0.894,1.11E-03,NA,NA,NA,0.020346523
+TSEN15,Brain Substantia,OCD,Wald ratio,1,0.847,1.15E-03,NA,NA,NA,0.024978699
+NUP98,Brain Putamen basal,OCD,Wald ratio,1,0.87,1.21E-03,NA,NA,NA,0.144172987
+PRMT1,Brain Cortex,OCD,Wald ratio,1,1.29,1.22E-03,NA,NA,NA,0.777543628
+JAK2,Brain Hypothalamus,OCD,Wald ratio,1,1.147,1.27E-03,NA,NA,NA,0.000343617
+SAAL1,Brain Hypothalamus,OCD,Wald ratio,1,0.881,1.31E-03,NA,NA,NA,0.00288078
+MYOZ3,Brain Nucleus accumbens,OCD,Wald ratio,1,1.261,1.32E-03,NA,NA,NA,0.000374417
+RBM6,Brain Hippocampus,OCD,Wald ratio,1,0.854,1.35E-03,NA,NA,NA,0.002646925
+RERE,Brain Cortex,OCD,Wald ratio,1,0.684,1.36E-03,NA,NA,NA,0.683420238
+BDNF-AS,Brain Putamen basal,OCD,Wald ratio,1,0.916,1.43E-03,NA,NA,NA,0.693496078
+BDNF-AS,Brain Substantia,OCD,Wald ratio,1,0.885,1.43E-03,NA,NA,NA,0.116464394
+RGS6,Brain Spinal cord,OCD,Wald ratio,1,0.865,1.44E-03,NA,NA,NA,0.001409729
+UBE2E2,Brain Cortex,OCD,Inverse variance weighted,2,1.424,1.47E-03,NA,0.935738182,NA,0.032467359
+DPY19L2P1,Brain Cortex,OCD,Inverse variance weighted,2,0.695,1.48E-03,NA,0.556521025,NA,0.134052117
+SEPTIN2,Brain Cortex,OCD,Wald ratio,1,1.957,1.48E-03,NA,NA,NA,0.672817355
+FARP2,Brain Cortex,OCD,Wald ratio,1,2.471,1.48E-03,NA,NA,NA,0.672817355
+PREX1,Brain Spinal cord,OCD,Wald ratio,1,1.093,1.55E-03,NA,NA,NA,0.730573097
+PREX1,Brain Substantia,OCD,Wald ratio,1,1.107,1.55E-03,NA,NA,NA,0.730573097
+RXRA,Brain Putamen basal,OCD,Wald ratio,1,1.128,1.56E-03,NA,NA,NA,0.001475409
+BDNF-AS,Brain Nucleus accumbens,OCD,Wald ratio,1,0.911,1.59E-03,NA,NA,NA,0.666157292
+NIFK-AS1,Brain Spinal cord,OCD,Wald ratio,1,1.127,1.61E-03,NA,NA,NA,0.008789985
+IRAG2,Brain Substantia,OCD,Wald ratio,1,1.082,1.62E-03,NA,NA,NA,0.000766051
+GLIPR1,Brain Substantia,OCD,Wald ratio,1,1.156,1.62E-03,NA,NA,NA,0.000403285
+CCDC59,Brain Substantia,OCD,Wald ratio,1,0.811,1.63E-03,NA,NA,NA,0.001145836
+GALE,Brain Nucleus accumbens,OCD,Wald ratio,1,0.79,1.65E-03,NA,NA,NA,0.005994478
+SEPTIN2,Brain Nucleus accumbens,OCD,Wald ratio,1,0.923,1.68E-03,NA,NA,NA,0.646986945
+SEPTIN2,Brain Substantia,OCD,Wald ratio,1,0.91,1.70E-03,NA,NA,NA,0.644602855
+CPT1C,Brain Hippocampus,OCD,Wald ratio,1,1.153,1.76E-03,NA,NA,NA,0.186341594
+TBCB,Brain Cortex,OCD,Wald ratio,1,0.261,1.82E-03,NA,NA,NA,0.620168575
+POLR2I,Brain Cortex,OCD,Wald ratio,1,0.703,1.82E-03,NA,NA,NA,0.620169385
+PPP2R2C,Brain Spinal cord,OCD,Wald ratio,1,0.863,1.89E-03,NA,NA,NA,0.004680153
+PLEKHM1,Brain Hippocampus,OCD,Wald ratio,1,0.859,1.94E-03,NA,NA,NA,0.004630105
+BBS4,Brain Hypothalamus,OCD,Wald ratio,1,1.219,1.94E-03,NA,NA,NA,0.0011158
+NRIP3,Brain Hippocampus,OCD,Wald ratio,1,0.759,2.01E-03,NA,NA,NA,0.002728014
+TMEM9B,Brain Hippocampus,OCD,Wald ratio,1,0.759,2.01E-03,NA,NA,NA,0.002728014
+SHISA6,Brain Spinal cord,OCD,Wald ratio,1,0.846,2.05E-03,NA,NA,NA,0.000617056
+TSEN15,Brain Putamen basal,OCD,Wald ratio,1,0.827,2.08E-03,NA,NA,NA,0.007808049
+DNAJC3,Brain Putamen basal,OCD,Wald ratio,1,0.867,2.13E-03,NA,NA,NA,0.000386577
+FAM47E,Brain Nucleus accumbens,OCD,Wald ratio,1,0.902,2.15E-03,NA,NA,NA,0.570869364
+FAM47E,Brain Spinal cord,OCD,Wald ratio,1,1.107,2.15E-03,NA,NA,NA,0.568001976
+DYRK2,Brain Putamen basal,OCD,Wald ratio,1,1.232,2.16E-03,NA,NA,NA,0.001225623
+RBBP9,Brain Cortex,OCD,Wald ratio,1,0.297,2.18E-03,NA,NA,NA,0.568622011
+POLR3F,Brain Cortex,OCD,Wald ratio,1,0.703,2.18E-03,NA,NA,NA,0.568621128
+SEC23B,Brain Cortex,OCD,Wald ratio,1,0.597,2.18E-03,NA,NA,NA,0.568622013
+DZANK1,Brain Cortex,OCD,Wald ratio,1,0.675,2.18E-03,NA,NA,NA,0.01953708
+ZC3H13,Brain Cortex,OCD,Inverse variance weighted,2,0.469,2.21E-03,NA,0.378660143,NA,0.6635581
+CAPRIN1,Brain Hippocampus,OCD,Wald ratio,1,1.17,2.21E-03,NA,NA,NA,0.001811879
+RDH14,Brain Hypothalamus,OCD,Wald ratio,1,1.152,2.21E-03,NA,NA,NA,0.000247091
+CADM2,Brain Putamen basal,OCD,Wald ratio,1,1.179,2.23E-03,NA,NA,NA,0.003058668
+ZNF394,Brain Nucleus accumbens,OCD,Wald ratio,1,1.179,2.24E-03,NA,NA,NA,0.000374576
+LAMTOR5-AS1,Brain Spinal cord,OCD,Wald ratio,1,1.153,2.24E-03,NA,NA,NA,0.081542006
+ITPR1,Brain Cortex,OCD,Wald ratio,1,4.787,2.25E-03,NA,NA,NA,0.61055328
+CFAP46,Brain Cortex,OCD,Wald ratio,1,4.07,2.29E-03,NA,NA,NA,0.557978909
+STBD1,Brain Substantia,OCD,Wald ratio,1,1.1,2.29E-03,NA,NA,NA,0.462520475
+VILL,Brain Hypothalamus,OCD,Wald ratio,1,0.825,2.31E-03,NA,NA,NA,0.015251739
+USP19,Brain Putamen basal,OCD,Wald ratio,1,1.632,2.33E-03,NA,NA,NA,0.000175307
+NDUFAF8,Brain Putamen basal,OCD,Wald ratio,1,1.064,2.44E-03,NA,NA,NA,0.541862756
+BDNF-AS,Brain Hippocampus,OCD,Wald ratio,1,0.904,2.49E-03,NA,NA,NA,0.577733314
+BDNF-AS,Brain Hypothalamus,OCD,Wald ratio,1,0.896,2.49E-03,NA,NA,NA,0.467107388
+DTNBP1,Brain Spinal cord,OCD,Wald ratio,1,1.135,2.49E-03,NA,NA,NA,0.010869615
+NTM,Brain Nucleus accumbens,OCD,Wald ratio,1,0.852,2.51E-03,NA,NA,NA,0.074939226
+ZBTB2,Brain Nucleus accumbens,OCD,Wald ratio,1,0.772,2.52E-03,NA,NA,NA,0.00324476
+FBXO16,Brain Hypothalamus,OCD,Wald ratio,1,1.228,2.63E-03,NA,NA,NA,0.000546231
+CLXN,Brain Nucleus accumbens,OCD,Wald ratio,1,0.822,2.64E-03,NA,NA,NA,0.012403725
+ERCC6,Brain Hypothalamus,OCD,Wald ratio,1,1.149,2.66E-03,NA,NA,NA,0.000355179
+HEMK1,Brain Hypothalamus,OCD,Wald ratio,1,0.867,2.68E-03,NA,NA,NA,0.001826953
+NDUFA7,Brain Cortex,OCD,Inverse variance weighted,2,0.64,2.71E-03,NA,0.794890286,NA,0.101816382
+ARHGEF26-AS1,Brain Hypothalamus,OCD,Wald ratio,1,0.851,2.75E-03,NA,NA,NA,0.000188838
+EMSY-DT,Brain Substantia,OCD,Wald ratio,1,0.89,2.78E-03,NA,NA,NA,0.00073281
+AP003100.2,Brain Cortex,OCD,Wald ratio,1,4.674,2.80E-03,NA,NA,NA,0.514725349
+FOLR1,Brain Substantia,OCD,Wald ratio,1,0.846,2.86E-03,NA,NA,NA,0.001013652
+MTA2,Brain Hippocampus,OCD,Wald ratio,1,1.263,2.92E-03,NA,NA,NA,0.009689892
+MPPE1,Brain Cortex,OCD,Weighted median,3,1.423,2.93E-03,0.092523878,0.034420797,0.448837654,0.948806365
+LRRC43,Brain Cortex,OCD,Wald ratio,1,0.624,2.95E-03,NA,NA,NA,0.496276622
+MLXIP,Brain Cortex,OCD,Wald ratio,1,1.577,2.95E-03,NA,NA,NA,0.49780048
+TULP2,Brain Cortex,OCD,Wald ratio,1,1.587,2.97E-03,NA,NA,NA,0.602819325
+NUCB1,Brain Cortex,OCD,Wald ratio,1,0.814,2.97E-03,NA,NA,NA,0.602819441
+FAM47E,Brain Cortex,OCD,Wald ratio,1,1.454,2.98E-03,NA,NA,NA,0.49779845
+FAM13B,Brain Nucleus accumbens,OCD,Wald ratio,1,0.78,2.98E-03,NA,NA,NA,0.011525853
+LINC00639,Brain Nucleus accumbens,OCD,Wald ratio,1,0.811,3.01E-03,NA,NA,NA,0.000608373
+TMEM173,Brain Cortex,OCD,Wald ratio,1,1.423,3.03E-03,NA,NA,NA,0.560966258
+STING1,Brain Cortex,OCD,Wald ratio,1,0.331,3.03E-03,NA,NA,NA,0.560966258
+DNAJC18,Brain Cortex,OCD,Wald ratio,1,0.18,3.03E-03,NA,NA,NA,0.55776048
+STING1,Brain Hypothalamus,OCD,Wald ratio,1,1.082,3.03E-03,NA,NA,NA,0.560961701
+STING1,Brain Nucleus accumbens,OCD,Wald ratio,1,1.073,3.03E-03,NA,NA,NA,0.560966258
+STING1,Brain Putamen basal,OCD,Wald ratio,1,1.083,3.03E-03,NA,NA,NA,0.560966258
+STING1,Brain Spinal cord,OCD,Wald ratio,1,1.111,3.03E-03,NA,NA,NA,0.560966238
+UBE2E1,Brain Substantia,OCD,Wald ratio,1,0.828,3.03E-03,NA,NA,NA,0.004281991
+MADD,Brain Cortex,OCD,Wald ratio,1,0.626,3.12E-03,NA,NA,NA,0.618201431
+SRSF4,Brain Spinal cord,OCD,Wald ratio,1,0.878,3.14E-03,NA,NA,NA,0.023547214
+AIDA,Brain Hypothalamus,OCD,Wald ratio,1,0.827,3.15E-03,NA,NA,NA,0.001290002
+SLC20A2,Brain Spinal cord,OCD,Wald ratio,1,1.122,3.19E-03,NA,NA,NA,0.0237393
+PIK3CA,Brain Hypothalamus,OCD,Wald ratio,1,1.16,3.27E-03,NA,NA,NA,0.001609353
+DPY19L2,Brain Substantia,OCD,Wald ratio,1,0.886,3.29E-03,NA,NA,NA,0.033550924
+WDR92,Brain Cortex,OCD,Wald ratio,1,1.966,3.39E-03,NA,NA,NA,0.495967507
+TBL1XR1,Brain Nucleus accumbens,OCD,Wald ratio,1,0.8,3.39E-03,NA,NA,NA,0.002878429
+SMUG1,Brain Hippocampus,OCD,Wald ratio,1,0.861,3.44E-03,NA,NA,NA,0.008110335
+VILL,Brain Putamen basal,OCD,Wald ratio,1,1.122,3.48E-03,NA,NA,NA,0.504347403
+SUMF1,Brain Nucleus accumbens,OCD,Wald ratio,1,1.165,3.56E-03,NA,NA,NA,0.0010433
+CDHR3,Brain Cortex,OCD,Inverse variance weighted,3,1.285,3.61E-03,0.981709038,0.988372921,0.904459827,0.054582416
+STING1,Brain Substantia,OCD,Wald ratio,1,1.086,3.64E-03,NA,NA,NA,0.51849695
+ESYT2,Brain Putamen basal,OCD,Wald ratio,1,0.851,3.68E-03,NA,NA,NA,0.123078163
+AC139491.5,Brain Cortex,OCD,Wald ratio,1,0.211,3.76E-03,NA,NA,NA,0.557646445
+RP11-826N14.2,Brain Cortex,OCD,Wald ratio,1,0.44,3.76E-03,NA,NA,NA,0.556707342
+INSYN2B,Brain Cortex,OCD,Wald ratio,1,4.577,3.76E-03,NA,NA,NA,0.477229792
+ALKBH3,Brain Cortex,OCD,Wald ratio,1,0.686,3.78E-03,NA,NA,NA,0.556646999
+FAM229B,Brain Hippocampus,OCD,Wald ratio,1,0.842,3.78E-03,NA,NA,NA,0.000804231
+DPP7,Brain Hippocampus,OCD,Wald ratio,1,1.232,3.82E-03,NA,NA,NA,0.474689601
+ANTXR2,Brain Putamen basal,OCD,Wald ratio,1,1.166,3.91E-03,NA,NA,NA,0.014758725
+BTN3A3,Brain Putamen basal,OCD,Wald ratio,1,0.868,3.92E-03,NA,NA,NA,0.010736971
+NUB1,Brain Cortex,OCD,Wald ratio,1,0.662,3.95E-03,NA,NA,NA,0.511940641
+CCDC92,Brain Hippocampus,OCD,Wald ratio,1,1.085,3.97E-03,NA,NA,NA,0.44482774
+EPHX2,Brain Nucleus accumbens,OCD,Wald ratio,1,0.889,4.06E-03,NA,NA,NA,0.021380916
+JPT2,Brain Substantia,OCD,Wald ratio,1,0.896,4.06E-03,NA,NA,NA,0.006945719
+MCMBP,Brain Nucleus accumbens,OCD,Wald ratio,1,1.204,4.13E-03,NA,NA,NA,0.001959471
+PPIP5K2,Brain Hippocampus,OCD,Wald ratio,1,1.183,4.18E-03,NA,NA,NA,0.00946631
+EFR3A,Brain Cortex,OCD,Wald ratio,1,2.672,4.19E-03,NA,NA,NA,0.475996112
+SEC24D,Brain Cortex,OCD,Wald ratio,1,2.092,4.27E-03,NA,NA,NA,0.422289007
+METTL14-DT,Brain Cortex,OCD,Wald ratio,1,4.21,4.27E-03,NA,NA,NA,0.421903699
+CCNY,Brain Substantia,OCD,Wald ratio,1,1.098,4.29E-03,NA,NA,NA,0.045393622

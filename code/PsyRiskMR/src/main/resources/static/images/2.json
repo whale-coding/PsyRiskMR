@@ -1,0 +1,15 @@
+﻿[
+    "data":[
+    {
+        "Psychiatric disorder": "BP",
+        "Risk brain imaging": "IDP dMRI TBSS L2 Genu of corpus callosum",
+        "Category name": "WM tract diffusivity",
+        "Method": "IVW",
+        "P-value": "3.98E-07",
+        "OR": "0.943",
+        "Q_Pvalue(MREgger)": "1.08E-03",
+        "Q_Pvalue(IVW)": "1.13E-03",
+        "Intercept PValue": "8.75E-01"
+    }
+  ]
+]

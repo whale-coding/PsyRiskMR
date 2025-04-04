@@ -1,0 +1,8 @@
+Gene,Cell,Psychiatry,Method,Nsnp,OR,Pvalue,Q_Pvalue(MREgger),Q_Pvalue(IVW),Pvalue(Intercept),PPH4
+S100A13,Stem-cell-iPSC,OCD,Wald ratio,1,1.126,3.70E-02,NA,NA,NA,0.101149483
+CRYZ,Stem-cell-iPSC,OCD,Wald ratio,1,0.961,1.07E-01,NA,NA,NA,0.044438391
+TTF2,Stem-cell-iPSC,OCD,Wald ratio,1,1.051,2.78E-01,NA,NA,NA,0.021784312
+CRABP2,Stem-cell-iPSC,OCD,Wald ratio,1,0.955,6.46E-01,NA,NA,NA,0.004342702
+SYF2,Stem-cell-iPSC,OCD,Wald ratio,1,1.028,6.90E-01,NA,NA,NA,0.000428586
+COA7,Stem-cell-iPSC,OCD,Wald ratio,1,0.981,7.07E-01,NA,NA,NA,0.012037333
+GSTM4,Stem-cell-iPSC,OCD,Wald ratio,1,0.965,7.70E-01,NA,NA,NA,0.000528114

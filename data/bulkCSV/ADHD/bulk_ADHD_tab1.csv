@@ -1,0 +1,201 @@
+Gene,Tissue,Psychiatry,Method,Nsnp,OR,Pvalue,Q_Pvalue(MREgger),Q_Pvalue(IVW),Pvalue(Intercept),PPH4
+ARTN,Brain Putamen,ADHD,Wald ratio,1,0.875,5.42E-09,NA,NA,NA,0.999343471
+ARTN,Brain Frontal Cortex,ADHD,Wald ratio,1,0.886,7.61E-09,NA,NA,NA,0.994986882
+ARTN,Brain Amygdala,ADHD,Wald ratio,1,0.888,9.42E-09,NA,NA,NA,0.976452811
+ARTN,Brain Anterior cingulate cortex BA24,ADHD,Wald ratio,1,0.908,9.42E-09,NA,NA,NA,0.991825384
+ARTN,Brain Spinal,ADHD,Wald ratio,1,0.89,9.42E-09,NA,NA,NA,0.998956281
+ARTN,Meta 10 Brain Regions,ADHD,Wald ratio,1,1.089,9.42E-09,NA,NA,NA,0.999986872
+REELD1,Brain Cerebellar Hemisphere,ADHD,Wald ratio,1,0.933,1.91E-08,NA,NA,NA,0.999971147
+LSM6,Brain Cerebellar Hemisphere,ADHD,Wald ratio,1,0.87,1.91E-08,NA,NA,NA,0.999971142
+REELD1,Brain Nucleus,ADHD,Wald ratio,1,0.916,1.91E-08,NA,NA,NA,0.999971147
+LSM6,Brain Caudate,ADHD,Wald ratio,1,0.829,4.24E-08,NA,NA,NA,0.997896617
+REELD1,Brain Caudate,ADHD,Wald ratio,1,0.927,4.24E-08,NA,NA,NA,0.99993753
+TIE1,Brain Cortex,ADHD,Wald ratio,1,0.835,1.36E-07,NA,NA,NA,0.998799678
+TIE1,Brain Hippocampus,ADHD,Wald ratio,1,0.849,1.43E-07,NA,NA,NA,0.997888283
+MED8,Brain Spinal,ADHD,Wald ratio,1,1.18,2.20E-07,NA,NA,NA,0.986575716
+ARTN,Brain Cerebellar Hemisphere,ADHD,Wald ratio,1,0.937,3.63E-07,NA,NA,NA,0.999560539
+ARTN,Brain Cortex,ADHD,Wald ratio,1,0.886,3.63E-07,NA,NA,NA,0.998984655
+ARTN,Brain Hypothalamus,ADHD,Wald ratio,1,0.883,3.63E-07,NA,NA,NA,0.995725841
+ARTN,Brain Prefrontal Cortex PsychENCODE,ADHD,Wald ratio,1,0.602,3.63E-07,NA,NA,NA,0.997053942
+ARTN,Brain Hippocampus,ADHD,Wald ratio,1,0.909,4.36E-07,NA,NA,NA,0.999424767
+ARTN,Brain Cerebellum,ADHD,Wald ratio,1,0.942,7.50E-07,NA,NA,NA,0.999124613
+GMPPB,Brain Substantia,ADHD,Wald ratio,1,0.923,1.11E-06,NA,NA,NA,0.998808722
+REELD1,Brain Cortex,ADHD,Wald ratio,1,0.892,1.33E-06,NA,NA,NA,0.997903443
+LSM6,Brain Cortex,ADHD,Wald ratio,1,0.86,1.33E-06,NA,NA,NA,0.997379056
+TIE1,Brain Prefrontal Cortex PsychENCODE,ADHD,Wald ratio,1,0.75,1.57E-06,NA,NA,NA,0.997895057
+BLOC1S2,Meta 10 Brain Regions,ADHD,Wald ratio,1,0.943,1.94E-06,NA,NA,NA,0.99872058
+BLOC1S2,Brain Hippocampus,ADHD,Wald ratio,1,1.201,2.04E-06,NA,NA,NA,0.998663907
+HYAL3,Brain Amygdala,ADHD,Wald ratio,1,1.094,2.46E-06,NA,NA,NA,0.996800687
+NAA80,Brain Amygdala,ADHD,Wald ratio,1,0.875,2.46E-06,NA,NA,NA,0.991096517
+HYAL3,Brain Anterior cingulate cortex BA24,ADHD,Wald ratio,1,1.093,2.46E-06,NA,NA,NA,0.996800688
+NAA80,Brain Anterior cingulate cortex BA24,ADHD,Wald ratio,1,0.844,2.46E-06,NA,NA,NA,0.993875351
+HYAL3,Brain Cerebellar Hemisphere,ADHD,Wald ratio,1,1.065,2.46E-06,NA,NA,NA,0.996800688
+HYAL3,Brain Frontal Cortex,ADHD,Wald ratio,1,1.083,2.46E-06,NA,NA,NA,0.996800688
+NAA80,Brain Frontal Cortex,ADHD,Wald ratio,1,0.849,2.46E-06,NA,NA,NA,0.996800683
+HYAL3,Brain Hippocampus,ADHD,Wald ratio,1,1.119,2.46E-06,NA,NA,NA,0.996800688
+FOLH1,Meta 10 Brain Regions,ADHD,Wald ratio,1,1,3.41E-06,NA,NA,NA,0.039190305
+ARTN,Brain Nucleus,ADHD,Wald ratio,1,0.892,3.43E-06,NA,NA,NA,0.97757172
+SZT2,Brain Cerebellar Hemisphere,ADHD,Wald ratio,1,0.803,3.55E-06,NA,NA,NA,0.995541245
+PARPBP,Brain Cortex SMR,ADHD,Wald ratio,1,1.257,4.39E-06,NA,NA,NA,0.996285395
+NAA80,Brain Hypothalamus,ADHD,Wald ratio,1,0.859,4.40E-06,NA,NA,NA,0.993096935
+HYAL3,Brain Hypothalamus,ADHD,Wald ratio,1,1.083,4.40E-06,NA,NA,NA,0.994493367
+ARTN,Brain Caudate,ADHD,Inverse variance weighted,2,0.904,4.80E-06,NA,0.203965343,NA,0.000182192
+SNRK,Brain Prefrontal Cortex PsychENCODE,ADHD,Wald ratio,1,0.628,6.00E-06,NA,NA,NA,0.992392076
+GLB1L2,Brain Cortex SMR,ADHD,Wald ratio,1,1.111,6.25E-06,NA,NA,NA,0.993215283
+AC046168.1,Brain Cortex SMR,ADHD,Wald ratio,1,1.072,6.48E-06,NA,NA,NA,0.991734514
+LINGO1,Brain Cortex SMR,ADHD,Wald ratio,1,1.169,6.48E-06,NA,NA,NA,0.991734514
+AC046168.2,Brain Cortex SMR,ADHD,Wald ratio,1,1.178,6.48E-06,NA,NA,NA,0.991734514
+LINGO1-AS1,Brain Cortex SMR,ADHD,Wald ratio,1,1.247,6.48E-06,NA,NA,NA,0.991734251
+CCDC184,Brain Nucleus,ADHD,Wald ratio,1,1.188,6.63E-06,NA,NA,NA,0.939414532
+KLHDC8A,Brain Nucleus,ADHD,Wald ratio,1,0.87,7.69E-06,NA,NA,NA,0.990376605
+BDNF,Brain Prefrontal Cortex PsychENCODE,ADHD,Wald ratio,1,0.413,8.64E-06,NA,NA,NA,0.378922675
+CTC-498M16.4,Meta 10 Brain Regions,ADHD,Wald ratio,1,0.944,9.87E-06,NA,NA,NA,0.98955555
+DCHS1,Brain Anterior cingulate cortex BA24,ADHD,Wald ratio,1,1.136,1.05E-05,NA,NA,NA,0.990186313
+DCHS1,Brain Hippocampus,ADHD,Wald ratio,1,1.135,1.05E-05,NA,NA,NA,0.990179399
+SZT2,Brain Cerebellum,ADHD,Wald ratio,1,0.859,1.07E-05,NA,NA,NA,0.986943898
+HELZ,Brain Cerebellum,ADHD,Wald ratio,1,0.856,1.17E-05,NA,NA,NA,0.986562867
+BLOC1S2,Brain Substantia,ADHD,Wald ratio,1,1.138,1.79E-05,NA,NA,NA,0.990588088
+BLOC1S2,Brain Amygdala,ADHD,Wald ratio,1,1.139,1.82E-05,NA,NA,NA,0.989513543
+CAPZA2,Brain Prefrontal Cortex PsychENCODE,ADHD,Wald ratio,1,0.568,2.16E-05,NA,NA,NA,0.977723447
+MEF2C,Brain Cerebellum,ADHD,Wald ratio,1,0.882,2.55E-05,NA,NA,NA,0.931482052
+VIM,Brain Frontal Cortex,ADHD,Wald ratio,1,0.816,2.72E-05,NA,NA,NA,0.965018131
+SUOX,Brain Amygdala,ADHD,Wald ratio,1,0.903,2.78E-05,NA,NA,NA,0.943047329
+RPS26,Brain Amygdala,ADHD,Wald ratio,1,1.035,2.78E-05,NA,NA,NA,0.967761447
+RPS26,Brain Anterior cingulate cortex BA24,ADHD,Wald ratio,1,1.034,2.78E-05,NA,NA,NA,0.967761447
+RPS26,Brain Caudate,ADHD,Wald ratio,1,1.038,2.78E-05,NA,NA,NA,0.967761447
+SUOX,Brain Caudate,ADHD,Wald ratio,1,0.875,2.78E-05,NA,NA,NA,0.967761133
+SUOX,Brain Cerebellar Hemisphere,ADHD,Wald ratio,1,0.931,2.78E-05,NA,NA,NA,0.967761447
+RPS26,Brain Cerebellar Hemisphere,ADHD,Wald ratio,1,1.035,2.78E-05,NA,NA,NA,0.967761447
+SUOX,Brain Cerebellum,ADHD,Wald ratio,1,0.938,2.78E-05,NA,NA,NA,0.967761447
+RPS26,Brain Cerebellum,ADHD,Wald ratio,1,1.035,2.78E-05,NA,NA,NA,0.967761447
+RPS26,Brain Cortex,ADHD,Wald ratio,1,1.036,2.78E-05,NA,NA,NA,0.967761447
+SUOX,Brain Cortex,ADHD,Wald ratio,1,0.879,2.78E-05,NA,NA,NA,0.967760102
+SUOX,Brain Frontal Cortex,ADHD,Wald ratio,1,0.873,2.78E-05,NA,NA,NA,0.952493787
+RPS26,Brain Frontal Cortex,ADHD,Wald ratio,1,1.037,2.78E-05,NA,NA,NA,0.967761447
+SUOX,Brain Hippocampus,ADHD,Wald ratio,1,0.905,2.78E-05,NA,NA,NA,0.96769404
+RPS26,Brain Hippocampus,ADHD,Wald ratio,1,1.037,2.78E-05,NA,NA,NA,0.967761447
+RPS26,Brain Hypothalamus,ADHD,Wald ratio,1,1.039,2.78E-05,NA,NA,NA,0.967761447
+SUOX,Brain Hypothalamus,ADHD,Wald ratio,1,0.899,2.78E-05,NA,NA,NA,0.965071955
+RPS26,Brain Nucleus,ADHD,Wald ratio,1,1.036,2.78E-05,NA,NA,NA,0.967761447
+SUOX,Brain Nucleus,ADHD,Wald ratio,1,0.899,2.78E-05,NA,NA,NA,0.96776109
+RPS26,Brain Putamen,ADHD,Wald ratio,1,1.032,2.78E-05,NA,NA,NA,0.967761447
+SUOX,Brain Putamen,ADHD,Wald ratio,1,0.868,2.78E-05,NA,NA,NA,0.967754103
+SUOX,Brain Spinal,ADHD,Wald ratio,1,0.918,2.78E-05,NA,NA,NA,0.877025766
+RPS26,Brain Spinal,ADHD,Wald ratio,1,1.033,2.78E-05,NA,NA,NA,0.967761447
+SUOX,Brain Substantia,ADHD,Wald ratio,1,0.901,2.78E-05,NA,NA,NA,0.872042659
+RPS26,Brain Substantia,ADHD,Wald ratio,1,1.038,2.78E-05,NA,NA,NA,0.967761447
+DCHS1,Brain Caudate,ADHD,Wald ratio,1,1.138,2.84E-05,NA,NA,NA,0.97524778
+DCHS1,Brain Hypothalamus,ADHD,Wald ratio,1,1.201,2.84E-05,NA,NA,NA,0.922168603
+DCHS1,Brain Putamen,ADHD,Wald ratio,1,1.104,2.84E-05,NA,NA,NA,0.975350344
+DCHS1,Meta 10 Brain Regions,ADHD,Wald ratio,1,0.927,2.84E-05,NA,NA,NA,0.975218068
+BLOC1S2,Brain Spinal,ADHD,Wald ratio,1,0.9,2.88E-05,NA,NA,NA,0.985176314
+DCHS1,Brain Cortex SMR,ADHD,Inverse variance weighted,2,0.947,2.99E-05,NA,0.439005377,NA,0.011388537
+COL9A1,Brain Cerebellum,ADHD,Wald ratio,1,0.87,3.09E-05,NA,NA,NA,0.882637189
+LINGO1-AS1,Brain Cerebellar Hemisphere,ADHD,Wald ratio,1,0.932,3.21E-05,NA,NA,NA,0.958961204
+PEAK1,Brain Cerebellar Hemisphere,ADHD,Wald ratio,1,0.897,3.21E-05,NA,NA,NA,0.96351991
+PEAK1,Brain Frontal Cortex,ADHD,Wald ratio,1,0.895,3.21E-05,NA,NA,NA,0.963518675
+SNORC,Brain Substantia,ADHD,Wald ratio,1,1.067,3.53E-05,NA,NA,NA,0.960273492
+GNAZ,Brain Amygdala,ADHD,Wald ratio,1,0.856,3.78E-05,NA,NA,NA,0.961988198
+GNAZ,Brain Hippocampus,ADHD,Wald ratio,1,0.873,3.78E-05,NA,NA,NA,0.964760628
+SNORC,Brain Nucleus,ADHD,Wald ratio,1,1.072,4.04E-05,NA,NA,NA,0.955070265
+VIM,Brain Cortex,ADHD,Wald ratio,1,1.214,4.23E-05,NA,NA,NA,0.952188043
+VIM,Brain Nucleus,ADHD,Wald ratio,1,1.165,4.23E-05,NA,NA,NA,0.953055376
+CHRNB1,Brain Cerebellum,ADHD,Wald ratio,1,1.106,4.25E-05,NA,NA,NA,0.953335544
+CHRNB1,Brain Prefrontal Cortex PsychENCODE,ADHD,Wald ratio,1,1.246,4.25E-05,NA,NA,NA,0.95341785
+CALN1,Brain Spinal,ADHD,Wald ratio,1,1.066,4.40E-05,NA,NA,NA,0.905102551
+KC6,Brain Spinal,ADHD,Wald ratio,1,1.081,4.40E-05,NA,NA,NA,0.394215099
+VIM,Brain Cortex SMR,ADHD,Wald ratio,1,1.113,4.60E-05,NA,NA,NA,0.948968258
+C2orf82,Meta 10 Brain Regions,ADHD,Wald ratio,1,0.947,4.62E-05,NA,NA,NA,0.94924282
+TRAF3,Brain Hypothalamus,ADHD,Wald ratio,1,0.9,4.67E-05,NA,NA,NA,0.955089615
+IFT80,Brain Cortex,ADHD,Wald ratio,1,1.237,4.82E-05,NA,NA,NA,0.914045886
+SNORC,Brain Frontal Cortex,ADHD,Wald ratio,1,1.063,5.07E-05,NA,NA,NA,0.944923928
+GIGYF2,Brain Frontal Cortex,ADHD,Wald ratio,1,0.848,5.07E-05,NA,NA,NA,0.939675916
+LSM6,Brain Cerebellum,ADHD,Wald ratio,1,0.897,5.16E-05,NA,NA,NA,0.865890056
+REELD1,Brain Cerebellum,ADHD,Wald ratio,1,0.957,5.16E-05,NA,NA,NA,0.948460891
+CCDC200,Brain Nucleus,ADHD,Wald ratio,1,1.144,5.36E-05,NA,NA,NA,0.545082734
+NBR2,Brain Nucleus,ADHD,Wald ratio,1,1.036,5.36E-05,NA,NA,NA,0.944740449
+LSG1,Brain Substantia,ADHD,Wald ratio,1,0.92,5.72E-05,NA,NA,NA,0.914173615
+KIAA1671,Brain Caudate,ADHD,Wald ratio,1,1.232,5.85E-05,NA,NA,NA,0.832563154
+RP11-6L6.2,Meta 10 Brain Regions,ADHD,Wald ratio,1,1.106,5.85E-05,NA,NA,NA,0.941795253
+PDS5B,Brain Cortex,ADHD,Wald ratio,1,0.78,5.90E-05,NA,NA,NA,0.923398054
+CADM2-AS1,Brain Putamen,ADHD,Wald ratio,1,1.046,6.07E-05,NA,NA,NA,0.937081069
+SLC2A13,Brain Cortex SMR,ADHD,Wald ratio,1,0.8,6.14E-05,NA,NA,NA,0.951963966
+ERBB3,Brain Cortex SMR,ADHD,Wald ratio,1,1.139,6.34E-05,NA,NA,NA,0.933418527
+RAB5B,Brain Cortex SMR,ADHD,Wald ratio,1,1.26,6.34E-05,NA,NA,NA,0.932819749
+SUOX,Brain Cortex SMR,ADHD,Wald ratio,1,1.096,6.34E-05,NA,NA,NA,0.933418527
+RPS26,Brain Cortex SMR,ADHD,Wald ratio,1,0.967,6.34E-05,NA,NA,NA,0.933418527
+FAM110C,Brain Cerebellum,ADHD,Wald ratio,1,1.108,7.14E-05,NA,NA,NA,0.041563077
+CADM2-AS1,Brain Cerebellum,ADHD,Wald ratio,1,0.948,7.20E-05,NA,NA,NA,0.926952089
+CADM2-AS1,Brain Hippocampus,ADHD,Wald ratio,1,0.949,7.20E-05,NA,NA,NA,0.926951978
+SNORC,Brain Cortex,ADHD,Wald ratio,1,1.067,7.21E-05,NA,NA,NA,0.925465586
+LRRC27,Brain Caudate,ADHD,Wald ratio,1,1.148,7.54E-05,NA,NA,NA,0.922337932
+FURIN,Brain Frontal Cortex,ADHD,Wald ratio,1,1.18,7.57E-05,NA,NA,NA,0.554541055
+SNORC,Brain Caudate,ADHD,Wald ratio,1,1.051,7.91E-05,NA,NA,NA,0.918473507
+PRKN,Brain Cerebellum,ADHD,Wald ratio,1,0.837,7.99E-05,NA,NA,NA,0.424331884
+NAMA,Brain Cortex SMR,ADHD,Wald ratio,1,1.256,8.21E-05,NA,NA,NA,0.917163323
+TMEM161B-DT,Brain Spinal,ADHD,Inverse variance weighted,2,1.056,8.33E-05,NA,0.552216678,NA,0.875181407
+CD40,Brain Amygdala,ADHD,Wald ratio,1,1.111,8.59E-05,NA,NA,NA,0.61713795
+SLC17A6,Brain Frontal Cortex,ADHD,Wald ratio,1,0.838,8.80E-05,NA,NA,NA,0.659392341
+VAT1,Brain Cerebellum,ADHD,Wald ratio,1,1.126,8.86E-05,NA,NA,NA,0.914014711
+ARL4D,Brain Cerebellum,ADHD,Wald ratio,1,1.091,8.86E-05,NA,NA,NA,0.914025794
+DHX8,Brain Cerebellum,ADHD,Wald ratio,1,1.149,8.86E-05,NA,NA,NA,0.907148807
+CAVIN1,Brain Cerebellum,ADHD,Wald ratio,1,1.155,8.86E-05,NA,NA,NA,0.169223807
+NBR2,Brain Cerebellum,ADHD,Wald ratio,1,1.034,8.86E-05,NA,NA,NA,0.914026028
+RND2,Brain Cerebellum,ADHD,Wald ratio,1,0.891,8.86E-05,NA,NA,NA,0.91366919
+LINC00910,Brain Cerebellum,ADHD,Wald ratio,1,1.075,8.86E-05,NA,NA,NA,0.911404354
+COASY,Brain Cerebellum,ADHD,Wald ratio,1,1.206,8.86E-05,NA,NA,NA,0.350851518
+CCDC200,Brain Cerebellum,ADHD,Wald ratio,1,1.077,8.86E-05,NA,NA,NA,0.535231996
+NBR1,Brain Cerebellum,ADHD,Wald ratio,1,1.093,8.86E-05,NA,NA,NA,0.914026028
+NBR2,Brain Caudate,ADHD,Wald ratio,1,1.033,9.21E-05,NA,NA,NA,0.9111099
+NBR2,Brain Cortex,ADHD,Wald ratio,1,1.037,9.21E-05,NA,NA,NA,0.9111099
+NBR2,Brain Spinal,ADHD,Wald ratio,1,1.032,9.21E-05,NA,NA,NA,0.9111099
+NBR1,Brain Spinal,ADHD,Wald ratio,1,1.178,9.21E-05,NA,NA,NA,0.541789725
+ABHD5,Brain Hippocampus,ADHD,Wald ratio,1,1.161,9.34E-05,NA,NA,NA,0.627784637
+NBR2,Brain Amygdala,ADHD,Wald ratio,1,1.031,9.62E-05,NA,NA,NA,0.907774206
+NBR2,Brain Anterior cingulate cortex BA24,ADHD,Wald ratio,1,0.965,9.62E-05,NA,NA,NA,0.907774206
+COG6,Brain Cerebellar Hemisphere,ADHD,Wald ratio,1,1.223,9.62E-05,NA,NA,NA,0.612603162
+RND2,Brain Cerebellar Hemisphere,ADHD,Wald ratio,1,1.155,9.62E-05,NA,NA,NA,0.461621855
+ARL4D,Brain Cerebellar Hemisphere,ADHD,Wald ratio,1,0.92,9.62E-05,NA,NA,NA,0.907772967
+NBR1,Brain Cerebellar Hemisphere,ADHD,Wald ratio,1,0.9,9.62E-05,NA,NA,NA,0.907774206
+VAT1,Brain Cerebellar Hemisphere,ADHD,Wald ratio,1,0.881,9.62E-05,NA,NA,NA,0.893117938
+DHX8,Brain Cerebellar Hemisphere,ADHD,Wald ratio,1,0.846,9.62E-05,NA,NA,NA,0.650331301
+NBR2,Brain Cerebellar Hemisphere,ADHD,Wald ratio,1,0.971,9.62E-05,NA,NA,NA,0.907774206
+CCDC200,Brain Cerebellar Hemisphere,ADHD,Wald ratio,1,0.915,9.62E-05,NA,NA,NA,0.115200972
+AOC3,Brain Cerebellar Hemisphere,ADHD,Wald ratio,1,0.903,9.62E-05,NA,NA,NA,0.462384133
+NBR2,Brain Putamen,ADHD,Wald ratio,1,1.032,9.62E-05,NA,NA,NA,0.907774206
+NBR2,Brain Frontal Cortex,ADHD,Wald ratio,1,1.032,1.00E-04,NA,NA,NA,0.904336215
+GATD1-DT,Brain Amygdala,ADHD,Wald ratio,1,0.927,1.01E-04,NA,NA,NA,0.901863991
+GATD1-DT,Brain Anterior cingulate cortex BA24,ADHD,Wald ratio,1,0.926,1.01E-04,NA,NA,NA,0.901343212
+GATD1-DT,Brain Caudate,ADHD,Wald ratio,1,0.956,1.01E-04,NA,NA,NA,0.901865976
+PNPLA2,Brain Cerebellar Hemisphere,ADHD,Wald ratio,1,1.184,1.01E-04,NA,NA,NA,0.602081502
+GATD1-DT,Brain Cerebellar Hemisphere,ADHD,Wald ratio,1,0.959,1.01E-04,NA,NA,NA,0.901865976
+PIDD1,Brain Cerebellar Hemisphere,ADHD,Wald ratio,1,0.938,1.01E-04,NA,NA,NA,0.901865976
+GATD1-DT,Brain Cerebellum,ADHD,Wald ratio,1,0.962,1.01E-04,NA,NA,NA,0.901865976
+PIDD1,Brain Cerebellum,ADHD,Wald ratio,1,0.947,1.01E-04,NA,NA,NA,0.901865976
+AP006621.5,Brain Cortex SMR,ADHD,Wald ratio,1,1.034,1.01E-04,NA,NA,NA,0.901865985
+GATD1,Brain Cortex SMR,ADHD,Wald ratio,1,1.109,1.01E-04,NA,NA,NA,0.901865985
+AP006621.2,Brain Cortex SMR,ADHD,Wald ratio,1,1.084,1.01E-04,NA,NA,NA,0.901865985
+PNPLA2,Brain Cortex SMR,ADHD,Wald ratio,1,0.918,1.01E-04,NA,NA,NA,0.901865985
+AP006621.3,Brain Cortex SMR,ADHD,Wald ratio,1,1.037,1.01E-04,NA,NA,NA,0.901865985
+PIDD1,Brain Cortex SMR,ADHD,Wald ratio,1,1.121,1.01E-04,NA,NA,NA,0.901865985
+PIDD1,Brain Cortex,ADHD,Wald ratio,1,0.803,1.01E-04,NA,NA,NA,0.664877479
+PNPLA2,Brain Cortex,ADHD,Wald ratio,1,1.139,1.01E-04,NA,NA,NA,0.90131
+GATD1-DT,Brain Cortex,ADHD,Wald ratio,1,0.954,1.01E-04,NA,NA,NA,0.901865976
+GATD1-DT,Brain Frontal Cortex,ADHD,Wald ratio,1,0.947,1.01E-04,NA,NA,NA,0.901865976
+PNPLA2,Brain Frontal Cortex,ADHD,Wald ratio,1,1.079,1.01E-04,NA,NA,NA,0.901865938
+PIDD1,Brain Frontal Cortex,ADHD,Wald ratio,1,0.846,1.01E-04,NA,NA,NA,0.87818974
+GATD1-DT,Brain Hippocampus,ADHD,Wald ratio,1,0.95,1.01E-04,NA,NA,NA,0.901865976
+GATD1-DT,Brain Hypothalamus,ADHD,Wald ratio,1,0.939,1.01E-04,NA,NA,NA,0.901865976
+GATD1-DT,Brain Nucleus,ADHD,Wald ratio,1,0.951,1.01E-04,NA,NA,NA,0.901865976
+GATD1-DT,Brain Putamen,ADHD,Wald ratio,1,0.952,1.01E-04,NA,NA,NA,0.901865976
+GATD1-DT,Brain Spinal,ADHD,Wald ratio,1,0.948,1.01E-04,NA,NA,NA,0.901865975
+GATD1-DT,Brain Substantia,ADHD,Wald ratio,1,0.934,1.01E-04,NA,NA,NA,0.901832011
+PIDD,Meta 10 Brain Regions,ADHD,Wald ratio,1,1.088,1.01E-04,NA,NA,NA,0.901582289
+AP006621.5,Meta 10 Brain Regions,ADHD,Wald ratio,1,1.05,1.01E-04,NA,NA,NA,0.901865985
+AP006621.1,Meta 10 Brain Regions,ADHD,Wald ratio,1,1.04,1.01E-04,NA,NA,NA,0.901865985
+PNPLA2,Meta 10 Brain Regions,ADHD,Wald ratio,1,0.926,1.01E-04,NA,NA,NA,0.870761256
+AP006621.6,Meta 10 Brain Regions,ADHD,Wald ratio,1,1.092,1.01E-04,NA,NA,NA,0.901826567
+CCDC171,Brain Cortex SMR,ADHD,Inverse variance weighted,2,0.955,1.03E-04,NA,0.931387382,NA,0.022956014
+ARHGEF7,Brain Hippocampus,ADHD,Wald ratio,1,1.104,1.03E-04,NA,NA,NA,0.903641631
+ARHGEF7,Brain Nucleus,ADHD,Wald ratio,1,1.18,1.03E-04,NA,NA,NA,0.903652298
+ARHGEF7,Brain Putamen,ADHD,Wald ratio,1,1.121,1.03E-04,NA,NA,NA,0.903652302
